@@ -1,6 +1,7 @@
 # awesome-linuxaudio
 
 A list of software and resources for professional audio/video/live events production on Linux.
+Patches welcome.
 
 ## Debian Packages
 
