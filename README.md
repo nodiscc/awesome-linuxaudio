@@ -42,7 +42,6 @@ A list of software and resources for professional audio/video/live events produc
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
 auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
-LV2 plugins bundle ([Homepage](http://eq10q.sourceforge.net))
 
 
 
@@ -127,7 +126,7 @@ LV2 plugins bundle ([Homepage](http://eq10q.sourceforge.net))
 
 
 ## DAW/Sequencer
- * [ardour3](http://packages.debian.org/wheezy/ardour3) - Station de travail audionumérique (interface graphique gtk2) ([Homepage](http://www.ardour.org/))
+ * **[ardour3](http://packages.debian.org/wheezy/ardour3) - Station de travail audionumérique (interface graphique gtk2) ([Homepage](http://www.ardour.org/))**
  * [dino](http://packages.debian.org/wheezy/dino) - moteur avec séquenceur et éditeur de rouleau de piano MIDI intégrés ([Homepage](http://dino.nongnu.org/))
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - Séquenceur Audio/MIDI multi-pistes ([Homepage](http://qtractor.sourceforge.net/))
