@@ -42,7 +42,7 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [midimsg-lv2](http://packages.debian.org/wheezy/midimsg-lv2) - set of plugins to transform midi output
  * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based oscillator plugins for LADSPA hosts
  * [blop-lv2](http://packages.debian.org/wheezy/blop-lv2) - collection of LV2 CV plugins
- * [drc](http://packages.debian.org/wheezy/drc) - digital room correction ([Site Officiel](http://drc-fir.sourceforge.net/))
+ * [drc](http://packages.debian.org/wheezy/drc) - digital room correction ([Homepage](http://drc-fir.sourceforge.net/))
 
 
 
@@ -108,15 +108,15 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
 
 ### Network streaming
- * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Site Officiel](http://code.google.com/p/darkice/))
- * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Site Officiel](http://darksnow.radiolivre.org/))
- * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Site Officiel](http://www.icecast.org/ezstream.php))
- * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Site Officiel](http://www.videolan.org/vlc/))
- * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Site Officiel](http://www.videolan.org/vlc/))
- * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Site Officiel](http://idjc.sourceforge.net/))
- * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Site Officiel](http://landell.holoscopio.com))
- * [oggfwd](http://packages.debian.org/wheezy/oggfwd) - basic icecast source client for audio and video streaming ([Site Officiel](http://v2v.cc/~j/oggfwd/))
- * [icecast2](http://packages.debian.org/wheezy/icecast2) - streaming media server ([Site Officiel](http://www.icecast.org/))
+ * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
+ * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
+ * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Homepage](http://www.icecast.org/ezstream.php))
+ * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
+ * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
+ * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Homepage](http://idjc.sourceforge.net/))
+ * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
+ * [oggfwd](http://packages.debian.org/wheezy/oggfwd) - basic icecast source client for audio and video streaming ([Homepage](http://v2v.cc/~j/oggfwd/))
+ * [icecast2](http://packages.debian.org/wheezy/icecast2) - streaming media server ([Homepage](http://www.icecast.org/))
 
 
 
@@ -143,7 +143,7 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
 
 ## Video
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
- * [dvswitch](http://packages.debian.org/wheezy/dvswitch) - basic video mixer for live DV streams ([Site Officiel](http://dvswitch.alioth.debian.org/))
+ * [dvswitch](http://packages.debian.org/wheezy/dvswitch) - basic video mixer for live DV streams ([Homepage](http://dvswitch.alioth.debian.org/))
 
 
 
@@ -172,9 +172,9 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
 
 ### Signal processign and electronics
  * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
- * [lcd4linux](http://packages.debian.org/wheezy/lcd4linux) - Grabs information and displays it on an external lcd ([Site Officiel](http://ssl.bulix.org/projects/lcd4linux/))
- * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Site Officiel](http://www.lcdproc.org/))
- * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Site Officiel](http://lirc.org))
+ * [lcd4linux](http://packages.debian.org/wheezy/lcd4linux) - Grabs information and displays it on an external lcd ([Homepage](http://ssl.bulix.org/projects/lcd4linux/))
+ * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Homepage](http://www.lcdproc.org/))
+ * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
 
 
 ### Unsorted
