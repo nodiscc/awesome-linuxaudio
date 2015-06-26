@@ -126,10 +126,13 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
 
 
 ## DAW/Sequencer
- * **[ardour3](http://packages.debian.org/wheezy/ardour3) - Station de travail audionumérique (interface graphique gtk2) ([Homepage](http://www.ardour.org/))**
- * [dino](http://packages.debian.org/wheezy/dino) - moteur avec séquenceur et éditeur de rouleau de piano MIDI intégrés ([Homepage](http://dino.nongnu.org/))
- * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
- * [qtractor](http://packages.debian.org/wheezy/qtractor) - Séquenceur Audio/MIDI multi-pistes ([Homepage](http://qtractor.sourceforge.net/))
+ * **[ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Site Officiel](http://www.ardour.org/))**
+ * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Site Officiel](http://dino.nongnu.org/))
+ * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer
+Qt4-based audio/MIDI sequencer ([Site Officiel](http://www.muse-sequencer.org/))
+ * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Site Officiel](http://qtractor.sourceforge.net/))
+ * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Site Officiel](http://www.rosegardenmusic.com/))
+
 
 
 ## Sampler
@@ -202,7 +205,6 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [qsynth](http://packages.debian.org/wheezy/qsynth) - Interface graphique pour le synthétiseur MIDI fluidsynth ([Homepage](http://qsynth.sourceforge.net))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - Séquenceur Audio/MIDI multi-pistes ([Homepage](http://qtractor.sourceforge.net/))
  * [rezound](http://packages.debian.org/wheezy/rezound) - 
- * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
  * [schism](http://packages.debian.org/wheezy/schism) - Clone de ImpulseTracker (même interface, même comportement) ([Homepage](http://schismtracker.org/))
  * [seq24](http://packages.debian.org/wheezy/seq24) - Séquenceur MIDI temps réel ([Homepage](http://www.filter24.org/seq24/))
  * [sonic-visualiser](http://packages.debian.org/wheezy/sonic-visualiser) - View and analyse the contents of music audio files.
