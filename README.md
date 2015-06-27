@@ -259,7 +259,7 @@ viewing and analysing the contents of music audio files ([Homepage](http://www.s
  * provide configuration scripts for debian systems
  * centralize resources (samples, presets...) somewhere if license allows it
  * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
-
+ * add links from http://linux-sound.org/
 
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE).
