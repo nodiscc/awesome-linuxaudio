@@ -4,6 +4,7 @@
 #Links are formatted like package_name_and_page_link - package_description - package_homepage
 #License: MIT (http://opensource.org/licenses/MIT)
 #Copyright: (c) 2013 nodiscc <nodiscc@gmail.com>
+LANG=C
 
 #Init variables
 MARKDOWN=""
