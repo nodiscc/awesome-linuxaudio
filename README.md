@@ -1,7 +1,7 @@
 # awesome-linuxaudio
 
-A list of software and resources for professional audio/video/live events production on Linux.
-Patches welcome.
+A list of software and resources for professional audio/video/live events production on Linux.  
+See [TODO](#TODO) and [CONTRIBUTING](CONTRIBUTING.md).
 
        Unpackaged
        Non-free/closed source
@@ -74,15 +74,24 @@ Patches welcome.
  * [terminatorx](http://packages.debian.org/wheezy/terminatorx) - realtime audio synthesizer ([Homepage](http://www.terminatorx.org/)
  * [vco-plugins](http://packages.debian.org/wheezy/vco-plugins) - LADSPA plugin sporting anti-aliased oscillators ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [vocproc](http://packages.debian.org/wheezy/vocproc) - LV2 plugin for pitch shifting and vocoding ([Homepage](http://hyperglitch.com/dev/VocProc))
- * [vocproc](http://packages.debian.org/wheezy/vocproc) - LV2 plugin for pitch shifting and vocoding ([Homepage](http://hyperglitch.com/dev/VocProc))
  * [wah-plugins](http://packages.debian.org/wheezy/wah-plugins) - auto-wah LADSPA plugin
  * [x42-plugins](http://packages.debian.org/wheezy/x42-plugins) - Collection of LV2 plugins ([Homepage](https://github.com/x42/x42-plugins))
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
 auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
- 
+ * [distrho-plugin-ports](http://packages.debian.org/wheezy/distrho-plugin-ports) - DISTHRO Plugin Ports
+DISTHRO Plugin Ports
+ * [distrho-plugin-ports-lv2](http://packages.debian.org/wheezy/distrho-plugin-ports-lv2) - DISTHRO Plugin Ports (LV2)
+DISTHRO Plugin Ports (LV2)
+ * [distrho-plugin-ports-vst](http://packages.debian.org/wheezy/distrho-plugin-ports-vst) - DISTHRO Plugin Ports (VST)
+DISTHRO Plugin Ports (VST)
+ * [foo-plugins](http://packages.debian.org/wheezy/foo-plugins) - Foo LADSPA plugins
+ * [radium-compressor](http://packages.debian.org/wheezy/radium-compressor) - radium's compressor plugin
+audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_compressor))
+* [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer ` `
+* [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` `
 
- 
+
 
 
 
@@ -148,6 +157,8 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Homepage](http://www.lcdproc.org/))
  * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
  * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
+ * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
+ * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
 
 
 ## Audio utilities
@@ -158,12 +169,14 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
  * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
  * [qmidiarp](http://packages.debian.org/wheezy/qmidiarp) - arpégiateur MIDI pour ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
+ * [arpage](http://packages.debian.org/wheezy/arpage) - MIDI Arpeggiator w/ JACK Tempo Sync.
  * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
  * [siggen](http://packages.debian.org/wheezy/siggen) - Waveform generation tools ([Homepage](http://www.comp.leeds.ac.uk/jj/linux/siggen.html))
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
  * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
  * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
  * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
+ * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ` `
 
 
 ## Converters/streaming/transport
@@ -195,6 +208,7 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
+ * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
 
 
 
@@ -220,7 +234,6 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [amarok](http://packages.debian.org/wheezy/amarok) - easy to use media player based on the KDE Platform ([Homepage](http://amarok.kde.org))
  * [ario](http://packages.debian.org/wheezy/ario) - GTK+ client for the Music Player Daemon (MPD) ([Homepage](http://ario-player.sourceforge.net/))
  * [audacious](http://packages.debian.org/wheezy/audacious) - small and fast audio player which supports lots of formats ([Homepage](http://www.audacious-media-player.org/))
- * [banshee](http://packages.debian.org/wheezy/banshee) - Media Management and Playback application ([Homepage](http://www.banshee.fm))
  * [banshee](http://packages.debian.org/wheezy/banshee) - Media Management and Playback application ([Homepage](http://www.banshee.fm))
  * [cantata](http://packages.debian.org/wheezy/cantata) - KDE client for the music player daemon (MPD) ([Homepage](https://code.google.com/p/cantata/))
  * [clementine](http://packages.debian.org/wheezy/clementine) - modern music player and library organizer ([Homepage](http://www.clementine-player.org/))
@@ -307,6 +320,9 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * [timemachine](http://packages.debian.org/wheezy/timemachine) - enregistreur audio JACK pour une utilisation spontanée et de conservation ([Homepage](http://plugin.org.uk/timemachine/))
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
  * [yoshimi](http://packages.debian.org/wheezy/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
+ * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
+ * **http://www.kvraudio.com/?t[]=linux**
+ * http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
 
 
 ------------------------------
@@ -339,6 +355,7 @@ auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/
  * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
  * add links from http://linux-sound.org/
  * Package all unpackaged software `` for Debian
+ * Find dead links, link kxstudio packages to kxstudio package pages
 
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE).
