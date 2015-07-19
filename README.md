@@ -10,25 +10,25 @@ See [TODO](#TODO) and [CONTRIBUTING](CONTRIBUTING.md).
 -------------------------
 <!-- MarkdownTOC depth=2 -->
 
-- [Effects](#effects)
-- [Instruments](#instruments)
-- [Lighting](#lighting)
-- [System utilities](#system-utilities)
-- [Signal processing/electronics](#signal-processingelectronics)
-- [Audio utilities](#audio-utilities)
-- [Converters/streaming/transport](#convertersstreamingtransport)
-- [DAW/Sequencers](#dawsequencers)
-- [Editors](#editors)
-- [Samplers](#samplers)
-- [Video](#video)
-- [Media players](#media-players)
-- [Metapackages](#metapackages)
-- [Samples/Resources](#samplesresources)
-- [Linux Distributions](#linux-distributions)
-- [Unsorted](#unsorted)
-- [Links](#links)
-- [TODO](#todo)
-- [LICENSE](#license)
+- Effects
+- Instruments
+- Lighting
+- System utilities
+- Signal processing/electronics
+- Audio utilities
+- Converters/streaming/transport
+- DAW/Sequencers
+- Editors
+- Samplers
+- Video
+- Media players
+- Metapackages
+- Samples/Resources
+- Linux Distributions
+- Unsorted
+- Links
+- TODO
+- LICENSE
 
 <!-- /MarkdownTOC -->
 
@@ -95,6 +95,7 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [autotalent](http://packages.debian.org/wheezy/autotalent) - pitch correction LADSPA plugin ([Homepage](http://tombaran.info/autotalent.html))
  * [lv2fil](http://packages.debian.org/wheezy/lv2fil) - Stereo and mono LV2 plugins, four-band parametric equalisers
  * [playitslowly](http://packages.debian.org/wheezy/playitslowly) - Plays back audio files at a different speed or pitch ([Homepage](http://29a.ch/playitslowly))
+ * [artyfx](http://packages.debian.org/wheezy/artyfx) - Arty FX plugin suite
 
 
 
@@ -258,6 +259,8 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
  * [devede](http://packages.debian.org/wheezy/devede) - simple application to create Video DVDs ([Homepage](http://www.rastersoft.com/programas/devede.html))
  * [synaesthesia](http://packages.debian.org/wheezy/synaesthesia) - Program for representing sounds visually
+ * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras. 
+ * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
 
 
 ## Media players
