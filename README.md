@@ -37,25 +37,36 @@ See [TODO](#TODO) and [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Effects
  * [abgate](http://packages.debian.org/wheezy/abgate) - LV2 noise gate plugin ([Homepage](http://abgate.sourceforge.net))
+ * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` `
  * [amb-plugins](http://packages.debian.org/wheezy/amb-plugins) - greffons LADPSA ambisonics ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [arctican-plugins](http://packages.debian.org/wheezy/arctican-plugins) - Arctican Plugins
+ * [artyfx](http://packages.debian.org/wheezy/artyfx) - Arty FX plugin suite
+ * [autotalent](http://packages.debian.org/wheezy/autotalent) - pitch correction LADSPA plugin ([Homepage](http://tombaran.info/autotalent.html))
  * [avw.lv2](http://packages.debian.org/wheezy/avw.lv2) - collection of Voltage Controlled LV2 modules ([Homepage](https://sourceforge.net/projects/avwlv2/))
  * [beatslash-lv2](http://packages.debian.org/wheezy/beatslash-lv2) - A set of LV2 plugins to slash, repeat beats.
  * [blop-lv2](http://packages.debian.org/wheezy/blop-lv2) - collection of LV2 CV plugins
  * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based oscillator plugins for LADSPA hosts
  * [calf-plugins](http://packages.debian.org/wheezy/calf-plugins) - Calf Studiogear - audio effects and sound generators ([Homepage](http://calf.sourceforge.net/))
+ * [caps](http://packages.debian.org/wheezy/caps) - C* Audio Plugin Suite ([Homepage](http://quitte.de/dsp/caps.html))
  * [cmt](http://packages.debian.org/wheezy/cmt) - a collection of LADSPA plugins ([Homepage](http://www.ladspa.org/cmt/))
  * [deteriorate-lv2](http://packages.debian.org/wheezy/deteriorate-lv2) - set of LV2 plugins to deteriorate sound quality
+ * [distrho-plugin-ports-lv2](http://packages.debian.org/wheezy/distrho-plugin-ports-lv2) - DISTHRO Plugin Ports (LV2)
+ * [distrho-plugin-ports-vst](http://packages.debian.org/wheezy/distrho-plugin-ports-vst) - DISTHRO Plugin Ports (VST)
+ * [distrho-plugin-ports](http://packages.debian.org/wheezy/distrho-plugin-ports) - DISTHRO Plugin Ports
  * [drc](http://packages.debian.org/wheezy/drc) - digital room correction ([Homepage](http://drc-fir.sourceforge.net/))
  * [eq10q](http://packages.debian.org/wheezy/eq10q) - LV2 equalizer
  * [fil-plugins](http://packages.debian.org/wheezy/fil-plugins) - parametric equalizer LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [fomp](http://packages.debian.org/wheezy/fomp) - collection of LV2 audio plugins ([Homepage](http://drobilla.net/software/fomp/))
+ * [foo-plugins](http://packages.debian.org/wheezy/foo-plugins) - Foo LADSPA plugins
+ * [freqtweak](http://packages.debian.org/wheezy/freqtweak) - Realtime audio frequency spectral manipulation ([Homepage](http://freqtweak.sourceforge.net/))
  * [g2reverb](http://packages.debian.org/wheezy/g2reverb) - reverb LADSPA plugin
+ * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer ` `
  * [guitarix](http://packages.debian.org/wheezy/guitarix) - Rock guitar amplifier for Jack ([Homepage](http://guitarix.sourceforge.net/))
  * [invada-studio-plugins-ladspa](http://packages.debian.org/wheezy/invada-studio-plugins-ladspa) - Invada Studio Plugins - a set of LADSPA audio plugins ([Homepage](https://launchpad.net/invada-studio/+download))
  * [invada-studio-plugins-lv2](http://packages.debian.org/wheezy/invada-studio-plugins-lv2) - Invada Studio Plugins - a set of LV2 audio plugins ([Homepage](https://launchpad.net/invada-studio/+download))
  * [ir.lv2](http://packages.debian.org/wheezy/ir.lv2) - LV2 IR reverb ([Homepage](http://factorial.hu/plugins/lv2/ir))
  * [jalv](http://packages.debian.org/wheezy/jalv) - tool to run LV2 plugins as stand-alone applications ([Homepage](http://drobilla.net/software/jalv/))
+ * [lv2fil](http://packages.debian.org/wheezy/lv2fil) - Stereo and mono LV2 plugins, four-band parametric equalisers
  * [lv2vocoder](http://packages.debian.org/wheezy/lv2vocoder) - LV2 vocoder plugin ([Homepage](https://gna.org/projects/lv2vocoder))
  * [mcp-plugins](http://packages.debian.org/wheezy/mcp-plugins) - LADSPA plugins designed for Alsa Modular Synth ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [mda-lv2](http://packages.debian.org/wheezy/mda-lv2) - Paul Kellett's MDA plugins ported to LV2 ([Homepage](http://drobilla.net/software/mda-lv2/))
@@ -64,6 +75,8 @@ See [TODO](#TODO) and [CONTRIBUTING](CONTRIBUTING.md).
  * [omins](http://packages.debian.org/wheezy/omins) - collection of LADSPA plugins aimed at modular synthesizers ([Homepage](http://www.nongnu.org/om-synth/omins.html))
  * [paulstretch](http://packages.debian.org/wheezy/paulstretch) - Extreme sound time-stretch ([Homepage](http://hypermammut.sourceforge.net/paulstretch/)* [sonic](http://packages.debian.org/wheezy/sonic) - Simple utility to speed up or slow down speech ([Homepage](http://dev.vinux-project.org/sonic))
  * [phasex](http://packages.debian.org/wheezy/phasex) - Phase Harmonic Advanced Synthesis EXperiment ([Homepage](http://github.com/williamweston/phasex))
+ * [playitslowly](http://packages.debian.org/wheezy/playitslowly) - Plays back audio files at a different speed or pitch ([Homepage](http://29a.ch/playitslowly))
+ * [radium-compressor](http://packages.debian.org/wheezy/radium-compressor) - radium's compressor plugin
  * [rakarrack](http://packages.debian.org/wheezy/rakarrack) - Simple and easy guitar effects processor for GNU/Linux ([Homepage](http://rakarrack.sourceforge.net))
  * [rev-plugins](http://packages.debian.org/wheezy/rev-plugins) - reverb LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [rubberband-ladspa](http://packages.debian.org/wheezy/rubberband-ladspa) - LADSPA plugin for audio pitch-shifting ([Homepage](http://www.breakfastquay.com/rubberband/))
@@ -78,24 +91,11 @@ See [TODO](#TODO) and [CONTRIBUTING](CONTRIBUTING.md).
  * [x42-plugins](http://packages.debian.org/wheezy/x42-plugins) - Collection of LV2 plugins ([Homepage](https://github.com/x42/x42-plugins))
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
-auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
- * [distrho-plugin-ports](http://packages.debian.org/wheezy/distrho-plugin-ports) - DISTHRO Plugin Ports
-DISTHRO Plugin Ports
- * [distrho-plugin-ports-lv2](http://packages.debian.org/wheezy/distrho-plugin-ports-lv2) - DISTHRO Plugin Ports (LV2)
-DISTHRO Plugin Ports (LV2)
- * [distrho-plugin-ports-vst](http://packages.debian.org/wheezy/distrho-plugin-ports-vst) - DISTHRO Plugin Ports (VST)
-DISTHRO Plugin Ports (VST)
- * [foo-plugins](http://packages.debian.org/wheezy/foo-plugins) - Foo LADSPA plugins
- * [radium-compressor](http://packages.debian.org/wheezy/radium-compressor) - radium's compressor plugin
 audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_compressor))
- * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer ` `
- * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` `
- * [freqtweak](http://packages.debian.org/wheezy/freqtweak) - Realtime audio frequency spectral manipulation ([Homepage](http://freqtweak.sourceforge.net/))
- * [caps](http://packages.debian.org/wheezy/caps) - C* Audio Plugin Suite ([Homepage](http://quitte.de/dsp/caps.html))
- * [autotalent](http://packages.debian.org/wheezy/autotalent) - pitch correction LADSPA plugin ([Homepage](http://tombaran.info/autotalent.html))
- * [lv2fil](http://packages.debian.org/wheezy/lv2fil) - Stereo and mono LV2 plugins, four-band parametric equalisers
- * [playitslowly](http://packages.debian.org/wheezy/playitslowly) - Plays back audio files at a different speed or pitch ([Homepage](http://29a.ch/playitslowly))
- * [artyfx](http://packages.debian.org/wheezy/artyfx) - Arty FX plugin suite
+auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
+DISTHRO Plugin Ports
+DISTHRO Plugin Ports (LV2)
+DISTHRO Plugin Ports (VST)
 
 
 
@@ -111,12 +111,16 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [aeolus](http://packages.debian.org/wheezy/aeolus) - synthétiseur émulant un orgue ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/))
  * [ams](http://packages.debian.org/wheezy/ams) - synthétiseur modulaire en temps réel pour ALSA ([Homepage](http://alsamodular.sourceforge.net/))
  * [amsynth](http://packages.debian.org/wheezy/amsynth) - synthétiseur logiciel à deux oscillateurs ([Homepage](http://code.google.com/p/amsynth/))
- * [bristol](http://packages.debian.org/wheezy/bristol) - vintage synthesizer emulator ([Homepage](http://bristol.sourceforge.net/))
  * [azr3-jack](http://packages.debian.org/wheezy/azr3-jack) - drawbar organ simulator ([Homepage](http://ll-plugins.nongnu.org/azr3/))
+ * [bristol](http://packages.debian.org/wheezy/bristol) - vintage synthesizer emulator ([Homepage](http://bristol.sourceforge.net/))
+ * [composite](http://packages.debian.org/wheezy/composite) - Live performance sequencer ([Homepage](http://gabe.is-a-geek.org/composite/))
  * [din](http://packages.debian.org/wheezy/din) - digital audio synthesizer ([Homepage](http://dinisnoise.org/))
  * [drumgizmo](http://packages.debian.org/wheezy/drumgizmo) - drum plugin comparable to commercial products
  * [drumkv1](http://packages.debian.org/wheezy/drumkv1) - old-school drum-kit sampler ([Homepage](http://drumkv1.sourceforge.net/))
+ * [freebirth-data](http://packages.debian.org/wheezy/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([Homepage](http://freebirth.sourceforge.net/))
+ * [freebirth](http://packages.debian.org/wheezy/freebirth) - Bass synthesizer/sample player/sequencer ([Homepage](http://freebirth.sourceforge.net/))
  * [gmorgan](http://packages.debian.org/wheezy/gmorgan) - MIDI rhythm station emulator software ([Homepage](http://gmorgan.sourceforge.net/))
+ * [hexter](http://packages.debian.org/wheezy/hexter) - Yamaha DX7 modeling DSSI plugin ([Homepage](http://dssi.sourceforge.net/))
  * [horgand](http://packages.debian.org/wheezy/horgand) - JACK capable organ softsynth ([Homepage](http://horgand.berlios.de/))
  * [samplv1](http://packages.debian.org/wheezy/samplv1) - polyphonic sampler synthesizer ([Homepage](http://samplv1.sourceforge.net/))
  * [setbfree](http://packages.debian.org/wheezy/setbfree) - DSP tonewheel organ ([Homepage](https://setbfree.org))
@@ -125,10 +129,6 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [whysynth](http://packages.debian.org/wheezy/whysynth) - DSSI Soft Synth Interface ([Homepage](http://www.smbolton.com/whysynth.html))
  * [xwax](http://packages.debian.org/wheezy/xwax) - open-source vinyl emulation software for Linux ([Homepage](http://www.xwax.co.uk/))
  * [zynaddsubfx](http://packages.debian.org/wheezy/zynaddsubfx) - synthétiseur logiciel en temps réel pour Linux ([Homepage](http://zynaddsubfx.sourceforge.net))
- * [freebirth](http://packages.debian.org/wheezy/freebirth) - Bass synthesizer/sample player/sequencer ([Homepage](http://freebirth.sourceforge.net/))
- * [freebirth-data](http://packages.debian.org/wheezy/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([Homepage](http://freebirth.sourceforge.net/))
- * [composite](http://packages.debian.org/wheezy/composite) - Live performance sequencer ([Homepage](http://gabe.is-a-geek.org/composite/))
- * [hexter](http://packages.debian.org/wheezy/hexter) - Yamaha DX7 modeling DSSI plugin ([Homepage](http://dssi.sourceforge.net/))
 
 
 
@@ -168,36 +168,36 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
 
 ## Signal processing/electronics
+ * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
  * [lcd4linux](http://packages.debian.org/wheezy/lcd4linux) - Grabs information and displays it on an external lcd ([Homepage](http://ssl.bulix.org/projects/lcd4linux/))
  * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Homepage](http://www.lcdproc.org/))
  * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
  * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
- * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
  * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
 
 
 ## Audio utilities
+ * [arpage](http://packages.debian.org/wheezy/arpage) - MIDI Arpeggiator w/ JACK Tempo Sync.
+ * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
+ * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
+ * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
+ * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
  * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
+ * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
  * [jaaa](http://packages.debian.org/wheezy/jaaa) - audio signal generator and spectrum analyser ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa))
  * [jack-keyboard](http://packages.debian.org/wheezy/jack-keyboard) - Virtual MIDI keyboard for JACK MIDI ([Homepage](http://jack-keyboard.sourceforge.net))
  * [jackmeter](http://packages.debian.org/wheezy/jackmeter) - a basic command line meter for the JACK audio system ([Homepage](http://www.aelius.com/njh/jackmeter/))
  * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
- * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
+ * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
  * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
  * [qmidiarp](http://packages.debian.org/wheezy/qmidiarp) - arpégiateur MIDI pour ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
- * [arpage](http://packages.debian.org/wheezy/arpage) - MIDI Arpeggiator w/ JACK Tempo Sync.
+ * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ` `
  * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
  * [siggen](http://packages.debian.org/wheezy/siggen) - Waveform generation tools ([Homepage](http://www.comp.leeds.ac.uk/jj/linux/siggen.html))
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
  * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
  * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
  * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
- * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ` `
- * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
- * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
- * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
- * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
 
 
 
@@ -205,6 +205,7 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
 
 ## Converters/streaming/transport
  * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
+ * [ambdec](http://packages.debian.org/wheezy/ambdec) - Ambisonic decoder for first and second order ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
  * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
  * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Homepage](http://www.icecast.org/ezstream.php))
@@ -212,6 +213,7 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Homepage](http://idjc.sourceforge.net/))
  * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
  * [oggfwd](http://packages.debian.org/wheezy/oggfwd) - basic icecast source client for audio and video streaming ([Homepage](http://v2v.cc/~j/oggfwd/))
+ * [ogmrip](http://packages.debian.org/wheezy/ogmrip) - Application for ripping and encoding DVD ([Homepage](http://ogmrip.sourceforge.net))
  * [qmidinet](http://packages.debian.org/wheezy/qmidinet) - MIDI Network Gateway via UDP/IP Multicast ([Homepage](http://qmidinet.sourceforge.net/))
  * [rotter](http://packages.debian.org/wheezy/rotter) - JACK client for transmission recording and audio logging ([Homepage](http://www.aelius.com/njh/rotter/))
  * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
@@ -221,8 +223,6 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- * [ogmrip](http://packages.debian.org/wheezy/ogmrip) - Application for ripping and encoding DVD ([Homepage](http://ogmrip.sourceforge.net))
- * [ambdec](http://packages.debian.org/wheezy/ambdec) - Ambisonic decoder for first and second order ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
 
 
 
@@ -235,8 +235,8 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
- * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
+ * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
 
 
 
@@ -255,12 +255,12 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
 
 
 ## Video
+ * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
+ * [devede](http://packages.debian.org/wheezy/devede) - simple application to create Video DVDs ([Homepage](http://www.rastersoft.com/programas/devede.html))
  * [dvswitch](http://packages.debian.org/wheezy/dvswitch) - basic video mixer for live DV streams ([Homepage](http://dvswitch.alioth.debian.org/))
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
- * [devede](http://packages.debian.org/wheezy/devede) - simple application to create Video DVDs ([Homepage](http://www.rastersoft.com/programas/devede.html))
- * [synaesthesia](http://packages.debian.org/wheezy/synaesthesia) - Program for representing sounds visually
  * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras. 
- * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
+ * [synaesthesia](http://packages.debian.org/wheezy/synaesthesia) - Program for representing sounds visually
 
 
 ## Media players
@@ -277,12 +277,12 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
  * [Groove Basin](https://packages.debian.org/source/sid/groovebasin) - Music player server with a web-based user interface ([Homepage](http://groovebasin.com))
  * [guayadeque](http://packages.debian.org/wheezy/guayadeque) - lightweight music player ([Homepage](http://sourceforge.net/projects/guayadeque))
  * [moc](http://packages.debian.org/wheezy/moc) - ncurses based console audio player ([Homepage](http://moc.daper.net))
+ * [mplayer2](http://packages.debian.org/wheezy/mplayer2) - next generation movie player for Unix-like systems ([Homepage](http://mplayer2.org))
  * [musique](http://packages.debian.org/wheezy/musique) - Simple but sophisticated graphical music player ([Homepage](http://flavio.tordini.org/musique))
  * [quodlibet](http://packages.debian.org/wheezy/quodlibet) - audio library manager and player for GTK3 ([Homepage](http://code.google.com/p/quodlibet/))
  * [rhythmbox](http://packages.debian.org/wheezy/rhythmbox) - music player and organizer for GNOME ([Homepage](https://wiki.gnome.org/Apps/Rhythmbox))
  * [sonata](http://packages.debian.org/wheezy/sonata) - GTK+ client for the Music Player Daemon (MPD) ([Homepage](http://sonata.berlios.de/))
  * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
- * [mplayer](http://packages.debian.org/wheezy/mplayer) - 
 
 
 
@@ -315,9 +315,9 @@ audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_comp
 
 
 ## Linux Distributions
- * [Ubuntu Studio](http://ubuntustudio.org/)
  * [64 Studio](http://www.64studio.com/)
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
+ * [Ubuntu Studio](http://ubuntustudio.org/)
 
 ---------------------------------------------
 
