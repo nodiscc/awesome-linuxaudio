@@ -1,34 +1,34 @@
 # awesome-linuxaudio
 
 A list of software and resources for professional audio/video/live events production on Linux.  
-See [TODO](#TODO) and [CONTRIBUTING](CONTRIBUTING.md).
+See [TODO](#todo) and [CONTRIBUTING](CONTRIBUTING.md).
 
        Unpackaged
        Non-free/closed source
 
 
 -------------------------
-<!-- MarkdownTOC depth=2 -->
+<!-- MarkdownTOC -->
 
-- Effects
-- Instruments
-- Lighting
-- System utilities
-- Signal processing/electronics
-- Audio utilities
-- Converters/streaming/transport
-- DAW/Sequencers
-- Editors
-- Samplers
-- Video
-- Media players
-- Metapackages
-- Samples/Resources
-- Linux Distributions
-- Unsorted
-- Links
-- TODO
-- LICENSE
+- [Effects](#effects)
+- [Instruments](#instruments)
+- [Lighting](#lighting)
+- [System utilities](#system-utilities)
+- [Signal processing/electronics](#signal-processingelectronics)
+- [Audio utilities](#audio-utilities)
+- [Converters/streaming/transport](#convertersstreamingtransport)
+- [DAW/Sequencers](#dawsequencers)
+- [Editors](#editors)
+- [Samplers](#samplers)
+- [Video](#video)
+- [Media players](#media-players)
+- [Metapackages](#metapackages)
+- [Samples/Resources](#samplesresources)
+- [Linux Distributions](#linux-distributions)
+- [Unsorted](#unsorted)
+- [Links](#links)
+- [TODO](#todo)
+- [LICENSE](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -379,6 +379,8 @@ DISTHRO Plugin Ports (VST)
 ### Howtos
  * [System Preparations](http://www.penguinproducer.com/2011/09/system-preparations/)
  * [System configuration [Linux-Sound]](http://wiki.linuxaudio.org/wiki/system_configuration)
+ * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
+ * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
 
 ----------------------------------
 
