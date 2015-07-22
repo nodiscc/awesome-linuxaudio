@@ -38,8 +38,11 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 -----------------------------------
 ## DAW/Sequencers
- * [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
- * [Bitwig | Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````
+
+ * **[ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))**
+ * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````**
+ * **[Reaper](http://www.reaper.fm/) - a complete multitrack audio and MIDI recording, editing, processing, mixing, and mastering environment. ````**
+ * **[Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. ````**
  * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
  * [mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
@@ -63,6 +66,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
  * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
  * [ls16](http://packages.debian.org/wheezy/ls16) - LinuxSampler DSSI plugin GUI
+ * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  ````
 
 
 
@@ -393,22 +397,25 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Links
 ### General doc/software/forums
+ * **[/r/linuxaudio - Music and Audio on the Linux platform](https://www.reddit.com/r/linuxaudio)**
+ * **[linuxaudio mailing lists](http://lists.linuxaudio.org/listinfo/)**
+ * [KXStudio : Repositories : Applications](http://kxstudio.sourceforge.net/Repositories:Applications)
+ * [KXStudio : Repositories : Plugins](http://kxstudio.sourceforge.net/Repositories:Plugins)
+ * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
  * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
  * [Linux-Sound Wiki](http://wiki.linuxaudio.org/wiki/start)
  * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
- * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
- * [KXStudio : Repositories : Applications](http://kxstudio.sourceforge.net/Repositories:Applications)
- * [KXStudio : Repositories : Plugins](http://kxstudio.sourceforge.net/Repositories:Plugins)
- * [/r/linuxaudio - Music and Audio on the Linux platform](https://www.reddit.com/r/linuxaudio)
- * http://www.linux-sound.org/
- * http://linuxaudio.org/resources
  * http://lau.linuxaudio.org/
+ * http://linuxaudio.org/resources
+ * http://www.linux-sound.org/
 
 ### Howtos
  * [System Preparations](http://www.penguinproducer.com/2011/09/system-preparations/)
  * [System configuration [Linux-Sound]](http://wiki.linuxaudio.org/wiki/system_configuration)
  * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
+ * [▶ Rough Mix with Calf FX - YouTube](https://www.youtube.com/watch?v=JR6mRkFkoBQ)
+ * [▶ Hydrogen Drum Machine with CALF plugins - YouTube](https://www.youtube.com/watch?v=FJaSbPZgLnw)
 
 ## Glossary
 
