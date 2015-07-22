@@ -28,8 +28,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Samples/Resources](#samplesresources)
 - [Linux Distributions](#linux-distributions)
 - [Unsorted](#unsorted)
-- [Links](#links)
-- [Glossary](#glossary)
+- [DOCUMENTATION](#documentation)
+- [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [LICENSE](#license)
 - [CONTRIBUTING](#contributing)
@@ -395,7 +395,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ------------------------------
 
 
-## Links
+## DOCUMENTATION
+
 ### General doc/software/forums
  * **[/r/linuxaudio - Music and Audio on the Linux platform](https://www.reddit.com/r/linuxaudio)**
  * **[linuxaudio mailing lists](http://lists.linuxaudio.org/listinfo/)**
@@ -417,7 +418,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [▶ Rough Mix with Calf FX - YouTube](https://www.youtube.com/watch?v=JR6mRkFkoBQ)
  * [▶ Hydrogen Drum Machine with CALF plugins - YouTube](https://www.youtube.com/watch?v=FJaSbPZgLnw)
 
-## Glossary
+## GLOSSARY
 
  * [LADSPA](https://en.wikipedia.org/wiki/LADSPA) - an (API) standard for handling audio filters and audio signal processing effects.
  * [DSSI](https://en.wikipedia.org/wiki/Disposable_Soft_Synth_Interface) - a virtual instrument (software synthesizer) plugin architecture for use by music sequencer applications.

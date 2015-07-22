@@ -1,0 +1,24 @@
+
+
+[[http://didjix.blogspot.com/|http://didjix.blogspot.com/]]
+
+
+jkmeter jackmeter meterbridge jkmeter jaaa japa jnoise silentjack timemachine midish vmpk -------------------------------------- xjadeo freej ----------------------------------- nted -------------------------------------------------- avidemux subtitleeditor soundconverter pitivi gstreamer0.10-pitfdll gnome-subtitles
+
+
+paprefs pavumeter padevchooser? paman? pavucontrol? pulseaudio-equalizer?
+
+##### KXSTUDIO REPO @ https://launchpad.net/~kxstudio-team/+archive/ppa/
+
+
+hybridreverb2 - convolution-based reverberation effect
+jamin-presets
+jack-trans2midi - converts jack transport into midi clock messages
+juce-plugins
+juced-plugins
+leet-plugins
+linuxsampler - audio sampler with professional grade features
+qsampler - LinuxSampler GUI frontend based on the Qt toolkit
+livemix - Mix table for live performance
+ll-plugins - collection of LV2 plugins
+ls16 - front-end to the LinuxSampler library
