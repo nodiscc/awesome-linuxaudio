@@ -12,7 +12,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 <!-- MarkdownTOC depth=3 -->
 
 - [DAW/Sequencers](#dawsequencers)
-- [Editors](#editors)
+- [Audio Editors](#audio-editors)
 - [Samplers](#samplers)
 - [Effects/Processing](#effectsprocessing)
 - [Instruments](#instruments)
@@ -22,7 +22,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Transcoding/streaming/transport](#transcodingstreamingtransport)
 - [Lighting](#lighting)
 - [Video](#video)
-	- [3D modeling](#3d-modeling)
+	- [3D Modeling/CGI](#3d-modelingcgi)
 	- [Authoring](#authoring)
 - [Signal processing/electronics](#signal-processingelectronics)
 - [Score Editors](#score-editors)
@@ -56,11 +56,20 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  ````
+ * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
 
 
-## Editors
+## Audio Editors
  * [audacity](http://packages.debian.org/wheezy/audacity) - Éditeur audio rapide multi plate-forme ([Homepage](http://audacity.sourceforge.net/))
  * [snd-gtk](http://packages.debian.org/wheezy/snd-gtk) - Sound file editor (dummy transitional package) ([Homepage](http://ccrma.stanford.edu/software/snd/))
+ * [kwave](http://packages.debian.org/wheezy/kwave) - sound editor for KDE ([Homepage](http://kwave.sourceforge.net))
+ * [wavesurfer](http://packages.debian.org/wheezy/wavesurfer) - Sound Manipulation Program ([Homepage](http://www.speech.kth.se/wavesurfer))
+ * [sweep](http://packages.debian.org/wheezy/sweep) - Audio editor and live playback tool ([Homepage](http://www.metadecks.org/software/sweep/))
+ * [smasher](http://sourceforge.net/projects/smasher/) - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3, FLAC or AIFF files in seconds without a sequencer
+ * [mhwaveedit](http://packages.debian.org/wheezy/mhwaveedit) - Simple and fast GTK2 sound editor ([Homepage](http://gna.org/projects/mhwaveedit/))
+
+
+
 
 
 
@@ -74,6 +83,10 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  ````
  * [kluppe](http://packages.debian.org/wheezy/kluppe) - a loop-player and recorder designed for live use ([Homepage](http://kluppe.klingt.org/))
  * [luppp](http://packages.debian.org/wheezy/luppp) - luppp music creation tool
+ * [sooperlooper](http://packages.debian.org/wheezy/sooperlooper) - échantilloneur de boucle ([Homepage](http://www.essej.net/sooperlooper/))
+ * [freewheeling](http://packages.debian.org/wheezy/freewheeling) - live looping musical instrument ([Homepage](http://freewheeling.sourceforge.net))
+ * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ``
+ * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
 
 
 ## Effects/Processing
@@ -170,7 +183,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
  * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
  * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
- * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
  * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
  * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
  * [jaaa](http://packages.debian.org/wheezy/jaaa) - audio signal generator and spectrum analyser ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa))
@@ -178,7 +190,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
  * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
  * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
- * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ` `
  * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
  * [siggen](http://packages.debian.org/wheezy/siggen) - Waveform generation tools ([Homepage](http://www.comp.leeds.ac.uk/jj/linux/siggen.html))
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
@@ -234,6 +245,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
  * [mediainfo-gui](http://packages.debian.org/wheezy/mediainfo-gui) - graphical utility for reading information from audio/video files ([Homepage](http://mediainfo.sourceforge.net))
  * [mediainfo](http://packages.debian.org/wheezy/mediainfo) - command-line utility for reading information from audio/video files ([Homepage](http://mediainfo.sourceforge.net))
+ * [ingen](http://packages.debian.org/wheezy/ingen) - modular host for LV2 plugins.
+
 
 
 
@@ -265,7 +278,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [pulseaudio-utils](http://packages.debian.org/wheezy/pulseaudio-utils) - Command line tools for the PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
  * **[handbrake](http://packages.debian.org/wheezy/handbrake) - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))**
  * [gpac](http://packages.debian.org/wheezy/gpac) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
- * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer
+ * [hydro2sf2](https://code.google.com/p/hydro2sf2/) - a tool which allows you to convert a Hydrogen drumkit into a SF2 soundfont ``
 
 
 
@@ -293,8 +306,15 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. ` `
  * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor ``
  * **[Lightworks](https://www.lwks.com/) - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `**
+ * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
+ * [FreeJ](https://www.dyne.org/software/freej/) - a video mixer: an instrument for realtime video manipulation ``
+ * [freemix](http://freemix.forja.rediris.es/) - live video performance software ``
+ * [Gephex](http://www.gephex.org/index.php) - modular video jockey software ``
+ * [Veejay](http://veejayhq.net/) - realtime video sequencer and effects processor  ``
+ * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer  ``
 
-### 3D modeling
+
+### 3D Modeling/CGI
  * [yaprm](http://sourceforge.net/projects/yaprm/) - a free-as-in-freedom modeller to graphicaly design 3d scenes and generate POV-Ray-files for them.
  * **[blender](http://packages.debian.org/wheezy/blender) - Very fast and versatile 3D modeller/renderer ([Homepage](http://www.blender.org/))**
  * [sweethome3d](http://packages.debian.org/wheezy/sweethome3d) - Interior 2D design application with 3D preview ([Homepage](http://www.sweethome3d.com/))
@@ -308,8 +328,19 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. ` `
  * [geomview](http://packages.debian.org/wheezy/geomview) - interactive geometry viewing program ([Homepage](http://www.geomview.org/))
  * [aqsis](http://packages.debian.org/wheezy/aqsis) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([Homepage](http://www.aqsis.org/))
+ * [sunflow](http://packages.debian.org/wheezy/sunflow) - rendering system for photo-realistic image synthesis (GUI) ([Homepage](http://sunflow.sourceforge.net/))
  * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface. ``
  * [meshlab](http://packages.debian.org/wheezy/meshlab) - System for processing and editing triangular meshes ([Homepage](http://meshlab.sourceforge.net/))
+ * [fractalnow](http://packages.debian.org/wheezy/fractalnow) - Fast, advanced fractal generator ([Homepage](http://fractalnow.sourceforge.net))
+ * [fraqtive](http://packages.debian.org/wheezy/fraqtive) - draws Mandelbrot and Julia fractals ([Homepage](http://fraqtive.mimec.org/))
+ * [mandelbulber](http://packages.debian.org/wheezy/mandelbulber) - 3D fractal renderer and animator ([Homepage](http://sites.google.com/site/mandelbulber/))
+ * [evolvotron](http://packages.debian.org/wheezy/evolvotron) - Generator of textures through interactive evolution ([Homepage](http://www.bottlenose.demon.co.uk/share/evolvotron/))
+ * [javamorph](http://packages.debian.org/wheezy/javamorph) - Java morphing film-make program for pixel picture-input ([Homepage](http://code.google.com/p/javamorph/))
+ * [VSXu Player](http://www.vsxu.com/products/player) - program that creates inspiring, beautiful pictures to your sound and music ``
+ * [VSXu Artiste](http://www.vsxu.com/products/artiste) - create stunning open GL based audio reactive visuals.
+
+
+
 
 
 
@@ -344,6 +375,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [supercollider](http://packages.debian.org/wheezy/supercollider) - real time audio synthesis programming language ([Homepage](http://supercollider.sourceforge.net/))
  * [clam-networkeditor](http://packages.debian.org/wheezy/clam-networkeditor) - CLAM Network Editor, prototyping tool for CLAM ([Homepage](http://clam-project.org/))
  * [clam-networkeditor-examples](http://packages.debian.org/wheezy/clam-networkeditor-examples) - CLAM Network Editor, examples ([Homepage](http://clam-project.org/))
+ * [Psychosynth](http://www.psychosynth.com/index.php/What_is_Psychosynth%3F) - an interactive modular soft-synth inspired by the ideas of the Reactable ``
 
 
 
@@ -419,16 +451,15 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [ecasound](http://packages.debian.org/wheezy/ecasound) - multitrack-capable audio recorder and effect processor ([Homepage](http://www.eca.cx/ecasound/))
  * [fluid-soundfont-gm](http://packages.debian.org/wheezy/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
  * [fluidsynth](http://packages.debian.org/wheezy/fluidsynth) - Logiciel de synthèse MIDI en temps réel ([Homepage](http://www.fluidsynth.org/))
- * [freewheeling](http://packages.debian.org/wheezy/freewheeling) - live looping musical instrument ([Homepage](http://freewheeling.sourceforge.net))
  * [gjacktransport](http://packages.debian.org/wheezy/gjacktransport) - access to the JACK's transport mechanism as touchable slider ([Homepage](http://gjacktransport.sourceforge.net/))
 
  * [jamin](http://packages.debian.org/wheezy/jamin) - Audio mastering from a mixed down multitrack source with JACK ([Homepage](http://jamin.sourceforge.net/))
  * [japa](http://packages.debian.org/wheezy/japa) - JACK and ALSA Perceptual Analyser ([Homepage](http://www.kokkinizita.net/linuxaudio/))
- * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
+
  * [libgroove](https://packages.debian.org/source/sid/libgroove) - streaming audio processing library ([Homepage](https://github.com/andrewrk/libgroove))
  * [libsox-fmt-all](http://packages.debian.org/wheezy/libsox-fmt-all) - All SoX format libraries ([Homepage](http://sox.sourceforge.net))
  * [lmms](http://packages.debian.org/wheezy/lmms) - studio multimedia pour Linux ([Homepage](http://lmms.sf.net/))
- * [mhwaveedit](http://packages.debian.org/wheezy/mhwaveedit) - Simple and fast GTK2 sound editor ([Homepage](http://gna.org/projects/mhwaveedit/))
+
  * [mididings](http://packages.debian.org/wheezy/mididings) - MIDI router and processor based on Python ([Homepage](http://das.nasophon.de/mididings/))
  * [milkytracker](http://packages.debian.org/wheezy/milkytracker) - music creation tool inspired by Fast Tracker 2 ([Homepage](http://www.milkytracker.org/))
  * [qsynth](http://packages.debian.org/wheezy/qsynth) - Interface graphique pour le synthétiseur MIDI fluidsynth ([Homepage](http://qsynth.sourceforge.net))
@@ -437,7 +468,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [schism](http://packages.debian.org/wheezy/schism) - Clone de ImpulseTracker (même interface, même comportement) ([Homepage](http://schismtracker.org/))
  * [seq24](http://packages.debian.org/wheezy/seq24) - Séquenceur MIDI temps réel ([Homepage](http://www.filter24.org/seq24/))
  * [sonic-visualiser](http://packages.debian.org/wheezy/sonic-visualiser) - View and analyse the contents of music audio files ([Homepage](http://www.sonicvisualiser.org))
- * [sooperlooper](http://packages.debian.org/wheezy/sooperlooper) - échantilloneur de boucle ([Homepage](http://www.essej.net/sooperlooper/))
+
  * [soundconverter](http://packages.debian.org/wheezy/soundconverter) - Application GNOME pour convertir des fichiers audio d'un format à un autre ([Homepage](http://soundconverter.org/))
  * [sox](http://packages.debian.org/wheezy/sox) - outils complets pour le traitement des sons ([Homepage](http://sox.sourceforge.net))
  * [stretchplayer](http://packages.debian.org/wheezy/stretchplayer) - Audio file player with time stretch and pitch shifting ([Homepage](http://www.teuton.org/~gabriel/stretchplayer/)
@@ -494,11 +525,10 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 
 ## TODO
+ * **Backup sourceforge projects somewhere else (code, doc, issues)**
  * add software from kxstudio repos
- * split audio/system utilities
  * sort unsorted links
  * provide configuration scripts/guides for debian systems
- * centralize resources (samples, presets...) somewhere if licenses allows it
  * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
  * add links from http://linux-sound.org/
  * Package all unpackaged software `` for Debian
@@ -508,6 +538,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
  * http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
  * Package scripts from http://www.pjb.com.au/midi/
+ * Group and package scripts from http://wiki.linuxaudio.org/wiki/script_midi2hydrogen, http://wiki.linuxaudio.org/wiki/script_lscp2rgd, http://wiki.linuxaudio.org/wiki/scripts_wav2specimen, http://wiki.linuxaudio.org/wiki/scripts_and_tools
+ * add software from http://bandshed.net/avlinux6-debs/
+ * Sort and add http://wiki.linuxaudio.org/wiki/start?do=index
 
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
