@@ -53,11 +53,11 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  ````
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
- *  [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))**
- *  [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````**
- *  [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. ````**
- *  [Reaper](http://www.reaper.fm/) - a complete multitrack audio and MIDI recording, editing, processing, mixing, and mastering environment. ````**
- *  [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. ````**
+ * ✸ [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))**
+ * ✸ [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````**
+ * ✸ [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. ````**
+ * ✸ [Reaper](http://www.reaper.fm/) - a complete multitrack audio and MIDI recording, editing, processing, mixing, and mastering environment. ````**
+ * ✸ [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. ````**
 
 
 ## Audio Editors
@@ -87,7 +87,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  ````
  * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ``
  * [sooperlooper](http://packages.debian.org/wheezy/sooperlooper) - échantilloneur de boucle ([Homepage](http://www.essej.net/sooperlooper/))
- *  [hydrogen](http://packages.debian.org/wheezy/hydrogen) - advanced drum machine/step sequencer ([Homepage](http://www.hydrogen-music.org/))
+ * ✸ [hydrogen](http://packages.debian.org/wheezy/hydrogen) - advanced drum machine/step sequencer ([Homepage](http://www.hydrogen-music.org/))
 
 
 ## Effects/Processing
@@ -245,8 +245,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices ``
  * [zita-ajbridge](http://packages.debian.org/wheezy/zita-ajbridge) - pont alsa vers jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
- *  [jackd2](http://packages.debian.org/wheezy/jackd2) - Kit de connection audio JACK (serveur et exemples de clients) ([Homepage](http://jackaudio.org/))**
- *  [qjackctl](http://packages.debian.org/wheezy/qjackctl) - User interface for controlling the JACK sound server ([Homepage](http://qjackctl.sourceforge.net)) * [jackeq](http://packages.debian.org/wheezy/jackeq) - routes and manipulates audio from/to multiple sources ([Homepage](http://djcj.org/jackeq/))**
+ * ✸ [jackd2](http://packages.debian.org/wheezy/jackd2) - Kit de connection audio JACK (serveur et exemples de clients) ([Homepage](http://jackaudio.org/))**
+ * ✸ [qjackctl](http://packages.debian.org/wheezy/qjackctl) - User interface for controlling the JACK sound server ([Homepage](http://qjackctl.sourceforge.net)) * [jackeq](http://packages.debian.org/wheezy/jackeq) - routes and manipulates audio from/to multiple sources ([Homepage](http://djcj.org/jackeq/))**
 
 
 ### Pulseaudio
@@ -285,8 +285,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- *  [handbrake](http://packages.debian.org/wheezy/handbrake) - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))**
- *  [winff-qt](http://packages.debian.org/wheezy/winff-qt) - Qt variant of winff ([Homepage](http://www.winff.org/))**
+ * ✸ [handbrake](http://packages.debian.org/wheezy/handbrake) - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))**
+ * ✸ [winff-qt](http://packages.debian.org/wheezy/winff-qt) - Qt variant of winff ([Homepage](http://www.winff.org/))**
 
 
 
@@ -294,7 +294,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 
 ## Lighting
- *  [Q Light Controller+ (QLC+)](http://www.qlcplus.org/) - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. ``**
+ * ✸ [Q Light Controller+ (QLC+)](http://www.qlcplus.org/) - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. ``**
 
 
 ## Video
@@ -317,9 +317,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Veejay](http://veejayhq.net/) - realtime video sequencer and effects processor  ``
  * [xjadeo](http://packages.debian.org/wheezy/xjadeo) - Video player with JACK sync ([Homepage](http://xjadeo.sourceforge.net/))
  * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. ` `
- *  [Cinelerra](http://cinelerra.org/) - Cinema Production Software ``**
- *  [Lightworks](https://www.lwks.com/) - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `**
- *  [openshot](http://packages.debian.org/wheezy/openshot) - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))**
+ * ✸ [Cinelerra](http://cinelerra.org/) - Cinema Production Software ``**
+ * ✸ [Lightworks](https://www.lwks.com/) - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `**
+ * ✸ [openshot](http://packages.debian.org/wheezy/openshot) - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))**
 
 
 ### 3D Modeling/CGI
@@ -345,7 +345,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [VSXu Player](http://www.vsxu.com/products/player) - program that creates inspiring, beautiful pictures to your sound and music ``
  * [wings3d](http://packages.debian.org/wheezy/wings3d) - Nendo-inspired 3D polygon mesh modeller ([Homepage](http://www.wings3d.com))
  * [yaprm](http://sourceforge.net/projects/yaprm/) - a free-as-in-freedom modeller to graphicaly design 3d scenes and generate POV-Ray-files for them.
- *  [blender](http://packages.debian.org/wheezy/blender) - Very fast and versatile 3D modeller/renderer ([Homepage](http://www.blender.org/))**
+ * ✸ [blender](http://packages.debian.org/wheezy/blender) - Very fast and versatile 3D modeller/renderer ([Homepage](http://www.blender.org/))**
 
 
 
@@ -414,7 +414,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [quodlibet](http://packages.debian.org/wheezy/quodlibet) - audio library manager and player for GTK3 ([Homepage](http://code.google.com/p/quodlibet/))
  * [sonata](http://packages.debian.org/wheezy/sonata) - GTK+ client for the Music Player Daemon (MPD) ([Homepage](http://sonata.berlios.de/))
  * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
- *  [rhythmbox](http://packages.debian.org/wheezy/rhythmbox) - music player and organizer for GNOME ([Homepage](https://wiki.gnome.org/Apps/Rhythmbox))
+ * ✸ [rhythmbox](http://packages.debian.org/wheezy/rhythmbox) - music player and organizer for GNOME ([Homepage](https://wiki.gnome.org/Apps/Rhythmbox))
 
 
 
@@ -495,12 +495,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## DOCUMENTATION
 
 ### General doc/software/forums
- *  [/r/linuxaudio - Music and Audio on the Linux platform](https://www.reddit.com/r/linuxaudio)**
- *  [Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)**
- *  [Linux Audio Tutorials](http://quicktoots.linux-audio.com/)**
- *  [Linux Audio Users Guide](http://linux-audio.com/)**
- *  [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
- *  [linuxaudio mailing lists](http://lists.linuxaudio.org/listinfo/)**
+ * ✸ [/r/linuxaudio - Music and Audio on the Linux platform](https://www.reddit.com/r/linuxaudio)**
+ * ✸ [Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)**
+ * ✸ [Linux Audio Tutorials](http://quicktoots.linux-audio.com/)**
+ * ✸ [Linux Audio Users Guide](http://linux-audio.com/)**
+ * ✸ [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
+ * ✸ [linuxaudio mailing lists](http://lists.linuxaudio.org/listinfo/)**
  * [KXStudio : Repositories : Applications](http://kxstudio.sourceforge.net/Repositories:Applications)
  * [KXStudio : Repositories : Plugins](http://kxstudio.sourceforge.net/Repositories:Plugins)
  * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
