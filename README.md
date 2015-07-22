@@ -1,7 +1,8 @@
 # awesome-linuxaudio
 
 A list of software and resources for professional audio/video/live events production on Linux.  
-See [TODO](#todo) and [CONTRIBUTING](CONTRIBUTING.md).
+
+This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable with `sudo aptitude install softwarename`. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound,  video and live applications.
 
        Unpackaged
        Non-free/closed source
@@ -10,17 +11,17 @@ See [TODO](#todo) and [CONTRIBUTING](CONTRIBUTING.md).
 -------------------------
 <!-- MarkdownTOC -->
 
-- [Effects](#effects)
-- [Instruments](#instruments)
-- [Lighting](#lighting)
-- [System utilities](#system-utilities)
-- [Signal processing/electronics](#signal-processingelectronics)
-- [Audio utilities](#audio-utilities)
-- [Converters/streaming/transport](#convertersstreamingtransport)
 - [DAW/Sequencers](#dawsequencers)
 - [Editors](#editors)
 - [Samplers](#samplers)
+- [Effects/Processing](#effectsprocessing)
+- [Instruments](#instruments)
+- [Audio utilities](#audio-utilities)
+- [System utilities](#system-utilities)
+- [Converters/streaming/transport](#convertersstreamingtransport)
+- [Lighting](#lighting)
 - [Video](#video)
+- [Signal processing/electronics](#signal-processingelectronics)
 - [Media players](#media-players)
 - [Metapackages](#metapackages)
 - [Samples/Resources](#samplesresources)
@@ -29,13 +30,41 @@ See [TODO](#todo) and [CONTRIBUTING](CONTRIBUTING.md).
 - [Links](#links)
 - [TODO](#todo)
 - [LICENSE](#license)
+- [CONTRIBUTING](#contributing)
 
 <!-- /MarkdownTOC -->
 
 -----------------------------------
+## DAW/Sequencers
+ * [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
+ * [Bitwig | Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````
+ * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
+ * [mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))
+ * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
+ * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
+ * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
+ * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
+ * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
+ * [Tracktion](http://www.tracktion.com/) - The musician's DAW  ````
 
 
-## Effects
+## Editors
+ * [audacity](http://packages.debian.org/wheezy/audacity) - Éditeur audio rapide multi plate-forme ([Homepage](http://audacity.sourceforge.net/))
+ * [snd-gtk](http://packages.debian.org/wheezy/snd-gtk) - Sound file editor (dummy transitional package) ([Homepage](http://ccrma.stanford.edu/software/snd/))
+
+
+
+## Samplers
+ * [hydrogen-drumkits](http://packages.debian.org/wheezy/hydrogen-drumkits) - drumkits for Hydrogen ([Homepage](http://www.hydrogen-music.org/?p=drumkits))
+ * [hydrogen](http://packages.debian.org/wheezy/hydrogen) - advanced drum machine/step sequencer ([Homepage](http://www.hydrogen-music.org/))
+ * [linuxsampler-all](http://packages.debian.org/wheezy/linuxsampler-all) - realtime audio sampler (meta)
+ * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
+ * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
+
+
+
+
+## Effects/Processing
  * [abgate](http://packages.debian.org/wheezy/abgate) - LV2 noise gate plugin ([Homepage](http://abgate.sourceforge.net))
  * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` `
  * [amb-plugins](http://packages.debian.org/wheezy/amb-plugins) - greffons LADPSA ambisonics ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
@@ -91,6 +120,10 @@ See [TODO](#todo) and [CONTRIBUTING](CONTRIBUTING.md).
  * [x42-plugins](http://packages.debian.org/wheezy/x42-plugins) - Collection of LV2 plugins ([Homepage](https://github.com/x42/x42-plugins))
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
+ * [holap](http://packages.debian.org/wheezy/holap) - Holborn Audio Plugins
+
+
+
 audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_compressor))
 auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
 DISTHRO Plugin Ports
@@ -132,9 +165,32 @@ DISTHRO Plugin Ports (VST)
 
 
 
+## Audio utilities
+ * [arpage](http://packages.debian.org/wheezy/arpage) - MIDI Arpeggiator w/ JACK Tempo Sync.
+ * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
+ * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
+ * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
+ * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
+ * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
+ * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
+ * [jaaa](http://packages.debian.org/wheezy/jaaa) - audio signal generator and spectrum analyser ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa))
+ * [jack-keyboard](http://packages.debian.org/wheezy/jack-keyboard) - Virtual MIDI keyboard for JACK MIDI ([Homepage](http://jack-keyboard.sourceforge.net))
+ * [jackmeter](http://packages.debian.org/wheezy/jackmeter) - a basic command line meter for the JACK audio system ([Homepage](http://www.aelius.com/njh/jackmeter/))
+ * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
+ * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
+ * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
+ * [qmidiarp](http://packages.debian.org/wheezy/qmidiarp) - arpégiateur MIDI pour ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
+ * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ` `
+ * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
+ * [siggen](http://packages.debian.org/wheezy/siggen) - Waveform generation tools ([Homepage](http://www.comp.leeds.ac.uk/jj/linux/siggen.html))
+ * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
+ * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
+ * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
+ * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
 
-## Lighting
- * [Q Light Controller+ (QLC+)](http://www.qlcplus.org/) - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. `` 
+
+
+
 
 ## System utilities
  * [a2jmidid](http://packages.debian.org/wheezy/a2jmidid) - démon pour lier des applications obsolètes ALSA MIDI dans des systèmes JACK MIDI ([Homepage](http://home.gna.org/a2jmidid/))
@@ -167,39 +223,6 @@ DISTHRO Plugin Ports (VST)
  * [zita-ajbridge](http://packages.debian.org/wheezy/zita-ajbridge) - pont alsa vers jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
 
-## Signal processing/electronics
- * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
- * [lcd4linux](http://packages.debian.org/wheezy/lcd4linux) - Grabs information and displays it on an external lcd ([Homepage](http://ssl.bulix.org/projects/lcd4linux/))
- * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Homepage](http://www.lcdproc.org/))
- * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
- * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
- * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
-
-
-## Audio utilities
- * [arpage](http://packages.debian.org/wheezy/arpage) - MIDI Arpeggiator w/ JACK Tempo Sync.
- * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
- * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
- * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
- * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
- * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
- * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
- * [jaaa](http://packages.debian.org/wheezy/jaaa) - audio signal generator and spectrum analyser ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa))
- * [jack-keyboard](http://packages.debian.org/wheezy/jack-keyboard) - Virtual MIDI keyboard for JACK MIDI ([Homepage](http://jack-keyboard.sourceforge.net))
- * [jackmeter](http://packages.debian.org/wheezy/jackmeter) - a basic command line meter for the JACK audio system ([Homepage](http://www.aelius.com/njh/jackmeter/))
- * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
- * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
- * [qmidiarp](http://packages.debian.org/wheezy/qmidiarp) - arpégiateur MIDI pour ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
- * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ` `
- * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
- * [siggen](http://packages.debian.org/wheezy/siggen) - Waveform generation tools ([Homepage](http://www.comp.leeds.ac.uk/jj/linux/siggen.html))
- * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
- * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
- * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
- * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
-
-
 
 
 
@@ -225,33 +248,8 @@ DISTHRO Plugin Ports (VST)
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
 
 
-
-
-
-## DAW/Sequencers
- * [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
- * [Bitwig | Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````
- * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
- * [mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))
- * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
- * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
- * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
- * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
-
-
-
-## Editors
- * [audacity](http://packages.debian.org/wheezy/audacity) - Éditeur audio rapide multi plate-forme ([Homepage](http://audacity.sourceforge.net/))
- * [snd-gtk](http://packages.debian.org/wheezy/snd-gtk) - Sound file editor (dummy transitional package) ([Homepage](http://ccrma.stanford.edu/software/snd/))
-
-
-
-## Samplers
- * [hydrogen-drumkits](http://packages.debian.org/wheezy/hydrogen-drumkits) - drumkits for Hydrogen ([Homepage](http://www.hydrogen-music.org/?p=drumkits))
- * [hydrogen](http://packages.debian.org/wheezy/hydrogen) - advanced drum machine/step sequencer ([Homepage](http://www.hydrogen-music.org/))
- * [linuxsampler-all](http://packages.debian.org/wheezy/linuxsampler-all) - realtime audio sampler (meta)
- * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
- * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
+## Lighting
+ * **[Q Light Controller+ (QLC+)](http://www.qlcplus.org/) - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. ``**
 
 
 ## Video
@@ -261,6 +259,19 @@ DISTHRO Plugin Ports (VST)
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
  * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras. 
  * [synaesthesia](http://packages.debian.org/wheezy/synaesthesia) - Program for representing sounds visually
+ * [xjadeo](http://packages.debian.org/wheezy/xjadeo) - Video player with JACK sync ([Homepage](http://xjadeo.sourceforge.net/))
+ * [frei0r-plugins](http://packages.debian.org/wheezy/frei0r-plugins) - minimalistic plugin API for video effects, plugins collection ([Homepage](http://frei0r.dyne.org/))
+ * [openshot](http://packages.debian.org/wheezy/openshot) - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))
+
+
+## Signal processing/electronics
+ * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
+ * [lcd4linux](http://packages.debian.org/wheezy/lcd4linux) - Grabs information and displays it on an external lcd ([Homepage](http://ssl.bulix.org/projects/lcd4linux/))
+ * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Homepage](http://www.lcdproc.org/))
+ * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
+ * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
+ * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
+
 
 
 ## Media players
@@ -354,7 +365,6 @@ DISTHRO Plugin Ports (VST)
  * [stretchplayer](http://packages.debian.org/wheezy/stretchplayer) - Audio file player with time stretch and pitch shifting ([Homepage](http://www.teuton.org/~gabriel/stretchplayer/)
  * [swami](http://packages.debian.org/wheezy/swami) - éditeur d'instruments MIDI ([Homepage](http://swami.sf.net))
  * [timemachine](http://packages.debian.org/wheezy/timemachine) - enregistreur audio JACK pour une utilisation spontanée et de conservation ([Homepage](http://plugin.org.uk/timemachine/))
- * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
  * [yoshimi](http://packages.debian.org/wheezy/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
  * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
  * **http://www.kvraudio.com/?t[]=linux**
@@ -396,5 +406,19 @@ DISTHRO Plugin Ports (VST)
  * Find dead links, link kxstudio packages to kxstudio package pages
 
 ## LICENSE
-This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE).
+This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
 
+    16  nodiscc <nodiscc@gmail.com>
+     1  Andrew Kelley <superjoe30@gmail.com>
+
+
+## CONTRIBUTING
+
+ * Please edit the README file (using the [Markdown](https://help.github.com/articles/github-flavored-markdown/) syntax) and send your patch as a Pull Request. https://help.github.com/articles/using-pull-requests/
+ * Entries should be sorted alphabetically inside categories.
+ * Please label unpackaged and non-free ` Unpackaged` ` Non-free/closed source`
+ * Exceptionally high-quality software may be marked as **bold**.
+ * If there is a debian package available, the link syntax is: `[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
+ * If there is no debian package: the syntax is `[Software name](http://url.to/project/homepage)`
+ * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Here is a bookmarklet to generate a markdown link for the current page URL and title: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));`
+ * Contributors list can be updated with `git shortlog -sne`
