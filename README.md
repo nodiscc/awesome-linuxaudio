@@ -233,6 +233,14 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
+ * [pulseaudio](http://packages.debian.org/wheezy/pulseaudio) - PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-module-jack](http://packages.debian.org/wheezy/pulseaudio-module-jack) - jackd modules for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-module-lirc](http://packages.debian.org/wheezy/pulseaudio-module-lirc) - lirc module for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-module-x11](http://packages.debian.org/wheezy/pulseaudio-module-x11) - X11 module for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-utils](http://packages.debian.org/wheezy/pulseaudio-utils) - Command line tools for the PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+
+
+
 
 
 ## Lighting
