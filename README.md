@@ -270,6 +270,16 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
  * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
  * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
+ * [csladspa](http://packages.debian.org/wheezy/csladspa) - LADSPA plugin for Csound ([Homepage](http://www.csounds.com))
+ * [csound](http://packages.debian.org/wheezy/csound) - powerful and versatile sound synthesis software ([Homepage](http://www.csounds.com))
+ * [csound-data](http://packages.debian.org/wheezy/csound-data) - data files used by the csound library ([Homepage](http://www.csounds.com))
+ * [pd-csound](http://packages.debian.org/wheezy/pd-csound) - Csound external for PureData ([Homepage](http://www.csounds.com))
+ * [csoundqt](http://packages.debian.org/wheezy/csoundqt) - frontend for the csound sound processor ([Homepage](http://sourceforge.net/projects/qutecsound))
+ * [nyquist](http://packages.debian.org/wheezy/nyquist) - language for music composition and sound synthesis ([Homepage](http://www.cs.cmu.edu/~music/nyquist/))
+ * [csound-utils](http://packages.debian.org/wheezy/csound-utils) - miscellaneous utilities for the Csound system ([Homepage](http://www.csounds.com))
+ * [cabbage-plugins](http://packages.debian.org/wheezy/cabbage-plugins) - csound development toolkit plugins
+ * [cabbage-plugins-extra](http://packages.debian.org/wheezy/cabbage-plugins-extra) - csound development toolkit plugins (Extra)
+
 
 ## Score Editors
  * [denemo](http://packages.debian.org/wheezy/denemo) - GTK+ front end to GNU Lilypond ([Homepage](http://www.denemo.org))
@@ -419,6 +429,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * Package all unpackaged software `` for Debian
  * Find dead links, link kxstudio packages to kxstudio package pages
  * Add software from http://www.kvraudio.com/plugins/linux/newest
+ * add xmms
 
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
