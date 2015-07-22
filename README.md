@@ -9,7 +9,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 
 -------------------------
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC depth=3 -->
 
 - [DAW/Sequencers](#dawsequencers)
 - [Editors](#editors)
@@ -17,18 +17,22 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Effects/Processing](#effectsprocessing)
 - [Instruments](#instruments)
 - [Audio utilities](#audio-utilities)
+	- [MIDI Utilities](#midi-utilities)
 - [System utilities](#system-utilities)
-- [Converters/streaming/transport](#convertersstreamingtransport)
+- [Transcoding/streaming/transport](#transcodingstreamingtransport)
 - [Lighting](#lighting)
 - [Video](#video)
+	- [3D modeling](#3d-modeling)
+	- [Authoring](#authoring)
 - [Signal processing/electronics](#signal-processingelectronics)
 - [Score Editors](#score-editors)
 - [Media players](#media-players)
 - [Metapackages](#metapackages)
-- [Samples/Resources](#samplesresources)
 - [Linux Distributions](#linux-distributions)
 - [Unsorted](#unsorted)
 - [DOCUMENTATION](#documentation)
+	- [General doc/software/forums](#general-docsoftwareforums)
+	- [Howtos](#howtos)
 - [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [LICENSE](#license)
@@ -228,11 +232,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices ``
  * [zita-ajbridge](http://packages.debian.org/wheezy/zita-ajbridge) - pont alsa vers jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
+ * [mediainfo-gui](http://packages.debian.org/wheezy/mediainfo-gui) - graphical utility for reading information from audio/video files ([Homepage](http://mediainfo.sourceforge.net))
+ * [mediainfo](http://packages.debian.org/wheezy/mediainfo) - command-line utility for reading information from audio/video files ([Homepage](http://mediainfo.sourceforge.net))
 
 
 
-
-## Converters/streaming/transport
+## Transcoding/streaming/transport
  * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
  * [autoradio](http://packages.debian.org/wheezy/autoradio) - radio automation software ([Homepage](http://autoradiobc.sf.net))
  * [ambdec](http://packages.debian.org/wheezy/ambdec) - Ambisonic decoder for first and second order ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
@@ -244,6 +249,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
  * [oggfwd](http://packages.debian.org/wheezy/oggfwd) - basic icecast source client for audio and video streaming ([Homepage](http://v2v.cc/~j/oggfwd/))
  * [ogmrip](http://packages.debian.org/wheezy/ogmrip) - Application for ripping and encoding DVD ([Homepage](http://ogmrip.sourceforge.net))
+
  * [rotter](http://packages.debian.org/wheezy/rotter) - JACK client for transmission recording and audio logging ([Homepage](http://www.aelius.com/njh/rotter/))
  * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
  * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
@@ -272,7 +278,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Video
  * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
- * [devede](http://packages.debian.org/wheezy/devede) - simple application to create Video DVDs ([Homepage](http://www.rastersoft.com/programas/devede.html))
  * [dvswitch](http://packages.debian.org/wheezy/dvswitch) - basic video mixer for live DV streams ([Homepage](http://dvswitch.alioth.debian.org/))
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
  * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras. 
@@ -288,8 +293,34 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. ` `
  * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor ``
  * **[Lightworks](https://www.lwks.com/) - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `**
- * **[blender](http://packages.debian.org/wheezy/blender) - Very fast and versatile 3D modeller/renderer ([Homepage](http://www.blender.org/))**
 
+### 3D modeling
+ * [yaprm](http://sourceforge.net/projects/yaprm/) - a free-as-in-freedom modeller to graphicaly design 3d scenes and generate POV-Ray-files for them.
+ * **[blender](http://packages.debian.org/wheezy/blender) - Very fast and versatile 3D modeller/renderer ([Homepage](http://www.blender.org/))**
+ * [sweethome3d](http://packages.debian.org/wheezy/sweethome3d) - Interior 2D design application with 3D preview ([Homepage](http://www.sweethome3d.com/))
+ * [sweethome3d-furniture-nonfree](http://packages.debian.org/wheezy/sweethome3d-furniture-nonfree) - Interior 2D design application with 3D preview (additional non-free furniture) ([Homepage](http://www.sweethome3d.com))
+ * [sweethome3d-textures-editor](http://packages.debian.org/wheezy/sweethome3d-textures-editor) - Sweet Home 3D Textures Library Editor ([Homepage](http://www.sweethome3d.com))
+ * [sweethome3d-furniture-editor](http://packages.debian.org/wheezy/sweethome3d-furniture-editor) - Sweet Home 3D Furniture Library Editor ([Homepage](http://www.sweethome3d.com))
+ * [sweethome3d-furniture](http://packages.debian.org/wheezy/sweethome3d-furniture) - Interior 2D design application with 3D preview (additional furniture) ([Homepage](http://www.sweethome3d.com))
+ * [wings3d](http://packages.debian.org/wheezy/wings3d) - Nendo-inspired 3D polygon mesh modeller ([Homepage](http://www.wings3d.com))
+ * [makehuman](http://packages.debian.org/wheezy/makehuman) - Modelling of 3-Dimensional humanoid characters ([Homepage](http://www.makehuman.org/))
+ * [k3d](http://packages.debian.org/wheezy/k3d) - 3D modeling and animation system, binary files ([Homepage](http://www.k-3d.org/))
+ * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. ` `
+ * [geomview](http://packages.debian.org/wheezy/geomview) - interactive geometry viewing program ([Homepage](http://www.geomview.org/))
+ * [aqsis](http://packages.debian.org/wheezy/aqsis) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([Homepage](http://www.aqsis.org/))
+ * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface. ``
+ * [meshlab](http://packages.debian.org/wheezy/meshlab) - System for processing and editing triangular meshes ([Homepage](http://meshlab.sourceforge.net/))
+
+
+
+
+### Authoring
+ * [aegisub](http://packages.debian.org/wheezy/aegisub) - advanced subtitle editor ([Homepage](http://www.aegisub.org/))
+ * [devede](http://packages.debian.org/wheezy/devede) - simple application to create Video DVDs ([Homepage](http://www.rastersoft.com/programas/devede.html))
+ * [gnome-subtitles](http://packages.debian.org/wheezy/gnome-subtitles) - Subtitle editor for the GNOME Desktop environment ([Homepage](http://gnome-subtitles.sourceforge.net))
+ * [subtitlecomposer](http://packages.debian.org/wheezy/subtitlecomposer) - Subtitles editor for KDE ([Homepage](http://sourceforge.net/projects/subcomposer))
+ * [vlc-plugin-vlsub](http://packages.debian.org/wheezy/vlc-plugin-vlsub) - VLC extension to download subtitles from opensubtitles.org ([Homepage](http://addons.videolan.org/content/show.php?action=content&content=148752))
+ * [subtitleeditor](http://packages.debian.org/wheezy/subtitleeditor) - Graphical subtitle editor with sound waves representation ([Homepage](http://home.gna.org/subtitleeditor/))
 
 
 
@@ -338,6 +369,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [guayadeque](http://packages.debian.org/wheezy/guayadeque) - lightweight music player ([Homepage](http://sourceforge.net/projects/guayadeque))
  * [moc](http://packages.debian.org/wheezy/moc) - ncurses based console audio player ([Homepage](http://moc.daper.net))
  * [mplayer2](http://packages.debian.org/wheezy/mplayer2) - next generation movie player for Unix-like systems ([Homepage](http://mplayer2.org))
+ * [mpv](http://packages.debian.org/wheezy/mpv) - video player based on MPlayer/mplayer2 ([Homepage](http://mpv.io/))
  * [musique](http://packages.debian.org/wheezy/musique) - Simple but sophisticated graphical music player ([Homepage](http://flavio.tordini.org/musique))
  * [quodlibet](http://packages.debian.org/wheezy/quodlibet) - audio library manager and player for GTK3 ([Homepage](http://code.google.com/p/quodlibet/))
  * [rhythmbox](http://packages.debian.org/wheezy/rhythmbox) - music player and organizer for GNOME ([Homepage](https://wiki.gnome.org/Apps/Rhythmbox))
@@ -370,15 +402,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [multimedia-timestretching](http://packages.debian.org/wheezy/multimedia-timestretching) - Packages for stretching music and audio
  * [multimedia-video](http://packages.debian.org/wheezy/multimedia-video) - Video packages
 
-## Samples/Resources
- * [SFZ Drum kits](http://linuxmusicians.com/viewtopic.php?f=50&t=11613)
-
-
 ## Linux Distributions
  * [64 Studio](http://www.64studio.com/)
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
  * [Ubuntu Studio](http://ubuntustudio.org/)
  * [Dynebolic](https://www.dyne.org/software/dynebolic/) ``
+ * [AVLinux](http://www.bandshed.net/AVLinux.html)
 
 ---------------------------------------------
 
