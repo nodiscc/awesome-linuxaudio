@@ -22,12 +22,14 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Lighting](#lighting)
 - [Video](#video)
 - [Signal processing/electronics](#signal-processingelectronics)
+- [Score Editors](#score-editors)
 - [Media players](#media-players)
 - [Metapackages](#metapackages)
 - [Samples/Resources](#samplesresources)
 - [Linux Distributions](#linux-distributions)
 - [Unsorted](#unsorted)
 - [Links](#links)
+- [Glossary](#glossary)
 - [TODO](#todo)
 - [LICENSE](#license)
 - [CONTRIBUTING](#contributing)
@@ -60,7 +62,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [linuxsampler-all](http://packages.debian.org/wheezy/linuxsampler-all) - realtime audio sampler (meta)
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
  * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
-
+ * [ls16](http://packages.debian.org/wheezy/ls16) - LinuxSampler DSSI plugin GUI
 
 
 
@@ -121,7 +123,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
  * [holap](http://packages.debian.org/wheezy/holap) - Holborn Audio Plugins
-
+ * [juced-plugins](http://packages.debian.org/wheezy/juced-plugins) - Juced Plugins
+ * [leet-plugins](http://packages.debian.org/wheezy/leet-plugins) - LEET LADSPA plugins
 
 
 
@@ -215,6 +218,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Converters/streaming/transport
  * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
+ * [autoradio](http://packages.debian.org/wheezy/autoradio) - radio automation software ([Homepage](http://autoradiobc.sf.net))
  * [ambdec](http://packages.debian.org/wheezy/ambdec) - Ambisonic decoder for first and second order ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
  * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
@@ -267,6 +271,10 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
  * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
 
+## Score Editors
+ * [denemo](http://packages.debian.org/wheezy/denemo) - GTK+ front end to GNU Lilypond ([Homepage](http://www.denemo.org))
+ * [nted](http://packages.debian.org/wheezy/nted) - Musical score editor ([Homepage](http://vsr.informatik.tu-chemnitz.de/staff/jan/nted/nted.xhtml))
+ * [lilypond](http://packages.debian.org/wheezy/lilypond) - program for typesetting sheet music ([Homepage](http://lilypond.org/))
 
 
 ## Media players
@@ -330,7 +338,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Unsorted
  * [abcmidi](http://packages.debian.org/wheezy/abcmidi) - Convertit les fichiers ABC au format MIDI et inversement
  * [aubio-tools](http://packages.debian.org/wheezy/aubio-tools) - Bibliothèque pour la segmentation sonore - utilitaires
- * [denemo](http://packages.debian.org/wheezy/denemo) - frontal gtk+ pour GNU Lilypond ([Homepage](http://www.denemo.org))
+
+
  * [ecasound](http://packages.debian.org/wheezy/ecasound) - multitrack-capable audio recorder and effect processor ([Homepage](http://www.eca.cx/ecasound/))
  * [fluid-soundfont-gm](http://packages.debian.org/wheezy/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
  * [fluidsynth](http://packages.debian.org/wheezy/fluidsynth) - Logiciel de synthèse MIDI en temps réel ([Homepage](http://www.fluidsynth.org/))
@@ -388,7 +397,16 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
 
+## Glossary
+
+ * [LADSPA](https://en.wikipedia.org/wiki/LADSPA) - an (API) standard for handling audio filters and audio signal processing effects.
+ * [DSSI](https://en.wikipedia.org/wiki/Disposable_Soft_Synth_Interface) - a virtual instrument (software synthesizer) plugin architecture for use by music sequencer applications.
+ * [LV2](https://en.wikipedia.org/wiki/LV2) - (LADSPA version 2) an open standard for Audio plug-ins and matching host applications.
+
+
 ----------------------------------
+
+
 
 ## TODO
  * add software from kxstudio repos
