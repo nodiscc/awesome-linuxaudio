@@ -393,6 +393,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [denemo](http://packages.debian.org/wheezy/denemo) - GTK+ front end to GNU Lilypond ([Homepage](http://www.denemo.org))
  * [lilypond](http://packages.debian.org/wheezy/lilypond) - program for typesetting sheet music ([Homepage](http://lilypond.org/))
  * [nted](http://packages.debian.org/wheezy/nted) - Musical score editor ([Homepage](http://vsr.informatik.tu-chemnitz.de/staff/jan/nted/nted.xhtml))
+ * [musescore](http://packages.debian.org/wheezy/musescore) popular professional level WYIWYG music score editor ([Homepage](http://musescore.org/))
 
 
 ## Media players
