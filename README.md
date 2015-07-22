@@ -403,11 +403,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [multimedia-video](http://packages.debian.org/wheezy/multimedia-video) - Video packages
 
 ## Linux Distributions
- * [64 Studio](http://www.64studio.com/)
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
  * [Ubuntu Studio](http://ubuntustudio.org/)
  * [Dynebolic](https://www.dyne.org/software/dynebolic/) ``
  * [AVLinux](http://www.bandshed.net/AVLinux.html)
+ * [ArtistX](http://artistx.org/blog/)
+ * [DidJiX](http://easy.open.and.free.fr/didjix/)
 
 ---------------------------------------------
 
