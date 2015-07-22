@@ -19,6 +19,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Audio utilities](#audio-utilities)
 	- [MIDI Utilities](#midi-utilities)
 - [System utilities](#system-utilities)
+	- [Pulseaudio](#pulseaudio)
 - [Transcoding/streaming/transport](#transcodingstreamingtransport)
 - [Lighting](#lighting)
 - [Video](#video)
@@ -248,6 +249,18 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [ingen](http://packages.debian.org/wheezy/ingen) - modular host for LV2 plugins.
 
 
+### Pulseaudio
+ * [pulseaudio](http://packages.debian.org/wheezy/pulseaudio) - PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-module-jack](http://packages.debian.org/wheezy/pulseaudio-module-jack) - jackd modules for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-module-lirc](http://packages.debian.org/wheezy/pulseaudio-module-lirc) - lirc module for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-module-x11](http://packages.debian.org/wheezy/pulseaudio-module-x11) - X11 module for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [pulseaudio-utils](http://packages.debian.org/wheezy/pulseaudio-utils) - Command line tools for the PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
+ * [paprefs](http://packages.debian.org/wheezy/paprefs) - PulseAudio Preferences ([Homepage](http://freedesktop.org/software/pulseaudio/paprefs/))
+ * [pavumeter](http://packages.debian.org/wheezy/pavumeter) - PulseAudio Volume Meter ([Homepage](http://0pointer.de/lennart/projects/pavumeter/))
+ * [padevchooser](http://packages.debian.org/wheezy/padevchooser) - PulseAudio Device Chooser ([Homepage](https://github.com/d3matt/padevchooser))
+ * [paman](http://packages.debian.org/wheezy/paman) - PulseAudio Manager ([Homepage](http://0pointer.de/lennart/projects/paman/))
+ * [pavucontrol](http://packages.debian.org/wheezy/pavucontrol) - PulseAudio Volume Control ([Homepage](http://freedesktop.org/software/pulseaudio/pavucontrol/))
+
 
 
 ## Transcoding/streaming/transport
@@ -271,11 +284,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- * [pulseaudio](http://packages.debian.org/wheezy/pulseaudio) - PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
- * [pulseaudio-module-jack](http://packages.debian.org/wheezy/pulseaudio-module-jack) - jackd modules for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
- * [pulseaudio-module-lirc](http://packages.debian.org/wheezy/pulseaudio-module-lirc) - lirc module for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
- * [pulseaudio-module-x11](http://packages.debian.org/wheezy/pulseaudio-module-x11) - X11 module for PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
- * [pulseaudio-utils](http://packages.debian.org/wheezy/pulseaudio-utils) - Command line tools for the PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
  * **[handbrake](http://packages.debian.org/wheezy/handbrake) - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))**
  * [gpac](http://packages.debian.org/wheezy/gpac) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
  * [hydro2sf2](https://code.google.com/p/hydro2sf2/) - a tool which allows you to convert a Hydrogen drumkit into a SF2 soundfont ``
