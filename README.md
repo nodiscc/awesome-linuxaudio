@@ -105,7 +105,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [paulstretch](http://packages.debian.org/wheezy/paulstretch) - Extreme sound time-stretch ([Homepage](http://hypermammut.sourceforge.net/paulstretch/)* [sonic](http://packages.debian.org/wheezy/sonic) - Simple utility to speed up or slow down speech ([Homepage](http://dev.vinux-project.org/sonic))
  * [phasex](http://packages.debian.org/wheezy/phasex) - Phase Harmonic Advanced Synthesis EXperiment ([Homepage](http://github.com/williamweston/phasex))
  * [playitslowly](http://packages.debian.org/wheezy/playitslowly) - Plays back audio files at a different speed or pitch ([Homepage](http://29a.ch/playitslowly))
- * [radium-compressor](http://packages.debian.org/wheezy/radium-compressor) - radium's compressor plugin
+ * [radium-compressor](http://packages.debian.org/wheezy/radium-compressor) - audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_compressor))
  * [rakarrack](http://packages.debian.org/wheezy/rakarrack) - Simple and easy guitar effects processor for GNU/Linux ([Homepage](http://rakarrack.sourceforge.net))
  * [rev-plugins](http://packages.debian.org/wheezy/rev-plugins) - reverb LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [rubberband-ladspa](http://packages.debian.org/wheezy/rubberband-ladspa) - LADSPA plugin for audio pitch-shifting ([Homepage](http://www.breakfastquay.com/rubberband/))
@@ -116,25 +116,11 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [terminatorx](http://packages.debian.org/wheezy/terminatorx) - realtime audio synthesizer ([Homepage](http://www.terminatorx.org/)
  * [vco-plugins](http://packages.debian.org/wheezy/vco-plugins) - LADSPA plugin sporting anti-aliased oscillators ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [vocproc](http://packages.debian.org/wheezy/vocproc) - LV2 plugin for pitch shifting and vocoding ([Homepage](http://hyperglitch.com/dev/VocProc))
- * [wah-plugins](http://packages.debian.org/wheezy/wah-plugins) - auto-wah LADSPA plugin
+ * [wah-plugins](http://packages.debian.org/wheezy/wah-plugins) - auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [x42-plugins](http://packages.debian.org/wheezy/x42-plugins) - Collection of LV2 plugins ([Homepage](https://github.com/x42/x42-plugins))
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
  * [holap](http://packages.debian.org/wheezy/holap) - Holborn Audio Plugins
-
-
-
-audio compressor for JACK ([Homepage](https://github.com/kmatheussen/radium_compressor))
-auto-wah LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
-DISTHRO Plugin Ports
-DISTHRO Plugin Ports (LV2)
-DISTHRO Plugin Ports (VST)
-
-
-
-
-
-
 
 
 
@@ -162,6 +148,7 @@ DISTHRO Plugin Ports (VST)
  * [whysynth](http://packages.debian.org/wheezy/whysynth) - DSSI Soft Synth Interface ([Homepage](http://www.smbolton.com/whysynth.html))
  * [xwax](http://packages.debian.org/wheezy/xwax) - open-source vinyl emulation software for Linux ([Homepage](http://www.xwax.co.uk/))
  * [zynaddsubfx](http://packages.debian.org/wheezy/zynaddsubfx) - synthétiseur logiciel en temps réel pour Linux ([Homepage](http://zynaddsubfx.sourceforge.net))
+ * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler ` `
 
 
 
@@ -193,6 +180,8 @@ DISTHRO Plugin Ports (VST)
 
 
 ## System utilities
+ * **[jackd2](http://packages.debian.org/wheezy/jackd2) - Kit de connection audio JACK (serveur et exemples de clients) ([Homepage](http://jackaudio.org/))**
+ * **[qjackctl](http://packages.debian.org/wheezy/qjackctl) - User interface for controlling the JACK sound server ([Homepage](http://qjackctl.sourceforge.net)) * [jackeq](http://packages.debian.org/wheezy/jackeq) - routes and manipulates audio from/to multiple sources ([Homepage](http://djcj.org/jackeq/))**
  * [a2jmidid](http://packages.debian.org/wheezy/a2jmidid) - démon pour lier des applications obsolètes ALSA MIDI dans des systèmes JACK MIDI ([Homepage](http://home.gna.org/a2jmidid/))
  * [aconnectgui](http://packages.debian.org/wheezy/aconnectgui) - gestionnaire graphique de connexion au séquenceur ALSA
  * [aj-snapshot](http://packages.debian.org/wheezy/aj-snapshot) - fait des captures des connexions JACK ([Homepage](http://aj-snapshot.sourceforge.net/))
@@ -211,11 +200,9 @@ DISTHRO Plugin Ports (VST)
  * [jack-rack](http://packages.debian.org/wheezy/jack-rack) - LADSPA effects "rack" for JACK ([Homepage](http://jack-rack.sourceforge.net/))
  * [jack-tools](http://packages.debian.org/wheezy/jack-tools) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([Homepage](http://slavepianos.org/rd/?t=rju))
  * [jackd2-firewire](http://packages.debian.org/wheezy/jackd2-firewire) - JACK Audio Connection Kit (FFADO and FreeBoB backends) ([Homepage](http://jackaudio.org/))
- * [jackd2](http://packages.debian.org/wheezy/jackd2) - Kit de connection audio JACK (serveur et exemples de clients) ([Homepage](http://jackaudio.org/))
  * [laditools](http://packages.debian.org/wheezy/laditools) - Linux Audio Desktop Integration Tools ([Homepage](https://launchpad.net/laditools))
  * [linux-image-rt-686-pae](http://packages.debian.org/wheezy/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
  * [patchage](http://packages.debian.org/wheezy/patchage) - Baie modulaire pour l'audio Jack et Alsa Midi ([Homepage](http://drobilla.net/software/patchage/))
- * [qjackctl](http://packages.debian.org/wheezy/qjackctl) - User interface for controlling the JACK sound server ([Homepage](http://qjackctl.sourceforge.net)) * [jackeq](http://packages.debian.org/wheezy/jackeq) - routes and manipulates audio from/to multiple sources ([Homepage](http://djcj.org/jackeq/))
  * [qjackrcd](http://packages.debian.org/wheezy/qjackrcd) - Qt4 application to record JACK server outputs ([Homepage](http://qjackrcd.sourceforge.net))
  * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio ``
  * [rtkit](http://packages.debian.org/wheezy/rtkit) - politique de temps réel et démon de surveillance ([Homepage](http://0pointer.de/public/))
@@ -367,8 +354,8 @@ DISTHRO Plugin Ports (VST)
  * [timemachine](http://packages.debian.org/wheezy/timemachine) - enregistreur audio JACK pour une utilisation spontanée et de conservation ([Homepage](http://plugin.org.uk/timemachine/))
  * [yoshimi](http://packages.debian.org/wheezy/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
  * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
- * **http://www.kvraudio.com/?t[]=linux**
  * http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
+
 
 
 ------------------------------
@@ -376,6 +363,7 @@ DISTHRO Plugin Ports (VST)
 
 ## Links
 ### General doc/software/forums
+ * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
  * [Linux-Sound Wiki](http://wiki.linuxaudio.org/wiki/start)
  * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
  * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
@@ -395,15 +383,16 @@ DISTHRO Plugin Ports (VST)
 ----------------------------------
 
 ## TODO
- * list packages in kxstudio repos
- * split utilities between audio and system utilities
- * sort the following list
- * provide configuration scripts for debian systems
- * centralize resources (samples, presets...) somewhere if license allows it
+ * add software from kxstudio repos
+ * split audio/system utilities
+ * sort unsorted links
+ * provide configuration scripts/guides for debian systems
+ * centralize resources (samples, presets...) somewhere if licenses allows it
  * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
  * add links from http://linux-sound.org/
  * Package all unpackaged software `` for Debian
  * Find dead links, link kxstudio packages to kxstudio package pages
+ * Add software from http://www.kvraudio.com/plugins/linux/newest
 
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
