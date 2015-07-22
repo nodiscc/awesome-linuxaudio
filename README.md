@@ -279,6 +279,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [csound-utils](http://packages.debian.org/wheezy/csound-utils) - miscellaneous utilities for the Csound system ([Homepage](http://www.csounds.com))
  * [cabbage-plugins](http://packages.debian.org/wheezy/cabbage-plugins) - csound development toolkit plugins
  * [cabbage-plugins-extra](http://packages.debian.org/wheezy/cabbage-plugins-extra) - csound development toolkit plugins (Extra)
+ * [supercollider-supernova](http://packages.debian.org/wheezy/supercollider-supernova) - real time audio synthesis server (multiprocessor version) ([Homepage](http://supercollider.sourceforge.net/))
+ * [supercollider](http://packages.debian.org/wheezy/supercollider) - real time audio synthesis programming language ([Homepage](http://supercollider.sourceforge.net/))
+
 
 
 ## Score Editors
