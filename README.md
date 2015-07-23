@@ -503,6 +503,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
  * [Linuxaudio.org](http://linuxaudio.org/) - consortium of libre software projects, artists, companies, institutions, organizations, and hardware vendors using Linux/Free Software based systems for professional audio work.
  * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
+ * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
  * http://lau.linuxaudio.org/
  * http://linuxaudio.org/resources
  * http://www.linux-sound.org/
@@ -513,7 +514,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [System Preparations](http://www.penguinproducer.com/2011/09/system-preparations/)
  * [System configuration [Linux-Sound]](http://wiki.linuxaudio.org/wiki/system_configuration)
  * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
- * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
  * [▶ Rough Mix with Calf FX - YouTube](https://www.youtube.com/watch?v=JR6mRkFkoBQ)
  * [▶ Hydrogen Drum Machine with CALF plugins - YouTube](https://www.youtube.com/watch?v=FJaSbPZgLnw)
 
