@@ -116,15 +116,17 @@ do
 	PACKAGE_DESCR=`apt-cache show $pack | egrep "^Description" |egrep -v "Description-md5"| uniq | cut -d " " -f2-`;
 	HOMEPAGE=`apt-cache show $pack | egrep "^Homepage" | uniq | cut -d " " -f2-`;
 	LINK_URL="http://packages.debian.org/wheezy/$pack"
-	if KXSTUDIO="1"
+	suffix=""
+	if [ "$KXSTUDIO" = "1" ]
 		then LINK_URL="http://kxstudio.linuxaudio.org/Repositories:Plugins"
+		suffix=' `▒`'
 	fi
 
 	if [ "$MARKDOWN" = "1" ]
 	then #Markdown syntax
 		if [[ "$MODE" != "homepage_only" ]]
 		then
-			echo -n "${BULLET}[$pack]($LINK_URL) - $PACKAGE_DESCR";
+			echo -n "${BULLET}[$pack]($LINK_URL) - ${PACKAGE_DESCR}${suffix}";
 		fi
 		if [[ "$HOMEPAGE" != "" ]]
 		then
