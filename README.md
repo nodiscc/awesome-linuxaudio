@@ -20,7 +20,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Audio utilities](#audio-utilities)
 	- [MIDI Utilities](#midi-utilities)
 - [System utilities](#system-utilities)
-	- [Pulseaudio](#pulseaudio)
 - [Transcoding/streaming/transport](#transcodingstreamingtransport)
 - [Lighting](#lighting)
 - [Video](#video)
@@ -295,7 +294,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
 
 
-### Pulseaudio
+##### Pulseaudio
  * [padevchooser](http://packages.debian.org/wheezy/padevchooser) - PulseAudio Device Chooser ([Homepage](https://github.com/d3matt/padevchooser))
  * [paman](http://packages.debian.org/wheezy/paman) - PulseAudio Manager ([Homepage](http://0pointer.de/lennart/projects/paman/))
  * [paprefs](http://packages.debian.org/wheezy/paprefs) - PulseAudio Preferences ([Homepage](http://freedesktop.org/software/pulseaudio/paprefs/))
