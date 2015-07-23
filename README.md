@@ -444,6 +444,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [multimedia-video](http://packages.debian.org/wheezy/multimedia-video) - Video packages
 
 ## Linux Distributions
+ * **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 12.04.3 LTS. 
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
  * [Ubuntu Studio](http://ubuntustudio.org/)
  * [Dynebolic](https://www.dyne.org/software/dynebolic/) ``
@@ -496,8 +497,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * **[Linux Audio Users Guide](http://linux-audio.com/)**
  * **[Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
  * **[linuxaudio mailing lists](http://lists.linuxaudio.org/listinfo/)**
- * [KXStudio : Repositories : Applications](http://kxstudio.sourceforge.net/Repositories:Applications)
- * [KXStudio : Repositories : Plugins](http://kxstudio.sourceforge.net/Repositories:Plugins)
+ * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
+ * [KXStudio : Repositories : Plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)
  * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
  * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
  * [Linuxaudio.org](http://linuxaudio.org/) - consortium of libre software projects, artists, companies, institutions, organizations, and hardware vendors using Linux/Free Software based systems for professional audio work.
