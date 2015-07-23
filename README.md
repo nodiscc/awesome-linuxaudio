@@ -5,7 +5,7 @@ A list of software and resources for professional audio/video/live events produc
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable with `sudo aptitude install softwarename`. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound,  video and live applications.
 
        Unpackaged
-    ▒   Only in KXStudio packages
+    ▒   Only in KXStudio repositories
        Non-free/closed source
 
 
@@ -523,7 +523,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Linuxaudio.org](http://linuxaudio.org/) - consortium of libre software projects, artists, companies, institutions, organizations, and hardware vendors using Linux/Free Software based systems for professional audio work.
  * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
- * http://lau.linuxaudio.org/
  * http://linuxaudio.org/resources
  * http://www.linux-sound.org/
  * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau) and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
