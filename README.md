@@ -529,9 +529,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## TODO
  * **Backup sourceforge projects somewhere else (code, doc, issues)**
- * add software from kxstudio repos
+ * add software from kxstudio repos (https://gist.github.com/nodiscc/f8ef6744199ec9f26044)
  * sort unsorted links
- * provide configuration scripts/guides for debian systems
+ * provide configuration scripts/guides for debian systems?
  * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
  * add links from http://linux-sound.org/
  * Package all unpackaged software `` for Debian
