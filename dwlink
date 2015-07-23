@@ -27,7 +27,7 @@ OPTIONS:
 #fi
 
 #Check options and select appropriate text for bullet lists
-while getopts ":wmbhku" opt; do
+while getopts ":wmbhkcu" opt; do
 	case $opt in
 	h)
 	echo "$USAGE"
@@ -51,6 +51,10 @@ while getopts ":wmbhku" opt; do
 	;;
 	k)
 	KXSTUDIO="1"
+	OPTS_ENABLED="1"
+	;;
+	c)
+	MODE="check"
 	OPTS_ENABLED="1"
 	;;
 	/?)
@@ -94,6 +98,16 @@ then
 	exit 0
 fi
 
+if [ "$MODE" = "check" ]
+	then for i in $ARGS
+	do apt-cache policy $i | grep -q http://ftp.fr.debian.org/debian/
+		if [ "$?" != "0" ]
+			then echo "$i not in debian"
+			else ./dwlink -mb $i
+		fi
+	done
+	exit 0
+fi
 
 
 ##Debian Package mode
