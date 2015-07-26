@@ -34,6 +34,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [DOCUMENTATION](#documentation)
 	- [General doc/software/forums](#general-docsoftwareforums)
 	- [Howtos](#howtos)
+	- [Resources/Samples](#resourcessamples)
 - [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [LICENSE](#license)
@@ -553,6 +554,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * http://www.linux-sound.org/
  * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau) and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
  * [Linux Audio Developers](http://lad.linuxaudio.org/)
+ * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
 
 ### Howtos
  * [System Preparations](http://www.penguinproducer.com/2011/09/system-preparations/)
@@ -561,12 +563,17 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [▶ Rough Mix with Calf FX - YouTube](https://www.youtube.com/watch?v=JR6mRkFkoBQ)
  * [▶ Hydrogen Drum Machine with CALF plugins - YouTube](https://www.youtube.com/watch?v=FJaSbPZgLnw)
 
+### Resources/Samples
+ * Drumgizmo: [DRSKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/DRSKit2_0_1.zip), [MuldjordKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/MuldjordKit2.zip)
+ * Gigasampler: [FlameStudios](http://download.linuxaudio.org/musical-instrument-libraries/gig/flamestudios.tar.7z)
+ * SF2: [Airfont](http://download.linuxaudio.org/musical-instrument-libraries/sf2/airfont_a340u.tar.7z), [Fluidr3](http://download.linuxaudio.org/musical-instrument-libraries/sf2/fluidr3.tar.7z), [MDK Bass Snare](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_bass_snare.tar.bz2), [MDK Cymbals](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_cymbals.tar.bz2), [MDK Hihat](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_hihat.tar.bz2), [MDK Kit](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_kit.tar.bz2)
+ * SFZ: [Balafon](http://download.linuxaudio.org/musical-instrument-libraries/sfz/balafon.tar.7z), [Clayton3 Udu](http://download.linuxaudio.org/musical-instrument-libraries/sfz/clayton3_udu.tar.7z), [Detuned piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/detuned_piano.tar.7z), [Plucked Piano strings](http://download.linuxaudio.org/musical-instrument-libraries/sfz/plucked_piano_strings.tar.7z), [Salamander Drumkit](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_drumkit_v1.tar.7z), [Salamander Grand Piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_grand_piano_v3_48khz24bit.tar.7z), [SFZTest](http://download.linuxaudio.org/musical-instrument-libraries/sfz/sfztest.tar.7z), [Skerrat London Piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/skerratt_london_piano_v2.tar.7z), [Open Source Drumkit](http://download.linuxaudio.org/musical-instrument-libraries/sfz/the_open_source_drumkit.tar.7z), [Transition FX](http://download.linuxaudio.org/musical-instrument-libraries/sfz/transition-fx.tar.7z)
+
 ## GLOSSARY
 
  * [LADSPA](https://en.wikipedia.org/wiki/LADSPA) - an (API) standard for handling audio filters and audio signal processing effects.
  * [DSSI](https://en.wikipedia.org/wiki/Disposable_Soft_Synth_Interface) - a virtual instrument (software synthesizer) plugin architecture for use by music sequencer applications.
  * [LV2](https://en.wikipedia.org/wiki/LV2) - (LADSPA version 2) an open standard for Audio plug-ins and matching host applications.
-
 
 ----------------------------------
 
@@ -607,3 +614,24 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
  * If there is no debian package: the syntax is `[Software name](http://url.to/project/homepage)`
  * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Here is a bookmarklet to generate a markdown link for the current page URL and title: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));`
  * Contributors list can be updated with `git shortlog -sne`
+
+
+ ---------------
+ FX
+abgate amb-plugins arctican-plugins artyfx autotalent avw.lv2 beatslash-lv2 calf-plugins calf-plugins-git caps cmt deteriorate-lv2 distrho-plugin-ports dpf-plugins drowaudio-plugins
+
+
+INSTRUMENTS
+add64 ams-lv2 amsynth argotlunar blepvco blop cursynth dexed drmr drumgizmo drumkv1
+
+AUDIO TOOLS
+easyssp
+
+MIDI TOOLS
+arpage
+
+SIG PROCESSING
+cabbage-plugins cabbage-plugins-extra
+
+SYS TOOLS
+dssi-vst
