@@ -219,7 +219,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
  * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
  * [BEAST](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
-
+ * [amsynth](http://packages.debian.org/wheezy/amsynth) - two oscillator software synthesizer
+two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
+ * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based plugins for LADSPA hosts
 
 
 
@@ -249,11 +251,13 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
  * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
  * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
+ * [sonic-visualiser](http://packages.debian.org/wheezy/sonic-visualiser) - View and analyse the contents of music audio files ([Homepage](http://www.sonicvisualiser.org))
+ * [easyssp](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio visualization plugin `▒`
 
 
 ### MIDI Utilities
  * [abcmidi](http://packages.debian.org/wheezy/abcmidi) - Convertit les fichiers ABC au format MIDI et inversement
- * [arpage](http://packages.debian.org/wheezy/arpage) - MIDI Arpeggiator w/ JACK Tempo Sync.
+ * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](http://packages.debian.org/wheezy/gmidimonitor) - GTK+ application that shows MIDI events ([Homepage](http://home.gna.org/gmidimonitor/)
  * [jack-keyboard](http://packages.debian.org/wheezy/jack-keyboard) - Virtual MIDI keyboard for JACK MIDI ([Homepage](http://jack-keyboard.sourceforge.net))
  * [kmidimon](http://packages.debian.org/wheezy/kmidimon) - MIDI monitor using ALSA sequencer and KDE user interface ([Homepage](http://kmidimon.sourceforge.net))
@@ -276,7 +280,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [carla](http://packages.debian.org/wheezy/carla) - audio plugin host
  * [catia](http://packages.debian.org/wheezy/catia) - extended JACK patchbay
  * [claudia](http://packages.debian.org/wheezy/claudia) - extended ladish frontend
- * [dssi-vst](http://packages.debian.org/wheezy/dssi-vst) - Adapter for VST an VSTi audio plugins ([Homepage](http://breakfastquay.com/dssi-vst/))
+ * [dssi-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Adapter for VST an VSTi audio plugins `▒`
  * [festige](http://packages.debian.org/wheezy/festige) - GUI for fst and dssi-vst
  * [ffado-mixer-qt4](http://packages.debian.org/wheezy/ffado-mixer-qt4) - FFADO D-Bus mixer applets (QT4) ([Homepage](http://www.ffado.org))
  * [gladish](http://packages.debian.org/wheezy/gladish) - graphical interface for LADI Session Handler ([Homepage](http://ladish.org/))
@@ -421,8 +425,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 
 ## Signal processing/electronics
- * [cabbage-plugins-extra](http://packages.debian.org/wheezy/cabbage-plugins-extra) - csound development toolkit plugins (Extra)
- * [cabbage-plugins](http://packages.debian.org/wheezy/cabbage-plugins) - csound development toolkit plugins
+ * [cabbage-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins `▒`
+ * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (Extra) `▒`
  * [clam-networkeditor-examples](http://packages.debian.org/wheezy/clam-networkeditor-examples) - CLAM Network Editor, examples ([Homepage](http://clam-project.org/))
  * [clam-networkeditor](http://packages.debian.org/wheezy/clam-networkeditor) - CLAM Network Editor, prototyping tool for CLAM ([Homepage](http://clam-project.org/))
  * [csladspa](http://packages.debian.org/wheezy/csladspa) - LADSPA plugin for Csound ([Homepage](http://www.csounds.com))
@@ -537,7 +541,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [rezound](http://packages.debian.org/wheezy/rezound) - 
  * [schism](http://packages.debian.org/wheezy/schism) - Clone de ImpulseTracker (même interface, même comportement) ([Homepage](http://schismtracker.org/))
  * [seq24](http://packages.debian.org/wheezy/seq24) - Séquenceur MIDI temps réel ([Homepage](http://www.filter24.org/seq24/))
- * [sonic-visualiser](http://packages.debian.org/wheezy/sonic-visualiser) - View and analyse the contents of music audio files ([Homepage](http://www.sonicvisualiser.org))
+
  * [soundconverter](http://packages.debian.org/wheezy/soundconverter) - Application GNOME pour convertir des fichiers audio d'un format à un autre ([Homepage](http://soundconverter.org/))
  * [sox](http://packages.debian.org/wheezy/sox) - outils complets pour le traitement des sons ([Homepage](http://sox.sourceforge.net))
  * [stretchplayer](http://packages.debian.org/wheezy/stretchplayer) - Audio file player with time stretch and pitch shifting ([Homepage](http://www.teuton.org/~gabriel/stretchplayer/)
@@ -638,9 +642,9 @@ Read [System Setup](system-setup.md) for system related topics.
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
 
-    16  nodiscc <nodiscc@gmail.com>
+    52  nodiscc <nodiscc@gmail.com>
+     1  Aaron Wolf <wolftune@gmail.com>
      1  Andrew Kelley <superjoe30@gmail.com>
-
 
 ## CONTRIBUTING
 
@@ -652,21 +656,3 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
  * If there is no debian package: the syntax is `[Software name](http://url.to/project/homepage)`
  * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Here is a bookmarklet to generate a markdown link for the current page URL and title: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));`
  * Contributors list can be updated with `git shortlog -sne`
-
-
- ---------------
-
-INSTRUMENTS
-add64 ams-lv2 amsynth argotlunar blepvco blop cursynth dexed drmr drumgizmo drumkv1
-
-AUDIO TOOLS
-easyssp
-
-MIDI TOOLS
-arpage
-
-SIG PROCESSING
-cabbage-plugins cabbage-plugins-extra
-
-SYS TOOLS
-dssi-vst
