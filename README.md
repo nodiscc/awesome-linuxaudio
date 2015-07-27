@@ -620,13 +620,13 @@ Read [System Setup](system-setup.md) for system related topics.
 
 ## TODO
  * **Backup sourceforge projects somewhere else (code, doc, issues)** `egrep --only-matching 'https?://[0-9a-Z]*\.s(ource)?f(orge)?\.net.*' README.md`
+ * Sort and add http://wiki.linuxaudio.org/wiki/start?do=index (wiki cleanup and migration progress at [migration.md](migration.md))
  * add software from kxstudio repos (https://gist.github.com/nodiscc/f8ef6744199ec9f26044)
  * sort unsorted links
- * provide configuration scripts/guides for debian systems?
+ * provide configuration scripts/guides for debian systems? See [System Setup](system-setup.md)
  * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
  * add links from http://linux-sound.org/
  * Package all unpackaged software `` for Debian
- * Find dead links, link kxstudio packages to kxstudio package pages
  * Add software from http://www.kvraudio.com/plugins/linux/newest
  * add xmms
  * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
@@ -634,7 +634,6 @@ Read [System Setup](system-setup.md) for system related topics.
  * Package scripts from http://www.pjb.com.au/midi/
  * Group and package scripts from http://wiki.linuxaudio.org/wiki/script_midi2hydrogen, http://wiki.linuxaudio.org/wiki/script_lscp2rgd, http://wiki.linuxaudio.org/wiki/scripts_wav2specimen, http://wiki.linuxaudio.org/wiki/scripts_and_tools
  * add software from http://bandshed.net/avlinux6-debs/
- * Sort and add http://wiki.linuxaudio.org/wiki/start?do=index
 
 ## LICENSE
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
