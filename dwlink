@@ -19,6 +19,7 @@ OPTIONS:
     -b    enable bullet list
     -w    only generate link to homepage
     -u    generate link for an URL
+    -c    only check if packages are in official debian repos
     -k    use kxstudio website as package URL
     "
 
