@@ -1,8 +1,8 @@
 # awesome-linuxaudio
 
-A list of software and resources for professional audio/video/live events production on Linux.  
+A list of software and resources for professional audio/video/live events production on the Linux platform.
 
-This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable with `sudo aptitude install softwarename`. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound,  video and live applications.
+This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable with `sudo aptitude install softwarename`. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
        Unpackaged
     ▒   Only in KXStudio repositories
@@ -30,11 +30,11 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Media players](#media-players)
 - [Metapackages](#metapackages)
 - [Linux Distributions](#linux-distributions)
+- [Resources/Samples](#resourcessamples)
 - [Unsorted](#unsorted)
 - [DOCUMENTATION](#documentation)
 	- [General doc/software/forums](#general-docsoftwareforums)
 	- [Howtos](#howtos)
-	- [Resources/Samples](#resourcessamples)
 - [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [LICENSE](#license)
@@ -58,7 +58,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  ````
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
-
+ * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
 
 ## Audio Editors
  * [audacity](http://packages.debian.org/wheezy/audacity) - Éditeur audio rapide multi plate-forme ([Homepage](http://audacity.sourceforge.net/))
@@ -168,6 +168,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zam-plugins](http://packages.debian.org/wheezy/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
  * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
+ * [creox](http://zyzstar.kosoru.com/?creox) - a real-time sound/effects processor. ``
 
 
 
@@ -217,6 +218,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zynaddsubfx-dssi-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dssi plugin of zynaddsubfx `▒`
  * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
  * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
+ * [BEAST](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
 
 
 
@@ -226,15 +228,19 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 
 ## Audio utilities
+ * **[Linux Show Player](http://linux-show-player.sourceforge.net/) a free cue player designed for sound-playback in stage production. The goal of the project is to provide a complete playback software for musical plays, theater shows and similar. ``**
  * [brp-pacu](http://packages.debian.org/wheezy/brp-pacu) - audio analysis tool ([Homepage](http://sourceforge.net/projects/brp-pacu/))
  * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
  * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
  * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
  * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
+ * [gtick](http://packages.debian.org/wheezy/gtick) - Metronome application ([Homepage](http://www.antcom.de/gtick/))
  * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
  * [jaaa](http://packages.debian.org/wheezy/jaaa) - audio signal generator and spectrum analyser ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa))
  * [jackmeter](http://packages.debian.org/wheezy/jackmeter) - a basic command line meter for the JACK audio system ([Homepage](http://www.aelius.com/njh/jackmeter/))
  * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
+ * [bitmeter](http://packages.debian.org/wheezy/bitmeter) - diagnosis tool for JACK audio software ([Homepage](http://devel.tlrmx.org/audio/))
+ * [xoscope](http://packages.debian.org/wheezy/xoscope) - digital oscilloscope ([Homepage](http://xoscope.sourceforge.net/))
  * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
  * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
  * [QLoud](http://gaydenko.com/qloud/) - tool to measure loudspeaker frequency and step responses and distortions ``
@@ -243,7 +249,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
  * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
  * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
-
 
 
 ### MIDI Utilities
@@ -293,6 +298,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices ``
  * [zita-ajbridge](http://packages.debian.org/wheezy/zita-ajbridge) - pont alsa vers jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
+ * [alsa-tools](http://packages.debian.org/wheezy/alsa-tools) - Console based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
+ * [alsa-tools-gui](http://packages.debian.org/wheezy/alsa-tools-gui) - GUI based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
+
 
 
 ##### Pulseaudio
@@ -341,6 +349,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Lighting
  * **[Q Light Controller+ (QLC+)](http://www.qlcplus.org/)** - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. ``
+ * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
+ * [D::Light](http://www.getdlight.com/index.php/en/) - mobile, flexible solution to control modern lighting/performance technology. ` `
 
 
 ## Video
@@ -392,6 +402,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [VSXu Player](http://www.vsxu.com/products/player) - program that creates inspiring, beautiful pictures to your sound and music ``
  * [wings3d](http://packages.debian.org/wheezy/wings3d) - Nendo-inspired 3D polygon mesh modeller ([Homepage](http://www.wings3d.com))
  * [yaprm](http://sourceforge.net/projects/yaprm/) - a free-as-in-freedom modeller to graphicaly design 3d scenes and generate POV-Ray-files for them.
+ * [fluxus](http://www.pawfal.org/fluxus/) - A 3D game engine for livecoding worlds into existence. ``
 
 
 
@@ -419,7 +430,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [csound-utils](http://packages.debian.org/wheezy/csound-utils) - miscellaneous utilities for the Csound system ([Homepage](http://www.csounds.com))
  * [csound](http://packages.debian.org/wheezy/csound) - powerful and versatile sound synthesis software ([Homepage](http://www.csounds.com))
  * [csoundqt](http://packages.debian.org/wheezy/csoundqt) - frontend for the csound sound processor ([Homepage](http://sourceforge.net/projects/qutecsound))
- * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
  * [lcd4linux](http://packages.debian.org/wheezy/lcd4linux) - Grabs information and displays it on an external lcd ([Homepage](http://ssl.bulix.org/projects/lcd4linux/))
  * [lcdproc](http://packages.debian.org/wheezy/lcdproc) - LCD display driver daemon and clients ([Homepage](http://www.lcdproc.org/))
  * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
@@ -498,6 +508,15 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [ArtistX](http://artistx.org/blog/)
  * [DidJiX](http://easy.open.and.free.fr/didjix/)
 
+
+## Resources/Samples
+ * Drumgizmo: [DRSKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/DRSKit2_0_1.zip), [MuldjordKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/MuldjordKit2.zip)
+ * Gigasampler: [FlameStudios](http://download.linuxaudio.org/musical-instrument-libraries/gig/flamestudios.tar.7z)
+ * SF2: [Airfont](http://download.linuxaudio.org/musical-instrument-libraries/sf2/airfont_a340u.tar.7z), [Fluidr3](http://download.linuxaudio.org/musical-instrument-libraries/sf2/fluidr3.tar.7z), [MDK Bass Snare](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_bass_snare.tar.bz2), [MDK Cymbals](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_cymbals.tar.bz2), [MDK Hihat](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_hihat.tar.bz2), [MDK Kit](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_kit.tar.bz2), [BlackPearl4pc](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_4pc.sf2), [Blackpearl4pcAlt](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_4pc_Alt.sf2), [Blackpearl5pc](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_5pc.sf2), [RedZeppelin4pc](http://www.bandshed.net/sounds/sf2/AVL-Red_Zeppelin_4pc.sf2), [RedZeppelin5pc](http://www.bandshed.net/sounds/sf2/AVL-Red_Zeppelin_5pc.sf2)
+ * SFZ: [Balafon](http://download.linuxaudio.org/musical-instrument-libraries/sfz/balafon.tar.7z), [Clayton3 Udu](http://download.linuxaudio.org/musical-instrument-libraries/sfz/clayton3_udu.tar.7z), [Detuned piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/detuned_piano.tar.7z), [Plucked Piano strings](http://download.linuxaudio.org/musical-instrument-libraries/sfz/plucked_piano_strings.tar.7z), [Salamander Drumkit](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_drumkit_v1.tar.7z), [Salamander Grand Piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_grand_piano_v3_48khz24bit.tar.7z), [SFZTest](http://download.linuxaudio.org/musical-instrument-libraries/sfz/sfztest.tar.7z), [Skerrat London Piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/skerratt_london_piano_v2.tar.7z), [Open Source Drumkit](http://download.linuxaudio.org/musical-instrument-libraries/sfz/the_open_source_drumkit.tar.7z), [Transition FX](http://download.linuxaudio.org/musical-instrument-libraries/sfz/transition-fx.tar.7z), [60s_organ](http://www.bandshed.net/sounds/sfz/60s_organ.zip), [AVL_Drumkits](http://www.bandshed.net/sounds/sfz/AVL_Drumkits.zip), [Black_Pearl_Drumkits](http://www.bandshed.net/sounds/sfz/Black_Pearl_Drumkits_R1.zip), [LittleLizardPiano](http://www.bandshed.net/sounds/sfz/LittleLizardPiano.zip), [SalamanderDrumkit](http://www.bandshed.net/sounds/sfz/SalamanderDrumkit.zip), [SoftBells](http://www.bandshed.net/sounds/sfz/SoftBells.zip), [StereoWurly](http://www.bandshed.net/sounds/sfz/StereoWurly.zip), [acousbass](http://www.bandshed.net/sounds/sfz/acousbass.zip), [altosax](http://www.bandshed.net/sounds/sfz/altosax.zip), [analog_bass](http://www.bandshed.net/sounds/sfz/analog_bass.zip), [b3_organ](http://www.bandshed.net/sounds/sfz/b3_organ.zip), [banjo](http://www.bandshed.net/sounds/sfz/banjo.zip), [bass_bow](http://www.bandshed.net/sounds/sfz/bass_bow.zip), [bass_sect](http://www.bandshed.net/sounds/sfz/bass_sect.zip), [bassoon_sect](http://www.bandshed.net/sounds/sfz/bassoon_sect.zip), [blocks](http://www.bandshed.net/sounds/sfz/blocks.zip), [brightbass](http://www.bandshed.net/sounds/sfz/brightbass.zip), [brushkit](http://www.bandshed.net/sounds/sfz/brushkit.zip), [cello](http://www.bandshed.net/sounds/sfz/cello.zip), [cellos](http://www.bandshed.net/sounds/sfz/cellos.zip), [chimes](http://www.bandshed.net/sounds/sfz/chimes.zip), [claps](http://www.bandshed.net/sounds/sfz/claps.zip), [clarinet](http://www.bandshed.net/sounds/sfz/clarinet.zip), [clarinet_sect](http://www.bandshed.net/sounds/sfz/clarinet_sect.zip), [clavinet](http://www.bandshed.net/sounds/sfz/clavinet.zip), [contents.txt](http://www.bandshed.net/sounds/sfz/contents.txt), [cowbell](http://www.bandshed.net/sounds/sfz/cowbell.zip), [deepbass](http://www.bandshed.net/sounds/sfz/deepbass.zip), [dx7_piano](http://www.bandshed.net/sounds/sfz/dx7_piano.zip), [fatsynthbass](http://www.bandshed.net/sounds/sfz/fatsynthbass.zip), [fender_bass](http://www.bandshed.net/sounds/sfz/fender_bass.zip), [fenderbass](http://www.bandshed.net/sounds/sfz/fenderbass.zip), [flute](http://www.bandshed.net/sounds/sfz/flute.zip), [flute_sect](http://www.bandshed.net/sounds/sfz/flute_sect.zip), [french_horn_sect](http://www.bandshed.net/sounds/sfz/french_horn_sect.zip), [fretless_bass](http://www.bandshed.net/sounds/sfz/fretless_bass.zip), [glock](http://www.bandshed.net/sounds/sfz/glock.zip), [gmkit](http://www.bandshed.net/sounds/sfz/gmkit.zip), [gretch_bass](http://www.bandshed.net/sounds/sfz/gretch_bass.zip), [harmonica](http://www.bandshed.net/sounds/sfz/harmonica.zip), [harpsichord](http://www.bandshed.net/sounds/sfz/harpsichord.zip), [hihats](http://www.bandshed.net/sounds/sfz/hihats.zip), [hpiano](http://www.bandshed.net/sounds/sfz/hpiano.zip), [ibanez_bass](http://www.bandshed.net/sounds/sfz/ibanez_bass.zip), [jazzbass](http://www.bandshed.net/sounds/sfz/jazzbass.zip), [jg_violins](http://www.bandshed.net/sounds/sfz/jg_violins.zip), [jgkit](http://www.bandshed.net/sounds/sfz/jgkit.zip), [kicks](http://www.bandshed.net/sounds/sfz/kicks.zip), [kit](http://www.bandshed.net/sounds/sfz/kit.zip), [marimba](http://www.bandshed.net/sounds/sfz/marimba.zip), [melodica](http://www.bandshed.net/sounds/sfz/melodica.zip), [moog_bass](http://www.bandshed.net/sounds/sfz/moog_bass.zip), [nsa](http://www.bandshed.net/sounds/sfz/nsa.zip), [nylon](http://www.bandshed.net/sounds/sfz/nylon.zip), [oboe_sect](http://www.bandshed.net/sounds/sfz/oboe_sect.zip), [picked1](http://www.bandshed.net/sounds/sfz/picked1.zip), [realbanjo](http://www.bandshed.net/sounds/sfz/realbanjo.zip), [recorder](http://www.bandshed.net/sounds/sfz/recorder.zip), [rhodes](http://www.bandshed.net/sounds/sfz/rhodes.zip), [ride](http://www.bandshed.net/sounds/sfz/ride.zip), [ride2](http://www.bandshed.net/sounds/sfz/ride2.zip), [sax_sect](http://www.bandshed.net/sounds/sfz/sax_sect.zip), [shaker](http://www.bandshed.net/sounds/sfz/shaker.zip), [sleighbell](http://www.bandshed.net/sounds/sfz/sleighbell.zip), [snares](http://www.bandshed.net/sounds/sfz/snares.zip), [solobassoon](http://www.bandshed.net/sounds/sfz/solobassoon.zip), [soloviolin](http://www.bandshed.net/sounds/sfz/soloviolin.zip), [sonatina](http://www.bandshed.net/sounds/sfz/sonatina.zip), [steelgtr](http://www.bandshed.net/sounds/sfz/steelgtr.zip), [stereo_lespaul](http://www.bandshed.net/sounds/sfz/stereo_lespaul.zip), [stereo_rhodes](http://www.bandshed.net/sounds/sfz/stereo_rhodes.zip), [synth_bass](http://www.bandshed.net/sounds/sfz/synth_bass.zip), [synth_strings](http://www.bandshed.net/sounds/sfz/synth_strings.zip), [synthbrass](http://www.bandshed.net/sounds/sfz/synthbrass.zip), [tabla](http://www.bandshed.net/sounds/sfz/tabla.zip), [tenorsax](http://www.bandshed.net/sounds/sfz/tenorsax.zip), [timbales](http://www.bandshed.net/sounds/sfz/timbales.zip), [timpani](http://www.bandshed.net/sounds/sfz/timpani.zip), [toms](http://www.bandshed.net/sounds/sfz/toms.zip), [trombone_sect](http://www.bandshed.net/sounds/sfz/trombone_sect.zip), [trumpet](http://www.bandshed.net/sounds/sfz/trumpet.zip), [trumpet_mute](http://www.bandshed.net/sounds/sfz/trumpet_mute.zip), [trumpet_sect](http://www.bandshed.net/sounds/sfz/trumpet_sect.zip), [vibes](http://www.bandshed.net/sounds/sfz/vibes.zip), [warmpad](http://www.bandshed.net/sounds/sfz/warmpad.zip), [warmpad2](http://www.bandshed.net/sounds/sfz/warmpad2.zip), [wurt](http://www.bandshed.net/sounds/sfz/wurt.zip), [yamahagtr](http://www.bandshed.net/sounds/sfz/yamahagtr.zip), 
+ * Hydrogen: [Blackpearl4pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-BlackPearl4pc.h2drumkit), [BlackPearl4pcAlt](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-BlackPearl4pcAlternate.h2drumkit), [BlackPearl5pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-BlackPearl5pc.h2drumkit), [RedZeppelin4pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-RedZeppelin4pc.h2drumkit), [RedZeppelin5pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-RedZeppelin5pc.h2drumkit), [Gimme a Hand](http://www.bandshed.net/sounds/h2drumkit/Gimme%20A%20Hand%201.0.h2drumkit)
+ * Samples: [AVL Sample Pack](http://www.bandshed.net/sounds/samples/AVL-Drum-Sample-Pack-R1.zip)
+
 ---------------------------------------------
 
 ## Unsorted
@@ -529,8 +548,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 
 
-
-
 ------------------------------
 
 
@@ -542,40 +559,60 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * **[Linux Audio Tutorials](http://quicktoots.linux-audio.com/)**
  * **[Linux Audio Users Guide](http://linux-audio.com/)**
  * **[Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
- * **[linuxaudio mailing lists](http://lists.linuxaudio.org/listinfo/)**
+ * **[Linux Audio Users](http://lists.linuxaudio.org/listinfo/linux-audio-user)** - mailing list for linux audio users
+ * **[KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual)** - a good introduction to Linux Audio in general.
+ * [Introduction to Linux & Audio](https://lievenmoors.github.io/index.html)
  * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
  * [KXStudio : Repositories : Plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)
  * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
  * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
  * [Linuxaudio.org](http://linuxaudio.org/) - consortium of libre software projects, artists, companies, institutions, organizations, and hardware vendors using Linux/Free Software based systems for professional audio work.
  * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
+ * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
  * http://linuxaudio.org/resources
  * http://www.linux-sound.org/
- * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau) and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
- * [Linux Audio Developers](http://lad.linuxaudio.org/)
+ * [Pro Audio - ArchLinux Wiki](https://wiki.archlinux.org/index.php/Pro_Audio)
+ * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page)
+ * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio),  and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
  * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
+ * [Linux Audio Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/) - Linux audio developers mailing list.
+ * [Linux Audio Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/) - mailing list is to help GNU/Linux distribution maintainers and other interested users to share information on system performance tuning matters, especially with regard to real-time Linux kernels.
+ * [Linux Audio Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/) - email list to publish announcements.
+ * [Gentoo Pro-Audio Overlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Main_Page) - Pro-audio support for Gentoo users 
 
 ### Howtos
- * [System Preparations](http://www.penguinproducer.com/2011/09/system-preparations/)
- * [System configuration [Linux-Sound]](http://wiki.linuxaudio.org/wiki/system_configuration)
+
+Read [System Setup](system-setup.md) for system related topics.
+
  * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
+ * [Loop-based Music Composition With Linux, Pt. 1](http://www.linuxjournal.com/node/1000304)
+ * [Dave Phillips' Articles and Tutorials - LinuxJournal](http://www.linuxjournal.com/users/dave-phillips)
  * [▶ Rough Mix with Calf FX - YouTube](https://www.youtube.com/watch?v=JR6mRkFkoBQ)
  * [▶ Hydrogen Drum Machine with CALF plugins - YouTube](https://www.youtube.com/watch?v=FJaSbPZgLnw)
-
-### Resources/Samples
- * Drumgizmo: [DRSKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/DRSKit2_0_1.zip), [MuldjordKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/MuldjordKit2.zip)
- * Gigasampler: [FlameStudios](http://download.linuxaudio.org/musical-instrument-libraries/gig/flamestudios.tar.7z)
- * SF2: [Airfont](http://download.linuxaudio.org/musical-instrument-libraries/sf2/airfont_a340u.tar.7z), [Fluidr3](http://download.linuxaudio.org/musical-instrument-libraries/sf2/fluidr3.tar.7z), [MDK Bass Snare](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_bass_snare.tar.bz2), [MDK Cymbals](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_cymbals.tar.bz2), [MDK Hihat](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_hihat.tar.bz2), [MDK Kit](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_kit.tar.bz2), [BlackPearl4pc](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_4pc.sf2), [Blackpearl4pcAlt](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_4pc_Alt.sf2), [Blackpearl5pc](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_5pc.sf2), [RedZeppelin4pc](http://www.bandshed.net/sounds/sf2/AVL-Red_Zeppelin_4pc.sf2), [RedZeppelin5pc](http://www.bandshed.net/sounds/sf2/AVL-Red_Zeppelin_5pc.sf2)
- * SFZ: [Balafon](http://download.linuxaudio.org/musical-instrument-libraries/sfz/balafon.tar.7z), [Clayton3 Udu](http://download.linuxaudio.org/musical-instrument-libraries/sfz/clayton3_udu.tar.7z), [Detuned piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/detuned_piano.tar.7z), [Plucked Piano strings](http://download.linuxaudio.org/musical-instrument-libraries/sfz/plucked_piano_strings.tar.7z), [Salamander Drumkit](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_drumkit_v1.tar.7z), [Salamander Grand Piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_grand_piano_v3_48khz24bit.tar.7z), [SFZTest](http://download.linuxaudio.org/musical-instrument-libraries/sfz/sfztest.tar.7z), [Skerrat London Piano](http://download.linuxaudio.org/musical-instrument-libraries/sfz/skerratt_london_piano_v2.tar.7z), [Open Source Drumkit](http://download.linuxaudio.org/musical-instrument-libraries/sfz/the_open_source_drumkit.tar.7z), [Transition FX](http://download.linuxaudio.org/musical-instrument-libraries/sfz/transition-fx.tar.7z), [60s_organ](http://www.bandshed.net/sounds/sfz/60s_organ.zip), [AVL_Drumkits](http://www.bandshed.net/sounds/sfz/AVL_Drumkits.zip), [Black_Pearl_Drumkits](http://www.bandshed.net/sounds/sfz/Black_Pearl_Drumkits_R1.zip), [LittleLizardPiano](http://www.bandshed.net/sounds/sfz/LittleLizardPiano.zip), [SalamanderDrumkit](http://www.bandshed.net/sounds/sfz/SalamanderDrumkit.zip), [SoftBells](http://www.bandshed.net/sounds/sfz/SoftBells.zip), [StereoWurly](http://www.bandshed.net/sounds/sfz/StereoWurly.zip), [acousbass](http://www.bandshed.net/sounds/sfz/acousbass.zip), [altosax](http://www.bandshed.net/sounds/sfz/altosax.zip), [analog_bass](http://www.bandshed.net/sounds/sfz/analog_bass.zip), [b3_organ](http://www.bandshed.net/sounds/sfz/b3_organ.zip), [banjo](http://www.bandshed.net/sounds/sfz/banjo.zip), [bass_bow](http://www.bandshed.net/sounds/sfz/bass_bow.zip), [bass_sect](http://www.bandshed.net/sounds/sfz/bass_sect.zip), [bassoon_sect](http://www.bandshed.net/sounds/sfz/bassoon_sect.zip), [blocks](http://www.bandshed.net/sounds/sfz/blocks.zip), [brightbass](http://www.bandshed.net/sounds/sfz/brightbass.zip), [brushkit](http://www.bandshed.net/sounds/sfz/brushkit.zip), [cello](http://www.bandshed.net/sounds/sfz/cello.zip), [cellos](http://www.bandshed.net/sounds/sfz/cellos.zip), [chimes](http://www.bandshed.net/sounds/sfz/chimes.zip), [claps](http://www.bandshed.net/sounds/sfz/claps.zip), [clarinet](http://www.bandshed.net/sounds/sfz/clarinet.zip), [clarinet_sect](http://www.bandshed.net/sounds/sfz/clarinet_sect.zip), [clavinet](http://www.bandshed.net/sounds/sfz/clavinet.zip), [contents.txt](http://www.bandshed.net/sounds/sfz/contents.txt), [cowbell](http://www.bandshed.net/sounds/sfz/cowbell.zip), [deepbass](http://www.bandshed.net/sounds/sfz/deepbass.zip), [dx7_piano](http://www.bandshed.net/sounds/sfz/dx7_piano.zip), [fatsynthbass](http://www.bandshed.net/sounds/sfz/fatsynthbass.zip), [fender_bass](http://www.bandshed.net/sounds/sfz/fender_bass.zip), [fenderbass](http://www.bandshed.net/sounds/sfz/fenderbass.zip), [flute](http://www.bandshed.net/sounds/sfz/flute.zip), [flute_sect](http://www.bandshed.net/sounds/sfz/flute_sect.zip), [french_horn_sect](http://www.bandshed.net/sounds/sfz/french_horn_sect.zip), [fretless_bass](http://www.bandshed.net/sounds/sfz/fretless_bass.zip), [glock](http://www.bandshed.net/sounds/sfz/glock.zip), [gmkit](http://www.bandshed.net/sounds/sfz/gmkit.zip), [gretch_bass](http://www.bandshed.net/sounds/sfz/gretch_bass.zip), [harmonica](http://www.bandshed.net/sounds/sfz/harmonica.zip), [harpsichord](http://www.bandshed.net/sounds/sfz/harpsichord.zip), [hihats](http://www.bandshed.net/sounds/sfz/hihats.zip), [hpiano](http://www.bandshed.net/sounds/sfz/hpiano.zip), [ibanez_bass](http://www.bandshed.net/sounds/sfz/ibanez_bass.zip), [jazzbass](http://www.bandshed.net/sounds/sfz/jazzbass.zip), [jg_violins](http://www.bandshed.net/sounds/sfz/jg_violins.zip), [jgkit](http://www.bandshed.net/sounds/sfz/jgkit.zip), [kicks](http://www.bandshed.net/sounds/sfz/kicks.zip), [kit](http://www.bandshed.net/sounds/sfz/kit.zip), [marimba](http://www.bandshed.net/sounds/sfz/marimba.zip), [melodica](http://www.bandshed.net/sounds/sfz/melodica.zip), [moog_bass](http://www.bandshed.net/sounds/sfz/moog_bass.zip), [nsa](http://www.bandshed.net/sounds/sfz/nsa.zip), [nylon](http://www.bandshed.net/sounds/sfz/nylon.zip), [oboe_sect](http://www.bandshed.net/sounds/sfz/oboe_sect.zip), [picked1](http://www.bandshed.net/sounds/sfz/picked1.zip), [realbanjo](http://www.bandshed.net/sounds/sfz/realbanjo.zip), [recorder](http://www.bandshed.net/sounds/sfz/recorder.zip), [rhodes](http://www.bandshed.net/sounds/sfz/rhodes.zip), [ride](http://www.bandshed.net/sounds/sfz/ride.zip), [ride2](http://www.bandshed.net/sounds/sfz/ride2.zip), [sax_sect](http://www.bandshed.net/sounds/sfz/sax_sect.zip), [shaker](http://www.bandshed.net/sounds/sfz/shaker.zip), [sleighbell](http://www.bandshed.net/sounds/sfz/sleighbell.zip), [snares](http://www.bandshed.net/sounds/sfz/snares.zip), [solobassoon](http://www.bandshed.net/sounds/sfz/solobassoon.zip), [soloviolin](http://www.bandshed.net/sounds/sfz/soloviolin.zip), [sonatina](http://www.bandshed.net/sounds/sfz/sonatina.zip), [steelgtr](http://www.bandshed.net/sounds/sfz/steelgtr.zip), [stereo_lespaul](http://www.bandshed.net/sounds/sfz/stereo_lespaul.zip), [stereo_rhodes](http://www.bandshed.net/sounds/sfz/stereo_rhodes.zip), [synth_bass](http://www.bandshed.net/sounds/sfz/synth_bass.zip), [synth_strings](http://www.bandshed.net/sounds/sfz/synth_strings.zip), [synthbrass](http://www.bandshed.net/sounds/sfz/synthbrass.zip), [tabla](http://www.bandshed.net/sounds/sfz/tabla.zip), [tenorsax](http://www.bandshed.net/sounds/sfz/tenorsax.zip), [timbales](http://www.bandshed.net/sounds/sfz/timbales.zip), [timpani](http://www.bandshed.net/sounds/sfz/timpani.zip), [toms](http://www.bandshed.net/sounds/sfz/toms.zip), [trombone_sect](http://www.bandshed.net/sounds/sfz/trombone_sect.zip), [trumpet](http://www.bandshed.net/sounds/sfz/trumpet.zip), [trumpet_mute](http://www.bandshed.net/sounds/sfz/trumpet_mute.zip), [trumpet_sect](http://www.bandshed.net/sounds/sfz/trumpet_sect.zip), [vibes](http://www.bandshed.net/sounds/sfz/vibes.zip), [warmpad](http://www.bandshed.net/sounds/sfz/warmpad.zip), [warmpad2](http://www.bandshed.net/sounds/sfz/warmpad2.zip), [wurt](http://www.bandshed.net/sounds/sfz/wurt.zip), [yamahagtr](http://www.bandshed.net/sounds/sfz/yamahagtr.zip), 
- * Hydrogen: [Blackpearl4pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-BlackPearl4pc.h2drumkit), [BlackPearl4pcAlt](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-BlackPearl4pcAlternate.h2drumkit), [BlackPearl5pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-BlackPearl5pc.h2drumkit), [RedZeppelin4pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-RedZeppelin4pc.h2drumkit), [RedZeppelin5pc](http://www.bandshed.net/sounds/h2drumkit/AVLDrumkits-RedZeppelin5pc.h2drumkit), [Gimme a Hand](http://www.bandshed.net/sounds/h2drumkit/Gimme%20A%20Hand%201.0.h2drumkit)
- * Samples: [AVL Sample Pack](http://www.bandshed.net/sounds/samples/AVL-Drum-Sample-Pack-R1.zip)
+ * [Puredata - FLOSS Manuals](https://flossmanuals.net/PureData/)
+ * [Puredata tutorials](http://puredata.info/docs/tutorials)
+ * [new year – with fluxus and mixxx](http://www.ponnuki.net/2011/01/year-event-fluxus-mixxx/)
+ * [Rosegarden - DebianEdu Tutorials](https://wiki.debian.org/DebianEdu/Documentation/Manuals/Rosegarden)
+ * [Making Music in the Rosegarden](http://www.penguinproducer.com/Blog/2011/11/making-music-in-the-rosegarden/)
+ * [abcmidi Tutorial](http://wiki.li(https://wiki.debian.org/DebianEdu/Documentation/Manuals/Rosegarden)nuxaudio.org/wiki/abcmiditutorial)
+ * [AlsaModularSynth - Making a vocoder](http://wiki.linuxaudio.org/wiki/amsvocodertutorial)
+ * [Musescore tutorials](https://musescore.org/en/tutorials)
+ * [Screencasting with FFmpeg, jack_capture and Xephyr [Linux-Sound]](http://wiki.linuxaudio.org/wiki/screencasttutorial)
+ * [seq24: toggle sequences with a MIDI controller [Linux-Sound]](http://wiki.linuxaudio.org/wiki/seq24togglemiditutorial)
+ * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_intro.html)
+ * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_part1.html)
+ * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_part1.html)
+ * trackers: [Trackers and Linux. || kuro5hin.org](https://www.kuro5hin.org/story/2002/6/8/2524/90038)
+ * trackers: [A Tutorial on Cutting Up a Breakbeat Using a Tracker || kuro5hin.org](https://www.kuro5hin.org/story/2005/11/13/182235/45)
+ * trackers: [.:: Milkytracker Tutorial ::.](http://www.seele07.de/milkytutorial/data/start_here.html)
 
 ## GLOSSARY
 
  * [LADSPA](https://en.wikipedia.org/wiki/LADSPA) - an (API) standard for handling audio filters and audio signal processing effects.
  * [DSSI](https://en.wikipedia.org/wiki/Disposable_Soft_Synth_Interface) - a virtual instrument (software synthesizer) plugin architecture for use by music sequencer applications.
  * [LV2](https://en.wikipedia.org/wiki/LV2) - (LADSPA version 2) an open standard for Audio plug-ins and matching host applications.
+ * [Comparison of audio coding formats](https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats), [List of codecs](https://en.wikipedia.org/wiki/List_of_codecs), [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression#Audio), [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression#Audio)
 
 ----------------------------------
 
