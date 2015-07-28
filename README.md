@@ -304,7 +304,7 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
  * [alsa-tools](http://packages.debian.org/wheezy/alsa-tools) - Console based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
  * [alsa-tools-gui](http://packages.debian.org/wheezy/alsa-tools-gui) - GUI based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
-
+ * [rotter](http://packages.debian.org/wheezy/rotter) - JACK client for transmission recording and audio logging ([Homepage](http://www.aelius.com/njh/rotter/))
 
 
 ##### Pulseaudio
@@ -323,27 +323,28 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
 
 ## Transcoding/streaming/transport
 
+### Transcoding
  * **[handbrake](http://packages.debian.org/wheezy/handbrake)** - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))
  * **[winff-qt](http://packages.debian.org/wheezy/winff-qt)** - Qt variant of winff ([Homepage](http://www.winff.org/))
- * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
  * [ambdec](http://packages.debian.org/wheezy/ambdec) - Ambisonic decoder for first and second order ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
- * [autoradio](http://packages.debian.org/wheezy/autoradio) - radio automation software ([Homepage](http://autoradiobc.sf.net))
- * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
- * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
- * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Homepage](http://www.icecast.org/ezstream.php))
- * [gpac](http://packages.debian.org/wheezy/gpac) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
  * [hydro2sf2](https://code.google.com/p/hydro2sf2/) - a tool which allows you to convert a Hydrogen drumkit into a SF2 soundfont ``
- * [icecast2](http://packages.debian.org/wheezy/icecast2) - streaming media server ([Homepage](http://www.icecast.org/))
- * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Homepage](http://idjc.sourceforge.net/))
- * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
- * [oggfwd](http://packages.debian.org/wheezy/oggfwd) - basic icecast source client for audio and video streaming ([Homepage](http://v2v.cc/~j/oggfwd/))
  * [ogmrip](http://packages.debian.org/wheezy/ogmrip) - Application for ripping and encoding DVD ([Homepage](http://ogmrip.sourceforge.net))
- * [rotter](http://packages.debian.org/wheezy/rotter) - JACK client for transmission recording and audio logging ([Homepage](http://www.aelius.com/njh/rotter/))
- * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
- * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
- * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
+
+### Network streaming
+ * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
+ * [autoradio](http://packages.debian.org/wheezy/autoradio) - radio automation software ([Homepage](http://autoradiobc.sf.net))
+ * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
+  * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
+ * [gpac](http://packages.debian.org/wheezy/gpac) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
+ * [icecast2](http://packages.debian.org/wheezy/icecast2) - streaming media server ([Homepage](http://www.icecast.org/))
+  * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Homepage](http://www.icecast.org/ezstream.php))
+  * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Homepage](http://idjc.sourceforge.net/))
+ * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
+ * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
+ * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
+  * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
 
 
