@@ -345,7 +345,10 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
  * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
   * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
+ * [xdmx](http://packages.debian.org/wheezy/xdmx) - distributed multihead X server
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
+
+
 
 
 
