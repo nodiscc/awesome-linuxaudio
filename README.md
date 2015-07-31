@@ -21,6 +21,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 	- [MIDI Utilities](#midi-utilities)
 - [System utilities](#system-utilities)
 - [Transcoding/streaming/transport](#transcodingstreamingtransport)
+	- [Transcoding](#transcoding)
+	- [Network streaming](#network-streaming)
 - [Lighting](#lighting)
 - [Video](#video)
 	- [3D Modeling/CGI](#3d-modelingcgi)
@@ -629,6 +631,7 @@ Read [System Setup](system-setup.md) for system related topics.
 ## TODO
  * **Backup sourceforge projects somewhere else (code, doc, issues)** `egrep --only-matching 'https?://[0-9a-Z]*\.s(ource)?f(orge)?\.net.*' README.md`
  * Sort and add http://wiki.linuxaudio.org/wiki/start?do=index (wiki cleanup and migration progress at [migration.md](migration.md))
+ * add software from http://jackaudio.org/applications/
  * add software from kxstudio repos (https://gist.github.com/nodiscc/f8ef6744199ec9f26044)
  * sort unsorted links
  * provide configuration scripts/guides for debian systems? See [System Setup](system-setup.md)
