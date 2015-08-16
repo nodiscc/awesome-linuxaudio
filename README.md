@@ -1,6 +1,6 @@
 # awesome-linuxaudio
 
-A list of software and resources for professional audio/video/live events production on the Linux platform.
+A list of software and resources for professional audio/video/live events production on the Linux platform - Work in progress
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable with `sudo aptitude install softwarename`. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
