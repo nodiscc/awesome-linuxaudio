@@ -1,8 +1,10 @@
 # awesome-linuxaudio
 
-A list of software and resources for professional audio/video/live events production on the Linux platform - Work in progress
+A list of software and resources for professional audio/video/live events production on the Linux platform
 
-This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable with `sudo aptitude install softwarename`. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
+**Work in progress** - See [CONTRIBUTING](contributing)
+
+This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
        Unpackaged
     ▒   Only in KXStudio repositories
@@ -657,11 +659,21 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
 
 ## CONTRIBUTING
 
- * Please edit the README file (using the [Markdown](https://help.github.com/articles/github-flavored-markdown/) syntax) and send your patch as a Pull Request. https://help.github.com/articles/using-pull-requests/
- * Entries should be sorted alphabetically inside categories.
- * Please label unpackaged and non-free ` Unpackaged` ` Non-free/closed source`
+ * Please edit the README file (using the [Markdown](https://help.github.com/articles/github-flavored-markdown/) syntax) and send your patch as a Pull Request. https://help.github.com/articles/editing-files-in-another-user-s-repository/, https://help.github.com/articles/using-pull-requests/. (Please base your patches on the latest `master`)
+ * Check existing [issue reports](issues), or report new ones.
+ * Entries should be sorted alphabetically inside categories. 
+ * Please label unpackaged and non-free software: ``: Unpackaged, ``: Non-free/closed source
  * Exceptionally high-quality software may be marked as **bold**.
- * If there is a debian package available, the link syntax is: `[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
- * If there is no debian package: the syntax is `[Software name](http://url.to/project/homepage)`
- * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Here is a bookmarklet to generate a markdown link for the current page URL and title: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));`
+ * If there is a debian package available, the link syntax is:
+
+`[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
+
+ * If there is no debian package the syntax is:
+
+``[Software name](http://url.to/project/homepage) - description `` ``
+ 
+ * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Here is a bookmarklet to generate a markdown link for the current page URL and title: 
+
+ `javascript:void(prompt("","["+document.title+"]("+location.href+")"));` (or use `dwlink -ub http://url.to/copy`)
+ 
  * Contributors list can be updated with `git shortlog -sne`
