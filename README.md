@@ -377,9 +377,11 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [Gephex](http://www.gephex.org/index.php) - modular video jockey software ``
  * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer  ``
  * [kdenlive](http://packages.debian.org/wheezy/kdenlive) - non-linear video editor ([Homepage](http://www.kdenlive.org/))
+ * [kino](http://packages.debian.org/wheezy/kino) - Non-linear editor for Digital Video data ([Homepage](http://www.kinodv.org/))
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
  * [Luz Studio](https://github.com/lighttroupe/luz) - A live motion graphics editor and performer. ``
- * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras. 
+ * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras.
+ * [Natron](https://natron.inria.fr/) - free open-source, cross-platform compositing software. It aims to produce visual effects. ``
  * [pitivi](http://packages.debian.org/wheezy/pitivi) - non-linear audio/video editor using GStreamer ([Homepage](http://www.pitivi.org))
  * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor ``
  * [synaesthesia](http://packages.debian.org/wheezy/synaesthesia) - Program for representing sounds visually

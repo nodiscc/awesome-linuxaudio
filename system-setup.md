@@ -44,6 +44,7 @@ https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/74adbac5
 
  * **[Real-Time Linux Wiki](https://rt.wiki.kernel.org/index.php/Main_Page)**
   * [Real-Time Linux kernels](https://www.kernel.org/pub/linux/kernel/projects/rt/)
+  * [Brain Fuck Scheduler](https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler) - [Con Kolivas patches](http://ck.kolivas.org/patches/bfs/4.0/4.1/)
  * [Real-time computing - Wikipedia](https://en.wikipedia.org/wiki/Real-time_computing)
  * [Activate and test realtime kernels - Gentoo ProAudioOverlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Realtime_%28RT%29_Kernel#Activate_and_test_RT)
  * [Realtime - Ubuntu Wiki](https://wiki.ubuntu.com/RealTime?highlight=%28realtime%29)
