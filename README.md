@@ -525,6 +525,7 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
 
 
 ## Resources/Samples
+ * [Musical Artifacts](https://musical-artifacts.com/)
  * Drumgizmo: [DRSKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/DRSKit2_0_1.zip), [MuldjordKit](http://download.linuxaudio.org/musical-instrument-libraries/drumgizmo/MuldjordKit2.zip)
  * Gigasampler: [FlameStudios](http://download.linuxaudio.org/musical-instrument-libraries/gig/flamestudios.tar.7z)
  * SF2: [Airfont](http://download.linuxaudio.org/musical-instrument-libraries/sf2/airfont_a340u.tar.7z), [Fluidr3](http://download.linuxaudio.org/musical-instrument-libraries/sf2/fluidr3.tar.7z), [MDK Bass Snare](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_bass_snare.tar.bz2), [MDK Cymbals](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_cymbals.tar.bz2), [MDK Hihat](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_hihat.tar.bz2), [MDK Kit](http://download.linuxaudio.org/lau/drum_soundfonts/mdk_kit.tar.bz2), [BlackPearl4pc](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_4pc.sf2), [Blackpearl4pcAlt](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_4pc_Alt.sf2), [Blackpearl5pc](http://www.bandshed.net/sounds/sf2/AVL-Black_Pearl_5pc.sf2), [RedZeppelin4pc](http://www.bandshed.net/sounds/sf2/AVL-Red_Zeppelin_4pc.sf2), [RedZeppelin5pc](http://www.bandshed.net/sounds/sf2/AVL-Red_Zeppelin_5pc.sf2)
