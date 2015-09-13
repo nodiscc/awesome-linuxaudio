@@ -635,7 +635,7 @@ Read [System Setup](system-setup.md) for system related topics.
 
 
 ## TODO
- * **Backup sourceforge projects somewhere else (code, doc, issues)** `egrep --only-matching 'https?://[0-9a-Z]*\.s(ource)?f(orge)?\.net.*' README.md`
+ * Add tools from http://linux4vjs.net/list-of-linux-tools/ and contact them
  * Sort and add http://wiki.linuxaudio.org/wiki/start?do=index (wiki cleanup and migration progress at [migration.md](migration.md))
  * add software from http://jackaudio.org/applications/
  * add software from kxstudio repos (https://gist.github.com/nodiscc/f8ef6744199ec9f26044)
