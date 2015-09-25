@@ -25,6 +25,8 @@ https://github.com/coderofsalvation/audiobrowse.bash
 http://wiki.linuxaudio.org/wiki/akai_mpk_mini
 http://wiki.linuxaudio.org/wiki/alesis_io2_express
 http://wiki.linuxaudio.org/apps/categories/start?idx=hw stopped at kernel layer
+http://linux-sound.org/snded.html
+https://github.com/nodiscc/dbu/blob/master/build/config/package-lists/audacity.list.chroot
 
 ## Migrated
 

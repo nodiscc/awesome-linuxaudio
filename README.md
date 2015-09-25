@@ -62,10 +62,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  ````
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
+ * [meterec](http://packages.debian.org/sid/meterec) - minimalistic multi track recorder ([Homepage](http://meterec.sourceforge.net/))
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
 
 ## Audio Editors
  * [audacity](http://packages.debian.org/wheezy/audacity) - Éditeur audio rapide multi plate-forme ([Homepage](http://audacity.sourceforge.net/))
+ * [gnusound](https://packages.debian.org/sid/gnusound) - multitrack sound editor for GNOME
  * [kwave](http://packages.debian.org/wheezy/kwave) - sound editor for KDE ([Homepage](http://kwave.sourceforge.net))
  * [mhwaveedit](http://packages.debian.org/wheezy/mhwaveedit) - Simple and fast GTK2 sound editor ([Homepage](http://gna.org/projects/mhwaveedit/))
  * [smasher](http://sourceforge.net/projects/smasher/) - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3, FLAC or AIFF files in seconds without a sequencer
@@ -105,6 +107,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [arctican-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Arctican Plugins `▒`
  * [artyfx](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Arty FX plugin suite `▒`
  * [autotalent](http://packages.debian.org/wheezy/autotalent) - pitch correction LADSPA plugin ([Homepage](http://tombaran.info/autotalent.html))
+ * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [avw.lv2](http://packages.debian.org/wheezy/avw.lv2) - collection of Voltage Controlled LV2 modules ([Homepage](https://sourceforge.net/projects/avwlv2/))
  * [beatslash-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - A set of LV2 plugins to slash, repeat beats. `▒`
  * [blop-lv2](http://packages.debian.org/wheezy/blop-lv2) - collection of LV2 CV plugins
@@ -170,7 +173,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [wasp-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - WASP LADSPA plugin `▒`
  * [x42-plugins](http://packages.debian.org/wheezy/x42-plugins) - Collection of LV2 plugins ([Homepage](https://github.com/x42/x42-plugins))
  * [zam-plugins](http://packages.debian.org/wheezy/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
- * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
+
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
  * [creox](http://zyzstar.kosoru.com/?creox) - a real-time sound/effects processor. ``
 
@@ -234,29 +237,43 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
 
 
 ## Audio utilities
+
+### Misc
+
  * **[Linux Show Player](http://linux-show-player.sourceforge.net/) a free cue player designed for sound-playback in stage production. The goal of the project is to provide a complete playback software for musical plays, theater shows and similar. ``**
+
+ * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
+ * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
+ * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
+ * [fadecut](http://packages.debian.org/sid/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([Homepage](http://github.com/micressor/fadecut))
+
+
+### Meters & Analysis
  * [brp-pacu](http://packages.debian.org/wheezy/brp-pacu) - audio analysis tool ([Homepage](http://sourceforge.net/projects/brp-pacu/))
  * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
  * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
- * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
- * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
- * [gtick](http://packages.debian.org/wheezy/gtick) - Metronome application ([Homepage](http://www.antcom.de/gtick/))
- * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
  * [jaaa](http://packages.debian.org/wheezy/jaaa) - audio signal generator and spectrum analyser ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa))
  * [jackmeter](http://packages.debian.org/wheezy/jackmeter) - a basic command line meter for the JACK audio system ([Homepage](http://www.aelius.com/njh/jackmeter/))
  * [jkmeter](http://packages.debian.org/wheezy/jkmeter) - vu-mètre horizontal ou vertical pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
  * [bitmeter](http://packages.debian.org/wheezy/bitmeter) - diagnosis tool for JACK audio software ([Homepage](http://devel.tlrmx.org/audio/))
  * [xoscope](http://packages.debian.org/wheezy/xoscope) - digital oscilloscope ([Homepage](http://xoscope.sourceforge.net/))
- * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
  * [meterbridge](http://packages.debian.org/wheezy/meterbridge) - Collection of Audio meters for the JACK audio server ([Homepage](http://plugin.org.uk/meterbridge/))
  * [QLoud](http://gaydenko.com/qloud/) - tool to measure loudspeaker frequency and step responses and distortions ``
- * [showq](http://packages.debian.org/wheezy/showq) - MIDI controllable audio player ([Homepage](https://developer.berlios.de/projects/showq/))
  * [siggen](http://packages.debian.org/wheezy/siggen) - Waveform generation tools ([Homepage](http://www.comp.leeds.ac.uk/jj/linux/siggen.html))
- * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
- * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
  * [spek](http://packages.debian.org/sid/spek) - acoustic spectrum analyser
  * [sonic-visualiser](http://packages.debian.org/wheezy/sonic-visualiser) - View and analyse the contents of music audio files ([Homepage](http://www.sonicvisualiser.org))
  * [easyssp](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio visualization plugin `▒`
+
+
+
+### Tuners & Metronomes
+ * [fmit](http://packages.debian.org/wheezy/fmit) - Free Music Instrument Tuner ([Homepage](http://gillesdegottex.github.io/fmit))
+ * [gtklick](http://packages.debian.org/wheezy/gtklick) - simple metronome GUI for JACK ([Homepage](http://das.nasophon.de/gtklick/))
+ * [gtick](http://packages.debian.org/wheezy/gtick) - Metronome application ([Homepage](http://www.antcom.de/gtick/))
+ * [gxtuner](http://packages.debian.org/wheezy/gxtuner) - Tuner for Jack ([Homepage](http://guitarix.sourceforge.net/))
+ * [lingot](http://packages.debian.org/wheezy/lingot) - accurate and easy to use musical instrument tuner
+ * [gtkguitune](http://packages.debian.org/sid/gtkguitune) - Guitar and other instruments tuner
+
 
 
 ### MIDI Utilities
@@ -325,6 +342,7 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
 
 
 
+
 ## Transcoding/streaming/transport
 
 ### Transcoding
@@ -335,6 +353,8 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [ogmrip](http://packages.debian.org/wheezy/ogmrip) - Application for ripping and encoding DVD ([Homepage](http://ogmrip.sourceforge.net))
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
+ * [mp3splt-gtk](http://packages.debian.org/sid/mp3splt-gtk) - GTK interface to split MP3 and Ogg Vorbis files without reencoding ([Homepage](http://mp3splt.sourceforge.net/))
+
 
 ### Network streaming
  * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
@@ -383,6 +403,7 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [lives](http://packages.debian.org/wheezy/lives) - Video Editing system allowing users to edit and create video ([Homepage](http://lives.sourceforge.net/))
  * [Luz Studio](https://github.com/lighttroupe/luz) - A live motion graphics editor and performer. ``
  * [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki) - a software enhancement that offers increased functionality to the excellent Canon DSLR cameras.
+ * [Moviepy](https://zulko.github.io/moviepy/) - Python module for video editing, which can be used for basic operations (like cuts, concatenations, title insertions), video compositing (a.k.a. non-linear editing), video processing, or to create advanced effects. ``
  * [Natron](https://natron.inria.fr/) - free open-source, cross-platform compositing software. It aims to produce visual effects. ``
  * [pitivi](http://packages.debian.org/wheezy/pitivi) - non-linear audio/video editor using GStreamer ([Homepage](http://www.pitivi.org))
  * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor ``

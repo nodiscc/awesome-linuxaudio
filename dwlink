@@ -116,7 +116,7 @@ for pack in $ARGS;
 do
 	PACKAGE_DESCR=`apt-cache show $pack | egrep "^Description" |egrep -v "Description-md5"| uniq | cut -d " " -f2-`;
 	HOMEPAGE=`apt-cache show $pack | egrep "^Homepage" | uniq | cut -d " " -f2-`;
-	LINK_URL="http://packages.debian.org/wheezy/$pack"
+	LINK_URL="http://packages.debian.org/sid/$pack"
 	suffix=""
 	if [ "$KXSTUDIO" = "1" ]
 		then LINK_URL="http://kxstudio.linuxaudio.org/Repositories:Plugins"
