@@ -40,6 +40,13 @@ https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/74adbac5
  * [The LADI Session Handler](http://www.penguinproducer.com/Blog/2011/12/the-ladi-session-handler/)
  * [Audio Layers Overview [Linux-Sound]](http://wiki.linuxaudio.org/wiki/audio_layers_overview)
 
+##### Misc
+
+ * Firewire config for DV cameras: `modprobe ieee1394 ohci1394 raw1394 video1394 #possibly mknod -m 666 /dev/video1394 c 172 0`
+ * Burn MPEG-1/VCD to CD: `cdrdao write --device 0,1,0 -n vcd.toc #vcd.toc from mkvcdfs`
+
+
+
 ### Development
 
  * **[Real-Time Linux Wiki](https://rt.wiki.kernel.org/index.php/Main_Page)**

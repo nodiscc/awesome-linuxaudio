@@ -20,6 +20,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Effects/Processing](#effectsprocessing)
 - [Instruments](#instruments)
 - [Audio utilities](#audio-utilities)
+	- [Misc](#misc)
+	- [Meters & Analysis](#meters--analysis)
+	- [Tuners & Metronomes](#tuners--metronomes)
 	- [MIDI Utilities](#midi-utilities)
 - [System utilities](#system-utilities)
 - [Transcoding/streaming/transport](#transcodingstreamingtransport)
@@ -75,7 +78,10 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [snd-gtk](http://packages.debian.org/wheezy/snd-gtk) - Sound file editor (dummy transitional package) ([Homepage](http://ccrma.stanford.edu/software/snd/))
  * [sweep](http://packages.debian.org/wheezy/sweep) - Audio editor and live playback tool ([Homepage](http://www.metadecks.org/software/sweep/))
  * [wavesurfer](http://packages.debian.org/wheezy/wavesurfer) - Sound Manipulation Program ([Homepage](http://www.speech.kth.se/wavesurfer))
-
+ * [LAoE](http://www.oli4.ch/laoe/home.html) - Layer-based Audio Editor, and it is a rich featured graphical audio sample editor, based on multi-layers, floating-point samples, volume-masks, variable selection-intensity, and many plugins suitable to manipulate sound, such as filtering, retouching, resampling, graphical spectrogram editing by brushes and rectangles, sample-curve editing by freehand-pen and spline and other interpolation curves, effects... ``
+ * [SndBite](http://billposer.org/Software/SndBite.html) - SndBite is a specialized audio editor, designed for breaking large recordings into smaller components with great efficiency. Its principal intended application is in linguistic research where it is often desirable to put each word or sentence into a separate file before further processing. ``
+ * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. ``
+ * [eisenkraut](https://github.com/Sciss/Eisenkraut) - A multi-channel and hi-res capable audio file editor ([Homepage](http://www.sciss.de/eisenkraut/))
 
 
 
@@ -246,6 +252,10 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
  * [silentjack](http://packages.debian.org/wheezy/silentjack) - silence detector for the JACK audio system ([Homepage](http://www.aelius.com/njh/silentjack/))
  * [fadecut](http://packages.debian.org/sid/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([Homepage](http://github.com/micressor/fadecut))
+ * [gwc](http://packages.debian.org/sid/gwc) - Audio file denoiser ([Homepage](http://gwc.sf.net))
+http://panic.et.tudelft.nl/~costar/gramofile/ 404
+ * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. ``
+ * [loopcrossfade](https://gist.github.com/nk23x/b14f9305b7e2a1bc0727) - makes an audiofile loop itself (seamless by using a crossfade trick)
 
 
 ### Meters & Analysis
@@ -340,6 +350,11 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [pulseaudio-utils](http://packages.debian.org/wheezy/pulseaudio-utils) - Command line tools for the PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
  * [pulseaudio](http://packages.debian.org/wheezy/pulseaudio) - PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
 
+##### Firewire
+ * [libraw1394-11](http://packages.debian.org/sid/libraw1394-11) - library for direct access to IEEE 1394 bus (aka FireWire) ([Homepage](https://ieee1394.wiki.kernel.org/))
+ * [libraw-bin](http://packages.debian.org/sid/libraw-bin) - raw image decoder library (tools) ([Homepage](http://www.libraw.org/))
+ * [libraw10](http://packages.debian.org/sid/libraw10) - raw image decoder library ([Homepage](http://www.libraw.org/))
+ * [libraw1394-tools](http://packages.debian.org/sid/libraw1394-tools) - library for direct access to IEEE 1394 bus (aka FireWire) ([Homepage](https://ieee1394.wiki.kernel.org/))
 
 
 
@@ -633,10 +648,19 @@ Read [System Setup](system-setup.md) for system related topics.
  * [seq24: toggle sequences with a MIDI controller [Linux-Sound]](http://wiki.linuxaudio.org/wiki/seq24togglemiditutorial)
  * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_intro.html)
  * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_part1.html)
- * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_part1.html)
  * trackers: [Trackers and Linux. || kuro5hin.org](https://www.kuro5hin.org/story/2002/6/8/2524/90038)
  * trackers: [A Tutorial on Cutting Up a Breakbeat Using a Tracker || kuro5hin.org](https://www.kuro5hin.org/story/2005/11/13/182235/45)
  * trackers: [.:: Milkytracker Tutorial ::.](http://www.seele07.de/milkytutorial/data/start_here.html)
+ * [Cover - Prodigy - Breath - LMMS - ZynAddSubFX - Linux - YouTube](http://www.youtube.com/watch?v=gxTxhv8H9X0)
+ * [Getting Started With SooperLooper on Vimeo](http://vimeo.com/7315051)
+ * [Introduction_to_Ardour_3.0_MIDI : Dan MacDonald : Free Download &amp; Streaming : Internet Archive](http://www.archive.org/details/Introduction_to_Ardour_3.0_MIDI) * [01_PADsynth_strings.ogv - YouTube](http://www.youtube.com/watch?v=IA-7tpTfE-E)
+ * [Linux music tutorial: seq24, part 1 - YouTube](http://www.youtube.com/watch?v=J2WDHS1wYeM)
+ * [Seq24 Tutorial, Part 1 - setting loops - YouTube](http://www.youtube.com/watch?v=51W9PQfyMsg)
+ * [Amsynth - Linux Synthesizer - YouTube](http://www.youtube.com/watch?v=YHR9hQVrRIQ)
+ * [Ardour - Music Editing in Linux - Part #1 - YouTube](http://www.youtube.com/watch?v=43ES7p4ejX0)
+ * [You, Too Can Learn Renoise: Video Tutorial](http://createdigitalmusic.com/2009/10/you-too-can-learn-renoise-video-tutorial-from-dac-makes-you-a-tracker/)
+ * [Linux soft synth tutorial: part 6.1 - YouTube](http://www.youtube.com/watch?v=p6SoNX4bA1Y)
+
 
 ## GLOSSARY
 
