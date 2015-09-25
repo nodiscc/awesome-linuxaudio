@@ -2,13 +2,17 @@
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
 
-**Work in progress** - See [CONTRIBUTING](contributing)
+**Work in progress** - See [CONTRIBUTING](#contributing)
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
 Useful automation scripts may be found in the **[scripts](scripts/) directory**.
 
 Tutorials and howto guides about Linux multimedia software can be found on the **[Tutorials](tutorials.md) page**.
+
+-------------------------
+
+ ![](logo.png) 
 
        Unpackaged
     ▒   Only in KXStudio repositories
@@ -47,8 +51,8 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
 	- [General doc/software/forums](#general-docsoftwareforums)
 - [GLOSSARY](#glossary)
 - [TODO](#todo)
-- [LICENSE](#license)
 - [CONTRIBUTING](#contributing)
+- [LICENSE](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -622,7 +626,6 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
  * http://linuxaudio.org/resources
  * http://www.linux-sound.org/
- * [Pro Audio - ArchLinux Wiki](https://wiki.archlinux.org/index.php/Pro_Audio)
  * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page)
  * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio),  and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
  * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
@@ -663,12 +666,6 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * Group and package scripts from, http://wiki.linuxaudio.org/wiki/scripts_and_tools (partially done in scripts/)
  * add software from http://bandshed.net/avlinux6-debs/
 
-## LICENSE
-This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
-
-    52  nodiscc <nodiscc@gmail.com>
-     1  Aaron Wolf <wolftune@gmail.com>
-     1  Andrew Kelley <superjoe30@gmail.com>
 
 ## CONTRIBUTING
 
@@ -690,3 +687,13 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
  `javascript:void(prompt("","["+document.title+"]("+location.href+")"));` (or use `dwlink -ub http://url.to/copy`)
  
  * Contributors list can be updated with `git shortlog -sne`
+
+
+## LICENSE
+This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
+
+	72	nodiscc <nodiscc@gmail.com>
+	 1	Aaron Wolf <wolftune@gmail.com>
+	 1	Andrew Kelley <superjoe30@gmail.com>
+	 1	VirtualTam <virtualtam@flibidi.net>
+	 1	paulbatchelor <thisispaulbatchelor@gmail.com>

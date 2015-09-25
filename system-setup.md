@@ -24,6 +24,7 @@ https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/74adbac5
 ## External links
 
 ### Configuration
+ * **[Pro Audio - ArchLinux Wiki](https://wiki.archlinux.org/index.php/Pro_Audio)**
  * [System Preparations](http://www.penguinproducer.com/2011/09/system-preparations/)
  * [System configuration [Linux-Sound]](http://wiki.linuxaudio.org/wiki/system_configuration)
  * [Linux audio user FAQ [Linux-Sound]](http://wiki.linuxaudio.org/faq/start)
@@ -39,6 +40,7 @@ https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/74adbac5
  * **[Programming and using Linux sound](http://jan.newmarch.name/LinuxSound/)**
  * [The LADI Session Handler](http://www.penguinproducer.com/Blog/2011/12/the-ladi-session-handler/)
  * [Audio Layers Overview [Linux-Sound]](http://wiki.linuxaudio.org/wiki/audio_layers_overview)
+
 
 ##### Misc
 
