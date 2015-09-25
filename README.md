@@ -37,7 +37,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Media players](#media-players)
 - [Metapackages](#metapackages)
 - [Linux Distributions](#linux-distributions)
-- [Resources/Samples](#resourcessamples)
+- [SAMPLES/PRESETS/RESOURCES](#samplespresetsresources)
 - [Unsorted](#unsorted)
 - [DOCUMENTATION](#documentation)
 	- [General doc/software/forums](#general-docsoftwareforums)
@@ -554,14 +554,15 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 12.04.3 LTS. 
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
  * [Ubuntu Studio](http://ubuntustudio.org/)
- * [Dynebolic](https://www.dyne.org/software/dynebolic/) ``
  * [AVLinux](http://www.bandshed.net/AVLinux.html)
  * [ArtistX](http://artistx.org/blog/)
  * [DidJiX](http://easy.open.and.free.fr/didjix/)
 
 
-## Resources/Samples
- * **[Musical Artifacts](https://musical-artifacts.com/)**, **[Freesound](https://www.freesound.org/)**, [CCMixter](http://ccmixter.org/)
+## SAMPLES/PRESETS/RESOURCES
+ * **[Musical Artifacts](https://musical-artifacts.com/)** - Helping to catalogue, preserve and free the artifacts you need to produce music. 
+ * **[Freesound](http://www.freesound.org/browse/)** - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
+ * [CCMixter](http://ccmixter.org/) - Search engine fore Creative Commons multmedia content
 
 ---------------------------------------------
 
