@@ -31,3 +31,7 @@ Read [System Setup](system-setup.md) for system related topics.
  * [Ardour - Music Editing in Linux - Part #1 - YouTube](http://www.youtube.com/watch?v=43ES7p4ejX0)
  * [You, Too Can Learn Renoise: Video Tutorial](http://createdigitalmusic.com/2009/10/you-too-can-learn-renoise-video-tutorial-from-dac-makes-you-a-tracker/)
  * [Linux soft synth tutorial: part 6.1 - YouTube](http://www.youtube.com/watch?v=p6SoNX4bA1Y)
+ * [ardour presentation](https://lievenmoors.github.io/ardour.html)
+ * [soft synths](https://lievenmoors.github.io/softsynths.html) - ZynAddSubFX, PHASEX, and Minicomputer presentation
+ * [samplers](https://lievenmoors.github.io/samples.html) - Fluidsynth, Swami, Linuxsampler, Qsampler and Gigedit presentation
+ * [Introduction to Linux & Audio](https://lievenmoors.github.io/index.html)

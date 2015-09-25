@@ -12,8 +12,6 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
 
 -------------------------
 
- ![](logo.png) 
-
        Unpackaged
     ▒   Only in KXStudio repositories
        Non-free/closed source
@@ -570,6 +568,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * **[Musical Artifacts](https://musical-artifacts.com/)** - Helping to catalogue, preserve and free the artifacts you need to produce music. 
  * **[Freesound](http://www.freesound.org/browse/)** - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
  * [CCMixter](http://ccmixter.org/) - Search engine fore Creative Commons multmedia content
+ * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
 
 ---------------------------------------------
 
@@ -608,31 +607,25 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 ## DOCUMENTATION
 
 ### General doc/software/forums
- * **[/r/linuxaudio - Music and Audio on the Linux platform](https://www.reddit.com/r/linuxaudio)**
+ * **[/r/linuxaudio](https://www.reddit.com/r/linuxaudio)** - Music and Audio on the Linux platform
+ * **[Libre Music Production](http://libremusicproduction.com/)** - News, articles, tutorials, interviews, tools, resources...
  * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)**
  * **[Linux Audio Tutorials](http://quicktoots.linux-audio.com/)**
  * **[Linux Audio Users Guide](http://linux-audio.com/)**
- * **[Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
  * **[Linux Audio Users](http://lists.linuxaudio.org/listinfo/linux-audio-user)** - mailing list for linux audio users
- * **[KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual)** - a good introduction to Linux Audio in general.
- * [Introduction to Linux & Audio](https://lievenmoors.github.io/index.html)
+ * **[Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
+ * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
+ * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio),  and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
+ * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
+ * [Gentoo Pro-Audio Overlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Main_Page) - Pro-audio support for Gentoo users 
  * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
  * [KXStudio : Repositories : Plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)
- * [Linux MAO Wiki (fr)](http://linuxmao.org/Accueil)
+ * [Linux MAO Wiki](http://linuxmao.org/Accueil) (fr)
  * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
  * [Linuxaudio.org](http://linuxaudio.org/) - consortium of libre software projects, artists, companies, institutions, organizations, and hardware vendors using Linux/Free Software based systems for professional audio work.
  * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
- * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
- * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
- * http://linuxaudio.org/resources
- * http://www.linux-sound.org/
  * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page)
- * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio),  and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
- * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
- * [Linux Audio Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/) - Linux audio developers mailing list.
- * [Linux Audio Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/) - mailing list is to help GNU/Linux distribution maintainers and other interested users to share information on system performance tuning matters, especially with regard to real-time Linux kernels.
- * [Linux Audio Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/) - email list to publish announcements.
- * [Gentoo Pro-Audio Overlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Main_Page) - Pro-audio support for Gentoo users 
+ * Linux audio mailing lists: [Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/), [System Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/), [Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/)
 
 
 
@@ -642,7 +635,10 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [LADSPA](https://en.wikipedia.org/wiki/LADSPA) - an (API) standard for handling audio filters and audio signal processing effects.
  * [DSSI](https://en.wikipedia.org/wiki/Disposable_Soft_Synth_Interface) - a virtual instrument (software synthesizer) plugin architecture for use by music sequencer applications.
  * [LV2](https://en.wikipedia.org/wiki/LV2) - (LADSPA version 2) an open standard for Audio plug-ins and matching host applications.
+ * [LADSPA, DSSI, LV2 and VST Plugins on Linux](https://lievenmoors.github.io/plugins.html)
  * [Comparison of audio coding formats](https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats), [List of codecs](https://en.wikipedia.org/wiki/List_of_codecs), [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression#Audio), [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression#Audio)
+ * [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) - part of the Linux kernel that provides an API for sound card device drivers. [ALSA presentation](https://lievenmoors.github.io/alsa.html)
+ * [JACK Audio Connection Kit](https://en.wikipedia.org/wiki/JACK_Audio_Connection_Kit) professional sound server daemon that provides real-time, low latency connections for both audio and MIDI data between applications. [JACK presentation](https://lievenmoors.github.io/jack.html) - 
 
 ----------------------------------
 
@@ -690,6 +686,9 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 
 ## LICENSE
+
+![](logo.png) 
+
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015:
 
 	72	nodiscc <nodiscc@gmail.com>
@@ -697,3 +696,4 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
 	 1	Andrew Kelley <superjoe30@gmail.com>
 	 1	VirtualTam <virtualtam@flibidi.net>
 	 1	paulbatchelor <thisispaulbatchelor@gmail.com>
+

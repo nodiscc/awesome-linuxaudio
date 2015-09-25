@@ -26,6 +26,9 @@ http://wiki.linuxaudio.org/apps/categories/start?idx=hw
 https://github.com/nodiscc/dbu/blob/master/build/config/package-lists/audacity.list.chroot
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/!INDEX.html
+ * http://linuxaudio.org/resources
+ * http://www.linux-sound.org/
+
 
 ## Migrated
 
