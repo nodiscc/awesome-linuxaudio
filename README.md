@@ -75,7 +75,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
 
 ## Audio Editors
- * [audacity](http://packages.debian.org/wheezy/audacity) - Éditeur audio rapide multi plate-forme ([Homepage](http://audacity.sourceforge.net/))
+ * [audacity](http://packages.debian.org/sid/audacity) - fast, cross-platform audio editor ([Homepage](http://audacity.sourceforge.net/))
  * [gnusound](https://packages.debian.org/sid/gnusound) - multitrack sound editor for GNOME
  * [kwave](http://packages.debian.org/wheezy/kwave) - sound editor for KDE ([Homepage](http://kwave.sourceforge.net))
  * [mhwaveedit](http://packages.debian.org/wheezy/mhwaveedit) - Simple and fast GTK2 sound editor ([Homepage](http://gna.org/projects/mhwaveedit/))
@@ -195,9 +195,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * **[drumgizmo](http://packages.debian.org/wheezy/drumgizmo) - drum plugin comparable to commercial products**
  * **[zynaddsubfx](http://packages.debian.org/wheezy/zynaddsubfx) - Realtime software synthesizer for Linux ([Homepage](http://zynaddsubfx.sourceforge.net))**
  * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
- * [aeolus](http://packages.debian.org/wheezy/aeolus) - synthétiseur émulant un orgue ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/))
  * [ams-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of Voltage Controlled LV2 modules for Ingen `▒`
- * [ams](http://packages.debian.org/wheezy/ams) - synthétiseur modulaire en temps réel pour ALSA ([Homepage](http://alsamodular.sourceforge.net/))
  * [amsynth](http://packages.debian.org/wheezy/amsynth) - two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
  * [azr3-jack](http://packages.debian.org/wheezy/azr3-jack) - drawbar organ simulator ([Homepage](http://ll-plugins.nongnu.org/azr3/))
@@ -241,6 +239,10 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * [amsynth](http://packages.debian.org/wheezy/amsynth) - two oscillator software synthesizer
 two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
  * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based plugins for LADSPA hosts
+ * [aeolus](http://packages.debian.org/sid/aeolus) - Synthesised pipe organ emulator ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/))
+ * [ams](http://packages.debian.org/sid/ams) - Realtime modular synthesizer for ALSA
+Realtime modular synthesizer for ALSA ([Homepage](http://alsamodular.sourceforge.net/))
+
 
 
 
@@ -291,26 +293,26 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 
 ### MIDI Utilities
- * [abcmidi](http://packages.debian.org/wheezy/abcmidi) - Convertit les fichiers ABC au format MIDI et inversement
+ * [abcmidi](http://packages.debian.org/sid/abcmidi) - converter from ABC to MIDI format and back ([Homepage](http://ifdo.ca/~seymour/runabc/top.html))
  * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](http://packages.debian.org/wheezy/gmidimonitor) - GTK+ application that shows MIDI events ([Homepage](http://home.gna.org/gmidimonitor/)
  * [jack-keyboard](http://packages.debian.org/wheezy/jack-keyboard) - Virtual MIDI keyboard for JACK MIDI ([Homepage](http://jack-keyboard.sourceforge.net))
  * [kmidimon](http://packages.debian.org/wheezy/kmidimon) - MIDI monitor using ALSA sequencer and KDE user interface ([Homepage](http://kmidimon.sourceforge.net))
+ * [m2hpc](http://dominodesigns.info/m2hpc/index.html) - MIDI to Hydrogen Pattern Converter ``
  * [midimsg-lv2](http://packages.debian.org/wheezy/midimsg-lv2) - set of plugins to transform midi output
  * [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files ``
- * [qmidiarp](http://packages.debian.org/wheezy/qmidiarp) - arpégiateur MIDI pour ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
+ * [qmidiarp](http://packages.debian.org/sid/qmidiarp) - MIDI arpeggiator for ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
  * [qmidinet](http://packages.debian.org/wheezy/qmidinet) - MIDI Network Gateway via UDP/IP Multicast ([Homepage](http://qmidinet.sourceforge.net/))
  * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
- * [m2hpc](http://dominodesigns.info/m2hpc/index.html) - MIDI to Hydrogen Pattern Converter ``
 
 
 ## System utilities
- * **[jackd2](http://packages.debian.org/wheezy/jackd2)** - Kit de connection audio JACK (serveur et exemples de clients) ([Homepage](http://jackaudio.org/))
- * **[qjackctl](http://packages.debian.org/wheezy/qjackctl)** - User interface for controlling the JACK sound server ([Homepage](http://qjackctl.sourceforge.net))
- * [a2jmidid](http://packages.debian.org/wheezy/a2jmidid) - démon pour lier des applications obsolètes ALSA MIDI dans des systèmes JACK MIDI ([Homepage](http://home.gna.org/a2jmidid/))
- * [aconnectgui](http://packages.debian.org/wheezy/aconnectgui) - gestionnaire graphique de connexion au séquenceur ALSA
- * [aj-snapshot](http://packages.debian.org/wheezy/aj-snapshot) - fait des captures des connexions JACK ([Homepage](http://aj-snapshot.sourceforge.net/))
- * [alsa-utils](http://packages.debian.org/wheezy/alsa-utils) - utilitaires pour utiliser et configurer ALSA ([Homepage](http://www.alsa-project.org/))
+ * [a2jmidid](http://packages.debian.org/sid/a2jmidid) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([Homepage](http://home.gna.org/a2jmidid/))
+ * [aconnectgui](http://packages.debian.org/sid/aconnectgui) - graphical ALSA sequencer connection manager
+ * [aj-snapshot](http://packages.debian.org/sid/aj-snapshot) - make snapshots of JACK connections ([Homepage](http://aj-snapshot.sourceforge.net/))
+ * [alsa-tools-gui](http://packages.debian.org/wheezy/alsa-tools-gui) - GUI based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
+ * [alsa-tools](http://packages.debian.org/wheezy/alsa-tools) - Console based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
+ * [alsa-utils](http://packages.debian.org/sid/alsa-utils) - Utilities for configuring and using ALSA ([Homepage](http://www.alsa-project.org/))
  * [cadence](http://packages.debian.org/wheezy/cadence) - JACK audio toolbox
  * [carla-lv2](http://packages.debian.org/wheezy/carla-lv2) - audio plugin host (LV2 plugin)
  * [carla](http://packages.debian.org/wheezy/carla) - audio plugin host
@@ -326,21 +328,21 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [jack-rack](http://packages.debian.org/wheezy/jack-rack) - LADSPA effects "rack" for JACK ([Homepage](http://jack-rack.sourceforge.net/))
  * [jack-tools](http://packages.debian.org/wheezy/jack-tools) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([Homepage](http://slavepianos.org/rd/?t=rju))
  * [jackd2-firewire](http://packages.debian.org/wheezy/jackd2-firewire) - JACK Audio Connection Kit (FFADO and FreeBoB backends) ([Homepage](http://jackaudio.org/))
+ * [jackd2](http://packages.debian.org/sid/jackd2) - JACK Audio Connection Kit (server and example clients) ([Homepage](http://jackaudio.org/))
  * [jackeq](http://packages.debian.org/wheezy/jackeq) - routes and manipulates audio from/to multiple sources ([Homepage](http://djcj.org/jackeq/))
  * [laditools](http://packages.debian.org/wheezy/laditools) - Linux Audio Desktop Integration Tools ([Homepage](https://launchpad.net/laditools))
  * [linux-image-rt-686-pae](http://packages.debian.org/wheezy/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
  * [mediainfo-gui](http://packages.debian.org/wheezy/mediainfo-gui) - graphical utility for reading information from audio/video files ([Homepage](http://mediainfo.sourceforge.net))
  * [mediainfo](http://packages.debian.org/wheezy/mediainfo) - command-line utility for reading information from audio/video files ([Homepage](http://mediainfo.sourceforge.net))
- * [patchage](http://packages.debian.org/wheezy/patchage) - Baie modulaire pour l'audio Jack et Alsa Midi ([Homepage](http://drobilla.net/software/patchage/))
+ * [patchage](http://packages.debian.org/sid/patchage) - modular patch bay for Jack audio and Alsa Midi ([Homepage](http://drobilla.net/software/patchage/))
+ * [qjackctl](http://packages.debian.org/sid/qjackctl) - User interface for controlling the JACK sound server ([Homepage](http://qjackctl.sourceforge.net))
  * [qjackrcd](http://packages.debian.org/wheezy/qjackrcd) - Qt4 application to record JACK server outputs ([Homepage](http://qjackrcd.sourceforge.net))
  * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio ``
- * [rtkit](http://packages.debian.org/wheezy/rtkit) - politique de temps réel et démon de surveillance ([Homepage](http://0pointer.de/public/))
- * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices ``
- * [zita-ajbridge](http://packages.debian.org/wheezy/zita-ajbridge) - pont alsa vers jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
- * [zita-mu1](http://packages.debian.org/wheezy/zita-mu1) - organise le suivi stéréo pour le kit de connexion audio Jack ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
- * [alsa-tools](http://packages.debian.org/wheezy/alsa-tools) - Console based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
- * [alsa-tools-gui](http://packages.debian.org/wheezy/alsa-tools-gui) - GUI based ALSA utilities for specific hardware ([Homepage](http://www.alsa-project.org/))
  * [rotter](http://packages.debian.org/wheezy/rotter) - JACK client for transmission recording and audio logging ([Homepage](http://www.aelius.com/njh/rotter/))
+ * [rtkit](http://packages.debian.org/sid/rtkit) - Realtime Policy and Watchdog Daemon ([Homepage](http://0pointer.de/public/))
+ * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices ``
+ * [zita-ajbridge](http://packages.debian.org/sid/zita-ajbridge) - alsa to jack bridge ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
+ * [zita-mu1](http://packages.debian.org/sid/zita-mu1) - organise stereo monitoring for Jack Audio Connection Kit ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
 
 
 ##### Pulseaudio
