@@ -29,7 +29,6 @@ http://www.ibiblio.org/pub/Linux/apps/sound/editors/!INDEX.html
 
 ## Migrated
 
-la-fait
 http://www.apodio.org/
 http://www.apo33.org/apodio-site/?p=48
 http://artistx.org/blog/
@@ -44,7 +43,6 @@ http://bandshed.net/forum/index.php?topic=3502.0
 http://wiki.linuxaudio.org/apps/categories/distributions
 http://wiki.linuxaudio.org/apps/categories/linux_audio_bundles_distributions_and_music_collections
 http://wiki.linuxaudio.org/wiki/script_midi2hydrogen
-http://wiki.linuxaudio.org/wiki/open_discussion
 http://easy.open.and.free.fr/didjix/features.html
 http://wiki.linuxaudio.org/apps/screenshots
 http://wiki.linuxaudio.org/apps/all/lat
@@ -55,6 +53,7 @@ http://wiki.linuxaudio.org/apps/all/lau
 http://opensourcemusician.com/index.php/Main_Page
 http://linuxaudio.org/resources
 http://wiki.linuxaudio.org/site/about
+http://wiki.linuxaudio.org/wiki/open_discussion
 http://wiki.linuxaudio.org/wiki/request
 http://wiki.linuxaudio.org/apps/logos
 http://jackaudio.org/realtime_vs_realtime_kernel
@@ -164,6 +163,9 @@ http://jzu.free.fr/outils.html
 http://gwc.sourceforge.net/
 https://gist.github.com/coderofsalvation/7740333
 http://wiki.linuxaudio.org/wiki/tutorials/start
+http://wiki.linuxaudio.org/wiki/script_lscp2rgd
+http://wiki.linuxaudio.org/wiki/scripts_wav2specimen
+
 audiocutter: abandoned, sf 404
 DAP Richard Kent's 404
 glame abandoned 2007 http://sourceforge.net/projects/glame/files/

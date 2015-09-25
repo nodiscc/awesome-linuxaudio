@@ -6,6 +6,10 @@ A list of software and resources for professional audio/video/live events produc
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
+Useful automation scripts may be found in the **[scripts](scripts/) directory**.
+
+Tutorials and howto guides about Linux multimedia software can be found on the **[Tutorials](tutorials.md) page**.
+
        Unpackaged
     ▒   Only in KXStudio repositories
        Non-free/closed source
@@ -41,7 +45,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 - [Unsorted](#unsorted)
 - [DOCUMENTATION](#documentation)
 	- [General doc/software/forums](#general-docsoftwareforums)
-	- [Howtos](#howtos)
 - [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [LICENSE](#license)
@@ -255,7 +258,6 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
  * [gwc](http://packages.debian.org/sid/gwc) - Audio file denoiser ([Homepage](http://gwc.sf.net))
 http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. ``
- * [loopcrossfade](https://gist.github.com/nk23x/b14f9305b7e2a1bc0727) - makes an audiofile loop itself (seamless by using a crossfade trick)
 
 
 ### Meters & Analysis
@@ -297,6 +299,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [qmidiarp](http://packages.debian.org/wheezy/qmidiarp) - arpégiateur MIDI pour ALSA ([Homepage](http://qmidiarp.sourceforge.net/))
  * [qmidinet](http://packages.debian.org/wheezy/qmidinet) - MIDI Network Gateway via UDP/IP Multicast ([Homepage](http://qmidinet.sourceforge.net/))
  * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
+ * [m2hpc](http://dominodesigns.info/m2hpc/index.html) - MIDI to Hydrogen Pattern Converter ``
 
 
 ## System utilities
@@ -628,39 +631,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [Linux Audio Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/) - email list to publish announcements.
  * [Gentoo Pro-Audio Overlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Main_Page) - Pro-audio support for Gentoo users 
 
-### Howtos
 
-Read [System Setup](system-setup.md) for system related topics.
-
- * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
- * [Loop-based Music Composition With Linux, Pt. 1](http://www.linuxjournal.com/node/1000304)
- * [Dave Phillips' Articles and Tutorials - LinuxJournal](http://www.linuxjournal.com/users/dave-phillips)
- * [▶ Rough Mix with Calf FX - YouTube](https://www.youtube.com/watch?v=JR6mRkFkoBQ)
- * [▶ Hydrogen Drum Machine with CALF plugins - YouTube](https://www.youtube.com/watch?v=FJaSbPZgLnw)
- * [Puredata - FLOSS Manuals](https://flossmanuals.net/PureData/)
- * [Puredata tutorials](http://puredata.info/docs/tutorials)
- * [new year – with fluxus and mixxx](http://www.ponnuki.net/2011/01/year-event-fluxus-mixxx/)
- * [Rosegarden - DebianEdu Tutorials](https://wiki.debian.org/DebianEdu/Documentation/Manuals/Rosegarden)
- * [Making Music in the Rosegarden](http://www.penguinproducer.com/Blog/2011/11/making-music-in-the-rosegarden/)
- * [abcmidi Tutorial](http://wiki.li(https://wiki.debian.org/DebianEdu/Documentation/Manuals/Rosegarden)nuxaudio.org/wiki/abcmiditutorial)
- * [AlsaModularSynth - Making a vocoder](http://wiki.linuxaudio.org/wiki/amsvocodertutorial)
- * [Musescore tutorials](https://musescore.org/en/tutorials)
- * [Screencasting with FFmpeg, jack_capture and Xephyr [Linux-Sound]](http://wiki.linuxaudio.org/wiki/screencasttutorial)
- * [seq24: toggle sequences with a MIDI controller [Linux-Sound]](http://wiki.linuxaudio.org/wiki/seq24togglemiditutorial)
- * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_intro.html)
- * trackers: [Mod Tracking Tutorial -- Introduction](http://files.byondhome.com/Audiophiles/iainperegrine.modtracker_tutorial/modtracking_tutorial_part1.html)
- * trackers: [Trackers and Linux. || kuro5hin.org](https://www.kuro5hin.org/story/2002/6/8/2524/90038)
- * trackers: [A Tutorial on Cutting Up a Breakbeat Using a Tracker || kuro5hin.org](https://www.kuro5hin.org/story/2005/11/13/182235/45)
- * trackers: [.:: Milkytracker Tutorial ::.](http://www.seele07.de/milkytutorial/data/start_here.html)
- * [Cover - Prodigy - Breath - LMMS - ZynAddSubFX - Linux - YouTube](http://www.youtube.com/watch?v=gxTxhv8H9X0)
- * [Getting Started With SooperLooper on Vimeo](http://vimeo.com/7315051)
- * [Introduction_to_Ardour_3.0_MIDI : Dan MacDonald : Free Download &amp; Streaming : Internet Archive](http://www.archive.org/details/Introduction_to_Ardour_3.0_MIDI) * [01_PADsynth_strings.ogv - YouTube](http://www.youtube.com/watch?v=IA-7tpTfE-E)
- * [Linux music tutorial: seq24, part 1 - YouTube](http://www.youtube.com/watch?v=J2WDHS1wYeM)
- * [Seq24 Tutorial, Part 1 - setting loops - YouTube](http://www.youtube.com/watch?v=51W9PQfyMsg)
- * [Amsynth - Linux Synthesizer - YouTube](http://www.youtube.com/watch?v=YHR9hQVrRIQ)
- * [Ardour - Music Editing in Linux - Part #1 - YouTube](http://www.youtube.com/watch?v=43ES7p4ejX0)
- * [You, Too Can Learn Renoise: Video Tutorial](http://createdigitalmusic.com/2009/10/you-too-can-learn-renoise-video-tutorial-from-dac-makes-you-a-tracker/)
- * [Linux soft synth tutorial: part 6.1 - YouTube](http://www.youtube.com/watch?v=p6SoNX4bA1Y)
 
 
 ## GLOSSARY
@@ -689,7 +660,7 @@ Read [System Setup](system-setup.md) for system related topics.
  * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
  * http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
  * Package scripts from http://www.pjb.com.au/midi/
- * Group and package scripts from http://wiki.linuxaudio.org/wiki/script_midi2hydrogen, http://wiki.linuxaudio.org/wiki/script_lscp2rgd, http://wiki.linuxaudio.org/wiki/scripts_wav2specimen, http://wiki.linuxaudio.org/wiki/scripts_and_tools
+ * Group and package scripts from, http://wiki.linuxaudio.org/wiki/scripts_and_tools (partially done in scripts/)
  * add software from http://bandshed.net/avlinux6-debs/
 
 ## LICENSE
