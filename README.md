@@ -569,7 +569,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 ## SAMPLES/PRESETS/RESOURCES
  * **[Musical Artifacts](https://musical-artifacts.com/)** - Helping to catalogue, preserve and free the artifacts you need to produce music. 
  * **[Freesound](http://www.freesound.org/browse/)** - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
- * [CCMixter](http://ccmixter.org/) - Search engine fore Creative Commons multmedia content
+ * [CCMixter](http://ccmixter.org/) - Search engine fore Creative Commons multimedia content
  * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
 
 ---------------------------------------------
