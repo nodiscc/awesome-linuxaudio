@@ -409,6 +409,9 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 
 ## Video
+
+See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
+
  * **[Cinelerra](http://cinelerra.org/)** - Cinema Production Software ``
  * **[Lightworks](https://www.lwks.com/)** - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `
  * **[openshot](http://packages.debian.org/wheezy/openshot)** - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))
@@ -649,22 +652,10 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 
 ## TODO
- * Add tools from http://linux4vjs.net/list-of-linux-tools/ and contact them
- * Sort and add http://wiki.linuxaudio.org/wiki/start?do=index (wiki cleanup and migration progress at [migration.md](migration.md))
- * add software from http://jackaudio.org/applications/
- * add software from kxstudio repos (https://gist.github.com/nodiscc/f8ef6744199ec9f26044)
+ * Sort and add http://wiki.linuxaudio.org (wiki cleanup and migration progress at [migration.md](migration.md)), contact LAU mailing list to update the wiki from here.
  * sort unsorted links
  * provide configuration scripts/guides for debian systems? See [System Setup](system-setup.md)
- * re-run `dwlink -mb` with `LANG=C` to get packages descriptions in english
- * add links from http://linux-sound.org/
  * Package all unpackaged software `` for Debian
- * Add software from http://www.kvraudio.com/plugins/linux/newest
- * add xmms
- * http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
- * http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
- * Package scripts from http://www.pjb.com.au/midi/
- * Group and package scripts from, http://wiki.linuxaudio.org/wiki/scripts_and_tools (partially done in scripts/)
- * add software from http://bandshed.net/avlinux6-debs/
 
 
 ## CONTRIBUTING

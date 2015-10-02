@@ -29,6 +29,15 @@ http://www.ibiblio.org/pub/Linux/apps/sound/editors/!INDEX.html
 http://gareus.org/blog/jack2dbus
 http://gareus.org/wiki/jack2contol
 http://www.linux-sound.org/
+xmms
+http://jackaudio.org/applications/
+https://gist.github.com/nodiscc/f8ef6744199ec9f26044
+http://www.kvraudio.com/plugins/linux/newest
+http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
+http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
+http://bandshed.net/avlinux6-debs/
+http://www.pjb.com.au/midi/
+
 
 
 ## Migrated
