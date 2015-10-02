@@ -1,6 +1,7 @@
 # Doc reorg/migration/cleanup status
 
 ## To Migrate
+la-afr
 http://wiki.linuxaudio.org/apps/start
 http://www.linuxlinks.com/article/20080622143124178/Audio.html
 https://en.wikipedia.org/wiki/List_of_Linux_audio_software
@@ -10,7 +11,6 @@ http://wiki.linuxaudio.org/wiki/start
 http://opensourcemusician.com/index.php/Software
 http://wiki.linuxaudio.org/hw/start
 http://wiki.linuxaudio.org/wiki/migrationprogress
-http://wiki.linuxaudio.org/wiki/scripts_and_tools
 http://wiki.linuxaudio.org/apps/all
 http://wiki.linuxaudio.org/apps/categories/start
 http://wiki.linuxaudio.org/apps/categories/start?do=index
@@ -26,12 +26,14 @@ http://wiki.linuxaudio.org/apps/categories/start?idx=hw
 https://github.com/nodiscc/dbu/blob/master/build/config/package-lists/audacity.list.chroot
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/!INDEX.html
- * http://linuxaudio.org/resources
- * http://www.linux-sound.org/
+http://gareus.org/blog/jack2dbus
+http://gareus.org/wiki/jack2contol
+http://www.linux-sound.org/
 
 
 ## Migrated
 
+la-fait
 http://www.apodio.org/
 http://www.apo33.org/apodio-site/?p=48
 http://artistx.org/blog/
@@ -168,6 +170,14 @@ https://gist.github.com/coderofsalvation/7740333
 http://wiki.linuxaudio.org/wiki/tutorials/start
 http://wiki.linuxaudio.org/wiki/script_lscp2rgd
 http://wiki.linuxaudio.org/wiki/scripts_wav2specimen
+https://lievenmoors.github.io/samples.html
+https://lievenmoors.github.io/plugins.html
+https://lievenmoors.github.io/jack.html
+https://brunoruviaro.github.io/ardour3-floss-tutorial/
+http://wiki.laptop.org/go/Sound_samples
+http://lists.linuxaudio.org/pipermail/linux-audio-user/2011-June/079213.html
+http://savvyadmin.com/extract-audio-from-video-files-to-wav-using-mplayer/
+http://wiki.linuxaudio.org/wiki/scripts_and_tools
 
 audiocutter: abandoned, sf 404
 DAP Richard Kent's 404

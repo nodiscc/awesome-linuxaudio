@@ -35,3 +35,5 @@ Read [System Setup](system-setup.md) for system related topics.
  * [soft synths](https://lievenmoors.github.io/softsynths.html) - ZynAddSubFX, PHASEX, and Minicomputer presentation
  * [samplers](https://lievenmoors.github.io/samples.html) - Fluidsynth, Swami, Linuxsampler, Qsampler and Gigedit presentation
  * [Introduction to Linux & Audio](https://lievenmoors.github.io/index.html)
+ * [Using MEncoder to create VCD/SVCD/DVD-compliant files](https://www.mplayerhq.hu/DOCS/HTML/en/menc-feat-vcd-dvd.html)
+ * [BEGINNER'S TUTORIAL – Ardour 3](https://brunoruviaro.github.io/ardour3-floss-tutorial/)

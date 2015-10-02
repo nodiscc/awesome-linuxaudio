@@ -375,6 +375,8 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [mp3splt-gtk](http://packages.debian.org/sid/mp3splt-gtk) - GTK interface to split MP3 and Ogg Vorbis files without reencoding ([Homepage](http://mp3splt.sourceforge.net/))
+ * [dir2ogg](http://packages.debian.org/sid/dir2ogg) - audio file converter into ogg-vorbis format ([Homepage](http://jak-linux.org/projects/dir2ogg/))
+
 
 
 ### Network streaming
