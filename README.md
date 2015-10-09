@@ -6,9 +6,8 @@ A list of software and resources for professional audio/video/live events produc
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
-Useful automation scripts may be found in the **[scripts](scripts/) directory**.
+See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
-Tutorials and howto guides about Linux multimedia software can be found on the **[Tutorials](tutorials.md) page**.
 
 -------------------------
 
@@ -18,6 +17,9 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
 
 
 -------------------------
+
+## TABLE OF CONTENTS
+
 <!-- MarkdownTOC depth=3 -->
 
 - [DAW/Sequencers](#dawsequencers)
@@ -46,7 +48,9 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
 - [SAMPLES/PRESETS/RESOURCES](#samplespresetsresources)
 - [Unsorted](#unsorted)
 - [DOCUMENTATION](#documentation)
-	- [General doc/software/forums](#general-docsoftwareforums)
+	- [Other Software Lists](#other-software-lists)
+	- [Documentation](#documentation-1)
+	- [Communities/Forums](#communitiesforums)
 - [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [CONTRIBUTING](#contributing)
@@ -74,6 +78,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
 
 ## Audio Editors
+
  * [audacity](http://packages.debian.org/sid/audacity) - fast, cross-platform audio editor ([Homepage](http://audacity.sourceforge.net/))
  * [gnusound](https://packages.debian.org/sid/gnusound) - multitrack sound editor for GNOME
  * [kwave](http://packages.debian.org/wheezy/kwave) - sound editor for KDE ([Homepage](http://kwave.sourceforge.net))
@@ -86,7 +91,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * [SndBite](http://billposer.org/Software/SndBite.html) - SndBite is a specialized audio editor, designed for breaking large recordings into smaller components with great efficiency. Its principal intended application is in linguistic research where it is often desirable to put each word or sentence into a separate file before further processing. ``
  * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. ``
  * [eisenkraut](https://github.com/Sciss/Eisenkraut) - A multi-channel and hi-res capable audio file editor ([Homepage](http://www.sciss.de/eisenkraut/))
-
+ * [Shuriken](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. ``
 
 
 
@@ -318,6 +323,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [catia](http://packages.debian.org/wheezy/catia) - extended JACK patchbay
  * [claudia](http://packages.debian.org/wheezy/claudia) - extended ladish frontend
  * [dssi-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Adapter for VST an VSTi audio plugins `▒`
+ * [airwave](https://github.com/phantom-code/airwave) - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts ``
  * [festige](http://packages.debian.org/wheezy/festige) - GUI for fst and dssi-vst
  * [ffado-mixer-qt4](http://packages.debian.org/wheezy/ffado-mixer-qt4) - FFADO D-Bus mixer applets (QT4) ([Homepage](http://www.ffado.org))
  * [gladish](http://packages.debian.org/wheezy/gladish) - graphical interface for LADI Session Handler ([Homepage](http://ladish.org/))
@@ -373,6 +379,8 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [hydro2sf2](https://code.google.com/p/hydro2sf2/) - a tool which allows you to convert a Hydrogen drumkit into a SF2 soundfont ``
  * [ogmrip](http://packages.debian.org/wheezy/ogmrip) - Application for ripping and encoding DVD ([Homepage](http://ogmrip.sourceforge.net))
  * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
+ * [ffmpeg](http://packages.debian.org/sid/ffmpeg) - Tools for transcoding, streaming and playing of multimedia files ([Homepage](https://ffmpeg.org/))
+ * [mplayer2](http://packages.debian.org/wheezy/mplayer2) - next generation movie player for Unix-like systems ([Homepage](http://mplayer2.org))
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [mp3splt-gtk](http://packages.debian.org/sid/mp3splt-gtk) - GTK interface to split MP3 and Ogg Vorbis files without reencoding ([Homepage](http://mp3splt.sourceforge.net/))
  * [dir2ogg](http://packages.debian.org/sid/dir2ogg) - audio file converter into ogg-vorbis format ([Homepage](http://jak-linux.org/projects/dir2ogg/))
@@ -415,6 +423,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * **[Cinelerra](http://cinelerra.org/)** - Cinema Production Software ``
  * **[Lightworks](https://www.lwks.com/)** - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `
  * **[openshot](http://packages.debian.org/wheezy/openshot)** - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))
+ * **[CasparCG Server](http://www.casparcg.com/)** - professional software used to play out and record professional graphics, audio and video to multiple outputs. CasparCG Server has been in 24/7 broadcast production since 2006. ``
  * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
  * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
  * [dvswitch](http://packages.debian.org/wheezy/dvswitch) - basic video mixer for live DV streams ([Homepage](http://dvswitch.alioth.debian.org/))
@@ -604,7 +613,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [swami](http://packages.debian.org/wheezy/swami) - éditeur d'instruments MIDI ([Homepage](http://swami.sf.net))
  * [timemachine](http://packages.debian.org/wheezy/timemachine) - enregistreur audio JACK pour une utilisation spontanée et de conservation ([Homepage](http://plugin.org.uk/timemachine/))
  * [transmageddon](http://packages.debian.org/wheezy/transmageddon) - video transcoder for Linux and Unix systems built using GStreamer ([Homepage](http://www.linuxrising.org/))
- * [yoshimi](http://packages.debian.org/wheezy/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
+ * **[yoshimi](http://packages.debian.org/wheezy/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))**
 
 
 
@@ -613,27 +622,36 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ## DOCUMENTATION
 
-### General doc/software/forums
- * **[/r/linuxaudio](https://www.reddit.com/r/linuxaudio)** - Music and Audio on the Linux platform
- * **[Libre Music Production](http://libremusicproduction.com/)** - News, articles, tutorials, interviews, tools, resources...
- * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)**
- * **[Linux Audio Tutorials](http://quicktoots.linux-audio.com/)**
- * **[Linux Audio Users Guide](http://linux-audio.com/)**
- * **[Linux Audio Users](http://lists.linuxaudio.org/listinfo/linux-audio-user)** - mailing list for linux audio users
- * **[Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)**
- * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
- * [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio),  and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians) IRC channels on the Freenode Network
- * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
- * [Gentoo Pro-Audio Overlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Main_Page) - Pro-audio support for Gentoo users 
- * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
- * [KXStudio : Repositories : Plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)
- * [Linux MAO Wiki](http://linuxmao.org/Accueil) (fr)
- * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
- * [Linuxaudio.org](http://linuxaudio.org/) - consortium of libre software projects, artists, companies, institutions, organizations, and hardware vendors using Linux/Free Software based systems for professional audio work.
- * [LinuxMusicians Forum • Index page](http://linuxmusicians.com/)
- * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page)
- * Linux audio mailing lists: [Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/), [System Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/), [Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/)
+Useful automation scripts may be found in the **[scripts](scripts/) directory**.
 
+Tutorials and howto guides about Linux multimedia software can be found on the **[Tutorials](tutorials.md) page**.
+
+### Other Software Lists
+
+ * **[Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)**
+   * **[Effects](http://www.kvraudio.com/plugins/linux/effects/most-popular)**
+   * **[Instruments](http://www.kvraudio.com/plugins/linux/instruments/most-popular)**
+   * **[Hosts](http://www.kvraudio.com/plugins/linux/hosts/most-popular)**
+
+### Documentation
+
+ * **[Libre Music Production](http://libremusicproduction.com/)** - News, articles, tutorials, interviews, tools, resources...
+ * [Linux MAO Wiki](http://linuxmao.org/Accueil) (fr)
+ * [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start) (currently reordering, see [migration](migration.md))
+ * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
+ * [Linuxaudio.org](http://linuxaudio.org/) (see [migration](migration.md))
+
+
+
+### Communities/Forums
+
+ * **IRC channels on the Freenode Network:** [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio), and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians)
+ * **Linux Audio Mailing lists:** [Users](http://lists.linuxaudio.org/listinfo/linux-audio-user), [Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/), [System Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/), [Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/)
+ * **[/r/linuxaudio](https://www.reddit.com/r/linuxaudio)** - Music and Audio on the Linux platform
+ * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
+ * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
+ * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page) (inactive)
+ * [AVLinux Forums](http://bandshed.net/forum/index.php)
 
 
 
@@ -654,8 +672,8 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 ## TODO
  * Sort and add http://wiki.linuxaudio.org (wiki cleanup and migration progress at [migration.md](migration.md)), contact LAU mailing list to update the wiki from here.
  * sort unsorted links
- * provide configuration scripts/guides for debian systems? See [System Setup](system-setup.md)
  * Package all unpackaged software `` for Debian
+ * Add ID3 taggers
 
 
 ## CONTRIBUTING

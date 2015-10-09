@@ -11,6 +11,7 @@ Status: DRAFT
 
 ## Base setup
 
+ * [Compatitble audio interfaces and hardware](http://www.alsa-project.org/main/index.php/Matrix:Main)
  * Install Debian stable
  * Add kxstudio repos (see http://kxstudio.linuxaudio.org/Repositories): ` wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_9.0.0~kxstudio1_all.deb, sudo dpkg -i kxstudio-repos_9.0.0~kxstudio1_all.deb`
  * switch CPU Frequency scaling to Performance
@@ -40,6 +41,7 @@ https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/74adbac5
  * **[Programming and using Linux sound](http://jan.newmarch.name/LinuxSound/)**
  * [The LADI Session Handler](http://www.penguinproducer.com/Blog/2011/12/the-ladi-session-handler/)
  * [Audio Layers Overview [Linux-Sound]](http://wiki.linuxaudio.org/wiki/audio_layers_overview)
+ * [Gentoo Pro-Audio Overlay](http://proaudio.tuxfamily.org/wiki/index.php?title=Main_Page) - Pro-audio support for Gentoo users 
 
 
 ##### Misc
@@ -61,3 +63,5 @@ https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/74adbac5
  * [Low Latency Howto - ALSA Project](http://www.alsa-project.org/main/index.php/Low_latency_howto)
  * [Realtime Linux Audio Kernels - linuxaudio.org](http://wiki.linuxaudio.org/wiki/kernel/start) - support for packagers, vendors and users
  * [Ubuntu Realtime kernels](https://wiki.ubuntu.com/RealTime?highlight=%28realtime%29)
+ * [rtaudio](https://github.com/thestk/rtaudio) -  A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems. 
+ * [openAudioProgrammingTutorials](https://github.com/harryhaaren/openAudioProgrammingTutorials) -  A tutorial style set of programs that will hopefully assist beginner programmers get familiar with the Linux Audio scene

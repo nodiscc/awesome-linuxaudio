@@ -39,6 +39,10 @@ http://bandshed.net/avlinux6-debs/
 http://www.pjb.com.au/midi/
 
 
+ * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
+ * [KXStudio : Repositories : Plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)
+
+
 
 ## Migrated
 
