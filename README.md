@@ -64,10 +64,9 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * **[ardour3](http://packages.debian.org/wheezy/ardour3)** - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
  * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````
  * **[Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html)** - the first full-featured DAW with true analog style mixing. ````
- * **[Renoise](http://www.renoise.com/products/renoise)** - a Digital Audio Workstation (DAW) using a tracker-based approach. ````
  * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
  * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
- * [mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))
+ * **[mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))**
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
@@ -76,6 +75,11 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
  * [meterec](http://packages.debian.org/sid/meterec) - minimalistic multi track recorder ([Homepage](http://meterec.sourceforge.net/))
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
+
+_Trackers_
+
+ * **[Renoise](http://www.renoise.com/products/renoise)** - a Digital Audio Workstation (DAW) using a tracker-based approach. ````
+ * [milkytracker](http://packages.debian.org/wheezy/milkytracker) - music creation tool inspired by Fast Tracker 2 ([Homepage](http://www.milkytracker.org/))
 
 ## Audio Editors
 
@@ -235,7 +239,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [whysynth](http://packages.debian.org/wheezy/whysynth) - DSSI Soft Synth Interface ([Homepage](http://www.smbolton.com/whysynth.html))
  * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter `▒`
  * [wsynth-dssi](http://packages.debian.org/wheezy/wsynth-dssi) - hack on Xsynth-DSSI to allow wavetable synthesis ([Homepage](http://www.nekosynth.co.uk/wiki/wsynth))
- * [xwax](http://packages.debian.org/wheezy/xwax) - open-source vinyl emulation software for Linux ([Homepage](http://www.xwax.co.uk/))
+ * **[xwax](http://packages.debian.org/wheezy/xwax) - open-source vinyl emulation software for Linux with timecoded vinyl support ([Homepage](http://www.xwax.co.uk/))**
  * [zynaddsubfx-dssi-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dssi plugin of zynaddsubfx `▒`
  * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
  * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
@@ -384,6 +388,9 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [zita-bls1](http://packages.debian.org/wheezy/zita-bls1) - convertisseur de signaux stéréo binauraux ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [mp3splt-gtk](http://packages.debian.org/sid/mp3splt-gtk) - GTK interface to split MP3 and Ogg Vorbis files without reencoding ([Homepage](http://mp3splt.sourceforge.net/))
  * [dir2ogg](http://packages.debian.org/sid/dir2ogg) - audio file converter into ogg-vorbis format ([Homepage](http://jak-linux.org/projects/dir2ogg/))
+ * [mp3diags](http://packages.debian.org/sid/mp3diags) - find issues in MP3 files and help to solve them ([Homepage](http://mp3diags.sourceforge.net/))
+ * [mp3val](http://packages.debian.org/sid/mp3val) - program for MPEG audio stream validation ([Homepage](http://mp3val.sourceforge.net/))
+
 
 
 
@@ -402,7 +409,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
   * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
  * [xdmx](http://packages.debian.org/wheezy/xdmx) - distributed multihead X server
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
-
+ * [mistserver](http://www.mistserver.org/products) - Live or Video on Demand streaming media server that works well in any streaming environment
 
 
 
@@ -473,7 +480,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [wings3d](http://packages.debian.org/wheezy/wings3d) - Nendo-inspired 3D polygon mesh modeller ([Homepage](http://www.wings3d.com))
  * [yaprm](http://sourceforge.net/projects/yaprm/) - a free-as-in-freedom modeller to graphicaly design 3d scenes and generate POV-Ray-files for them.
  * [fluxus](http://www.pawfal.org/fluxus/) - A 3D game engine for livecoding worlds into existence. ``
-
+ * [flumotion](http://packages.debian.org/sid/flumotion) - modern streaming media server built with a modular distributed design, giving you stability and scalability in offering high-quality streaming media. 
 
 
 
@@ -543,7 +550,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [musique](http://packages.debian.org/wheezy/musique) - Simple but sophisticated graphical music player ([Homepage](http://flavio.tordini.org/musique))
  * [quodlibet](http://packages.debian.org/wheezy/quodlibet) - audio library manager and player for GTK3 ([Homepage](http://code.google.com/p/quodlibet/))
  * [sonata](http://packages.debian.org/wheezy/sonata) - GTK+ client for the Music Player Daemon (MPD) ([Homepage](http://sonata.berlios.de/))
- * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
+ * **[vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))**
 
 
 
@@ -600,7 +607,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [libsox-fmt-all](http://packages.debian.org/wheezy/libsox-fmt-all) - All SoX format libraries ([Homepage](http://sox.sourceforge.net))
  * [lmms](http://packages.debian.org/wheezy/lmms) - studio multimedia pour Linux ([Homepage](http://lmms.sf.net/))
  * [mididings](http://packages.debian.org/wheezy/mididings) - MIDI router and processor based on Python ([Homepage](http://das.nasophon.de/mididings/))
- * [milkytracker](http://packages.debian.org/wheezy/milkytracker) - music creation tool inspired by Fast Tracker 2 ([Homepage](http://www.milkytracker.org/))
+
  * [qsynth](http://packages.debian.org/wheezy/qsynth) - Interface graphique pour le synthétiseur MIDI fluidsynth ([Homepage](http://qsynth.sourceforge.net))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - Séquenceur Audio/MIDI multi-pistes ([Homepage](http://qtractor.sourceforge.net/))
  * [rezound](http://packages.debian.org/wheezy/rezound) - 
@@ -633,13 +640,15 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
    * **[Instruments](http://www.kvraudio.com/plugins/linux/instruments/most-popular)**
    * **[Hosts](http://www.kvraudio.com/plugins/linux/hosts/most-popular)**
 
-### Documentation
+### Documentation/Blogs
 
  * **[Libre Music Production](http://libremusicproduction.com/)** - News, articles, tutorials, interviews, tools, resources...
+ * [Linux Audio Users Guide](http://linux-audio.com/)
  * [Linux MAO Wiki](http://linuxmao.org/Accueil) (fr)
  * [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start) (currently reordering, see [migration](migration.md))
  * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
  * [Linuxaudio.org](http://linuxaudio.org/) (see [migration](migration.md))
+ * [Autostatic](http://autostatic.com/) - Linux Audio Babble ([RSS](http://linux.autostatic.com/rss))
 
 
 
@@ -647,7 +656,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
 
  * **IRC channels on the Freenode Network:** [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio), and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians)
  * **Linux Audio Mailing lists:** [Users](http://lists.linuxaudio.org/listinfo/linux-audio-user), [Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/), [System Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/), [Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/)
- * **[/r/linuxaudio](https://www.reddit.com/r/linuxaudio)** - Music and Audio on the Linux platform
+ * **[/r/linuxaudio](https://www.reddit.com/r/linuxaudio)** - Music and Audio on the Linux platform [\[RSS\]](https://www.reddit.com/r/linuxaudio/.rss)
  * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
  * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
  * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page) (inactive)
@@ -683,18 +692,9 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * Entries should be sorted alphabetically inside categories. 
  * Please label unpackaged and non-free software: ``: Unpackaged, ``: Non-free/closed source
  * Exceptionally high-quality software may be marked as **bold**.
- * If there is a debian package available, the link syntax is:
-
-`[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
-
- * If there is no debian package the syntax is:
-
-``[Software name](http://url.to/project/homepage) - description `` ``
- 
- * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Here is a bookmarklet to generate a markdown link for the current page URL and title: 
-
- `javascript:void(prompt("","["+document.title+"]("+location.href+")"));` (or use `dwlink -ub http://url.to/copy`)
- 
+ * If there is a debian package available, the link syntax is: `[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
+ * If there is no debian package the syntax is: ``[Software name](http://url.to/project/homepage) - description `` ``
+ * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Useful bookmarklet: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));` (or use `dwlink -ub http://url.to/copy`)
  * Contributors list can be updated with `git shortlog -sne`
 
 
@@ -709,4 +709,5 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
 	 1	Andrew Kelley <superjoe30@gmail.com>
 	 1	VirtualTam <virtualtam@flibidi.net>
 	 1	paulbatchelor <thisispaulbatchelor@gmail.com>
+        Links to source material can be found in migration.md
 
