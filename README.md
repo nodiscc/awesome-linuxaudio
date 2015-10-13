@@ -1,3 +1,4 @@
+
 # awesome-linuxaudio
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
@@ -20,6 +21,9 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ## TABLE OF CONTENTS
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
   - [DAW/Sequencers](#dawsequencers)
   - [Audio Editors](#audio-editors)
   - [Samplers](#samplers)
@@ -27,8 +31,8 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
   - [Instruments](#instruments)
   - [Audio utilities](#audio-utilities)
     - [Misc](#misc)
-    - [Meters & Analysis](#meters-&-analysis)
-    - [Tuners & Metronomes](#tuners-&-metronomes)
+    - [Meters & Analysis](#meters--analysis)
+    - [Tuners & Metronomes](#tuners--metronomes)
     - [MIDI Utilities](#midi-utilities)
     - [Transcoding](#transcoding)
   - [System utilities](#system-utilities)
@@ -45,8 +49,8 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
   - [Metapackages](#metapackages)
   - [Linux Distributions](#linux-distributions)
   - [SAMPLES/PRESETS/RESOURCES](#samplespresetsresources)
-  - [Unsorted](#unsorted)
   - [DOCUMENTATION](#documentation)
+    - [Tutorials/scripts](#tutorialsscripts)
     - [Other Software Lists](#other-software-lists)
     - [Documentation/Blogs](#documentationblogs)
     - [Communities/Forums](#communitiesforums)
@@ -54,6 +58,9 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
   - [TODO](#todo)
   - [CONTRIBUTING](#contributing)
   - [LICENSE](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 -----------------------------------
 
@@ -437,7 +444,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * **[Cinelerra](http://cinelerra.org/)** - Cinema Production Software ``
  * **[Lightworks](https://www.lwks.com/)** - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `
  * **[openshot](http://packages.debian.org/wheezy/openshot)** - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))
- * **[CasparCG Server](http://www.casparcg.com/)** - professional software used to play out and record professional graphics, audio and video to multiple outputs. CasparCG Server has been in 24/7 broadcast production since 2006. ``
+ * **[CasparCG Server](http://www.casparcg.com/)** - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production ``
  * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
  * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
  * [dvswitch](http://packages.debian.org/wheezy/dvswitch) - basic video mixer for live DV streams ([Homepage](http://dvswitch.alioth.debian.org/))
@@ -678,6 +685,20 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * Exceptionally high-quality software may be marked as **bold**.
  * If there is a debian package available, the link syntax is: `[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
  * If there is no debian package the syntax is: ``[Software name](http://url.to/project/homepage) - description `` ``
+
+$ ./dwlink --help
+Usage: dwlink [OPTIONS] [package names] [URL]
+Description: Generate dokuwiki or markdown links for debian packages or URLs
+
+OPTIONS:
+    -m    enable markdown mode
+    -b    enable bullet list
+    -w    only generate link to homepage
+    -u    generate link for an URL
+    -c    only check if packages are in official debian repos
+    -k    use kxstudio website as package URL
+
+
  * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Useful bookmarklet: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));` (or use `dwlink -ub http://url.to/copy`)
  * Contributors list can be updated with `git shortlog -sne`
 
