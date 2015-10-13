@@ -686,6 +686,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * If there is a debian package available, the link syntax is: `[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
  * If there is no debian package the syntax is: ``[Software name](http://url.to/project/homepage) - description `` ``
 
+```
 $ ./dwlink --help
 Usage: dwlink [OPTIONS] [package names] [URL]
 Description: Generate dokuwiki or markdown links for debian packages or URLs
@@ -697,7 +698,7 @@ OPTIONS:
     -u    generate link for an URL
     -c    only check if packages are in official debian repos
     -k    use kxstudio website as package URL
-
+```
 
  * Linking to useful websites or howtos can be done at the end of the file in the relevant section. Useful bookmarklet: `javascript:void(prompt("","["+document.title+"]("+location.href+")"));` (or use `dwlink -ub http://url.to/copy`)
  * Contributors list can be updated with `git shortlog -sne`
