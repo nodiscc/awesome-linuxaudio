@@ -15,28 +15,30 @@ http://wiki.linuxaudio.org/apps/all
 http://wiki.linuxaudio.org/apps/categories/start
 http://wiki.linuxaudio.org/apps/categories/start?do=index
 http://wiki.linuxaudio.org/wiki/real_time_info
-https://en.wikibooks.org/wiki/Puredyne/Stream_Audio_and_Video
 http://wiki.linuxaudio.org/wiki/system_configuration
-http://www.rncbc.org/jack/
 https://en.wikipedia.org/wiki/List_of_Linux_audio_software#Distributions
 https://github.com/coderofsalvation/audiobrowse.bash
-http://wiki.linuxaudio.org/wiki/akai_mpk_mini
 http://wiki.linuxaudio.org/wiki/alesis_io2_express
 http://wiki.linuxaudio.org/apps/categories/start?idx=hw
 https://github.com/nodiscc/dbu/blob/master/build/config/package-lists/audacity.list.chroot
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/!INDEX.html
 http://gareus.org/blog/jack2dbus
-http://gareus.org/wiki/jack2contol
 http://www.linux-sound.org/
-xmms
+http://jackaudio.org/applications/
 http://jackaudio.org/applications/
 https://gist.github.com/nodiscc/f8ef6744199ec9f26044
 http://www.kvraudio.com/plugins/linux/newest
 http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
 http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
 http://bandshed.net/avlinux6-debs/
-http://www.pjb.com.au/midi/
+http://www.64studio.com/
+http://www.4front-tech.com/index.html
+http://linux-audio.com/
+http://linuxaudio.org/
+http://quicktoots.linux-audio.com/
+https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio
+http://giss.tv/
 
 
  * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
@@ -184,6 +186,7 @@ http://wiki.linuxaudio.org/wiki/tutorials/start
 http://wiki.linuxaudio.org/wiki/script_lscp2rgd
 http://wiki.linuxaudio.org/wiki/scripts_wav2specimen
 https://lievenmoors.github.io/samples.html
+https://lievenmoors.github.io/index.html
 https://lievenmoors.github.io/plugins.html
 https://lievenmoors.github.io/jack.html
 https://brunoruviaro.github.io/ardour3-floss-tutorial/
@@ -191,6 +194,18 @@ http://wiki.laptop.org/go/Sound_samples
 http://lists.linuxaudio.org/pipermail/linux-audio-user/2011-June/079213.html
 http://savvyadmin.com/extract-audio-from-video-files-to-wav-using-mplayer/
 http://wiki.linuxaudio.org/wiki/scripts_and_tools
+http://wiki.linuxaudio.org/wiki/akai_mpk_mini
+http://gareus.org/wiki/jack2contol
+http://freesound.iua.upf.edu/
+http://lam.fugal.net/
+http://www.linux-sound.org/distro.html
+http://www.ffado.org/
+http://www.alsa-project.org/main/index.php/Main_Page
+http://www.alsa-project.org/main/index.php/Matrix:Main
+https://en.wikibooks.org/wiki/Puredyne/Stream_Audio_and_Video
+http://www.pjb.com.au/midi/
+http://www.joebutton.co.uk/fst/
+http://www.rncbc.org/jack/
 
 audiocutter: abandoned, sf 404
 DAP Richard Kent's 404

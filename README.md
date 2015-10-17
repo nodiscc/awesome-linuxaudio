@@ -203,7 +203,7 @@ _Trackers_
  * [wasp-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - WASP LADSPA plugin `▒`
  * [x42-plugins](http://packages.debian.org/wheezy/x42-plugins) - Collection of LV2 plugins ([Homepage](https://github.com/x42/x42-plugins))
  * [zam-plugins](http://packages.debian.org/wheezy/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
-
+ * [infamous-plugins](http://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
  * [zita-rev1](http://packages.debian.org/wheezy/zita-rev1) - effet de réverbération pro-audio ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html))
  * [creox](http://zyzstar.kosoru.com/?creox) - a real-time sound/effects processor. ``
 
@@ -263,6 +263,8 @@ two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth
 Realtime modular synthesizer for ALSA ([Homepage](http://alsamodular.sourceforge.net/))
  * [fluidsynth](http://packages.debian.org/sid/fluidsynth) - Real-time MIDI software synthesizer ([Homepage](http://www.fluidsynth.org/))
  * [yoshimi](http://packages.debian.org/sid/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
+ * [qsynth](http://packages.debian.org/sid/qsynth) - fluidsynth MIDI sound synthesiser front-end ([Homepage](http://qsynth.sourceforge.net))
+   * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
 
 
 
@@ -328,8 +330,9 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [vmpk](http://packages.debian.org/wheezy/vmpk) - Virtual MIDI Piano Keyboard ([Homepage](http://vmpk.sourceforge.net/))
  * [mididings](http://packages.debian.org/sid/mididings) - MIDI router and processor based on Python ([Homepage](http://das.nasophon.de/mididings/))
  * [swami](http://packages.debian.org/sid/swami) - MIDI instrument editor application ([Homepage](http://swami.sf.net))
-
-
+ * [pjb.au MIDI scripts](http://www.pjb.com.au/midi/) - Various MIDI utilities and scripts ``
+ * [QmidiCtl](http://qmidictl.sourceforge.net/qmidictl-index.html) - A MIDI Remote Controller via UDP/IP Multicast ``
+ * [QXGEdit](http://qxgedit.sourceforge.net/qxgedit-index.html) - Editor for MIDI System Exclusive files for XG devices (eg. Yamaha DB50XG). ``
 
 ### Transcoding
  * **[handbrake](http://packages.debian.org/wheezy/handbrake)** - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))
@@ -347,6 +350,8 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [mp3diags](http://packages.debian.org/sid/mp3diags) - find issues in MP3 files and help to solve them ([Homepage](http://mp3diags.sourceforge.net/))
  * [mp3val](http://packages.debian.org/sid/mp3val) - program for MPEG audio stream validation ([Homepage](http://mp3val.sourceforge.net/))
  * [transmageddon](http://packages.debian.org/sid/transmageddon) - video transcoder for Linux and Unix systems built using GStreamer ([Homepage](http://www.linuxrising.org/))
+ * [ffmpeg2theora](http://packages.debian.org/sid/ffmpeg2theora) - Theora video encoder using ffmpeg ([Homepage](http://v2v.cc/~j/ffmpeg2theora/))
+ * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
 
 ## System utilities
  * [a2jmidid](http://packages.debian.org/sid/a2jmidid) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([Homepage](http://home.gna.org/a2jmidid/))
@@ -387,6 +392,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices ``
  * [zita-ajbridge](http://packages.debian.org/sid/zita-ajbridge) - alsa to jack bridge ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/sid/zita-mu1) - organise stereo monitoring for Jack Audio Connection Kit ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
+ * [rtirq-init](http://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([Homepage](http://www.rncbc.org/jack/))
 
 
 ##### Pulseaudio
@@ -416,14 +422,19 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
   * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
  * [gpac](http://packages.debian.org/wheezy/gpac) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
  * [icecast2](http://packages.debian.org/wheezy/icecast2) - streaming media server ([Homepage](http://www.icecast.org/))
+  * [oggfwd](http://packages.debian.org/sid/oggfwd) - basic icecast source client for audio and video streaming ([Homepage](http://v2v.cc/~j/oggfwd/))
+  * [ices2](http://packages.debian.org/sid/ices2) - Ogg Vorbis streaming source for Icecast 2 ([Homepage](http://www.icecast.org/ices.php))
   * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Homepage](http://www.icecast.org/ezstream.php))
   * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Homepage](http://idjc.sourceforge.net/))
  * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
- * [sound-juicer](http://packages.debian.org/wheezy/sound-juicer) - GNOME CD Ripper ([Homepage](http://www.burtonini.com/blog/computers/sound-juicer))
  * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
   * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
  * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- * [mistserver](http://www.mistserver.org/products) - Live or Video on Demand streaming media server that works well in any streaming environment
+ * [liquidsoap](http://packages.debian.org/sid/liquidsoap) - audio streaming language ([Homepage](http://savonet.sourceforge.net/))
+   * [liguidsoap](http://packages.debian.org/sid/liguidsoap) - control GUI for liquidsoap ([Homepage](http://savonet.sourceforge.net/))
+   * [liquidsoap-plugin-all](http://packages.debian.org/sid/liquidsoap-plugin-all) - audio streaming language -- all plugins ([Homepage](http://savonet.sourceforge.net/))
+
+
 
 
 
@@ -468,6 +479,10 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [xjadeo](http://packages.debian.org/wheezy/xjadeo) - Video player with JACK sync ([Homepage](http://xjadeo.sourceforge.net/))
  * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. ` `
  * [xdmx](http://packages.debian.org/wheezy/xdmx) - distributed multihead X server
+ * [mistserver](http://www.mistserver.org/products) - Live or Video on Demand streaming media server that works well in any streaming environment
+ * [dvgrab](http://packages.debian.org/sid/dvgrab) - grab digital video data via IEEE1394 and USB links ([Homepage](http://www.kinodv.org/))
+
+
 
 
 ### 3D Modeling/CGI
@@ -607,8 +622,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * **[Freesound](http://www.freesound.org/browse/)** - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
  * [CCMixter](http://ccmixter.org/) - Search engine fore Creative Commons multimedia content
  * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
-
- * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
 
 ---------------------------------------------
 
