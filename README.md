@@ -36,9 +36,9 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
     - [MIDI Utilities](#midi-utilities)
     - [Transcoding](#transcoding)
   - [System utilities](#system-utilities)
-        - [Pulseaudio](#pulseaudio)
-        - [Firewire](#firewire)
-    - [Network streaming/broadcasting](#network-streamingbroadcasting)
+    - [Pulseaudio](#pulseaudio)
+    - [Firewire](#firewire)
+  - [Network streaming/broadcasting](#network-streamingbroadcasting)
   - [Lighting](#lighting)
   - [Video](#video)
     - [3D Modeling/CGI](#3d-modelingcgi)
@@ -67,8 +67,8 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 ## DAW/Sequencers
 
  * **[ardour3](http://packages.debian.org/wheezy/ardour3)** - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
- * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. ````
- * **[Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html)** - the first full-featured DAW with true analog style mixing. ````
+ * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. `` ``
+ * **[Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html)** - the first full-featured DAW with true analog style mixing. `` ``
  * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
  * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
  * **[mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))**
@@ -76,7 +76,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
- * [Tracktion](http://www.tracktion.com/) - The musician's DAW  ````
+ * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `` ``
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
  * [meterec](http://packages.debian.org/sid/meterec) - minimalistic multi track recorder ([Homepage](http://meterec.sourceforge.net/))
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
@@ -86,7 +86,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 _Trackers_
 
- * **[Renoise](http://www.renoise.com/products/renoise)** - a Digital Audio Workstation (DAW) using a tracker-based approach. ````
+ * **[Renoise](http://www.renoise.com/products/renoise)** - a Digital Audio Workstation (DAW) using a tracker-based approach. `` ``
  * [milkytracker](http://packages.debian.org/wheezy/milkytracker) - music creation tool inspired by Fast Tracker 2 ([Homepage](http://www.milkytracker.org/))
  * [schism](http://packages.debian.org/sid/schism) - ImpulseTracker clone aiming at providing the same look&feel ([Homepage](http://schismtracker.org/))
 
@@ -120,7 +120,7 @@ _Trackers_
  * [luppp](http://packages.debian.org/wheezy/luppp) - luppp music creation tool
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
  * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
- * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  ````
+ * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `` ``
  * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ``
  * [sooperlooper](http://packages.debian.org/wheezy/sooperlooper) - Looping Sampler ([Homepage](http://www.essej.net/sooperlooper/))
 
@@ -415,7 +415,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 
 
-### Network streaming/broadcasting
+## Network streaming/broadcasting
  * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. ``
  * [autoradio](http://packages.debian.org/wheezy/autoradio) - radio automation software ([Homepage](http://autoradiobc.sf.net))
  * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
