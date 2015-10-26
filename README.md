@@ -92,7 +92,7 @@ _Trackers_
 
 ## Audio Editors
 
- * [audacity](http://packages.debian.org/sid/audacity) - fast, cross-platform audio editor ([Homepage](http://audacity.sourceforge.net/))
+ * **[audacity](http://packages.debian.org/sid/audacity) - fast, cross-platform audio editor ([Homepage](http://audacity.sourceforge.net/))**
  * [gnusound](https://packages.debian.org/sid/gnusound) - multitrack sound editor for GNOME
  * [kwave](http://packages.debian.org/wheezy/kwave) - sound editor for KDE ([Homepage](http://kwave.sourceforge.net))
  * [mhwaveedit](http://packages.debian.org/wheezy/mhwaveedit) - Simple and fast GTK2 sound editor ([Homepage](http://gna.org/projects/mhwaveedit/))
@@ -106,7 +106,7 @@ _Trackers_
  * [eisenkraut](https://github.com/Sciss/Eisenkraut) - A multi-channel and hi-res capable audio file editor ([Homepage](http://www.sciss.de/eisenkraut/))
  * [Shuriken](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. ``
  * [aubio-tools](http://packages.debian.org/sid/aubio-tools) - library for audio segmentation -- utilities ([Homepage](http://aubio.org))
-
+ * [ReZound](http://rezound.sourceforge.net/) - ReZound aims to be a stable, open source, and graphical audio file editor primarily for but not limited to the Linux operating system. ``
 
 
 ## Samplers
