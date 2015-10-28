@@ -73,7 +73,6 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
  * **[mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))**
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
- * [nama](https://packages.debian.org/sid/nama) - Multitrack recording with Ecasound ([Homepage](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
@@ -285,6 +284,7 @@ Realtime modular synthesizer for ALSA ([Homepage](http://alsamodular.sourceforge
 http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. ``
  * [ecasound](http://packages.debian.org/sid/ecasound) - command-line multitrack-capable audio recorder and effect processor ([Homepage](http://www.eca.cx/ecasound/))
+  * [nama](https://packages.debian.org/sid/nama) - Multitrack recording with Ecasound ([Homepage](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html))
  * [timemachine](http://packages.debian.org/sid/timemachine) - JACK audio recorder for spontaneous and conservatory use ([Homepage](http://plugin.org.uk/timemachine/))
  * [sox](http://packages.debian.org/sid/sox) - Swiss army knife of sound processing ([Homepage](http://sox.sourceforge.net))
    * [libsox-fmt-all](http://packages.debian.org/sid/libsox-fmt-all) - All SoX format libraries ([Homepage](http://sox.sourceforge.net))
