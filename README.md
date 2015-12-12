@@ -113,6 +113,7 @@ _Trackers_
  * **[hydrogen](http://packages.debian.org/wheezy/hydrogen)** - advanced drum machine/step sequencer ([Homepage](http://www.hydrogen-music.org/))
  * [freewheeling](http://packages.debian.org/wheezy/freewheeling) - live looping musical instrument ([Homepage](http://freewheeling.sourceforge.net))
  * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
+ * [dgedit](http://packages.debian.org/sid/dgedit) - drum kit editor for DrumGizmo ([Homepage](http://www.drumgizmo.org))
  * [hydrogen-drumkits](http://packages.debian.org/wheezy/hydrogen-drumkits) - drumkits for Hydrogen ([Homepage](http://www.hydrogen-music.org/?p=drumkits))
  * [kluppe](http://packages.debian.org/wheezy/kluppe) - a loop-player and recorder designed for live use ([Homepage](http://kluppe.klingt.org/))
  * [linuxsampler-all](http://packages.debian.org/wheezy/linuxsampler-all) - realtime audio sampler (meta)
@@ -226,7 +227,6 @@ _Trackers_
  * [din](http://packages.debian.org/wheezy/din) - digital audio synthesizer ([Homepage](http://dinisnoise.org/))
  * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler ` `
  * [drmr](http://kxstudio.linuxaudio.org/Repositories:Plugins) - drmr `▒`
- * [drumgizmo](http://kxstudio.linuxaudio.org/Repositories:Plugins) - drum plugin comparable to commercial products `▒`
  * [drumkv1](http://packages.debian.org/wheezy/drumkv1) - old-school drum-kit sampler ([Homepage](http://drumkv1.sourceforge.net/))
  * [fabla](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fabla drum sampler plugin instrument `▒`
  * [freebirth-data](http://packages.debian.org/wheezy/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([Homepage](http://freebirth.sourceforge.net/))
