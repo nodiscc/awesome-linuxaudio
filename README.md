@@ -66,12 +66,13 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ## DAW/Sequencers
 
- * **[ardour4](http://packages.debian.org/sid/ardour4)** - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
+ * **[ardour4](http://www.ardour.org/)** - digital audio workstation `▒`
  * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. `` ``
- * **[Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html)** - the first full-featured DAW with true analog style mixing. `` ``
+ * **[qtractor](http://packages.debian.org/sid/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))**
  * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
  * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
- * **[mixxx](http://packages.debian.org/wheezy/mixxx) - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))**
+ * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `` ``
+ * [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
@@ -81,19 +82,20 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [meterec](http://packages.debian.org/sid/meterec) - minimalistic multi track recorder ([Homepage](http://meterec.sourceforge.net/))
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
  * [lmms](http://packages.debian.org/sid/lmms) - Linux Multimedia Studio ([Homepage](http://lmms.io/))
- * [qtractor](http://packages.debian.org/sid/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
+ * [composite](http://packages.debian.org/wheezy/composite) - Live performance sequencer ([Homepage](http://gabe.is-a-geek.org/composite/))
  * [seq24](http://packages.debian.org/sid/seq24) - Real time MIDI sequencer ([Homepage](http://www.filter24.org/seq24/))
- * [frinika](http://www.frinika.com/)** - A complete music workstation for Windows/Linux/OSX ``
+ * [friniika](http://www.frinika.com/)** - A complete music workstation for Windows/Linux/OSX ``
+
 
 _Trackers_
 
- * **[Renoise](http://www.renoise.com/products/renoise)** - a Digital Audio Workstation (DAW) using a tracker-based approach. `` ``
+ * [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. `` ``
  * [milkytracker](http://packages.debian.org/wheezy/milkytracker) - music creation tool inspired by Fast Tracker 2 ([Homepage](http://www.milkytracker.org/))
  * [schism](http://packages.debian.org/sid/schism) - ImpulseTracker clone aiming at providing the same look&feel ([Homepage](http://schismtracker.org/))
 
 ## Audio Editors
 
- * **[audacity](http://packages.debian.org/sid/audacity) - fast, cross-platform audio editor ([Homepage](http://audacity.sourceforge.net/))**
+ * **[audacity](http://packages.debian.org/sid/audacity)** - fast, cross-platform audio editor ([Homepage](http://audacity.sourceforge.net/))
  * [gnusound](https://packages.debian.org/sid/gnusound) - multitrack sound editor for GNOME
  * [kwave](http://packages.debian.org/wheezy/kwave) - sound editor for KDE ([Homepage](http://kwave.sourceforge.net))
  * [mhwaveedit](http://packages.debian.org/wheezy/mhwaveedit) - Simple and fast GTK2 sound editor ([Homepage](http://gna.org/projects/mhwaveedit/))
@@ -112,10 +114,13 @@ _Trackers_
 
 ## Samplers
  * **[hydrogen](http://packages.debian.org/wheezy/hydrogen)** - advanced drum machine/step sequencer ([Homepage](http://www.hydrogen-music.org/))
+   * [hydrogen-drumkits](http://packages.debian.org/wheezy/hydrogen-drumkits) - drumkits for Hydrogen ([Homepage](http://www.hydrogen-music.org/?p=drumkits))
+ * **[samplv1](http://packages.debian.org/wheezy/samplv1)** - polyphonic sampler synthesizer ([Homepage](http://samplv1.sourceforge.net/))
+ * **[sooperlooper](http://packages.debian.org/wheezy/sooperlooper)** - Looping Sampler ([Homepage](http://www.essej.net/sooperlooper/))
+   * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
  * [freewheeling](http://packages.debian.org/wheezy/freewheeling) - live looping musical instrument ([Homepage](http://freewheeling.sourceforge.net))
  * [gigedit](http://packages.debian.org/wheezy/gigedit) - instrument editor for Gigasampler files ([Homepage](http://www.linuxsampler.org/))
  * [dgedit](http://packages.debian.org/sid/dgedit) - drum kit editor for DrumGizmo ([Homepage](http://www.drumgizmo.org))
- * [hydrogen-drumkits](http://packages.debian.org/wheezy/hydrogen-drumkits) - drumkits for Hydrogen ([Homepage](http://www.hydrogen-music.org/?p=drumkits))
  * [kluppe](http://packages.debian.org/wheezy/kluppe) - a loop-player and recorder designed for live use ([Homepage](http://kluppe.klingt.org/))
  * [linuxsampler-all](http://packages.debian.org/wheezy/linuxsampler-all) - realtime audio sampler (meta)
  * [ls16](http://packages.debian.org/wheezy/ls16) - LinuxSampler DSSI plugin GUI
@@ -123,8 +128,6 @@ _Trackers_
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
  * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `` ``
- * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ``
- * [sooperlooper](http://packages.debian.org/wheezy/sooperlooper) - Looping Sampler ([Homepage](http://www.essej.net/sooperlooper/))
 
 
 ## Effects/Processing
@@ -134,11 +137,11 @@ _Trackers_
  * **[calf-plugins](http://packages.debian.org/wheezy/calf-plugins)** - Calf Studiogear - audio effects and sound generators ([Homepage](http://calf.sourceforge.net/))
  * [abgate](http://packages.debian.org/wheezy/abgate) - LV2 noise gate plugin ([Homepage](http://abgate.sourceforge.net))
  * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` `
- * [amb-plugins](http://packages.debian.org/wheezy/amb-plugins) - greffons LADPSA ambisonics ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
+ * [amb-plugins](http://packages.debian.org/sid/amb-plugins) - ambisonics LADSPA plugins ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [arctican-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Arctican Plugins `▒`
  * [artyfx](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Arty FX plugin suite `▒`
  * [autotalent](http://packages.debian.org/wheezy/autotalent) - pitch correction LADSPA plugin ([Homepage](http://tombaran.info/autotalent.html))
- * [zita-at1](http://packages.debian.org/wheezy/zita-at1) - autotuner JACK ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
+ * [zita-at1](http://packages.debian.org/sid/zita-at1) - JACK autotuner ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [avw.lv2](http://packages.debian.org/wheezy/avw.lv2) - collection of Voltage Controlled LV2 modules ([Homepage](https://sourceforge.net/projects/avwlv2/))
  * [beatslash-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - A set of LV2 plugins to slash, repeat beats. `▒`
  * [blop-lv2](http://packages.debian.org/wheezy/blop-lv2) - collection of LV2 CV plugins
@@ -211,65 +214,69 @@ _Trackers_
 
 
 
-## Instruments
+## DJing / Vinyl emulation
 
- * **[drumgizmo](http://packages.debian.org/wheezy/drumgizmo) - drum plugin comparable to commercial products**
- * **[zynaddsubfx](http://packages.debian.org/wheezy/zynaddsubfx) - Realtime software synthesizer for Linux ([Homepage](http://zynaddsubfx.sourceforge.net))**
+ * **[mixxx](http://packages.debian.org/wheezy/mixxx)** - Digital Disc Jockey Interface ([Homepage](http://www.mixxx.org/))
+ * **[xwax](http://packages.debian.org/wheezy/xwax)** - open-source vinyl emulation software for Linux with timecoded vinyl support ([Homepage](http://www.xwax.co.uk/))
+
+
+
+## Synthesizers
+ * **[din](http://packages.debian.org/wheezy/din)** - digital audio synthesizer ([Homepage](http://dinisnoise.org/))
+ * **[drumkv1](http://packages.debian.org/wheezy/drumkv1)** - old-school drum-kit sampler ([Homepage](http://drumkv1.sourceforge.net/))
+ * **[drumgizmo](http://packages.debian.org/wheezy/drumgizmo)** - drum plugin comparable to commercial products
+ * **[zynaddsubfx](http://packages.debian.org/wheezy/zynaddsubfx)** - Realtime software synthesizer for Linux ([Homepage](http://zynaddsubfx.sourceforge.net))
+ * **[bristol](http://packages.debian.org/wheezy/bristol)** - vintage synthesizer emulator ([Homepage](http://bristol.sourceforge.net/))
+   * [monobristol](http://packages.debian.org/wheezy/monobristol) - simple GUI for Bristol ([Homepage](http://dacr.hu/monobristol))
+   * [zynaddsubfx-dssi-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dssi plugin of zynaddsubfx `▒`
+   * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
+ * **[amsynth](http://packages.debian.org/wheezy/amsynth)** - two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
+ * **[argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - Realtime granulator LV2/VST plugin `▒`
+   * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
+ * [yoshimi](http://packages.debian.org/sid/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
+ * [qsynth](http://packages.debian.org/sid/qsynth) - fluidsynth MIDI sound synthesiser front-end ([Homepage](http://qsynth.sourceforge.net))
+   * [fluidsynth](http://packages.debian.org/sid/fluidsynth) - Real-time MIDI software synthesizer ([Homepage](http://www.fluidsynth.org/))
+   * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
  * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
  * [ams-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of Voltage Controlled LV2 modules for Ingen `▒`
- * [amsynth](http://packages.debian.org/wheezy/amsynth) - two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
- * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
- * [azr3-jack](http://packages.debian.org/wheezy/azr3-jack) - drawbar organ simulator ([Homepage](http://ll-plugins.nongnu.org/azr3/))
  * [blepvco](http://packages.debian.org/wheezy/blepvco) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([Homepage](http://www.smbolton.com/linux.html))
- * [bristol](http://packages.debian.org/wheezy/bristol) - vintage synthesizer emulator ([Homepage](http://bristol.sourceforge.net/))
- * [composite](http://packages.debian.org/wheezy/composite) - Live performance sequencer ([Homepage](http://gabe.is-a-geek.org/composite/))
- * [cursynth](http://kxstudio.linuxaudio.org/Repositories:Plugins) - desc `▒`
+ * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. ``
  * [dexed](http://kxstudio.linuxaudio.org/Repositories:Plugins) - FM Plugin Synth `▒`
- * [din](http://packages.debian.org/wheezy/din) - digital audio synthesizer ([Homepage](http://dinisnoise.org/))
  * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler ` `
  * [drmr](http://kxstudio.linuxaudio.org/Repositories:Plugins) - drmr `▒`
- * [drumkv1](http://packages.debian.org/wheezy/drumkv1) - old-school drum-kit sampler ([Homepage](http://drumkv1.sourceforge.net/))
  * [fabla](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fabla drum sampler plugin instrument `▒`
  * [freebirth-data](http://packages.debian.org/wheezy/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([Homepage](http://freebirth.sourceforge.net/))
  * [freebirth](http://packages.debian.org/wheezy/freebirth) - Bass synthesizer/sample player/sequencer ([Homepage](http://freebirth.sourceforge.net/))
  * [gmorgan](http://packages.debian.org/wheezy/gmorgan) - MIDI rhythm station emulator software ([Homepage](http://gmorgan.sourceforge.net/))
  * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
  * [hexter](http://packages.debian.org/wheezy/hexter) - Yamaha DX7 modeling DSSI plugin ([Homepage](http://dssi.sourceforge.net/))
- * [horgand](http://packages.debian.org/wheezy/horgand) - JACK capable organ softsynth ([Homepage](http://horgand.berlios.de/))
- * [monobristol](http://packages.debian.org/wheezy/monobristol) - simple GUI for Bristol ([Homepage](http://dacr.hu/monobristol))
  * [newtonator](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 synth that produces unpredictable sounds `▒`
  * [obxd](http://kxstudio.linuxaudio.org/Repositories:Plugins) - ob-x emulation plugin `▒`
- * [samplv1](http://packages.debian.org/wheezy/samplv1) - polyphonic sampler synthesizer ([Homepage](http://samplv1.sourceforge.net/))
- * [setbfree](http://packages.debian.org/wheezy/setbfree) - DSP tonewheel organ ([Homepage](https://setbfree.org))
  * [sineshaper](http://packages.debian.org/wheezy/sineshaper) - Monophonic synth plugin with two oscillators and waveshapers ([Homepage](http://www.student.nada.kth.se/~d00-llu/music_dssi.php))
- * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
  * [sorcer](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Sorcer polyphonic wavetable synth LV2 plugin `▒`
- * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
- * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) ` `
  * [synthv1](http://packages.debian.org/wheezy/synthv1) - old-school polyphonic synthesizer ([Homepage](http://synthv1.sourceforge.net/))
  * [triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`
  * [whysynth](http://packages.debian.org/wheezy/whysynth) - DSSI Soft Synth Interface ([Homepage](http://www.smbolton.com/whysynth.html))
  * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter `▒`
  * [wsynth-dssi](http://packages.debian.org/wheezy/wsynth-dssi) - hack on Xsynth-DSSI to allow wavetable synthesis ([Homepage](http://www.nekosynth.co.uk/wiki/wsynth))
- * **[xwax](http://packages.debian.org/wheezy/xwax) - open-source vinyl emulation software for Linux with timecoded vinyl support ([Homepage](http://www.xwax.co.uk/))**
- * [zynaddsubfx-dssi-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dssi plugin of zynaddsubfx `▒`
- * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
- * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
- * [BEAST/BSE](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
- * [amsynth](http://packages.debian.org/wheezy/amsynth) - two oscillator software synthesizer
-two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
  * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based plugins for LADSPA hosts
+
+
+## Modular synths
+
+ * [ams](http://packages.debian.org/sid/ams) - Realtime modular synthesizer for ALSA ([Homepage](http://alsamodular.sourceforge.net/))
+ * [Psychosynth](http://www.psychosynth.com/index.php/What_is_Psychosynth%3F) - an interactive modular soft-synth inspired by the ideas of the Reactable ``
+ * [BEAST/BSE](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
+ * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) ` `
+ * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
+
+
+## Organ simulators
+
  * [aeolus](http://packages.debian.org/sid/aeolus) - Synthesised pipe organ emulator ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/))
- * [ams](http://packages.debian.org/sid/ams) - Realtime modular synthesizer for ALSA
-Realtime modular synthesizer for ALSA ([Homepage](http://alsamodular.sourceforge.net/))
- * [fluidsynth](http://packages.debian.org/sid/fluidsynth) - Real-time MIDI software synthesizer ([Homepage](http://www.fluidsynth.org/))
- * [yoshimi](http://packages.debian.org/sid/yoshimi) - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
- * [qsynth](http://packages.debian.org/sid/qsynth) - fluidsynth MIDI sound synthesiser front-end ([Homepage](http://qsynth.sourceforge.net))
-   * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
-
-
-
-
+ * [horgand](http://packages.debian.org/wheezy/horgand) - JACK capable organ softsynth ([Homepage](http://horgand.berlios.de/))
+ * [azr3-jack](http://packages.debian.org/wheezy/azr3-jack) - drawbar organ simulator ([Homepage](http://ll-plugins.nongnu.org/azr3/))
+ * [setbfree](http://packages.debian.org/wheezy/setbfree) - DSP tonewheel organ ([Homepage](https://setbfree.org))
 
 
 ## Audio utilities
@@ -289,6 +296,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [timemachine](http://packages.debian.org/sid/timemachine) - JACK audio recorder for spontaneous and conservatory use ([Homepage](http://plugin.org.uk/timemachine/))
  * [sox](http://packages.debian.org/sid/sox) - Swiss army knife of sound processing ([Homepage](http://sox.sourceforge.net))
    * [libsox-fmt-all](http://packages.debian.org/sid/libsox-fmt-all) - All SoX format libraries ([Homepage](http://sox.sourceforge.net))
+ * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. ``
 
 ### Meters & Analysis
  * [brp-pacu](http://packages.debian.org/wheezy/brp-pacu) - audio analysis tool ([Homepage](http://sourceforge.net/projects/brp-pacu/))
@@ -529,6 +537,8 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 
 
+
+
 ## Signal processing/electronics
  * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (Extra) `▒`
  * [cabbage-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins `▒`
@@ -545,7 +555,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [lirc](http://packages.debian.org/wheezy/lirc) - infra-red remote control support ([Homepage](http://lirc.org))
  * [nyquist](http://packages.debian.org/wheezy/nyquist) - language for music composition and sound synthesis ([Homepage](http://www.cs.cmu.edu/~music/nyquist/))
  * [pd-csound](http://packages.debian.org/wheezy/pd-csound) - Csound external for PureData ([Homepage](http://www.csounds.com))
- * [Psychosynth](http://www.psychosynth.com/index.php/What_is_Psychosynth%3F) - an interactive modular soft-synth inspired by the ideas of the Reactable ``
  * [puredata](http://packages.debian.org/wheezy/puredata) - realtime computer music and graphics system ([Homepage](http://puredata.info))
  * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. ``
  * [Soundpipe](http://www.github.com/PaulBatchelor/Soundpipe) - A library of high quality music DSP algorithms. ``
