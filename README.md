@@ -66,7 +66,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ## DAW/Sequencers
 
- * **[ardour3](http://packages.debian.org/wheezy/ardour3)** - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
+ * **[ardour4](http://packages.debian.org/sid/ardour4)** - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
  * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. `` ``
  * **[Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html)** - the first full-featured DAW with true analog style mixing. `` ``
  * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
@@ -83,6 +83,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [lmms](http://packages.debian.org/sid/lmms) - Linux Multimedia Studio ([Homepage](http://lmms.io/))
  * [qtractor](http://packages.debian.org/sid/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [seq24](http://packages.debian.org/sid/seq24) - Real time MIDI sequencer ([Homepage](http://www.filter24.org/seq24/))
+ * [frinika](http://www.frinika.com/)** - A complete music workstation for Windows/Linux/OSX ``
 
 _Trackers_
 
@@ -254,7 +255,7 @@ _Trackers_
  * [zynaddsubfx-dssi-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dssi plugin of zynaddsubfx `▒`
  * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
  * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
- * [BEAST](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
+ * [BEAST/BSE](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
  * [amsynth](http://packages.debian.org/wheezy/amsynth) - two oscillator software synthesizer
 two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
  * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based plugins for LADSPA hosts
