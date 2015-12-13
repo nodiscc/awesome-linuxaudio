@@ -1,6 +1,7 @@
-# Doc reorg/migration/cleanup status
+# Linux audio documentation reorganization
 
-## To Migrate
+## TODO #####
+
 la-afr
 http://wiki.linuxaudio.org/apps/start
 http://www.linuxlinks.com/article/20080622143124178/Audio.html
@@ -39,14 +40,16 @@ http://linuxaudio.org/
 http://quicktoots.linux-audio.com/
 https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio
 http://giss.tv/
+http://kxstudio.linuxaudio.org/Repositories:Applications
+http://kxstudio.linuxaudio.org/Repositories:Plugins
+http://www.linuxsynths.com/
+https://en.wikipedia.org/wiki/List_of_Ambisonic_Software
+http://wiki.linuxaudio.org/wiki/linux_audio_applications
+http://wiki.linuxaudio.org/wiki/hardware
+http://wiki.linuxaudio.org/wiki/free_audio_data
+http://wiki.linuxaudio.org/wiki/vst_support_and_commercial_apps
 
-
- * [KXStudio : Repositories : Applications](http://kxstudio.linuxaudio.org/Repositories:Applications)
- * [KXStudio : Repositories : Plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)
-
-
-
-## Migrated
+### DONE ####
 
 la-fait
 http://www.apodio.org/
