@@ -151,11 +151,11 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [beatslash-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - A set of LV2 plugins to slash, repeat beats. `▒`
  * [blop-lv2](http://packages.debian.org/wheezy/blop-lv2) - collection of LV2 CV plugins
  * [blop](http://packages.debian.org/wheezy/blop) - Bandlimited wavetable-based oscillator plugins for LADSPA hosts
- * [calf-plugins-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Calf Studiogear - audio effects and sound generators `▒`
  * [caps](http://packages.debian.org/wheezy/caps) - C* Audio Plugin Suite ([Homepage](http://quitte.de/dsp/caps.html))
  * [cmt](http://packages.debian.org/wheezy/cmt) - a collection of LADSPA plugins ([Homepage](http://www.ladspa.org/cmt/))
  * [deteriorate-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of LV2 plugins to deteriorate sound quality `▒`
- * [distrho-plugin-ports](http://kxstudio.linuxaudio.org/Repositories:Plugins) - DISTHRO Plugin Ports `▒`
+ * [distrho-plugins-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - DISTHRO Plugin Ports `▒`
+ * [distrho-plugins-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - DISTHRO Plugin Ports `▒`
  * [dpf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio plugin collection from DISTRHO `▒`
  * [drc](http://packages.debian.org/wheezy/drc) - digital room correction ([Homepage](http://drc-fir.sourceforge.net/))
  * [drowaudio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dRowAudio Plugins `▒`
