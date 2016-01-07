@@ -229,13 +229,11 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * **[din](http://packages.debian.org/wheezy/din)** - digital audio synthesizer ([Homepage](http://dinisnoise.org/))
  * **[drumkv1](http://packages.debian.org/wheezy/drumkv1)** - old-school drum-kit sampler ([Homepage](http://drumkv1.sourceforge.net/))
  * **[zynaddsubfx](http://packages.debian.org/wheezy/zynaddsubfx)** - Realtime software synthesizer for Linux ([Homepage](http://zynaddsubfx.sourceforge.net))
+    * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
  * **[bristol](http://packages.debian.org/wheezy/bristol)** - vintage synthesizer emulator ([Homepage](http://bristol.sourceforge.net/))
    * [monobristol](http://packages.debian.org/wheezy/monobristol) - simple GUI for Bristol ([Homepage](http://dacr.hu/monobristol))
-   * [zynaddsubfx-dssi-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dssi plugin of zynaddsubfx `▒`
-   * [zynaddsubfx-dssi](http://packages.debian.org/wheezy/zynaddsubfx-dssi) - dssi plugin of zynaddsubfx ([Homepage](http://zynaddsubfx.sourceforge.net))
  * **[amsynth](http://packages.debian.org/wheezy/amsynth)** - two oscillator software synthesizer ([Homepage](http://code.google.com/p/amsynth/))
  * **[argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - Realtime granulator LV2/VST plugin `▒`
-   * [zynaddsubfx-git](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime software synthesizer for Linux `▒`
  * **[yoshimi](http://packages.debian.org/sid/yoshimi)** - software synthesizer based on ZynAddSubFX ([Homepage](http://yoshimi.sourceforge.net))
  * [qsynth](http://packages.debian.org/sid/qsynth) - fluidsynth MIDI sound synthesiser front-end ([Homepage](http://qsynth.sourceforge.net))
    * [fluidsynth](http://packages.debian.org/sid/fluidsynth) - Real-time MIDI software synthesizer ([Homepage](http://www.fluidsynth.org/))
