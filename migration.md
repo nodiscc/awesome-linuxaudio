@@ -17,7 +17,7 @@ http://wiki.linuxaudio.org/apps/categories/start
 http://wiki.linuxaudio.org/apps/categories/start?do=index
 http://wiki.linuxaudio.org/wiki/real_time_info
 http://wiki.linuxaudio.org/wiki/system_configuration
-https://en.wikipedia.org/wiki/List_of_Linux_audio_software#Distributions
+https://en.wikipedia.org/wiki/List_of_Linux_audio_software
 https://github.com/coderofsalvation/audiobrowse.bash
 http://wiki.linuxaudio.org/wiki/alesis_io2_express
 http://wiki.linuxaudio.org/apps/categories/start?idx=hw

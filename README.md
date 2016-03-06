@@ -14,7 +14,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
        Unpackaged
     ▒   Only in KXStudio repositories
-       Non-free/closed source
+    ©   Non-free/closed source
 
 
 -------------------------
@@ -70,17 +70,17 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 ## DAW/Sequencers
 
  * **[ardour4](http://www.ardour.org/)** - digital audio workstation `▒`
- * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. `` ``
+ * **[Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html)** - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` ``
  * **[qtractor](http://packages.debian.org/sid/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))**
  * [dino](http://packages.debian.org/wheezy/dino) - Integrated MIDI piano roll editor and sequencer engine ([Homepage](http://dino.nongnu.org/))
  * [jokosher](http://packages.debian.org/wheezy/jokosher) - simple and easy to use audio multi-tracker ([Homepage](http://www.jokosher.org))
- * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `` ``
+ * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` ``
  * [ardour3](http://packages.debian.org/wheezy/ardour3) - digital audio workstation (graphical gtk2 interface) ([Homepage](http://www.ardour.org/))
  * [muse](http://packages.debian.org/wheezy/muse) - Qt4-based audio/MIDI sequencer ([Homepage](http://www.muse-sequencer.org/))
  * [qtractor](http://packages.debian.org/wheezy/qtractor) - MIDI/Audio multi-track sequencer application ([Homepage](http://qtractor.sourceforge.net/))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))``
  * [rosegarden](http://packages.debian.org/wheezy/rosegarden) - music editor and MIDI/audio sequencer ([Homepage](http://www.rosegardenmusic.com/))
- * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `` ``
+ * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©` ``
  * [traverso](http://packages.debian.org/wheezy/traverso) - Multitrack audio recorder and editor ([Homepage](http://traverso-daw.org/))
  * [meterec](http://packages.debian.org/sid/meterec) - minimalistic multi track recorder ([Homepage](http://meterec.sourceforge.net/))
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists ``
@@ -93,7 +93,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ## Trackers
 
- * [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. `` ``
+ * [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. `©` ``
  * [milkytracker](http://packages.debian.org/wheezy/milkytracker) - music creation tool inspired by Fast Tracker 2 ([Homepage](http://www.milkytracker.org/))
  * [schism](http://packages.debian.org/sid/schism) - ImpulseTracker clone aiming at providing the same look&feel ([Homepage](http://schismtracker.org/))
 
@@ -133,7 +133,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [freewheeling](http://packages.debian.org/wheezy/freewheeling) - live looping musical instrument ([Homepage](http://freewheeling.sourceforge.net))
  * [luppp](http://packages.debian.org/wheezy/luppp) - luppp music creation tool
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
- * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `` ``
+ * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `©` ``
 
 
 ## Effects/Processing
@@ -141,7 +141,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * **[calf-plugins](http://packages.debian.org/wheezy/calf-plugins)** - Calf Studiogear - audio effects and sound generators ([Homepage](http://calf.sourceforge.net/))
  * **[tal-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - Togu Audio Line Plugins `▒`
  * [abgate](http://packages.debian.org/wheezy/abgate) - LV2 noise gate plugin ([Homepage](http://abgate.sourceforge.net))
- * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` `
+ * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. ` ©`
  * [amb-plugins](http://packages.debian.org/sid/amb-plugins) - ambisonics LADSPA plugins ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [arctican-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Arctican Plugins ([Homepage](http://arcticanaudio.com/))`▒`
  * [artyfx](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Arty FX plugin suite `▒`
@@ -165,7 +165,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [foo-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Foo LADSPA plugins `▒`
  * [freqtweak](http://packages.debian.org/wheezy/freqtweak) - Realtime audio frequency spectral manipulation ([Homepage](http://freqtweak.sourceforge.net/))
  * [g2reverb](http://packages.debian.org/wheezy/g2reverb) - reverb LADSPA plugin
- * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer ` `
+ * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer ` ©`
  * [guitarix](http://packages.debian.org/wheezy/guitarix) - Rock guitar amplifier for Jack ([Homepage](http://guitarix.sourceforge.net/))
  * [gxvoxtonebender](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fuzz Tonebender LV2 plugin `▒`
  * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio Plugins `▒`
@@ -243,7 +243,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [blepvco](http://packages.debian.org/wheezy/blepvco) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([Homepage](http://www.smbolton.com/linux.html))
  * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. ``
  * [dexed](http://kxstudio.linuxaudio.org/Repositories:Plugins) - FM Plugin Synth `▒`
- * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler ` `
+ * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler ` ©`
  * [drmr](http://kxstudio.linuxaudio.org/Repositories:Plugins) - drmr `▒`
  * [fabla](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fabla drum sampler plugin instrument `▒`
  * [freebirth-data](http://packages.debian.org/wheezy/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([Homepage](http://freebirth.sourceforge.net/))
@@ -268,7 +268,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [ams](http://packages.debian.org/sid/ams) - Realtime modular synthesizer for ALSA ([Homepage](http://alsamodular.sourceforge.net/))
  * [Psychosynth](http://www.psychosynth.com/index.php/What_is_Psychosynth%3F) - an interactive modular soft-synth inspired by the ideas of the Reactable ``
  * [BEAST/BSE](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application ``
- * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) ` `
+ * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) ` ©`
  * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
 
 
@@ -456,7 +456,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 ## Lighting
  * **[Q Light Controller+ (QLC+)](http://www.qlcplus.org/)** - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. ``
  * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi ``
- * [D::Light](http://www.getdlight.com/index.php/en/) - mobile, flexible solution to control modern lighting/performance technology. ` `
+ * [D::Light](http://www.getdlight.com/index.php/en/) - mobile, flexible solution to control modern lighting/performance technology. ` ©`
 
 
 ## Video
@@ -464,7 +464,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
  * **[Cinelerra](http://cinelerra.org/)** - Cinema Production Software ``
- * **[Lightworks](https://www.lwks.com/)** - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` `
+ * **[Lightworks](https://www.lwks.com/)** - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. ` ©`
  * **[openshot](http://packages.debian.org/wheezy/openshot)** - Create and edit videos and movies ([Homepage](http://www.openshotvideo.com/))
  * **[CasparCG Server](http://www.casparcg.com/)** - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production ``
  * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
@@ -488,7 +488,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [synaesthesia](http://packages.debian.org/wheezy/synaesthesia) - Program for representing sounds visually
  * [Veejay](http://veejayhq.net/) - realtime video sequencer and effects processor  ``
  * [xjadeo](http://packages.debian.org/wheezy/xjadeo) - Video player with JACK sync ([Homepage](http://xjadeo.sourceforge.net/))
- * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. ` `
+ * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. ` ©`
  * [xdmx](http://packages.debian.org/wheezy/xdmx) - distributed multihead X server
  * [mistserver](http://www.mistserver.org/products) - Live or Video on Demand streaming media server that works well in any streaming environment
  * [dvgrab](http://packages.debian.org/sid/dvgrab) - grab digital video data via IEEE1394 and USB links ([Homepage](http://www.kinodv.org/))
@@ -500,7 +500,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * **[blender](http://packages.debian.org/wheezy/blender)** - Very fast and versatile 3D modeller/renderer ([Homepage](http://www.blender.org/))
  * [aqsis](http://packages.debian.org/wheezy/aqsis) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([Homepage](http://www.aqsis.org/))
  * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface. ``
- * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. ` `
+ * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. ` ©`
  * [evolvotron](http://packages.debian.org/wheezy/evolvotron) - Generator of textures through interactive evolution ([Homepage](http://www.bottlenose.demon.co.uk/share/evolvotron/))
  * [fractalnow](http://packages.debian.org/wheezy/fractalnow) - Fast, advanced fractal generator ([Homepage](http://fractalnow.sourceforge.net))
  * [fraqtive](http://packages.debian.org/wheezy/fraqtive) - draws Mandelbrot and Julia fractals ([Homepage](http://fraqtive.mimec.org/))
@@ -708,7 +708,7 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * Please edit the README file (using the [Markdown](https://help.github.com/articles/github-flavored-markdown/) syntax) and send your patch as a Pull Request. https://help.github.com/articles/editing-files-in-another-user-s-repository/, https://help.github.com/articles/using-pull-requests/. (Please base your patches on the latest `master`)
  * Check existing [issue reports](issues), or report new ones.
  * Entries should be sorted alphabetically inside categories. 
- * Please label unpackaged and non-free software: ``: Unpackaged, ``: Non-free/closed source
+ * Please label unpackaged and non-free software: ``: Unpackaged, `©`: Non-free/closed source
  * Exceptionally high-quality software may be marked as **bold**.
  * If there is a debian package available, the link syntax is: `[softwarename](https://packages.debian.org/sid/packagename) - package description ([Homepage](http://url.to/project/homepage)` (try `./dwlink -mb packagename | xclip -selection c`)
  * If there is no debian package the syntax is: ``[Software name](http://url.to/project/homepage) - description `` ``
