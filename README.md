@@ -12,7 +12,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 -------------------------
 
-    ×   Unpackaged
+    ×   Not packaged in Debian
     ▒   Only in KXStudio repositories
     ©   Non-free/closed source
 
@@ -418,6 +418,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [pulseaudio-utils](http://packages.debian.org/wheezy/pulseaudio-utils) - Command line tools for the PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
  * [pulseaudio](http://packages.debian.org/wheezy/pulseaudio) - PulseAudio sound server ([Homepage](http://www.pulseaudio.org))
 
+
 ##### Firewire
  * [libraw1394-11](http://packages.debian.org/sid/libraw1394-11) - library for direct access to IEEE 1394 bus (aka FireWire) ([Homepage](https://ieee1394.wiki.kernel.org/))
  * [libraw-bin](http://packages.debian.org/sid/libraw-bin) - raw image decoder library (tools) ([Homepage](http://www.libraw.org/))
@@ -425,32 +426,29 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [libraw1394-tools](http://packages.debian.org/sid/libraw1394-tools) - library for direct access to IEEE 1394 bus (aka FireWire) ([Homepage](https://ieee1394.wiki.kernel.org/))
 
 
-
 ## Network streaming/broadcasting
- * [Airtime](https://www.sourcefabric.org/en/airtime/) - With open source Sourcefabric Airtime, online radio has never been easier. `×`
+
+**See <https://github.com/Kickball/awesome-selfhosted/#media-streaming> for the main list**
+
  * [autoradio](http://packages.debian.org/wheezy/autoradio) - radio automation software ([Homepage](http://autoradiobc.sf.net))
- * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://code.google.com/p/darkice/))
-  * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
- * [gpac](http://packages.debian.org/wheezy/gpac) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
- * [icecast2](http://packages.debian.org/wheezy/icecast2) - streaming media server ([Homepage](http://www.icecast.org/))
+ * [gpac](https://gpac.wp.mines-telecom.fr/home/) - GPAC Project on Advanced Content - utilities ([Homepage](http://gpac.wp.mines-telecom.fr/))
+ * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
+ * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
+ * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
+ * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
+
+
+**Icecast clients:**
+
   * [oggfwd](http://packages.debian.org/sid/oggfwd) - basic icecast source client for audio and video streaming ([Homepage](http://v2v.cc/~j/oggfwd/))
   * [ices2](http://packages.debian.org/sid/ices2) - Ogg Vorbis streaming source for Icecast 2 ([Homepage](http://www.icecast.org/ices.php))
   * [ezstream](http://packages.debian.org/wheezy/ezstream) - easy media streaming client over icecast servers ([Homepage](http://www.icecast.org/ezstream.php))
   * [idjc](http://packages.debian.org/wheezy/idjc) - graphical shoutcast/icecast client ([Homepage](http://idjc.sourceforge.net/))
- * [landell](http://packages.debian.org/wheezy/landell) - audio and video streams manager ([Homepage](http://landell.holoscopio.com))
- * [vlc-nox](http://packages.debian.org/wheezy/vlc-nox) - multimedia player and streamer (without X support) ([Homepage](http://www.videolan.org/vlc/))
-  * [vlc](http://packages.debian.org/wheezy/vlc) - multimedia player and streamer ([Homepage](http://www.videolan.org/vlc/))
- * [zita-njbridge](http://packages.debian.org/wheezy/zita-njbridge) - Jack clients to transmit multichannel audio over a local IP network ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html))
- * [liquidsoap](http://packages.debian.org/sid/liquidsoap) - audio streaming language ([Homepage](http://savonet.sourceforge.net/))
-   * [liguidsoap](http://packages.debian.org/sid/liguidsoap) - control GUI for liquidsoap ([Homepage](http://savonet.sourceforge.net/))
-   * [liquidsoap-plugin-all](http://packages.debian.org/sid/liquidsoap-plugin-all) - audio streaming language -- all plugins ([Homepage](http://savonet.sourceforge.net/))
-
-
-
-
-
-
-
+  * [darkice](http://packages.debian.org/wheezy/darkice) - Live audio streamer ([Homepage](http://darkice.org/))
+  * [darksnow](http://packages.debian.org/wheezy/darksnow) - simple graphical user interface to darkice ([Homepage](http://darksnow.radiolivre.org/))
+  * [liquidsoap](http://packages.debian.org/sid/liquidsoap) - audio streaming language ([Homepage](http://savonet.sourceforge.net/))
+    * [liguidsoap](http://packages.debian.org/sid/liguidsoap) - control GUI for liquidsoap ([Homepage](http://savonet.sourceforge.net/))
+    * [liquidsoap-plugin-all](http://packages.debian.org/sid/liquidsoap-plugin-all) - audio streaming language -- all plugins ([Homepage](http://savonet.sourceforge.net/))
 
 
 ## Lighting

@@ -2,6 +2,7 @@
 
 Read [System Setup](system-setup.md) for system related topics.
 
+ * [How to record multiple Pulseaudio applications/inputs separately through Jack - YouTube](https://www.youtube.com/watch?v=iakcQt1on8U)
  * [Qtractor QuickStart | Libre Music Production](http://libremusicproduction.com/tutorials/qtractor-quickstart)
  * [Make Hot Music with Ardour | OCS-Mag](http://www.ocsmag.com/2015/07/21/make-hot-music-with-ardour/)
  * [LV2 plugins for mixing: My favorite basic plugins (by zthmusic) | Libre Music Production](http://libremusicproduction.com/articles/lv2-plugins-mixing-my-favorite-basic-plugins-zthmusic)
