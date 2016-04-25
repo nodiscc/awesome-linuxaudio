@@ -88,7 +88,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [composite](http://packages.debian.org/wheezy/composite) - Live performance sequencer ([Homepage](http://gabe.is-a-geek.org/composite/))
  * [seq24](http://packages.debian.org/sid/seq24) - Real time MIDI sequencer ([Homepage](http://www.filter24.org/seq24/))
  * [friniika](http://www.frinika.com/)** - A complete music workstation for Windows/Linux/OSX `×`
- * [Open Octave](http://www.openoctave.org/) - MIDI/Audio sequencer. `×`
+ * [Open Octave](https://github.com/ccherrett/oom) - MIDI/Audio sequencer. ([Homepage](http://www.openoctave.org/)) `×`
 
 
 ## Trackers
@@ -110,7 +110,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [LAoE](http://www.oli4.ch/laoe/home.html) - Layer-based Audio Editor, and it is a rich featured graphical audio sample editor, based on multi-layers, floating-point samples, volume-masks, variable selection-intensity, and many plugins suitable to manipulate sound, such as filtering, retouching, resampling, graphical spectrogram editing by brushes and rectangles, sample-curve editing by freehand-pen and spline and other interpolation curves, effects... `×`
  * [SndBite](http://billposer.org/Software/SndBite.html) - SndBite is a specialized audio editor, designed for breaking large recordings into smaller components with great efficiency. Its principal intended application is in linguistic research where it is often desirable to put each word or sentence into a separate file before further processing. `×`
  * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. `×`
- * [eisenkraut](https://github.com/Sciss/Eisenkraut) - A multi-channel and hi-res capable audio file editor ([Homepage](http://www.sciss.de/eisenkraut/))
+ * [eisenkraut](https://github.com/Sciss/Eisenkraut) - A multi-channel and hi-res capable audio file editor ([Homepage](http://www.sciss.de/eisenkraut/)) `×`
  * [Shuriken](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. `×`
  * [aubio-tools](http://packages.debian.org/sid/aubio-tools) - library for audio segmentation -- utilities ([Homepage](http://aubio.org))
  * [ReZound](http://rezound.sourceforge.net/) - ReZound aims to be a stable, open source, and graphical audio file editor primarily for but not limited to the Linux operating system. `×`
