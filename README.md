@@ -348,7 +348,10 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 ### Transcoding
  * [handbrake](http://packages.debian.org/wheezy/handbrake) - versatile DVD ripper and video transcoder (GTK+ GUI) ([Homepage](http://www.handbrake.fr/))
- * [winff-qt](http://packages.debian.org/wheezy/winff-qt) - Qt variant of winff ([Homepage](http://www.winff.org/))
+ * [winff](http://packages.debian.org/wheezy/winff) - graphical video and audio batch converter using ffmpeg or avconv ([Homepage](http://www.winff.org/))
+   * [winff-qt](http://packages.debian.org/wheezy/winff-qt) - Qt variant of winff ([Hoempage](http://www.winff.org/))
+   * [winff-gtk2](http://packages.debian.org/wheezy/winff-gtk2) - GTK+ variant of winff ([Hoempage](http://www.winff.org/))
+ * [audiotools](http://packages.debian.org/wheezy/audiotools) - Collection of audio handling programs for the command line ([Homepage](http://audiotools.sourceforge.net/)) 
  * [soundconverter](http://packages.debian.org/sid/soundconverter) - GNOME application to convert audio files into other formats ([Homepage](http://soundconverter.org/))
  * [ambdec](http://packages.debian.org/wheezy/ambdec) - Ambisonic decoder for first and second order ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [hydro2sf2](https://code.google.com/p/hydro2sf2/) - a tool which allows you to convert a Hydrogen drumkit into a SF2 soundfont `×`
@@ -402,6 +405,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [rotter](http://packages.debian.org/wheezy/rotter) - JACK client for transmission recording and audio logging ([Homepage](http://www.aelius.com/njh/rotter/))
  * [rtkit](http://packages.debian.org/sid/rtkit) - Realtime Policy and Watchdog Daemon ([Homepage](http://0pointer.de/public/))
  * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices `×`
+ * [qxgedit](http://packages.debian.org/wheezy/qxgedit) - MIDI System Exclusive files editor ([Homepage](http://qxgedit.sourceforge.net/qxgedit-index.html))
  * [zita-ajbridge](http://packages.debian.org/sid/zita-ajbridge) - alsa to jack bridge ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/sid/zita-mu1) - organise stereo monitoring for Jack Audio Connection Kit ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
  * [rtirq-init](http://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([Homepage](http://www.rncbc.org/jack/))
