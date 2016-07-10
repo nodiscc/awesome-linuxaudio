@@ -131,7 +131,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
    * [qsampler](http://packages.debian.org/wheezy/qsampler) - LinuxSampler GUI frontend based on the Qt toolkit ([Homepage](http://qsampler.sf.net/))
  * [kluppe](http://packages.debian.org/wheezy/kluppe) - a loop-player and recorder designed for live use ([Homepage](http://kluppe.klingt.org/))
  * [freewheeling](http://packages.debian.org/wheezy/freewheeling) - live looping musical instrument ([Homepage](http://freewheeling.sourceforge.net))
- * [luppp](http://packages.debian.org/wheezy/luppp) - luppp music creation tool
+ * [luppp](http://packages.debian.org/wheezy/luppp) - luppp music creation tool ([Homepage](https://github.com/openAVproductions/openAV-Luppp))
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `©` `×`
 
