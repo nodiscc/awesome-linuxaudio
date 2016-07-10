@@ -380,7 +380,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [carla](http://packages.debian.org/wheezy/carla) - audio plugin host
  * [catia](http://packages.debian.org/wheezy/catia) - extended JACK patchbay
  * [claudia](http://packages.debian.org/wheezy/claudia) - extended ladish frontend
- * [dssi-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Adapter for VST an VSTi audio plugins `▒`
+ * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
  * [airwave](https://github.com/phantom-code/airwave) - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts `×`
  * [festige](http://packages.debian.org/wheezy/festige) - GUI for fst and dssi-vst
  * [ffado-mixer-qt4](http://packages.debian.org/wheezy/ffado-mixer-qt4) - FFADO D-Bus mixer applets (QT4) ([Homepage](http://www.ffado.org))
