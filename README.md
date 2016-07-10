@@ -244,8 +244,8 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `×`
  * [dexed](http://kxstudio.linuxaudio.org/Repositories:Plugins) - FM Plugin Synth `▒`
  * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `× ©`
- * [drmr](http://kxstudio.linuxaudio.org/Repositories:Plugins) - drmr `▒`
- * [fabla](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fabla drum sampler plugin instrument `▒`
+ * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits  `▒`
+ * [fabla](https://github.com/openAVproductions/openAV-Fabla2) - Fabla drum sampler plugin instrument `▒`
  * [freebirth-data](http://packages.debian.org/wheezy/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([Homepage](http://freebirth.sourceforge.net/))
  * [freebirth](http://packages.debian.org/wheezy/freebirth) - Bass synthesizer/sample player/sequencer ([Homepage](http://freebirth.sourceforge.net/))
  * [gmorgan](http://packages.debian.org/wheezy/gmorgan) - MIDI rhythm station emulator software ([Homepage](http://gmorgan.sourceforge.net/))
