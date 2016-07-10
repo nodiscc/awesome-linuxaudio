@@ -380,9 +380,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [carla](http://packages.debian.org/wheezy/carla) - audio plugin host
  * [catia](http://packages.debian.org/wheezy/catia) - extended JACK patchbay
  * [claudia](http://packages.debian.org/wheezy/claudia) - extended ladish frontend
- * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
- * [airwave](https://github.com/phantom-code/airwave) - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts `×`
- * [festige](http://packages.debian.org/wheezy/festige) - GUI for fst and dssi-vst
+
  * [ffado-mixer-qt4](http://packages.debian.org/wheezy/ffado-mixer-qt4) - FFADO D-Bus mixer applets (QT4) ([Homepage](http://www.ffado.org))
  * [gladish](http://packages.debian.org/wheezy/gladish) - graphical interface for LADI Session Handler ([Homepage](http://ladish.org/))
  * [ingen](http://packages.debian.org/wheezy/ingen) - modular host for LV2 plugins.
@@ -409,7 +407,13 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [zita-ajbridge](http://packages.debian.org/sid/zita-ajbridge) - alsa to jack bridge ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/))
  * [zita-mu1](http://packages.debian.org/sid/zita-mu1) - organise stereo monitoring for Jack Audio Connection Kit ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html))
  * [rtirq-init](http://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([Homepage](http://www.rncbc.org/jack/))
+ 
+_VST adapters_
 
+ * [airwave](https://github.com/phantom-code/airwave) - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts `×`
+ * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
+ * [festige](http://packages.debian.org/wheezy/festige) - GUI for fst and dssi-vst
+ * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
 
 ##### Pulseaudio
  * [padevchooser](http://packages.debian.org/wheezy/padevchooser) - PulseAudio Device Chooser ([Homepage](https://github.com/d3matt/padevchooser))
