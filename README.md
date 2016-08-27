@@ -3,7 +3,7 @@
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
 
-**Work in progress** - See [TODO](#todo), [issues](issues/) and [CONTRIBUTING](#contributing)
+**Work in progress** - See current [issues](issues/) and [CONTRIBUTING](#contributing)
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
