@@ -1,54 +1,5 @@
 # Linux audio documentation reorganization
 
-## TODO #####
-
-la-afr
-http://wiki.linuxaudio.org/apps/start
-http://www.linuxlinks.com/article/20080622143124178/Audio.html
-https://en.wikipedia.org/wiki/List_of_Linux_audio_software
-http://sound.condorow.net/
-http://www.linuxmao.org/Accueil
-http://wiki.linuxaudio.org/wiki/start
-http://opensourcemusician.com/index.php/Software
-http://wiki.linuxaudio.org/hw/start
-http://wiki.linuxaudio.org/wiki/migrationprogress
-http://wiki.linuxaudio.org/apps/all
-http://wiki.linuxaudio.org/apps/categories/start
-http://wiki.linuxaudio.org/apps/categories/start?do=index
-http://wiki.linuxaudio.org/wiki/real_time_info
-http://wiki.linuxaudio.org/wiki/system_configuration
-https://en.wikipedia.org/wiki/List_of_Linux_audio_software
-https://github.com/coderofsalvation/audiobrowse.bash
-http://wiki.linuxaudio.org/wiki/alesis_io2_express
-http://wiki.linuxaudio.org/apps/categories/start?idx=hw
-https://github.com/nodiscc/dbu/blob/master/build/config/package-lists/audacity.list.chroot
-http://www.ibiblio.org/pub/Linux/apps/sound/editors/
-http://www.ibiblio.org/pub/Linux/apps/sound/editors/!INDEX.html
-http://gareus.org/blog/jack2dbus
-http://www.linux-sound.org/
-http://jackaudio.org/applications/
-http://jackaudio.org/applications/
-https://gist.github.com/nodiscc/f8ef6744199ec9f26044
-http://www.kvraudio.com/plugins/linux/newest
-http://www.kvraudio.com/news/discodsp-updates-vertigo-additive-synth-to-r3-5-including-linux-support-29997
-http://www.kvraudio.com/news/discodsp-updates-discovery-pro-va-and-wave-synth-to-6-4-5-29782
-http://bandshed.net/avlinux6-debs/
-http://www.64studio.com/
-http://www.4front-tech.com/index.html
-http://linux-audio.com/
-http://linuxaudio.org/
-http://quicktoots.linux-audio.com/
-https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio
-http://giss.tv/
-http://kxstudio.linuxaudio.org/Repositories:Applications
-http://kxstudio.linuxaudio.org/Repositories:Plugins
-http://www.linuxsynths.com/
-https://en.wikipedia.org/wiki/List_of_Ambisonic_Software
-http://wiki.linuxaudio.org/wiki/linux_audio_applications
-http://wiki.linuxaudio.org/wiki/hardware
-http://wiki.linuxaudio.org/wiki/free_audio_data
-http://wiki.linuxaudio.org/wiki/vst_support_and_commercial_apps
-
 ### DONE ####
 
 la-fait
