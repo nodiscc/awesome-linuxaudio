@@ -89,6 +89,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [seq24](http://packages.debian.org/sid/seq24) - Real time MIDI sequencer ([Homepage](http://www.filter24.org/seq24/))
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX `×`
  * [Open Octave](https://github.com/ccherrett/oom) - MIDI/Audio sequencer. ([Homepage](http://www.openoctave.org/)) `×`
+ * [i-score](http://www.i-score.org) - Interactive multi-protocol sequencer. ([Audio extension](https://github.com/OSSIA/iscore-addon-audio)) `×` 
 
 
 ## Trackers
