@@ -164,7 +164,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [fil-plugins](http://packages.debian.org/wheezy/fil-plugins) - parametric equalizer LADSPA plugin ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/index.html))
  * [fomp](http://packages.debian.org/wheezy/fomp) - 1 auto-wah, 1 EQ, 3 chorus, 5 filters, and 3 oscillators LV2 plugins. ([Homepage](http://drobilla.net/software/fomp/))
  * [foo-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Foo LADSPA plugins `▒`
- * [Freaked](https://github.com/pjotrompet/Freaked) - Granulator, pre-delay, reverb tail and distortion LV2 Plugins
+ * [Freaked](https://github.com/pjotrompet/Freaked) - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `×`
  * [freqtweak](http://packages.debian.org/wheezy/freqtweak) - Realtime audio frequency spectral manipulation ([Homepage](http://freqtweak.sourceforge.net/))
  * [g2reverb](http://packages.debian.org/wheezy/g2reverb) - reverb LADSPA plugin
  * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer `× ©`
