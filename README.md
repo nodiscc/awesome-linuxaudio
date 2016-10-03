@@ -135,7 +135,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [luppp](http://packages.debian.org/wheezy/luppp) - luppp music creation tool ([Homepage](https://github.com/openAVproductions/openAV-Luppp))
  * [petri-foo](http://packages.debian.org/wheezy/petri-foo) - MIDI controllable audio sampler - successor of specimen ([Homepage](http://petri-foo.sourceforge.net/))
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `©` `×`
-
+ * [Tapeutape](http://hitmuri.net/index.php/software/tapeutape) - Highly configurable midi-controlled virtual sampler. `×`
 
 ## Effects/Processing
 
@@ -302,6 +302,8 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. `×`
 
 ### Meters & Analysis
+
+ * [baudline](http://www.baudline.com/index.html) - Time-frequency browser designed for scientific visualization of the spectral domain - Fourier, correlation, transfer function, impulse response, and raster transforms `×`
  * [brp-pacu](http://packages.debian.org/wheezy/brp-pacu) - audio analysis tool ([Homepage](http://sourceforge.net/projects/brp-pacu/))
  * [ebumeter](http://packages.debian.org/wheezy/ebumeter) - Loudness measurement according to EBU-R128 ([Homepage](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/))
  * [extace](http://packages.debian.org/wheezy/extace) - waveform viewer ([Homepage](http://extace.sourceforge.net/))
