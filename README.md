@@ -139,56 +139,66 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ## Effects/Processing
 
+### Collections
  * [calf-plugins](http://calf.sourceforge.net/) - Calf Studiogear - audio effects and sound generators ([debian](http://packages.debian.org/sid/calf-plugins))
  * [tal-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Togu Audio Line Plugins `▒`
- * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([debian](http://packages.debian.org/sid/abgate))
- * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. `× ©`
  * [amb-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - ambisonics LADSPA plugins ([debian](http://packages.debian.org/sid/amb-plugins))
  * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins ([debian](http://kxstudio.linuxaudio.org/Repositories:Plugins))`▒`
  * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
- * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([debian](http://packages.debian.org/sid/autotalent))
- * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([debian](http://packages.debian.org/sid/zita-at1))
  * [avw.lv2](https://sourceforge.net/projects/avwlv2/) - collection of Voltage Controlled LV2 modules ([debian](http://packages.debian.org/sid/avw.lv2))
- * [beatslash-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - A set of LV2 plugins to slash, repeat beats. `▒`
- * [blop-lv2](http://packages.debian.org/sid/blop-lv2) - collection of LV2 CV plugins
- * [blop](http://packages.debian.org/sid/blop) - Bandlimited wavetable-based oscillator plugins for LADSPA hosts
  * [caps](http://quitte.de/dsp/caps.html) - C* Audio Plugin Suite ([debian](http://packages.debian.org/sid/caps))
  * [cmt](http://www.ladspa.org/cmt/) - a collection of LADSPA plugins ([debian](http://packages.debian.org/sid/cmt))
- * [deteriorate-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of LV2 plugins to deteriorate sound quality `▒`
  * [distrho-plugins-lv2](https://github.com/DISTRHO/DPF-Plugins) - DISTHRO Plugin Ports `▒`
  * [distrho-plugins-vst](https://github.com/DISTRHO/DPF-Plugins) - DISTHRO Plugin Ports `▒`
  * [dpf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio plugin collection from DISTRHO `▒`
- * [drc](http://drc-fir.sourceforge.net/) - digital room correction ([debian](http://packages.debian.org/sid/drc))
  * [drowaudio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - dRowAudio Plugins `▒`
- * [eq10q](http://packages.debian.org/sid/eq10q) - LV2 equalizer
- * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([debian](http://packages.debian.org/sid/fil-plugins))
  * [fomp](http://drobilla.net/software/fomp/) - 1 auto-wah, 1 EQ, 3 chorus, 5 filters, and 3 oscillators LV2 plugins. ([debian](http://packages.debian.org/sid/fomp))
  * [foo-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Foo LADSPA plugins `▒`
  * [Freaked](https://github.com/pjotrompet/Freaked) - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `×`
+ * [invada-studio-plugins-ladspa](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LADSPA audio plugins ([debian](http://packages.debian.org/sid/invada-studio-plugins-ladspa))
+ * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([debian](http://packages.debian.org/sid/invada-studio-plugins-lv2))
+ * [juced-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Juced Plugins `▒`
+ * [leet-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LEET LADSPA plugins `▒`
+ * [mda-lv2](http://drobilla.net/software/mda-lv2/) - Paul Kellett's MDA plugins ported to LV2 ([debian](http://packages.debian.org/sid/mda-lv2))
+ * [mda-vst](http://packages.debian.org/sid/mda-vst) - MDA VST plugins
+ * [ste-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - stereo LADPSA plugins ([debian](http://packages.debian.org/sid/ste-plugins))
+ * [swh-plugins](http://plugin.org.uk/) - Steve Harris's LADSPA plugins ([debian](http://packages.debian.org/sid/swh-plugins))
+ * [tap-plugins](http://tap-plugins.sourceforge.net/) - Tom's Audio Processing LADSPA plugins ([debian](http://packages.debian.org/sid/tap-plugins))
+ * [teragonaudio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio plugins from Teragon Audio `▒`
+ * [vcf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - VCF LADSPA plugins `▒`
+ * [vco-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugin sporting anti-aliased oscillators ([debian](http://packages.debian.org/sid/vco-plugins))
+ * [x42-plugins](https://github.com/x42/x42-plugins) - Collection of LV2 plugins ([debian](http://packages.debian.org/sid/x42-plugins))
+ * [zam-plugins](http://packages.debian.org/sid/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
+ * [infamous-plugins](http://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
+
+### EQ
+ * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. `× ©`
+ * [eq10q](http://packages.debian.org/sid/eq10q) - LV2 equalizer
+ * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([debian](http://packages.debian.org/sid/fil-plugins))
+ * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
+ * [lv2fil](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Stereo and mono LV2 plugins, four-band parametric equalisers `▒`
+
+### Etc
+ * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([debian](http://packages.debian.org/sid/abgate))
+  * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([debian](http://packages.debian.org/sid/autotalent))
+ * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([debian](http://packages.debian.org/sid/zita-at1))
+ * [beatslash-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - A set of LV2 plugins to slash, repeat beats. `▒`
+ * [blop-lv2](http://packages.debian.org/sid/blop-lv2) - collection of LV2 CV plugins
+ * [blop](http://packages.debian.org/sid/blop) - Bandlimited wavetable-based oscillator plugins for LADSPA hosts
+ * [deteriorate-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of LV2 plugins to deteriorate sound quality `▒`
+ * [drc](http://drc-fir.sourceforge.net/) - digital room correction ([debian](http://packages.debian.org/sid/drc))
  * [freqtweak](http://freqtweak.sourceforge.net/) - Realtime audio frequency spectral manipulation ([debian](http://packages.debian.org/sid/freqtweak))
  * [g2reverb](http://packages.debian.org/sid/g2reverb) - reverb LADSPA plugin
  * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer `× ©`
  * [guitarix](http://guitarix.sourceforge.net/) - Rock guitar amplifier for Jack ([debian](http://packages.debian.org/sid/guitarix))
  * [gxvoxtonebender](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fuzz Tonebender LV2 plugin `▒`
  * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio Plugins `▒`
- * [invada-studio-plugins-ladspa](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LADSPA audio plugins ([debian](http://packages.debian.org/sid/invada-studio-plugins-ladspa))
- * [invada-studio-plugins-lv2](http://packages.debian.org/sid/invada-studio-plugins-lv2) - Invada Studio Plugins - a set of LV2 audio plugins
- * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([debian](http://packages.debian.org/sid/invada-studio-plugins-lv2))
  * [ir.lv2-1.2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 IR reverb (1.2 version) `▒`
  * [ir.lv2](http://factorial.hu/plugins/lv2/ir) - LV2 IR reverb ([debian](http://packages.debian.org/sid/ir.lv2))
- * [jalv](http://drobilla.net/software/jalv/) - tool to run LV2 plugins as stand-alone applications ([debian](http://packages.debian.org/sid/jalv))
- * [juced-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Juced Plugins `▒`
  * [klangfalter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - convolution audio plugin `▒`
- * [leet-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LEET LADSPA plugins `▒`
- * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
- * [lv2fil](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Stereo and mono LV2 plugins, four-band parametric equalisers `▒`
  * [lv2vocoder](https://gna.org/projects/lv2vocoder) - LV2 vocoder plugin ([debian](http://packages.debian.org/sid/lv2vocoder))
- * [mcp-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugins designed for Alsa Modular Synth ([debian](http://packages.debian.org/sid/mcp-plugins))
- * [mda-lv2](http://drobilla.net/software/mda-lv2/) - Paul Kellett's MDA plugins ported to LV2 ([debian](http://packages.debian.org/sid/mda-lv2))
- * [mda-vst](http://packages.debian.org/sid/mda-vst) - MDA VST plugins
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
  * [mod-pitchshifter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - pitch shifter audio plugins `▒`
- * [omins](http://www.nongnu.org/om-synth/omins.html) - collection of LADSPA plugins aimed at modular synthesizers ([debian](http://packages.debian.org/sid/omins))
  * [paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - Extreme sound time-stretch ([debian](http://packages.debian.org/sid/paulstretch)
  * [stretchplayer](http://www.teuton.org/~gabriel/stretchplayer/) - Audio file player with time stretch and pitch shifting ([debian](http://packages.debian.org/sid/stretchplayer))
  * [sonic](http://dev.vinux-project.org/sonic) - Simple utility to speed up or slow down speech ([debian](http://packages.debian.org/sid/sonic))
@@ -201,24 +211,13 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [rkrlv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Rakarrack LV2 Plugin Ports `▒`
  * [rubberband-ladspa](http://www.breakfastquay.com/rubberband/) - LADSPA plugin for audio pitch-shifting ([debian](http://packages.debian.org/sid/rubberband-ladspa))
  * [soundstretch](http://www.surina.net/soundtouch/) - Stretches and pitch-shifts sound independently ([debian](http://packages.debian.org/sid/soundstretch))
- * [ste-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - stereo LADPSA plugins ([debian](http://packages.debian.org/sid/ste-plugins))
- * [swh-plugins](http://plugin.org.uk/) - Steve Harris's LADSPA plugins ([debian](http://packages.debian.org/sid/swh-plugins))
- * [tap-plugins](http://tap-plugins.sourceforge.net/) - Tom's Audio Processing LADSPA plugins ([debian](http://packages.debian.org/sid/tap-plugins))
- * [teragonaudio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio plugins from Teragon Audio `▒`
  * [terminatorx](http://www.terminatorx.org/) - realtime audio synthesizer ([debian](http://packages.debian.org/sid/terminatorx)
- * [vcf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - VCF LADSPA plugins `▒`
- * [vco-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugin sporting anti-aliased oscillators ([debian](http://packages.debian.org/sid/vco-plugins))
  * [vocoder-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LADSPA Vocoder Plugin `▒`
  * [vocproc](http://hyperglitch.com/dev/VocProc) - LV2 plugin for pitch shifting and vocoding ([debian](http://packages.debian.org/sid/vocproc))
  * [wah-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - auto-wah LADSPA plugin ([debian](http://packages.debian.org/sid/wah-plugins))
  * [wasp-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - WASP LADSPA plugin `▒`
- * [x42-plugins](https://github.com/x42/x42-plugins) - Collection of LV2 plugins ([debian](http://packages.debian.org/sid/x42-plugins))
- * [zam-plugins](http://packages.debian.org/sid/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
- * [infamous-plugins](http://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
  * [zita-rev1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html) - 	pro-audio reverb effect  ([debian](http://packages.debian.org/sid/zita-rev1))
  * [creox](http://zyzstar.kosoru.com/?creox) - a real-time sound/effects processor. `×`
-
-
 
 ## DJing / Vinyl emulation
 
@@ -226,52 +225,65 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [xwax](http://www.xwax.co.uk/) - open-source vinyl emulation software for Linux with timecoded vinyl support ([debian](http://packages.debian.org/sid/xwax))
 
 
-
 ## Synthesizers
- * [din](http://dinisnoise.org/) - digital audio synthesizer ([debian](http://packages.debian.org/sid/din))
- * [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([debian](http://packages.debian.org/sid/drumkv1))
+
+### Additive
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([debian](http://packages.debian.org/sid/zynaddsubfx))
-    * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([debian](http://packages.debian.org/sid/zynaddsubfx-dssi))
+   * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([debian](http://packages.debian.org/sid/zynaddsubfx-dssi))
+ * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([debian](http://packages.debian.org/sid/yoshimi))
+ * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
+ * [triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`
+
+### Subtractive
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([debian](http://packages.debian.org/sid/bristol))
    * [monobristol](http://dacr.hu/monobristol) - simple GUI for Bristol ([debian](http://packages.debian.org/sid/monobristol))
  * [amsynth](http://code.google.com/p/amsynth/) - two oscillator software synthesizer ([debian](http://packages.debian.org/sid/amsynth))
+ * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([debian](http://packages.debian.org/sid/blepvco))
+ * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `×`
+ * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `× ©`
+ * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
+ * [synthv1](http://synthv1.sourceforge.net/) - old-school polyphonic synthesizer ([debian](http://packages.debian.org/sid/synthv1))
+ * [obxd](http://kxstudio.linuxaudio.org/Repositories:Plugins) - ob-x emulation plugin `▒`
+ * [sineshaper](http://www.student.nada.kth.se/~d00-llu/music_dssi.php) - Monophonic synth plugin with two oscillators and waveshapers ([debian](http://packages.debian.org/sid/sineshaper))
+ * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface ([debian](http://packages.debian.org/sid/whysynth))
+ * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter `▒`
+
+### FM
+ * [dexed](http://kxstudio.linuxaudio.org/Repositories:Plugins) - FM Plugin Synth `▒`
+ * [oxefmsynth](http://www.oxesoft.com/) - 8 operators FM synth
+ * [hexter](http://dssi.sourceforge.net/) - Yamaha DX7 modeling DSSI plugin ([debian](http://packages.debian.org/sid/hexter))
+
+### Wavetable
+ * [sorcer](https://github.com/openAVproductions/openAV-Sorcer) - Sorcer polyphonic wavetable synth LV2 plugin `▒`
+ * [wsynth-dssi](http://www.nekosynth.co.uk/wiki/wsynth) - hack on Xsynth-DSSI to allow wavetable synthesis ([debian](http://packages.debian.org/sid/wsynth-dssi))
+ * [blop](http://blop.sourceforge.net/) - Bandlimited wavetable-based plugins for LADSPA hosts ([debian](http://packages.debian.org/sid/blop))
+
+### Etc
+ * [din](http://dinisnoise.org/) - digital audio synthesizer ([debian](http://packages.debian.org/sid/din))
+ * [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([debian](http://packages.debian.org/sid/drumkv1))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
- * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([debian](http://packages.debian.org/sid/yoshimi))
  * [qsynth](http://qsynth.sourceforge.net) - fluidsynth MIDI sound synthesiser front-end ([debian](http://packages.debian.org/sid/qsynth))
    * [fluidsynth](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer ([debian](http://packages.debian.org/sid/fluidsynth))
    * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
- * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
- * [ams-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of Voltage Controlled LV2 modules for Ingen `▒`
- * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([debian](http://packages.debian.org/sid/blepvco))
- * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `×`
- * [dexed](http://kxstudio.linuxaudio.org/Repositories:Plugins) - FM Plugin Synth `▒`
- * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `× ©`
  * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits  `▒`
  * [fabla](https://github.com/openAVproductions/openAV-Fabla2) - Fabla drum sampler plugin instrument `▒`
  * [freebirth-data](http://freebirth.sourceforge.net/) - Bass synthesizer/sample player/sequencer -- sound samples ([debian](http://packages.debian.org/sid/freebirth-data))
  * [freebirth](http://freebirth.sourceforge.net/) - Bass synthesizer/sample player/sequencer ([debian](http://packages.debian.org/sid/freebirth))
  * [gmorgan](http://gmorgan.sourceforge.net/) - MIDI rhythm station emulator software ([debian](http://packages.debian.org/sid/gmorgan))
- * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
- * [hexter](http://dssi.sourceforge.net/) - Yamaha DX7 modeling DSSI plugin ([debian](http://packages.debian.org/sid/hexter))
  * [newtonator](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 synth that produces unpredictable sounds `▒`
- * [obxd](http://kxstudio.linuxaudio.org/Repositories:Plugins) - ob-x emulation plugin `▒`
- * [sineshaper](http://www.student.nada.kth.se/~d00-llu/music_dssi.php) - Monophonic synth plugin with two oscillators and waveshapers ([debian](http://packages.debian.org/sid/sineshaper))
- * [sorcer](https://github.com/openAVproductions/openAV-Sorcer) - Sorcer polyphonic wavetable synth LV2 plugin `▒`
- * [synthv1](http://synthv1.sourceforge.net/) - old-school polyphonic synthesizer ([debian](http://packages.debian.org/sid/synthv1))
- * [triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`
- * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface ([debian](http://packages.debian.org/sid/whysynth))
- * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter `▒`
  * [wsynth-dssi](http://www.nekosynth.co.uk/wiki/wsynth) - hack on Xsynth-DSSI to allow wavetable synthesis ([debian](http://packages.debian.org/sid/wsynth-dssi))
- * [blop](http://packages.debian.org/sid/blop) - Bandlimited wavetable-based plugins for LADSPA hosts
  * [paraphrasis](https://github.com/VirtualAnalogy/Paraphrasis) - spectral modeling synthesizer `×`
 
 ## Modular synths
 
  * [ams](http://alsamodular.sourceforge.net/) - Realtime modular synthesizer for ALSA ([debian](http://packages.debian.org/sid/ams))
+ * [ams-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of Voltage Controlled LV2 modules for Ingen `▒`
  * [Psychosynth](http://www.psychosynth.com/index.php/What_is_Psychosynth%3F) - an interactive modular soft-synth inspired by the ideas of the Reactable `×`
  * [BEAST/BSE](https://testbit.eu/wiki/About_Beast) - music composition and modular synthesis application `×`
  * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) `× ©`
  * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
+ * [mcp-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugins designed for Alsa Modular Synth ([debian](http://packages.debian.org/sid/mcp-plugins))
+ * [omins](http://www.nongnu.org/om-synth/omins.html) - collection of LADSPA plugins aimed at modular synthesizers ([debian](http://packages.debian.org/sid/omins))
 
 
 ## Organ simulators
@@ -384,6 +396,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [carla](http://packages.debian.org/sid/carla) - audio plugin host
  * [catia](http://packages.debian.org/sid/catia) - extended JACK patchbay
  * [claudia](http://packages.debian.org/sid/claudia) - extended ladish frontend
+ * [jalv](http://drobilla.net/software/jalv/) - tool to run LV2 plugins as stand-alone applications ([debian](http://packages.debian.org/sid/jalv))
 
  * [ffado-mixer-qt4](http://www.ffado.org) - FFADO D-Bus mixer applets (QT4) ([debian](http://packages.debian.org/sid/ffado-mixer-qt4))
  * [gladish](http://ladish.org/) - graphical interface for LADI Session Handler ([debian](http://packages.debian.org/sid/gladish))
