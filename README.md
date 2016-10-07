@@ -561,9 +561,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [vlc-plugin-vlsub](http://addons.videolan.org/content/show.php?action=content&content=148752) - VLC extension to download subtitles from opensubtitles.org ([debian](http://packages.debian.org/sid/vlc-plugin-vlsub))
 
 
-
-
-
 ## Signal processing/electronics
  * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (Extra) `▒`
  * [cabbage-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins `▒`
@@ -585,8 +582,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [Soundpipe](http://www.github.com/PaulBatchelor/Soundpipe) - A library of high quality music DSP algorithms. `×`
  * [supercollider-supernova](http://supercollider.sourceforge.net/) - real time audio synthesis server (multiprocessor version) ([debian](http://packages.debian.org/sid/supercollider-supernova))
  * [supercollider](http://supercollider.sourceforge.net/) - real time audio synthesis programming language ([debian](http://packages.debian.org/sid/supercollider))
-
-
+ * [camomile](https://github.com/pierreguillot/Camomile) - a dynamic vst plugin that loads Pure Data patches
 
 
 ## Score Editors
@@ -594,7 +590,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [denemo](http://www.denemo.org) - GTK+ front end to GNU Lilypond ([debian](http://packages.debian.org/sid/denemo))
  * [lilypond](http://lilypond.org/) - program for typesetting sheet music ([debian](http://packages.debian.org/sid/lilypond))
  * [nted](http://vsr.informatik.tu-chemnitz.de/staff/jan/nted/nted.xhtml) - Musical score editor ([debian](http://packages.debian.org/sid/nted))
-
 
 
 ## Media players
@@ -620,8 +615,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([debian](http://packages.debian.org/sid/vlc))
 
 
-
-
 ## Metapackages
  * [multimedia-ambisonics](http://packages.debian.org/sid/multimedia-ambisonics) - Packages for working with ambisonics (3D surround sound)
  * [multimedia-audio-plugins](http://packages.debian.org/sid/multimedia-audio-plugins) - Audio processing plugins, synths and virtual instruments
@@ -644,6 +637,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [multimedia-tasks](http://packages.debian.org/sid/multimedia-tasks) - Debian Multimedia tasks for tasksel
  * [multimedia-timestretching](http://packages.debian.org/sid/multimedia-timestretching) - Packages for stretching music and audio
  * [multimedia-video](http://packages.debian.org/sid/multimedia-video) - Video packages
+
 
 ## Linux Distributions
  * [KXStudio](http://kxstudio.linuxaudio.org/) - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 12.04.3 LTS. 
