@@ -178,7 +178,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
  * [lv2fil](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Stereo and mono LV2 plugins, four-band parametric equalisers `▒`
 
-### Etc
+### Other
  * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([debian](http://packages.debian.org/sid/abgate))
   * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([debian](http://packages.debian.org/sid/autotalent))
  * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([debian](http://packages.debian.org/sid/zita-at1))
@@ -258,7 +258,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [wsynth-dssi](http://www.nekosynth.co.uk/wiki/wsynth) - hack on Xsynth-DSSI to allow wavetable synthesis ([debian](http://packages.debian.org/sid/wsynth-dssi))
  * [blop](http://blop.sourceforge.net/) - Bandlimited wavetable-based plugins for LADSPA hosts ([debian](http://packages.debian.org/sid/blop))
 
-### Etc
+### Other
  * [din](http://dinisnoise.org/) - digital audio synthesizer ([debian](http://packages.debian.org/sid/din))
  * [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([debian](http://packages.debian.org/sid/drumkv1))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
