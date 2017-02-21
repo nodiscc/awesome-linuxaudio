@@ -173,7 +173,6 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [infamous-plugins](http://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
 
 ### EQ
- * [AF2-10/M](http://www.overtonedsp.co.uk/download/download_af210/) - A versatile graphical EQ with a wide range of zero latency analogue modelled filters and realtime FFT display. `× ©`
  * [eq10q](http://packages.debian.org/sid/eq10q) - LV2 equalizer
  * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([debian](http://packages.debian.org/sid/fil-plugins))
  * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
