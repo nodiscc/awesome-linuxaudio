@@ -171,6 +171,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [x42-plugins](https://github.com/x42/x42-plugins) - Collection of LV2 plugins ([debian](http://packages.debian.org/sid/x42-plugins))
  * [zam-plugins](http://packages.debian.org/sid/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
  * [infamous-plugins](http://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
+ * [Linux Studio Plugins](https://sourceforge.net/projects/lsp-plugins/) - Collection of LV2/LADSPA/VST/standalone audio processing applications `×`
 
 ### EQ
  * [eq10q](http://packages.debian.org/sid/eq10q) - LV2 equalizer
@@ -218,6 +219,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [wasp-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - WASP LADSPA plugin `▒`
  * [zita-rev1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html) - 	pro-audio reverb effect  ([debian](http://packages.debian.org/sid/zita-rev1))
  * [creox](http://zyzstar.kosoru.com/?creox) - a real-time sound/effects processor. `×`
+ * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `× ©`
 
 ## DJing / Vinyl emulation
 
