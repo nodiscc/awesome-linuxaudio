@@ -1,8 +1,12 @@
 # Linux audio documentation reorganization
 
+### TODO ###
+
+http://linux-sound.org/one-page.html
+
+
 ### DONE ####
 
-la-fait
 http://www.apodio.org/
 http://www.apo33.org/apodio-site/?p=48
 http://artistx.org/blog/

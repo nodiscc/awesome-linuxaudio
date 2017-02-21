@@ -136,6 +136,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [petri-foo](http://petri-foo.sourceforge.net/) - MIDI controllable audio sampler - successor of specimen ([debian](http://packages.debian.org/sid/petri-foo))
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `©` `×`
  * [Tapeutape](http://hitmuri.net/index.php/software/tapeutape) - Highly configurable midi-controlled virtual sampler. `×`
+ * [SuperBoucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport `×`
 
 ## Effects/Processing
 
@@ -362,6 +363,8 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [QmidiCtl](http://qmidictl.sourceforge.net/qmidictl-index.html) - A MIDI Remote Controller via UDP/IP Multicast `×`
  * [QXGEdit](http://qxgedit.sourceforge.net/qxgedit-index.html) - Editor for MIDI System Exclusive files for XG devices (eg. Yamaha DB50XG). `×`
  * [SendMIDI](https://github.com/gbevin/SendMIDI) - multi-platform command-line tool makes it very easy to quickly send MIDI messages to MIDI devices from your computer. `×`
+ * [JackAss](https://github.com/falkTX/JackAss/) - JACK-MIDI support for VST hosts, including Wine apps `×`
+
 
 ### Transcoding
  * [handbrake](http://www.handbrake.fr/) - versatile DVD ripper and video transcoder (GTK+ GUI) ([debian](http://packages.debian.org/sid/handbrake))
