@@ -29,8 +29,15 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 - [Audio Editors](#audio-editors)
 - [Samplers](#samplers)
 - [Effects/Processing](#effectsprocessing)
+  - [](#collections)
+  - [](#eq)
+  - [](#other-fx)
 - [DJing / Vinyl emulation](#djing--vinyl-emulation)
 - [Synthesizers](#synthesizers)
+  - [](#additive)
+  - [](#substractive)
+  - [](#fm)
+  - [](#other-synths)
 - [Modular synths](#modular-synths)
 - [Organ simulators](#organ-simulators)
 - [Audio utilities](#audio-utilities)
@@ -40,8 +47,12 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
   - [MIDI Utilities](#midi-utilities)
   - [Transcoding](#transcoding)
 - [System utilities](#system-utilities)
-      - [Pulseaudio](#pulseaudio)
-      - [Firewire](#firewire)
+  - [JACK](#jack)
+  - [ALSA](#alsa)
+  - [Firewire](#firewire)
+  - [VST adapters](#vst-adapters)
+  - [PulseAudio](#pulseaudio)
+  - [Other system utilities](#other-system-utilities)
 - [Network streaming/broadcasting](#network-streamingbroadcasting)
 - [Lighting](#lighting)
 - [Video](#video)
@@ -180,7 +191,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
  * [lv2fil](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Stereo and mono LV2 plugins, four-band parametric equalisers `▒`
 
-### Other
+### Other FX
  * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([✔](http://packages.debian.org/sid/abgate))
   * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([✔](http://packages.debian.org/sid/autotalent))
  * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([✔](http://packages.debian.org/sid/zita-at1))
@@ -261,7 +272,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [wsynth-dssi](http://www.nekosynth.co.uk/wiki/wsynth) - hack on Xsynth-DSSI to allow wavetable synthesis ([✔](http://packages.debian.org/sid/wsynth-dssi))
  * [blop](http://blop.sourceforge.net/) - Bandlimited wavetable-based plugins for LADSPA hosts ([✔](http://packages.debian.org/sid/blop))
 
-### Other
+### Other synths
  * [din](http://dinisnoise.org/) - digital audio synthesizer ([✔](http://packages.debian.org/sid/din))
  * [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([✔](http://packages.debian.org/sid/drumkv1))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
@@ -337,6 +348,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 
 ### Tuners & Metronomes
+
  * [fmit](http://gillesdegottex.github.io/fmit) - Free Music Instrument Tuner ([✔](http://packages.debian.org/sid/fmit))
  * [gtklick](http://das.nasophon.de/gtklick/) - simple metronome GUI for JACK ([✔](http://packages.debian.org/sid/gtklick))
  * [gtick](http://www.antcom.de/gtick/) - Metronome application ([✔](http://packages.debian.org/sid/gtick))
@@ -345,8 +357,8 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [gtkguitune](http://packages.debian.org/sid/gtkguitune) - Guitar and other instruments tuner
 
 
-
 ### MIDI Utilities
+
  * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([✔](http://packages.debian.org/sid/abcmidi))
  * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](http://home.gna.org/gmidimonitor/) - GTK+ application that shows MIDI events ([✔](http://packages.debian.org/sid/gmidimonitor)
@@ -366,9 +378,12 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [QXGEdit](http://qxgedit.sourceforge.net/qxgedit-index.html) - Editor for MIDI System Exclusive files for XG devices (eg. Yamaha DB50XG). `×`
  * [SendMIDI](https://github.com/gbevin/SendMIDI) - multi-platform command-line tool makes it very easy to quickly send MIDI messages to MIDI devices from your computer. `×`
  * [JackAss](https://github.com/falkTX/JackAss/) - JACK-MIDI support for VST hosts, including Wine apps `×`
+ * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices `×`
+ * [qxgedit](http://qxgedit.sourceforge.net/qxgedit-index.html) - MIDI System Exclusive files editor ([✔](http://packages.debian.org/sid/qxgedit))
 
 
 ### Transcoding
+
  * [handbrake](http://www.handbrake.fr/) - versatile DVD ripper and video transcoder (GTK+ GUI) ([✔](http://packages.debian.org/sid/handbrake))
  * [winff](http://www.winff.org/) - graphical video and audio batch converter using ffmpeg or avconv ([✔](http://packages.debian.org/sid/winff))
    * [winff-qt](http://packages.debian.org/sid/winff-qt) - Qt variant of winff ([Hoempage](http://www.winff.org/))
@@ -389,24 +404,21 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [transmageddon](http://www.linuxrising.org/) - video transcoder for Linux and Unix systems built using GStreamer ([✔](http://packages.debian.org/sid/transmageddon))
  * [ffmpeg2theora](http://v2v.cc/~j/ffmpeg2theora/) - Theora video encoder using ffmpeg ([✔](http://packages.debian.org/sid/ffmpeg2theora))
  * [sound-juicer](http://www.burtonini.com/blog/computers/sound-juicer) - GNOME CD Ripper ([✔](http://packages.debian.org/sid/sound-juicer))
+ * [mediainfo-gui](http://mediainfo.sourceforge.net) - graphical utility for reading information from audio/video files ([✔](http://packages.debian.org/sid/mediainfo-gui))
+ * [mediainfo](http://mediainfo.sourceforge.net) - command-line utility for reading information from audio/video files ([✔](http://packages.debian.org/sid/mediainfo))
+
 
 ## System utilities
- * [a2jmidid](http://home.gna.org/a2jmidid/) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([✔](http://packages.debian.org/sid/a2jmidid))
- * [aconnectgui](http://packages.debian.org/sid/aconnectgui) - graphical ALSA sequencer connection manager
+
+### JACK
+
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([✔](http://packages.debian.org/sid/aj-snapshot))
- * [alsa-tools-gui](http://www.alsa-project.org/) - GUI based ALSA utilities for specific hardware ([✔](http://packages.debian.org/sid/alsa-tools-gui))
- * [alsa-tools](http://www.alsa-project.org/) - Console based ALSA utilities for specific hardware ([✔](http://packages.debian.org/sid/alsa-tools))
- * [alsa-utils](http://www.alsa-project.org/) - Utilities for configuring and using ALSA ([✔](http://packages.debian.org/sid/alsa-utils))
  * [cadence](http://packages.debian.org/sid/cadence) - JACK audio toolbox
  * [carla-lv2](http://packages.debian.org/sid/carla-lv2) - audio plugin host (LV2 plugin)
  * [carla](http://packages.debian.org/sid/carla) - audio plugin host
  * [catia](http://packages.debian.org/sid/catia) - extended JACK patchbay
  * [claudia](http://packages.debian.org/sid/claudia) - extended ladish frontend
- * [jalv](http://drobilla.net/software/jalv/) - tool to run LV2 plugins as stand-alone applications ([✔](http://packages.debian.org/sid/jalv))
-
- * [ffado-mixer-qt4](http://www.ffado.org) - FFADO D-Bus mixer applets (QT4) ([✔](http://packages.debian.org/sid/ffado-mixer-qt4))
  * [gladish](http://ladish.org/) - graphical interface for LADI Session Handler ([✔](http://packages.debian.org/sid/gladish))
- * [ingen](http://packages.debian.org/sid/ingen) - modular host for LV2 plugins.
  * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([✔](http://packages.debian.org/sid/jack-capture))
  * [jack-mixer](http://home.gna.org/jackmixer/) - JACK Audio Mixer ([✔](http://packages.debian.org/sid/jack-mixer))
  * [gjacktransport](http://gjacktransport.sourceforge.net/) - access to the JACK's transport mechanism as touchable slider ([✔](http://packages.debian.org/sid/gjacktransport))
@@ -416,29 +428,41 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [jackd2](http://jackaudio.org/) - JACK Audio Connection Kit (server and example clients) ([✔](http://packages.debian.org/sid/jackd2))
  * [jackeq](http://djcj.org/jackeq/) - routes and manipulates audio from/to multiple sources ([✔](http://packages.debian.org/sid/jackeq))
  * [laditools](https://launchpad.net/laditools) - Linux Audio Desktop Integration Tools ([✔](http://packages.debian.org/sid/laditools))
- * [linux-image-rt-686-pae](http://packages.debian.org/sid/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
- * [mediainfo-gui](http://mediainfo.sourceforge.net) - graphical utility for reading information from audio/video files ([✔](http://packages.debian.org/sid/mediainfo-gui))
- * [mediainfo](http://mediainfo.sourceforge.net) - command-line utility for reading information from audio/video files ([✔](http://packages.debian.org/sid/mediainfo))
  * [patchage](http://drobilla.net/software/patchage/) - modular patch bay for Jack audio and Alsa Midi ([✔](http://packages.debian.org/sid/patchage))
  * [qjackctl](http://qjackctl.sourceforge.net) - User interface for controlling the JACK sound server ([✔](http://packages.debian.org/sid/qjackctl))
  * [qjackrcd](http://qjackrcd.sourceforge.net) - Qt4 application to record JACK server outputs ([✔](http://packages.debian.org/sid/qjackrcd))
- * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio `×`
  * [rotter](http://www.aelius.com/njh/rotter/) - JACK client for transmission recording and audio logging ([✔](http://packages.debian.org/sid/rotter))
- * [rtkit](http://0pointer.de/public/) - Realtime Policy and Watchdog Daemon ([✔](http://packages.debian.org/sid/rtkit))
- * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices `×`
- * [qxgedit](http://qxgedit.sourceforge.net/qxgedit-index.html) - MIDI System Exclusive files editor ([✔](http://packages.debian.org/sid/qxgedit))
- * [zita-ajbridge](http://kokkinizita.linuxaudio.org/linuxaudio/) - alsa to jack bridge ([✔](http://packages.debian.org/sid/zita-ajbridge))
  * [zita-mu1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html) - organise stereo monitoring for Jack Audio Connection Kit ([✔](http://packages.debian.org/sid/zita-mu1))
- * [rtirq-init](http://www.rncbc.org/jack/) - startup script for realtime-preempt enabled kernels ([✔](http://packages.debian.org/sid/rtirq-init))
+
+
+### ALSA
+
+ * [a2jmidid](http://home.gna.org/a2jmidid/) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([✔](http://packages.debian.org/sid/a2jmidid))
+ * [aconnectgui](http://packages.debian.org/sid/aconnectgui) - graphical ALSA sequencer connection manager
+ * [alsa-tools-gui](http://www.alsa-project.org/) - GUI based ALSA utilities for specific hardware ([✔](http://packages.debian.org/sid/alsa-tools-gui))
+ * [alsa-tools](http://www.alsa-project.org/) - Console based ALSA utilities for specific hardware ([✔](http://packages.debian.org/sid/alsa-tools))
+ * [alsa-utils](http://www.alsa-project.org/) - Utilities for configuring and using ALSA ([✔](http://packages.debian.org/sid/alsa-utils))
+ * [zita-ajbridge](http://kokkinizita.linuxaudio.org/linuxaudio/) - alsa to jack bridge ([✔](http://packages.debian.org/sid/zita-ajbridge))
+
+
+### Firewire
+
+ * [ffado-mixer-qt4](http://www.ffado.org) - FFADO D-Bus mixer applets (QT4) ([✔](http://packages.debian.org/sid/ffado-mixer-qt4))
+ * [libraw1394-11](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([✔](http://packages.debian.org/sid/libraw1394-11))
+ * [libraw-bin](http://www.libraw.org/) - raw image decoder library (tools) ([✔](http://packages.debian.org/sid/libraw-bin))
+ * [libraw10](http://www.libraw.org/) - raw image decoder library ([✔](http://packages.debian.org/sid/libraw10))
+ * [libraw1394-tools](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([✔](http://packages.debian.org/sid/libraw1394-tools))
+
  
-_VST adapters_
+### VST adapters
 
  * [airwave](https://github.com/phantom-code/airwave) - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts `×`
  * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
  * [festige](http://packages.debian.org/sid/festige) - GUI for fst and dssi-vst
  * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
 
-##### Pulseaudio
+### Pulseaudio
+
  * [padevchooser](https://github.com/d3matt/padevchooser) - PulseAudio Device Chooser ([✔](http://packages.debian.org/sid/padevchooser))
  * [paman](http://0pointer.de/lennart/projects/paman/) - PulseAudio Manager ([✔](http://packages.debian.org/sid/paman))
  * [paprefs](http://freedesktop.org/software/pulseaudio/paprefs/) - PulseAudio Preferences ([✔](http://packages.debian.org/sid/paprefs))
@@ -450,13 +474,15 @@ _VST adapters_
  * [pulseaudio-utils](http://www.pulseaudio.org) - Command line tools for the PulseAudio sound server ([✔](http://packages.debian.org/sid/pulseaudio-utils))
  * [pulseaudio](http://www.pulseaudio.org) - PulseAudio sound server ([✔](http://packages.debian.org/sid/pulseaudio))
 
+### Other system utilities
 
-##### Firewire
- * [libraw1394-11](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([✔](http://packages.debian.org/sid/libraw1394-11))
- * [libraw-bin](http://www.libraw.org/) - raw image decoder library (tools) ([✔](http://packages.debian.org/sid/libraw-bin))
- * [libraw10](http://www.libraw.org/) - raw image decoder library ([✔](http://packages.debian.org/sid/libraw10))
- * [libraw1394-tools](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([✔](http://packages.debian.org/sid/libraw1394-tools))
-
+ * [jalv](http://drobilla.net/software/jalv/) - tool to run LV2 plugins as stand-alone applications ([✔](http://packages.debian.org/sid/jalv))
+ * [ingen](http://drobilla.net/software/ingen) - modular audio processing system for Jack and LV2 based systems.
+ * [linux-image-rt-686-pae](http://packages.debian.org/sid/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
+ * [linux-image-rt-686-pae](http://packages.debian.org/sid/linux-image-rt-amd64) - Linux for modern PCs (meta-package), PREEMPT_RT 
+ * [rtirq-init](http://www.rncbc.org/jack/) - startup script for realtime-preempt enabled kernels ([✔](http://packages.debian.org/sid/rtirq-init))
+ * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio `×`
+ * [rtkit](http://0pointer.de/public/) - Realtime Policy and Watchdog Daemon ([✔](http://packages.debian.org/sid/rtkit))
 
 ## Network streaming/broadcasting
 
@@ -470,7 +496,7 @@ _VST adapters_
  * [zita-njbridge](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Jack clients to transmit multichannel audio over a local IP network ([✔](http://packages.debian.org/sid/zita-njbridge))
 
 
-**Icecast clients:**
+_Icecast clients_
 
   * [oggfwd](http://v2v.cc/~j/oggfwd/) - basic icecast source client for audio and video streaming ([✔](http://packages.debian.org/sid/oggfwd))
   * [ices2](http://www.icecast.org/ices.php) - Ogg Vorbis streaming source for Icecast 2 ([✔](http://packages.debian.org/sid/ices2))
@@ -555,11 +581,8 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [flumotion](http://packages.debian.org/sid/flumotion) - modern streaming media server built with a modular distributed design, giving you stability and scalability in offering high-quality streaming media. 
 
 
-
-
-
-
 ### Authoring
+
  * [aegisub](http://www.aegisub.org/) - advanced subtitle editor ([✔](http://packages.debian.org/sid/aegisub))
  * [devede](http://www.rastersoft.com/programas/devede.html) - simple application to create Video DVDs ([✔](http://packages.debian.org/sid/devede))
  * [gnome-subtitles](http://gnome-subtitles.sourceforge.net) - Subtitle editor for the GNOME Desktop environment ([✔](http://packages.debian.org/sid/gnome-subtitles))
@@ -569,6 +592,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 
 ## Signal processing/electronics
+
  * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (Extra) `▒`
  * [cabbage-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins `▒`
  * [clam-networkeditor-examples](http://clam-project.org/) - CLAM Network Editor, examples ([✔](http://packages.debian.org/sid/clam-networkeditor-examples))
@@ -593,6 +617,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 
 ## Score Editors
+
  * [musescore](http://musescore.org/) - popular professional level WYIWYG music score editor ([✔](http://packages.debian.org/sid/musescore))
  * [denemo](http://www.denemo.org) - GTK+ front end to GNU Lilypond ([✔](http://packages.debian.org/sid/denemo))
  * [lilypond](http://lilypond.org/) - program for typesetting sheet music ([✔](http://packages.debian.org/sid/lilypond))
@@ -600,10 +625,11 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 
 ## Media players
+
  * [rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - music player and organizer for GNOME ([✔](http://packages.debian.org/sid/rhythmbox))
  * [amarok](http://amarok.kde.org) - easy to use media player based on the KDE Platform ([✔](http://packages.debian.org/sid/amarok))
  * [ario](http://ario-player.sourceforge.net/) - GTK+ client for the Music Player Daemon (MPD) ([✔](http://packages.debian.org/sid/ario))
- * [audacious](http://www.audacious-media-player.org/) - small and fast audio player which supports lots of formats ([✔](http://packages.debian.org/sid/audacious))
+ * **[audacious](http://www.audacious-media-player.org/) - small and fast audio player which supports lots of formats ([✔](http://packages.debian.org/sid/audacious))**
  * [banshee](http://www.banshee.fm) - Media Management and Playback application ([✔](http://packages.debian.org/sid/banshee))
  * [cantata](https://code.google.com/p/cantata/) - KDE client for the music player daemon (MPD) ([✔](http://packages.debian.org/sid/cantata))
  * [clementine](http://www.clementine-player.org/) - modern music player and library organizer ([✔](http://packages.debian.org/sid/clementine))
@@ -615,11 +641,11 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [guayadeque](http://sourceforge.net/projects/guayadeque) - lightweight music player ([✔](http://packages.debian.org/sid/guayadeque))
  * [moc](http://moc.daper.net) - ncurses based console audio player ([✔](http://packages.debian.org/sid/moc))
  * [mplayer2](http://mplayer2.org) - next generation movie player for Unix-like systems ([✔](http://packages.debian.org/sid/mplayer2))
- * [mpv](http://mpv.io/) - video player based on MPlayer/mplayer2 ([✔](http://packages.debian.org/sid/mpv))
+ * **[mpv](http://mpv.io/) - video player based on MPlayer/mplayer2 ([✔](http://packages.debian.org/sid/mpv))**
  * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([✔](http://packages.debian.org/sid/musique))
- * [quodlibet](http://code.google.com/p/quodlibet/) - audio library manager and player for GTK3 ([✔](http://packages.debian.org/sid/quodlibet))
+ * **[quodlibet](https://github.com/quodlibet/quodlibet/) - audio library manager and player for GTK3 ([✔](http://packages.debian.org/sid/quodlibet))**
  * [sonata](http://sonata.berlios.de/) - GTK+ client for the Music Player Daemon (MPD) ([✔](http://packages.debian.org/sid/sonata))
- * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([✔](http://packages.debian.org/sid/vlc))
+ * **[vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([✔](http://packages.debian.org/sid/vlc))**
 
 
 ## Metapackages
