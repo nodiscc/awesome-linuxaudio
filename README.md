@@ -3,7 +3,7 @@
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
 
-**Work in progress** - See current [issues](issues/) and [CONTRIBUTING](#contributing)
+**Work in progress** - See current [issues](issues/), [CONTRIBUTING](#contributing) and [DONE.md](DONE.md)
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [✔](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
@@ -711,9 +711,9 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
  * [Linux Audio Users Guide](http://linux-audio.com/)
  * [Linux MAO Wiki](http://linuxmao.org/Accueil) (fr)
- * [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start) (currently reordering, see [migration](migration.md))
+ * [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)
  * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
- * [Linuxaudio.org](http://linuxaudio.org/) (see [migration](migration.md))
+ * [Linuxaudio.org](http://linuxaudio.org/)
  * [Autostatic](http://autostatic.com/) - Linux Audio Babble ([RSS](http://linux.autostatic.com/rss))
 
 
@@ -759,5 +759,4 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
 	 1	Andrew Kelley <superjoe30@gmail.com>
 	 1	VirtualTam <virtualtam@flibidi.net>
 	 1	paulbatchelor <thisispaulbatchelor@gmail.com>
-        Links to source material can be found in migration.md
 

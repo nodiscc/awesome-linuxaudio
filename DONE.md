@@ -1,10 +1,5 @@
 # Linux audio documentation reorganization
 
-### TODO ###
-
-http://linux-sound.org/one-page.html
-
-
 ### DONE ####
 
 http://www.apodio.org/
