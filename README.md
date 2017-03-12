@@ -132,16 +132,16 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 ## Samplers
 
  * [hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](http://packages.debian.org/sid/hydrogen))
-   * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](http://packages.debian.org/sid/hydrogen-drumkits))
+ * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](http://packages.debian.org/sid/hydrogen-drumkits))
  * [samplv1](http://samplv1.sourceforge.net/) - polyphonic sampler synthesizer ([◼](http://packages.debian.org/sid/samplv1))
  * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping Sampler ([◼](http://packages.debian.org/sid/sooperlooper))
-   * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
+ * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
  * [drumgizmo](http://packages.debian.org/sid/drumgizmo) - drum plugin comparable to commercial products
-   * [dgedit](http://www.drumgizmo.org) - drum kit editor for DrumGizmo ([◼](http://packages.debian.org/sid/dgedit))
+ * [dgedit](http://www.drumgizmo.org) - drum kit editor for DrumGizmo ([◼](http://packages.debian.org/sid/dgedit))
  * [ls16](http://packages.debian.org/sid/ls16) - LinuxSampler DSSI plugin GUI
-   * [linuxsampler-all](http://packages.debian.org/sid/linuxsampler-all) - realtime audio sampler (meta)
-   * [gigedit](http://www.linuxsampler.org/) - instrument editor for Gigasampler files ([◼](http://packages.debian.org/sid/gigedit))
-   * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit ([◼](http://packages.debian.org/sid/qsampler))
+ * [linuxsampler-all](http://packages.debian.org/sid/linuxsampler-all) - realtime audio sampler (meta)
+ * [gigedit](http://www.linuxsampler.org/) - instrument editor for Gigasampler files ([◼](http://packages.debian.org/sid/gigedit))
+ * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit ([◼](http://packages.debian.org/sid/qsampler))
  * [kluppe](http://kluppe.klingt.org/) - a loop-player and recorder designed for live use ([◼](http://packages.debian.org/sid/kluppe))
  * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](http://packages.debian.org/sid/freewheeling))
  * [luppp](https://github.com/openAVproductions/openAV-Luppp) - luppp music creation tool ([◼](http://packages.debian.org/sid/luppp))
@@ -193,7 +193,7 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ### Other FX
  * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([◼](http://packages.debian.org/sid/abgate))
-  * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([◼](http://packages.debian.org/sid/autotalent))
+ * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([◼](http://packages.debian.org/sid/autotalent))
  * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([◼](http://packages.debian.org/sid/zita-at1))
  * [beatslash-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - A set of LV2 plugins to slash, repeat beats. `▒`
  * [blop-lv2](http://packages.debian.org/sid/blop-lv2) - collection of LV2 CV plugins
@@ -243,14 +243,14 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 
 ### Additive
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](http://packages.debian.org/sid/zynaddsubfx))
-   * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](http://packages.debian.org/sid/zynaddsubfx-dssi))
+ * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](http://packages.debian.org/sid/zynaddsubfx-dssi))
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](http://packages.debian.org/sid/yoshimi))
  * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
  * [triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`
 
 ### Subtractive
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](http://packages.debian.org/sid/bristol))
-   * [monobristol](http://dacr.hu/monobristol) - simple GUI for Bristol ([◼](http://packages.debian.org/sid/monobristol))
+ * [monobristol](http://dacr.hu/monobristol) - simple GUI for Bristol ([◼](http://packages.debian.org/sid/monobristol))
  * [amsynth](http://code.google.com/p/amsynth/) - two oscillator software synthesizer ([◼](http://packages.debian.org/sid/amsynth))
  * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([◼](http://packages.debian.org/sid/blepvco))
  * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. 
@@ -277,8 +277,8 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([◼](http://packages.debian.org/sid/drumkv1))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
  * [qsynth](http://qsynth.sourceforge.net) - fluidsynth MIDI sound synthesiser front-end ([◼](http://packages.debian.org/sid/qsynth))
-   * [fluidsynth](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer ([◼](http://packages.debian.org/sid/fluidsynth))
-   * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
+ * [fluidsynth](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer ([◼](http://packages.debian.org/sid/fluidsynth))
+ * [fluid-soundfont-gm](http://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
  * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits  `▒`
  * [fabla](https://github.com/openAVproductions/openAV-Fabla2) - Fabla drum sampler plugin instrument `▒`
  * [freebirth-data](http://freebirth.sourceforge.net/) - Bass synthesizer/sample player/sequencer -- sound samples ([◼](http://packages.debian.org/sid/freebirth-data))
@@ -321,10 +321,10 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. 
  * [ecasound](http://www.eca.cx/ecasound/) - command-line multitrack-capable audio recorder and effect processor ([◼](http://packages.debian.org/sid/ecasound))
-  * [nama](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html) - Multitrack recording with Ecasound ([◼](https://packages.debian.org/sid/nama))
+ * [nama](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html) - Multitrack recording with Ecasound ([◼](https://packages.debian.org/sid/nama))
  * [timemachine](http://plugin.org.uk/timemachine/) - JACK audio recorder for spontaneous and conservatory use ([◼](http://packages.debian.org/sid/timemachine))
  * [sox](http://sox.sourceforge.net) - Swiss army knife of sound processing ([◼](http://packages.debian.org/sid/sox))
-   * [libsox-fmt-all](http://sox.sourceforge.net) - All SoX format libraries ([◼](http://packages.debian.org/sid/libsox-fmt-all))
+ * [libsox-fmt-all](http://sox.sourceforge.net) - All SoX format libraries ([◼](http://packages.debian.org/sid/libsox-fmt-all))
  * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples. 
 
 ### Meters & Analysis
