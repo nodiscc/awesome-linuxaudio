@@ -100,8 +100,9 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [composite](http://gabe.is-a-geek.org/composite/) - Live performance sequencer ([✔](http://packages.debian.org/sid/composite))
  * [seq24](http://www.filter24.org/seq24/) - Real time MIDI sequencer ([✔](http://packages.debian.org/sid/seq24))
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX `×`
- * [Open Octave](http://www.openoctave.org/) - MIDI/Audio sequencer. ([✔](https://github.com/ccherrett/oom)) `×`
- * [i-score](http://www.i-score.org) - Interactive multi-protocol sequencer. ([Audio extension](https://github.com/OSSIA/iscore-addon-audio)) `×` 
+ * [Open Octave](http://www.openoctave.org/) - MIDI/Audio sequencer. ([Source](https://github.com/ccherrett/oom)) `×`
+ * [i-score](http://www.i-score.org) - Interactive multi-protocol sequencer. `×`
+ * [i-score audio extension](https://github.com/OSSIA/iscore-addon-audio) - Add audio sequencer features to i-score `×` 
 
 
 ## Trackers
