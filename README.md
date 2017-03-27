@@ -88,7 +88,6 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
  * [ardour3](http://www.ardour.org/) - digital audio workstation (graphical gtk2 interface) ([◼](http://packages.debian.org/sid/ardour3))
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](http://packages.debian.org/sid/muse))
- * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](http://packages.debian.org/sid/qtractor))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](http://packages.debian.org/sid/rosegarden))
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©` 
