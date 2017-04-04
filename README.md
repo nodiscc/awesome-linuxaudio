@@ -200,7 +200,6 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
  * [deteriorate-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of LV2 plugins to deteriorate sound quality `▒`
  * [drc](http://drc-fir.sourceforge.net/) - digital room correction ([◼](http://packages.debian.org/sid/drc))
  * [freqtweak](http://freqtweak.sourceforge.net/) - Realtime audio frequency spectral manipulation ([◼](http://packages.debian.org/sid/freqtweak))
- * [g2reverb](http://packages.debian.org/sid/g2reverb) - reverb LADSPA plugin
  * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer `©`
  * [guitarix](http://guitarix.sourceforge.net/) - Rock guitar amplifier for Jack ([◼](http://packages.debian.org/sid/guitarix))
  * [gxvoxtonebender](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fuzz Tonebender LV2 plugin `▒`
