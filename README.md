@@ -64,7 +64,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
   - [Other Software Lists](#other-software-lists)
   - [Documentation/Blogs](#documentationblogs)
   - [Communities/Forums](#communitiesforums)
-- [GLOSSARY](#glossary)
 - [TODO](#todo)
 - [CONTRIBUTING](#contributing)
 - [LICENSE](#license)
@@ -721,19 +720,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [AVLinux Forums](http://bandshed.net/forum/index.php)
 
 --------------------------------------------
-
-## GLOSSARY
-
- * [LADSPA](https://en.wikipedia.org/wiki/LADSPA) - an (API) standard for handling audio filters and audio signal processing effects.
- * [DSSI](https://en.wikipedia.org/wiki/Disposable_Soft_Synth_Interface) - a virtual instrument (software synthesizer) plugin architecture for use by music sequencer applications.
- * [LV2](https://en.wikipedia.org/wiki/LV2) - (LADSPA version 2) an open standard for Audio plug-ins and matching host applications.
- * [LADSPA, DSSI, LV2 and VST Plugins on Linux](https://lievenmoors.github.io/plugins.html)
- * [Comparison of audio coding formats](https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats), [List of codecs](https://en.wikipedia.org/wiki/List_of_codecs), [Lossy compression](https://en.wikipedia.org/wiki/Lossy_compression#Audio), [Lossless compression](https://en.wikipedia.org/wiki/Lossless_compression#Audio)
- * [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) - part of the Linux kernel that provides an API for sound card device drivers. [ALSA presentation](https://lievenmoors.github.io/alsa.html)
- * [JACK Audio Connection Kit](https://en.wikipedia.org/wiki/JACK_Audio_Connection_Kit) professional sound server daemon that provides real-time, low latency connections for both audio and MIDI data between applications. [JACK presentation](https://lievenmoors.github.io/jack.html) - 
-
-----------------------------------
-
 
 ## CONTRIBUTING
 
