@@ -35,7 +35,7 @@ http://www.artistx.org/site2/
 http://dream.dickmacinnis.com/forum/
 http://www.musix.org.ar/
 http://linux.startcom.org/
-http://tangostudio.tuxfamily.org/en/tangostudio
+http://tangostudio.tuxfamily.org/en/tangostudio gone
 http://rpm.nyvalls.se/
 http://www.plus24.com/m-dist/
 https://en.wikibooks.org/wiki/Puredyne
@@ -182,13 +182,12 @@ http://heroines.sourceforge.net/bcast2000.php3 error
 http://heroinewarrior.com/cinelerra.php3 error
 http://www.munich-vision.de/lavtools/index.html 404
 http://www.transcoding.org/transcode?Download 2008
-[glame](http://glame.sourceforge.net/index.var)
+http://glame.sourceforge.net/index.var
 http://www.68k.org/~michael/beatmonkey/ 1999
 http://www.deepsound.net/calculs.html 404
 http://moat.tobiah.org/pub/wavelength/ 404
 http://sourceforge.net/projects/wavsplit/files/wavsplit/ 2004
 http://abrowse.sourceforge.net/
-[abrowse](http://abrowse.sourceforge.net/) - allows you to read AKAI S1000/3000 sample CD's and write the samples into wav audio format.  `` 2004
 http://tobiah.org/pub/ abandoned
 http://sharkysoft.com/software/lava/rocks/jwave/ 404
 http://jzu.free.fr/mirage.html ensoniq documentation
@@ -203,3 +202,4 @@ https://github.com/DuncanRobertson/wavnorm 2001
 http://linux-sound.org/snded.html done
 added scripts from http://jzu.free.fr/outils.html
 http://wiki.linuxaudio.org/wiki/tutorials/start done
+http://download.linuxaudio.org/

@@ -7,9 +7,6 @@ A list of software and resources for professional audio/video/live events produc
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
 
-See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
-
-
 -------------------------
 
     ◼ Debian package
@@ -64,7 +61,6 @@ See [System Setup](system-setup.md) (WIP) for guides on setting up your system.
 - [Linux Distributions](#linux-distributions)
 - [SAMPLES/PRESETS/RESOURCES](#samplespresetsresources)
 - [DOCUMENTATION](#documentation)
-  - [Tutorials/scripts](#tutorialsscripts)
   - [Other Software Lists](#other-software-lists)
   - [Documentation/Blogs](#documentationblogs)
   - [Communities/Forums](#communitiesforums)
@@ -692,12 +688,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ## DOCUMENTATION
 
-### Tutorials/scripts
-
-Useful automation scripts may be found in the **[scripts](scripts/) directory**.
-
-Tutorials and howto guides about Linux multimedia software can be found on the **[Tutorials](tutorials.md) page**.
-
 ### Other Software Lists
 
  * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
@@ -715,8 +705,10 @@ Tutorials and howto guides about Linux multimedia software can be found on the *
  * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
  * [Linuxaudio.org](http://linuxaudio.org/)
  * [Autostatic](http://autostatic.com/) - Linux Audio Babble ([RSS](http://linux.autostatic.com/rss))
-
-
+ * [ALSA Hardware Compatibility list](http://www.alsa-project.org/main/index.php/Matrix:Main)
+ * [alsa.opensrc.org Wiki](http://alsa.opensrc.org/) ([Source](https://github.com/opensrc/alsa))
+ * [JACK Audio Wiki](https://github.com/jackaudio/jackaudio.github.com/wiki)
+ * [CommandLineFu - commands tagged audio](http://www.commandlinefu.com/commands/tagged/26/audio)
 
 ### Communities/Forums
 
