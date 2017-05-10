@@ -75,7 +75,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## DAW/Sequencers
 
- * [ardour4](http://www.ardour.org/) - digital audio workstation `▒`
+ * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](http://packages.debian.org/sid/dino))
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](http://packages.debian.org/sid/qtractor))
  * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine ([◼](http://packages.debian.org/sid/dino))
