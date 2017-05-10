@@ -125,9 +125,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Samplers
 
- * [hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](http://packages.debian.org/sid/hydrogen))
- * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](http://packages.debian.org/sid/hydrogen-drumkits))
- * [samplv1](http://samplv1.sourceforge.net/) - polyphonic sampler synthesizer ([◼](http://packages.debian.org/sid/samplv1))
+ * **[hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](http://packages.debian.org/sid/hydrogen))**
+ * **[hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits)** - drumkits for Hydrogen ([◼](http://packages.debian.org/sid/hydrogen-drumkits))
+ * **[samplv1](http://samplv1.sourceforge.net/)** - polyphonic sampler synthesizer ([◼](http://packages.debian.org/sid/samplv1))
  * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping Sampler ([◼](http://packages.debian.org/sid/sooperlooper))
  * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
  * [drumgizmo](http://packages.debian.org/sid/drumgizmo) - drum plugin comparable to commercial products
@@ -352,10 +352,10 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 ### MIDI Utilities
 
- * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](http://packages.debian.org/sid/abcmidi))
+ * **[jack-keyboard](http://jack-keyboard.sourceforge.net) - Virtual MIDI keyboard for JACK MIDI ([◼](http://packages.debian.org/sid/jack-keyboard))**
+* [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](http://packages.debian.org/sid/abcmidi))
  * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](http://home.gna.org/gmidimonitor/) - GTK+ application that shows MIDI events ([◼](http://packages.debian.org/sid/gmidimonitor)
- * [jack-keyboard](http://jack-keyboard.sourceforge.net) - Virtual MIDI keyboard for JACK MIDI ([◼](http://packages.debian.org/sid/jack-keyboard))
  * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](http://packages.debian.org/sid/kmidimon))
  * [m2hpc](http://dominodesigns.info/m2hpc/index.html) - MIDI to Hydrogen Pattern Converter 
  * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
