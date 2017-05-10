@@ -2,6 +2,7 @@
 
 # Ansible playbook to setup a Linux audio production system
 # Draft. Prototype. Untested.
+# Requires Debian 9 Stretch (testing)
 # https://github.com/nodiscc/awesome-linuxaudio
 # Minimum version: ansible 2.1
 
