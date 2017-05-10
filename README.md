@@ -405,7 +405,9 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
 
 ### JACK
 
- * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](http://packages.debian.org/sid/aj-snapshot))
+ * **[jackd](http://jackaudio.org/)** - JACK Audio Connection Kit ([◼](http://packages.debian.org/sid/jackd))
+ * **[qjackctl](http://qjackctl.sourceforge.net)** - User interface for controlling the JACK sound server ([◼](http://packages.debian.org/sid/qjackctl))
+* [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](http://packages.debian.org/sid/aj-snapshot))
  * [cadence](http://packages.debian.org/sid/cadence) - JACK audio toolbox
  * [carla-lv2](http://packages.debian.org/sid/carla-lv2) - audio plugin host (LV2 plugin)
  * [carla](http://packages.debian.org/sid/carla) - audio plugin host
@@ -418,11 +420,9 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](http://packages.debian.org/sid/jack-rack))
  * [jack-tools](http://slavepianos.org/rd/?t=rju) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([◼](http://packages.debian.org/sid/jack-tools))
  * [jackd2-firewire](http://jackaudio.org/) - JACK Audio Connection Kit (FFADO and FreeBoB backends) ([◼](http://packages.debian.org/sid/jackd2-firewire))
- * [jackd2](http://jackaudio.org/) - JACK Audio Connection Kit (server and example clients) ([◼](http://packages.debian.org/sid/jackd2))
  * [jackeq](http://djcj.org/jackeq/) - routes and manipulates audio from/to multiple sources ([◼](http://packages.debian.org/sid/jackeq))
  * [laditools](https://launchpad.net/laditools) - Linux Audio Desktop Integration Tools ([◼](http://packages.debian.org/sid/laditools))
  * [patchage](http://drobilla.net/software/patchage/) - modular patch bay for Jack audio and Alsa Midi ([◼](http://packages.debian.org/sid/patchage))
- * [qjackctl](http://qjackctl.sourceforge.net) - User interface for controlling the JACK sound server ([◼](http://packages.debian.org/sid/qjackctl))
  * [qjackrcd](http://qjackrcd.sourceforge.net) - Qt4 application to record JACK server outputs ([◼](http://packages.debian.org/sid/qjackrcd))
  * [rotter](http://www.aelius.com/njh/rotter/) - JACK client for transmission recording and audio logging ([◼](http://packages.debian.org/sid/rotter))
  * [zita-mu1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html) - organise stereo monitoring for Jack Audio Connection Kit ([◼](http://packages.debian.org/sid/zita-mu1))
