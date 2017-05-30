@@ -75,13 +75,13 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## DAW/Sequencers
 
- * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](http://packages.debian.org/sid/dino))
+ * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](http://packages.debian.org/sid/ardour))
+ * [Helio workstation](https://helioworkstation.com/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more.  ([Source code](https://github.com/peterrudenko/helio-workstation/))
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](http://packages.debian.org/sid/qtractor))
  * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine ([◼](http://packages.debian.org/sid/dino))
  * [jokosher](http://www.jokosher.org) - simple and easy to use audio multi-tracker ([◼](http://packages.debian.org/sid/jokosher))
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
- * [ardour3](http://www.ardour.org/) - digital audio workstation (graphical gtk2 interface) ([◼](http://packages.debian.org/sid/ardour3))
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](http://packages.debian.org/sid/muse))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](http://packages.debian.org/sid/rosegarden))
@@ -94,8 +94,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [seq24](http://www.filter24.org/seq24/) - Real time MIDI sequencer ([◼](http://packages.debian.org/sid/seq24))
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
  * [Open Octave](http://www.openoctave.org/) - MIDI/Audio sequencer. ([Source](https://github.com/ccherrett/oom)) 
- * [i-score](http://www.i-score.org) - Interactive multi-protocol sequencer. 
- * [i-score audio extension](https://github.com/OSSIA/iscore-addon-audio) - Add audio sequencer features to i-score  
 
 
 ## Trackers
@@ -610,6 +608,8 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [supercollider-supernova](http://supercollider.sourceforge.net/) - real time audio synthesis server (multiprocessor version) ([◼](http://packages.debian.org/sid/supercollider-supernova))
  * [supercollider](http://supercollider.sourceforge.net/) - real time audio synthesis programming language ([◼](http://packages.debian.org/sid/supercollider))
  * [camomile](https://github.com/pierreguillot/Camomile) - a dynamic vst plugin that loads Pure Data patches
+ * [i-score](http://www.i-score.org) - Interactive multi-protocol intermedia sequencer using OSC, Minuit, and more
+   * [i-score audio extension](https://github.com/OSSIA/iscore-addon-audio) - Add audio sequencer features to i-score.
 
 
 ## Score Editors
