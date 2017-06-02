@@ -85,7 +85,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](http://packages.debian.org/sid/muse))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](http://packages.debian.org/sid/rosegarden))
- * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©` 
+ * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
+ * [b-step sequencer](http://b-step.monoplugs.com/) - harmonic music step sequencer to create melodies, arpeggios, drumsets, and basslines on the fly  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](http://packages.debian.org/sid/traverso))
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](http://packages.debian.org/sid/meterec))
  * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists 
@@ -279,6 +280,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [newtonator](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 synth that produces unpredictable sounds `▒`
  * [xsynth-dssi](http://packages.debian.org/wheezy/xsynth-dssi) - classic-analog (VCOs-VCF-VCA) style software synthesizer ([Site Officiel](http://dssi.sourceforge.net/))
  * [paraphrasis](https://github.com/VirtualAnalogy/Paraphrasis) - spectral modeling synthesizer 
+ * [U-HE Repro-1](http://www.u-he.com/cms/repro-1) - Synth with raw, analogue inspiration, reverently modelling a classic synth `©`
 
 ## Modular synths
 
