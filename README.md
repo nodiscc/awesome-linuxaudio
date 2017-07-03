@@ -628,10 +628,13 @@ _Sample segmentation, analysis, programmable editors_
 
 ## Media players
 
+ * **[audacious](http://www.audacious-media-player.org/) - small and fast audio player which supports lots of formats ([◼](http://packages.debian.org/sid/audacious))**
+ * **[mpv](http://mpv.io/) - video player based on MPlayer/mplayer2 ([◼](http://packages.debian.org/sid/mpv))**
+ * **[quodlibet](https://github.com/quodlibet/quodlibet/) - audio library manager and player for GTK3 ([◼](http://packages.debian.org/sid/quodlibet))**
+ * **[vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](http://packages.debian.org/sid/vlc))**
  * [rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - music player and organizer for GNOME ([◼](http://packages.debian.org/sid/rhythmbox))
  * [amarok](http://amarok.kde.org) - easy to use media player based on the KDE Platform ([◼](http://packages.debian.org/sid/amarok))
  * [ario](http://ario-player.sourceforge.net/) - GTK+ client for the Music Player Daemon (MPD) ([◼](http://packages.debian.org/sid/ario))
- * **[audacious](http://www.audacious-media-player.org/) - small and fast audio player which supports lots of formats ([◼](http://packages.debian.org/sid/audacious))**
  * [banshee](http://www.banshee.fm) - Media Management and Playback application ([◼](http://packages.debian.org/sid/banshee))
  * [cantata](https://code.google.com/p/cantata/) - KDE client for the music player daemon (MPD) ([◼](http://packages.debian.org/sid/cantata))
  * [clementine](http://www.clementine-player.org/) - modern music player and library organizer ([◼](http://packages.debian.org/sid/clementine))
@@ -643,11 +646,9 @@ _Sample segmentation, analysis, programmable editors_
  * [guayadeque](http://sourceforge.net/projects/guayadeque) - lightweight music player ([◼](http://packages.debian.org/sid/guayadeque))
  * [moc](http://moc.daper.net) - ncurses based console audio player ([◼](http://packages.debian.org/sid/moc))
  * [mplayer2](http://mplayer2.org) - next generation movie player for Unix-like systems ([◼](http://packages.debian.org/sid/mplayer2))
- * **[mpv](http://mpv.io/) - video player based on MPlayer/mplayer2 ([◼](http://packages.debian.org/sid/mpv))**
  * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([◼](http://packages.debian.org/sid/musique))
- * **[quodlibet](https://github.com/quodlibet/quodlibet/) - audio library manager and player for GTK3 ([◼](http://packages.debian.org/sid/quodlibet))**
  * [sonata](http://sonata.berlios.de/) - GTK+ client for the Music Player Daemon (MPD) ([◼](http://packages.debian.org/sid/sonata))
- * **[vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](http://packages.debian.org/sid/vlc))**
+
 
 
 ## Metapackages
