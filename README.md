@@ -105,21 +105,16 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Audio Editors
 
- * [audacity](http://www.audacityteam.org/) - fast, cross-platform audio editor ([◼](http://packages.debian.org/sid/audacity))
- * [gnusound](https://packages.debian.org/sid/gnusound) - multitrack sound editor for GNOME
- * [kwave](http://kwave.sourceforge.net) - sound editor for KDE ([◼](http://packages.debian.org/sid/kwave))
- * [mhwaveedit](http://gna.org/projects/mhwaveedit/) - Simple and fast GTK2 sound editor ([◼](http://packages.debian.org/sid/mhwaveedit))
- * [smasher](http://sourceforge.net/projects/smasher/) - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3, FLAC or AIFF files in seconds without a sequencer
- * [snd-gtk](http://ccrma.stanford.edu/software/snd/) - Sound file editor (dummy transitional package) ([◼](http://packages.debian.org/sid/snd-gtk))
+ * **[audacity](http://www.audacityteam.org/) - fast, cross-platform audio editor ([◼](http://packages.debian.org/sid/audacity))**
  * [sweep](http://www.metadecks.org/software/sweep/) - Audio editor and live playback tool ([◼](http://packages.debian.org/sid/sweep))
- * [wavesurfer](http://www.speech.kth.se/wavesurfer) - Sound Manipulation Program ([◼](http://packages.debian.org/sid/wavesurfer))
- * [LAoE](http://www.oli4.ch/laoe/home.html) - Layer-based Audio Editor, and it is a rich featured graphical audio sample editor, based on multi-layers, floating-point samples, volume-masks, variable selection-intensity, and many plugins suitable to manipulate sound, such as filtering, retouching, resampling, graphical spectrogram editing by brushes and rectangles, sample-curve editing by freehand-pen and spline and other interpolation curves, effects... 
- * [SndBite](http://billposer.org/Software/SndBite.html) - SndBite is a specialized audio editor, designed for breaking large recordings into smaller components with great efficiency. Its principal intended application is in linguistic research where it is often desirable to put each word or sentence into a separate file before further processing. 
- * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. 
  * [eisenkraut](http://www.sciss.de/eisenkraut/) - A multi-channel and hi-res capable audio file editor ([◼](https://github.com/Sciss/Eisenkraut)) 
- * [Shuriken](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. 
- * [aubio-tools](http://aubio.org) - library for audio segmentation -- utilities ([◼](http://packages.debian.org/sid/aubio-tools))
- * [ReZound](http://rezound.sourceforge.net/) - ReZound aims to be a stable, open source, and graphical audio file editor primarily for but not limited to the Linux operating system. 
+ * [Shuriken beat slicer](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. 
+ * [kwave](https://www.kde.org/applications/multimedia/kwave/) - sound editor for KDE ([◼](http://packages.debian.org/sid/kwave)) 
+ * [smasher](http://sourceforge.net/projects/smasher/) - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3, FLAC or AIFF files in seconds without a sequencer `2013`
+ * [mhwaveedit](http://gna.org/projects/mhwaveedit/) - Simple and fast GTK2 sound editor ([◼](http://packages.debian.org/sid/mhwaveedit)) `2013`
+ * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. `2013`
+ * [LAoE](http://www.oli4.ch/laoe/home.html) - Rich featured graphical audio sample editor featuring multi-layers, floating-point samples, volume-masks, variable selection-intensity, spectrogram editing, and plugins `2011`
+ * [ReZound](http://rezound.sourceforge.net/) - ReZound aims to be a stable, open source, and graphical audio file editor primarily for but not limited to the Linux operating system. `2008`
 
 
 ## Samplers
@@ -614,6 +609,13 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [camomile](https://github.com/pierreguillot/Camomile) - a dynamic vst plugin that loads Pure Data patches
  * [i-score](http://www.i-score.org) - Interactive multi-protocol intermedia sequencer using OSC, Minuit, and more
    * [i-score audio extension](https://github.com/OSSIA/iscore-addon-audio) - Add audio sequencer features to i-score.
+
+_Sample segmentation, analysis, programmable editors_
+
+ * [SndBite](http://billposer.org/Software/SndBite.html) - audio editor specialized in linguistic research, designed for breaking large recordings into smaller components with great efficiency.
+  * [wavesurfer](http://www.speech.kth.se/wavesurfer) - Sound visualization and manipulation program for speech/sound analysis and sound annotation/transcription ([◼](http://packages.debian.org/sid/wavesurfer))
+ * [snd-gtk-jack](http://ccrma.stanford.edu/software/snd/) - Powerful sound file editor that can be customized and extended using the Scheme programming language ([◼](http://packages.debian.org/sid/snd-gtk-jack))
+ * [aubio-tools](http://aubio.org) - library for audio segmentation -- utilities ([◼](http://packages.debian.org/sid/aubio-tools))
 
 
 ## Score Editors
