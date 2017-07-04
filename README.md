@@ -125,8 +125,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * **[samplv1](http://samplv1.sourceforge.net/)** - polyphonic sampler synthesizer ([◼](http://packages.debian.org/sid/samplv1))
  * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping Sampler ([◼](http://packages.debian.org/sid/sooperlooper))
  * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
- * [drumgizmo](http://packages.debian.org/sid/drumgizmo) - drum plugin comparable to commercial products
- * [dgedit](http://www.drumgizmo.org) - drum kit editor for DrumGizmo ([◼](http://packages.debian.org/sid/dgedit))
+ * [drumgizmo](http://www.drumgizmo.org/wiki/) - drum plugin comparable to commercial products ([◼](http://packages.debian.org/sid/drumgizmo))
+ * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](http://packages.debian.org/sid/dgedit))
  * [ls16](http://packages.debian.org/sid/ls16) - LinuxSampler DSSI plugin GUI
  * [linuxsampler-all](http://packages.debian.org/sid/linuxsampler-all) - realtime audio sampler (meta)
  * [gigedit](http://www.linuxsampler.org/) - instrument editor for Gigasampler files ([◼](http://packages.debian.org/sid/gigedit))
