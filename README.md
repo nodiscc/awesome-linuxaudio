@@ -145,7 +145,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [calf-plugins](http://calf.sourceforge.net/) - Calf Studiogear - audio effects and sound generators ([◼](http://packages.debian.org/sid/calf-plugins))
  * [tal-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Togu Audio Line Plugins `▒`
  * [amb-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - ambisonics LADSPA plugins ([◼](http://packages.debian.org/sid/amb-plugins))
- * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins ([◼](http://kxstudio.linuxaudio.org/Repositories:Plugins))`▒`
+ * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins `▒`
  * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
  * [avw.lv2](https://sourceforge.net/projects/avwlv2/) - collection of Voltage Controlled LV2 modules ([◼](http://packages.debian.org/sid/avw.lv2))
  * [caps](http://quitte.de/dsp/caps.html) - C* Audio Plugin Suite ([◼](http://packages.debian.org/sid/caps))
@@ -170,7 +170,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [vcf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - VCF LADSPA plugins `▒`
  * [vco-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugin sporting anti-aliased oscillators ([◼](http://packages.debian.org/sid/vco-plugins))
  * [x42-plugins](https://github.com/x42/x42-plugins) - Collection of LV2 plugins ([◼](http://packages.debian.org/sid/x42-plugins))
- * [zam-plugins](http://packages.debian.org/sid/zam-plugins) - Collection of LV2, LADSPA, LINUX-VST and JACK plugins
+ * [zam-plugins](http://www.zamaudio.com/) - Plugins for high quality audio processing ([◼]((http://packages.debian.org/sid/zam-plugins)))
  * [infamous-plugins](http://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
  * [Linux Studio Plugins](https://sourceforge.net/projects/lsp-plugins/) - Collection of LV2/LADSPA/VST/standalone audio processing applications 
 
@@ -230,11 +230,11 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Synthesizers
 
 ### Additive
+ * **[triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`**
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](http://packages.debian.org/sid/zynaddsubfx))
  * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](http://packages.debian.org/sid/zynaddsubfx-dssi))
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](http://packages.debian.org/sid/yoshimi))
  * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
- * [triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`
 
 ### Subtractive
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](http://packages.debian.org/sid/bristol))
@@ -273,7 +273,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [freebirth](http://freebirth.sourceforge.net/) - Bass synthesizer/sample player/sequencer ([◼](http://packages.debian.org/sid/freebirth))
  * [gmorgan](http://gmorgan.sourceforge.net/) - MIDI rhythm station emulator software ([◼](http://packages.debian.org/sid/gmorgan))
  * [newtonator](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 synth that produces unpredictable sounds `▒`
- * [xsynth-dssi](http://packages.debian.org/wheezy/xsynth-dssi) - classic-analog (VCOs-VCF-VCA) style software synthesizer ([Site Officiel](http://dssi.sourceforge.net/))
+ * [xsynth-dssi](http://dssi.sourceforge.net) - classic-analog (VCOs-VCF-VCA) style software synthesizer ([◼]((http://packages.debian.org/wheezy/xsynth-dssi)))
  * [paraphrasis](https://github.com/VirtualAnalogy/Paraphrasis) - spectral modeling synthesizer 
  * [U-HE Repro-1](http://www.u-he.com/cms/repro-1) - Synth with raw, analogue inspiration, reverently modelling a classic synth `©`
 
