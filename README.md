@@ -448,7 +448,7 @@ http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [airwave](https://github.com/phantom-code/airwave) - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts 
  * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
  * [festige](http://packages.debian.org/sid/festige) - GUI for fst and dssi-vst
- * [linvst](https://github.com/osxmidi/LinVst) - LinVst enables Windows vst's to be used as Linux vst's in Linux vst capable DAW's.
+ * [linvst](https://github.com/osxmidi/LinVst) - LinVst enables Windows VSTs to be used as Linux VSTs in Linux VST-capable DAWs.
  * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
 
 ### Pulseaudio
