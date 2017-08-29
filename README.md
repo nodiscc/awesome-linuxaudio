@@ -302,7 +302,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ### Misc
 
  * [Linux Show Player](http://linux-show-player.sourceforge.net/) a free cue player designed for sound-playback in stage production. The goal of the project is to provide a complete playback software for musical plays, theater shows and similar. 
- * [showq](https://developer.berlios.de/projects/showq/) - MIDI controllable audio player ([◼](http://packages.debian.org/sid/showq))
+ * [showq](https://github.com/evandelisle/showq) - MIDI controllable audio player ([◼](http://packages.debian.org/sid/showq))
  * [silan](http://packages.debian.org/sid/silan) - commandline tool to detect silence in audio-files
  * [silentjack](http://www.aelius.com/njh/silentjack/) - silence detector for the JACK audio system ([◼](http://packages.debian.org/sid/silentjack))
  * [fadecut](http://github.com/micressor/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([◼](http://packages.debian.org/sid/fadecut))
