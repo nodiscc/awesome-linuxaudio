@@ -293,7 +293,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Organ simulators
 
  * [aeolus](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/) - Synthesised pipe organ emulator ([◼](https://packages.debian.org/sid/aeolus))
- * [horgand](http://horgand.berlios.de/) - JACK capable organ softsynth ([◼](https://packages.debian.org/sid/horgand))
+ * [horgand](https://github.com/ycollet/horgand) - JACK capable organ softsynth ([◼](https://packages.debian.org/sid/horgand))
  * [azr3-jack](http://ll-plugins.nongnu.org/azr3/) - drawbar organ simulator ([◼](https://packages.debian.org/sid/azr3-jack))
  * [setbfree](https://setbfree.org) - DSP tonewheel organ ([◼](https://packages.debian.org/sid/setbfree))
 
@@ -308,7 +308,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [silentjack](http://www.aelius.com/njh/silentjack/) - silence detector for the JACK audio system ([◼](https://packages.debian.org/sid/silentjack))
  * [fadecut](http://github.com/micressor/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([◼](https://packages.debian.org/sid/fadecut))
  * [gwc](http://gwc.sf.net) - Audio file denoiser ([◼](https://packages.debian.org/sid/gwc))
-http://panic.et.tudelft.nl/~costar/gramofile/ 404
  * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. 
  * [ecasound](http://www.eca.cx/ecasound/) - command-line multitrack-capable audio recorder and effect processor ([◼](https://packages.debian.org/sid/ecasound))
  * [nama](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html) - Multitrack recording with Ecasound ([◼](https://packages.debian.org/sid/nama))
