@@ -112,7 +112,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Shuriken beat slicer](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. 
  * [kwave](https://www.kde.org/applications/multimedia/kwave/) - sound editor for KDE ([◼](https://packages.debian.org/sid/kwave)) 
  * [smasher](http://sourceforge.net/projects/smasher/) - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3, FLAC or AIFF files in seconds without a sequencer `2013`
- * [mhwaveedit](http://gna.org/projects/mhwaveedit/) - Simple and fast GTK2 sound editor ([◼](https://packages.debian.org/sid/mhwaveedit)) `2013`
+ * [mhwaveedit](https://github.com/magnush/mhwaveedit/) - Simple and fast GTK2 sound editor ([◼](https://packages.debian.org/sid/mhwaveedit)) `2013`
  * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. `2013`
  * [LAoE](http://www.oli4.ch/laoe/home.html) - Rich featured graphical audio sample editor featuring multi-layers, floating-point samples, volume-masks, variable selection-intensity, spectrogram editing, and plugins `2011`
  * [ReZound](http://rezound.sourceforge.net/) - ReZound aims to be a stable, open source, and graphical audio file editor primarily for but not limited to the Linux operating system. `2008`
@@ -148,9 +148,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [amb-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - ambisonics LADSPA plugins ([◼](https://packages.debian.org/sid/amb-plugins))
  * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins `▒`
  * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
- * [avw.lv2](https://sourceforge.net/projects/avwlv2/) - collection of Voltage Controlled LV2 modules ([◼](https://packages.debian.org/sid/avw.lv2))
+ * [avw.lv2](https://github.com/mfisher31/avwlv2) - collection of Voltage Controlled LV2 modules ([◼](https://packages.debian.org/sid/avw.lv2)) `2013`
  * [caps](http://quitte.de/dsp/caps.html) - C* Audio Plugin Suite ([◼](https://packages.debian.org/sid/caps))
- * [cmt](http://www.ladspa.org/cmt/) - a collection of LADSPA plugins ([◼](https://packages.debian.org/sid/cmt))
+ * [cmt](http://www.ladspa.org/cmt/overview.html) - a collection of LADSPA plugins ([◼](https://packages.debian.org/sid/cmt))
  * [distrho-plugins-lv2](https://github.com/DISTRHO/DPF-Plugins) - DISTHRO Plugin Ports `▒`
  * [distrho-plugins-vst](https://github.com/DISTRHO/DPF-Plugins) - DISTHRO Plugin Ports `▒`
  * [dpf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio plugin collection from DISTRHO `▒`
@@ -196,14 +196,14 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [gxvoxtonebender](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fuzz Tonebender LV2 plugin `▒`
  * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio Plugins `▒`
  * [ir.lv2-1.2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 IR reverb (1.2 version) `▒`
- * [ir.lv2](http://factorial.hu/plugins/lv2/ir) - LV2 IR reverb ([◼](https://packages.debian.org/sid/ir.lv2))
+ * [ir.lv2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb ([◼](https://packages.debian.org/sid/ir.lv2))
  * [klangfalter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - convolution audio plugin `▒`
- * [lv2vocoder](https://gna.org/projects/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
+ * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
  * [mod-pitchshifter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - pitch shifter audio plugins `▒`
  * [paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - Extreme sound time-stretch ([◼](https://packages.debian.org/sid/paulstretch)
  * [stretchplayer](http://www.teuton.org/~gabriel/stretchplayer/) - Audio file player with time stretch and pitch shifting ([◼](https://packages.debian.org/sid/stretchplayer))
- * [sonic](http://dev.vinux-project.org/sonic) - Simple utility to speed up or slow down speech ([◼](https://packages.debian.org/sid/sonic))
+ * [sonic](https://github.com/waywardgeek/sonic) - Simple utility to speed up or slow down speech ([◼](https://packages.debian.org/sid/sonic))
  * [phasex](http://github.com/williamweston/phasex) - Phase Harmonic Advanced Synthesis EXperiment ([◼](https://packages.debian.org/sid/phasex))
  * [pitcheddelay](http://kxstudio.linuxaudio.org/Repositories:Plugins) - pitch-shifting delay `▒`
  * [playitslowly](http://29a.ch/playitslowly) - Plays back audio files at a different speed or pitch ([◼](https://packages.debian.org/sid/playitslowly))
@@ -247,7 +247,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
  * [synthv1](http://synthv1.sourceforge.net/) - old-school polyphonic synthesizer ([◼](https://packages.debian.org/sid/synthv1))
  * [obxd](http://kxstudio.linuxaudio.org/Repositories:Plugins) - ob-x emulation plugin `▒`
- * [sineshaper](http://www.student.nada.kth.se/~d00-llu/music_dssi.php) - Monophonic synth plugin with two oscillators and waveshapers ([◼](https://packages.debian.org/sid/sineshaper))
+ * [sineshaper](hhttp://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers ([◼](https://packages.debian.org/sid/sineshaper))
  * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface ([◼](https://packages.debian.org/sid/whysynth))
  * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter `▒`
 
@@ -706,6 +706,7 @@ _Sample segmentation, analysis, programmable editors_
    * [Hosts](http://www.kvraudio.com/plugins/linux/hosts/most-popular)
  * [Awesome Linux Software (audio section)](https://github.com/LewisVo/Awesome-Linux-Software#audio)
  * [Comparison of free software for audio - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
+ * [LV2 Plugins list](http://lv2plug.in/pages/projects.html)
 
 ### Documentation/Blogs
 
