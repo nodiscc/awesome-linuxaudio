@@ -82,7 +82,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
  * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine ([◼](https://packages.debian.org/sid/dino))
- * [jokosher](http://www.jokosher.org) - simple and easy to use audio multi-tracker ([◼](https://packages.debian.org/sid/jokosher))
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
