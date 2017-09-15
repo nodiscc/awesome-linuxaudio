@@ -351,9 +351,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * **[jack-keyboard](http://jack-keyboard.sourceforge.net) - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))**
 * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](https://packages.debian.org/sid/abcmidi))
  * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
- * [gmidimonitor](http://home.gna.org/gmidimonitor/) - GTK+ application that shows MIDI events ([◼](https://packages.debian.org/sid/gmidimonitor)
+ * [gmidimonitor](https://packages.debian.org/sid/gmidimonitor) - GTK+ application that shows MIDI events ([◼](https://packages.debian.org/sid/gmidimonitor)
  * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](https://packages.debian.org/sid/kmidimon))
- * [m2hpc](http://dominodesigns.info/m2hpc/index.html) - MIDI to Hydrogen Pattern Converter 
  * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
  * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output
  * [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files 
@@ -392,7 +391,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [mp3val](http://mp3val.sourceforge.net/) - program for MPEG audio stream validation ([◼](https://packages.debian.org/sid/mp3val))
  * [transmageddon](http://www.linuxrising.org/) - video transcoder for Linux and Unix systems built using GStreamer ([◼](https://packages.debian.org/sid/transmageddon))
  * [ffmpeg2theora](http://v2v.cc/~j/ffmpeg2theora/) - Theora video encoder using ffmpeg ([◼](https://packages.debian.org/sid/ffmpeg2theora))
- * [sound-juicer](http://www.burtonini.com/blog/computers/sound-juicer) - GNOME CD Ripper ([◼](https://packages.debian.org/sid/sound-juicer))
+ * [sound-juicer](https://wiki.gnome.org/Apps/SoundJuicer) - GNOME CD Ripper ([◼](https://packages.debian.org/sid/sound-juicer))
  * [mediainfo-gui](http://mediainfo.sourceforge.net) - graphical utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo-gui))
  * [mediainfo](http://mediainfo.sourceforge.net) - command-line utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo))
 
@@ -411,7 +410,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [claudia](https://packages.debian.org/sid/claudia) - extended ladish frontend
  * [gladish](http://ladish.org/) - graphical interface for LADI Session Handler ([◼](https://packages.debian.org/sid/gladish))
  * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([◼](https://packages.debian.org/sid/jack-capture))
- * [jack-mixer](http://home.gna.org/jackmixer/) - JACK Audio Mixer ([◼](https://packages.debian.org/sid/jack-mixer))
+ * [jack-mixer](https://packages.debian.org/sid/jack-mixer) - JACK Audio Mixer ([◼](https://packages.debian.org/sid/jack-mixer))
  * [gjacktransport](http://gjacktransport.sourceforge.net/) - access to the JACK's transport mechanism as touchable slider ([◼](https://packages.debian.org/sid/gjacktransport))
  * [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](https://packages.debian.org/sid/jack-rack))
  * [jack-tools](http://slavepianos.org/rd/?t=rju) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([◼](https://packages.debian.org/sid/jack-tools))
@@ -426,7 +425,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ### ALSA
 
- * [a2jmidid](http://home.gna.org/a2jmidid/) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([◼](https://packages.debian.org/sid/a2jmidid))
+ * [a2jmidid](https://packages.debian.org/sid/a2jmidid) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([◼](https://packages.debian.org/sid/a2jmidid))
  * [aconnectgui](https://packages.debian.org/sid/aconnectgui) - graphical ALSA sequencer connection manager
  * [alsa-tools-gui](http://www.alsa-project.org/) - GUI based ALSA utilities for specific hardware ([◼](https://packages.debian.org/sid/alsa-tools-gui))
  * [alsa-tools](http://www.alsa-project.org/) - Console based ALSA utilities for specific hardware ([◼](https://packages.debian.org/sid/alsa-tools))
@@ -472,7 +471,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-amd64) - Linux for modern PCs (meta-package), PREEMPT_RT 
  * [rtirq-init](http://www.rncbc.org/jack/) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
  * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio 
- * [rtkit](http://0pointer.de/public/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
+ * [rtkit](http://git.0pointer.net/rtkit.git/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
 
 ## Network streaming/broadcasting
 
@@ -522,7 +521,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [dvswitch](http://dvswitch.alioth.debian.org/) - basic video mixer for live DV streams ([◼](https://packages.debian.org/sid/dvswitch))
  * [ffdiaporama](http://ffdiaporama.tuxfamily.org/ffdiaporama/) - Movie creator from photos and video clips ([◼](https://packages.debian.org/sid/ffdiaporama))
  * [FreeJ](https://www.dyne.org/software/freej/) - a video mixer: an instrument for realtime video manipulation 
- * [freemix](http://freemix.forja.rediris.es/) - live video performance software 
+ * [freemix](https://github.com/luisbg/freemix) - live video performance software `2011`
  * [frei0r-plugins](http://frei0r.dyne.org/) - minimalistic plugin API for video effects, plugins collection ([◼](https://packages.debian.org/sid/frei0r-plugins))
  * [Gephex](http://www.gephex.org/index.php) - modular video jockey software 
  * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer  
@@ -581,7 +580,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [devede](http://www.rastersoft.com/programas/devede.html) - simple application to create Video DVDs ([◼](https://packages.debian.org/sid/devede))
  * [gnome-subtitles](http://gnome-subtitles.sourceforge.net) - Subtitle editor for the GNOME Desktop environment ([◼](https://packages.debian.org/sid/gnome-subtitles))
  * [subtitlecomposer](http://sourceforge.net/projects/subcomposer) - Subtitles editor for KDE ([◼](https://packages.debian.org/sid/subtitlecomposer))
- * [subtitleeditor](http://home.gna.org/subtitleeditor/) - Graphical subtitle editor with sound waves representation ([◼](https://packages.debian.org/sid/subtitleeditor))
+ * [subtitleeditor](https://kitone.github.io/subtitleeditor/) - Graphical subtitle editor with sound waves representation ([◼](https://packages.debian.org/sid/subtitleeditor))
  * [vlc-plugin-vlsub](http://addons.videolan.org/content/show.php?action=content&content=148752) - VLC extension to download subtitles from opensubtitles.org ([◼](https://packages.debian.org/sid/vlc-plugin-vlsub))
 
 
@@ -648,7 +647,7 @@ _Sample segmentation, analysis, programmable editors_
  * [moc](http://moc.daper.net) - ncurses based console audio player ([◼](https://packages.debian.org/sid/moc))
  * [mplayer2](http://mplayer2.org) - next generation movie player for Unix-like systems ([◼](https://packages.debian.org/sid/mplayer2))
  * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([◼](https://packages.debian.org/sid/musique))
- * [sonata](http://sonata.berlios.de/) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
+ * [sonata](https://github.com/multani/sonata) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
 
 
 
@@ -680,8 +679,7 @@ _Sample segmentation, analysis, programmable editors_
  * [KXStudio](http://kxstudio.linuxaudio.org/) - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 12.04.3 LTS. 
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
  * [Ubuntu Studio](http://ubuntustudio.org/)
- * [AVLinux](http://www.bandshed.net/AVLinux.html)
- * [ArtistX](http://artistx.org/blog/)
+ * [AVLinux](http://www.bandshed.net/avlinux/)
  * [DidJiX](http://easy.open.and.free.fr/didjix/)
 
 
