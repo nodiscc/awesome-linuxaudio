@@ -547,6 +547,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 
 ### 3D Modeling/CGI
+
  * [blender](http://www.blender.org/) - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
  * [aqsis](http://www.aqsis.org/) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([◼](https://packages.debian.org/sid/aqsis))
  * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface. 
@@ -571,7 +572,11 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [wings3d](http://www.wings3d.com) - Nendo-inspired 3D polygon mesh modeller ([◼](https://packages.debian.org/sid/wings3d))
  * [yaprm](http://sourceforge.net/projects/yaprm/) - a free-as-in-freedom modeller to graphicaly design 3d scenes and generate POV-Ray-files for them.
  * [fluxus](http://www.pawfal.org/fluxus/) - A 3D game engine for livecoding worlds into existence. 
- * [flumotion](https://packages.debian.org/sid/flumotion) - modern streaming media server built with a modular distributed design, giving you stability and scalability in offering high-quality streaming media. 
+ * [flumotion](https://packages.debian.org/sid/flumotion) - modern streaming media server built with a modular distributed design, giving you stability and scalability in offering high-quality streaming media.
+ * [Houdini](https://www.sidefx.com/products/houdini-fx/) - Professionnal 3D animation solution using a procedural node-based workflow `©`
+ * [Substance Painter](https://www.allegorithmic.com/products/substance-painter) - 3D Painting Software `©`
+ * [Substance Designer](https://www.allegorithmic.com/products/substance-designer) - Material Authoring Tool `©`
+ * [Substance Player](https://www.allegorithmic.com/products/substance-player) - Easy material tweaking and visualization `©`
 
 
 ### Authoring
