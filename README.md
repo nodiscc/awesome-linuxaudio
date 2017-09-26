@@ -106,7 +106,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Audio Editors
 
- * **[audacity](http://www.audacityteam.org/) - fast, cross-platform audio editor ([◼](https://packages.debian.org/sid/audacity))**
+ * **[audacity](http://www.audacityteam.org/)** - fast, cross-platform audio editor ([◼](https://packages.debian.org/sid/audacity))
  * [sweep](http://www.metadecks.org/software/sweep/) - Audio editor and live playback tool ([◼](https://packages.debian.org/sid/sweep))
  * [eisenkraut](http://www.sciss.de/eisenkraut/) - A multi-channel and hi-res capable audio file editor ([◼](https://github.com/Sciss/Eisenkraut)) 
  * [Shuriken beat slicer](https://rock-hopper.github.io/shuriken/) - beat slicer with beat detection and time stretching capabilities. Easy QT4 interface to slice up drum loops, assign hits to MIDI keys, and change the tempo of loops in real-time. 
@@ -120,8 +120,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ## Samplers
 
- * **[giada](https://www.giadamusic.com/) - hardcore loop machine ([◼](https://packages.debian.org/sid/giada))**
- * **[hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))**
+ * **[giada](https://www.giadamusic.com/)** - hardcore loop machine ([◼](https://packages.debian.org/sid/giada))
+ * **[hydrogen](http://www.hydrogen-music.org/)** - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
  * **[hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits)** - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits))
  * **[samplv1](http://samplv1.sourceforge.net/)** - polyphonic sampler synthesizer ([◼](https://packages.debian.org/sid/samplv1))
  * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping Sampler ([◼](https://packages.debian.org/sid/sooperlooper))
@@ -231,7 +231,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Synthesizers
 
 ### Additive
- * **[triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic additive software synthesizer plugin `▒`**
+ * **[triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - polyphonic additive software synthesizer plugin `▒`
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx))
  * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](https://packages.debian.org/sid/zynaddsubfx-dssi))
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](https://packages.debian.org/sid/yoshimi))
@@ -265,7 +265,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [din](http://dinisnoise.org/) - digital audio synthesizer ([◼](https://packages.debian.org/sid/din))
  * [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
- * [qsynth](http://qsynth.sourceforge.net) - fluidsynth MIDI sound synthesiser front-end ([◼](https://packages.debian.org/sid/qsynth))
+ * **[qsynth](http://qsynth.sourceforge.net)** - fluidsynth MIDI sound synthesiser front-end ([◼](https://packages.debian.org/sid/qsynth))
  * [fluidsynth](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer ([◼](https://packages.debian.org/sid/fluidsynth))
  * [fluid-soundfont-gm](https://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
  * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits  `▒`
@@ -348,8 +348,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ### MIDI Utilities
 
- * **[jack-keyboard](http://jack-keyboard.sourceforge.net) - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))**
-* [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](https://packages.debian.org/sid/abcmidi))
+ * **[jack-keyboard](http://jack-keyboard.sourceforge.net)** - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))
+ * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](https://packages.debian.org/sid/abcmidi))
  * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](https://packages.debian.org/sid/gmidimonitor) - GTK+ application that shows MIDI events ([◼](https://packages.debian.org/sid/gmidimonitor)
  * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](https://packages.debian.org/sid/kmidimon))
@@ -394,7 +394,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [sound-juicer](https://wiki.gnome.org/Apps/SoundJuicer) - GNOME CD Ripper ([◼](https://packages.debian.org/sid/sound-juicer))
  * [mediainfo-gui](http://mediainfo.sourceforge.net) - graphical utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo-gui))
  * [mediainfo](http://mediainfo.sourceforge.net) - command-line utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo))
-
+ * [sfarkxtc](https://github.com/raboof/sfarkxtc) - Converts soundfonts from legacy sfArk v2 file format to sf2 ([◼](https://packages.debian.org/sid/sfarkxtc))
 
 ## System utilities
 
@@ -633,10 +633,10 @@ _Sample segmentation, analysis, programmable editors_
 
 ## Media players
 
- * **[audacious](http://www.audacious-media-player.org/) - small and fast audio player which supports lots of formats ([◼](https://packages.debian.org/sid/audacious))**
- * **[mpv](http://mpv.io/) - video player based on MPlayer/mplayer2 ([◼](https://packages.debian.org/sid/mpv))**
- * **[quodlibet](https://github.com/quodlibet/quodlibet/) - audio library manager and player for GTK3 ([◼](https://packages.debian.org/sid/quodlibet))**
- * **[vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))**
+ * **[audacious](http://www.audacious-media-player.org/)** - small and fast audio player which supports lots of formats ([◼](https://packages.debian.org/sid/audacious))
+ * **[mpv](http://mpv.io/)** - video player based on MPlayer/mplayer2 ([◼](https://packages.debian.org/sid/mpv))
+ * **[quodlibet](https://github.com/quodlibet/quodlibet/)** - audio library manager and player for GTK3 ([◼](https://packages.debian.org/sid/quodlibet))
+ * **[vlc](http://www.videolan.org/vlc/)** - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
  * [rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - music player and organizer for GNOME ([◼](https://packages.debian.org/sid/rhythmbox))
  * [amarok](http://amarok.kde.org) - easy to use media player based on the KDE Platform ([◼](https://packages.debian.org/sid/amarok))
  * [ario](http://ario-player.sourceforge.net/) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/ario))
