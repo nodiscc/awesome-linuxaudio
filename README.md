@@ -130,7 +130,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
  * [ls16](https://packages.debian.org/sid/ls16) - LinuxSampler DSSI plugin GUI
  * [linuxsampler-all](https://packages.debian.org/sid/linuxsampler-all) - realtime audio sampler (meta)
- * [gigedit](http://www.linuxsampler.org/) - instrument editor for Gigasampler files ([◼](https://packages.debian.org/sid/gigedit))
  * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit ([◼](https://packages.debian.org/sid/qsampler))
  * [kluppe](http://kluppe.klingt.org/) - a loop-player and recorder designed for live use ([◼](https://packages.debian.org/sid/kluppe))
  * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
@@ -395,6 +394,9 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [mediainfo-gui](http://mediainfo.sourceforge.net) - graphical utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo-gui))
  * [mediainfo](http://mediainfo.sourceforge.net) - command-line utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo))
  * [sfarkxtc](https://github.com/raboof/sfarkxtc) - Converts soundfonts from legacy sfArk v2 file format to sf2 ([◼](https://packages.debian.org/sid/sfarkxtc))
+ * [gigedit](http://www.linuxsampler.org/) - instrument editor for Gigasampler files ([◼](https://packages.debian.org/sid/gigedit))
+ * [gigtools](http://www.linuxsampler.org/libgig/) - command line tools for Gigasampler and DLS Level 1/2 files ([◼](https://packages.debian.org/sid/gigtools))
+
 
 ## System utilities
 
@@ -691,7 +693,7 @@ _Sample segmentation, analysis, programmable editors_
 ## SAMPLES/PRESETS/RESOURCES
  * **[Musical Artifacts](https://musical-artifacts.com/)** - Helping to catalogue, preserve and free the artifacts you need to produce music. 
  * [Freesound](http://www.freesound.org/browse/) - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
- * [CCMixter](http://ccmixter.org/) - Search engine fore Creative Commons multimedia content
+ * [CCMixter](http://ccmixter.org/) - Search engine for Creative Commons multimedia content
  * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
 
 ---------------------------------------------
