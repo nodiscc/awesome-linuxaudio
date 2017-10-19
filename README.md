@@ -231,10 +231,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ### Additive
  * **[triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - polyphonic additive software synthesizer plugin `▒`
+ * **[andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise**
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx))
  * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](https://packages.debian.org/sid/zynaddsubfx-dssi))
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](https://packages.debian.org/sid/yoshimi))
  * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
+ 
 
 ### Subtractive
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](https://packages.debian.org/sid/bristol))
