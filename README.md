@@ -235,6 +235,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](https://packages.debian.org/sid/zynaddsubfx-dssi))
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](https://packages.debian.org/sid/yoshimi))
  * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
+ * [andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise `×`
 
 ### Subtractive
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](https://packages.debian.org/sid/bristol))
