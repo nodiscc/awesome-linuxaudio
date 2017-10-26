@@ -6,18 +6,17 @@
 # https://github.com/nodiscc/awesome-linuxaudio
 # Minimum version: ansible 2.1
 
--
-
-  hosts: all
-  become: true
+- hosts: all
+  become: false
   become_user: root
-  
   vars:
-    #CPU scaling governor on battery mode (performance/ondemand)
-    batt_cpu_governor: performance
-  
+    batt_cpu_governor: performance #CPU scaling governor on battery mode (performance/ondemand)
   tasks:
+
+### Packages
+
     - name: install base packages
+      become: true
       apt: state=latest name={{ item }}
       with_items:
         - apt-transport-https
@@ -25,41 +24,72 @@
         - wget
         - cpufrequtils
         - laptop-mode-tools
+
+     - name: install jack packages
+       become: true
+       apt: state=latest name={{ item }}
+       with_items:
+         - jackd
+         - gladish
+         - laditools
+
+
+#         - pulseaudio-module-jack
+#         - qjackctl
+#         - vlc-plugin-jack
+
+
+### KXStudio (disabled)
     
-    - name: download/install kxstudio sources.list/base package
-      apt: deb=https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_9.4.1~kxstudio1_all.deb
+#    - name: download/install kxstudio sources.list/base package
+#      become: true
+#      apt: deb=https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_9.4.1~kxstudio1_all.deb
     
-    - name: install gcc5 (debian 9+/ubuntu 15.10+)
-      apt: name=libglibmm-2.4-1v5 state=latest
+#    - name: install gcc5 (debian 9+/ubuntu 15.10+)
+#      become: true
+#      apt: name=libglibmm-2.4-1v5 state=latest
       
-    - name: download/install gcc5 package from kxstudio (debian 9+/ubuntu 15.10+)
-      apt: deb=https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos-gcc5_9.4.1~kxstudio1_all.deb
-    
+#    - name: download/install gcc5 package from kxstudio (debian 9+/ubuntu 15.10+)
+#      become: true
+#      apt: deb=https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos-gcc5_9.4.1~kxstudio1_all.deb
+
+### Other
+
+# TODO: /etc/limits.d/audio.conf
+# Provided by the jackd package.
+# Changes to this file will be preserved.
+# If you want to enable/disable realtime permissions, run
+#    dpkg-reconfigure -p high jackd
+#@audio   -  rtprio     95
+#@audio   -  memlock    unlimited
+#@audio   -  nice      -19
+# TODO: adduser $user audio, logout
+  
     - name: configure laptop-mode-tools (cpufreq)
-      template: src=etc_laptop-mode_conf.d_board-specific_cpufreq.conf.j2
-                dest=/etc/laptop-mode/conf.d/board-specific/cpufreq.conf
+      become: true
+      template: src=etc_laptop-mode_conf.d_board-specific_cpufreq.conf.j2 dest=/etc/laptop-mode/conf.d/board-specific/cpufreq.conf
     
-    # TODO: configure laptop-mode tools drives/USB power management
-    # Another option is to create a systemd service/unit to switch governor to performance, but laptop-mode-tools has momre features
-    # TODO: make kxstudio package version configurable as it will change
-    # TODO: rtirq config? https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/master/cfg/rtirq
-    #                     http://subversion.ffado.org/wiki/IrqPriorities
-    #                     http://alsa.opensrc.org/Rtirq
-    # TODO: create a systemd service that further optimizes resource usage (stop radio/networking/cups/...)
-    # TODO: install rt-preempt kernel, may need to reboot
-    # TODO: config/optimize jack http://wiki.linuxaudio.org/wiki/list_of_jack_frame_period_settings_ideal_for_usb_interface
-    #                             http://wiki.linuxaudio.org/wiki/optimize_jack
-    # TODO: tweak PCI latencies? https://www.mythtv.org/wiki/PCI_Latency
-    # TODO: switch CPU scheduler to BFS? https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler
-    # TODO: customize CPU affinity? https://www.cyberciti.biz/tips/setting-processor-affinity-certain-task-or-process.html
-
     - name: download realtimeconfigquickscan
-      become: false
       git: repo=https://github.com/raboof/realtimeconfigquickscan dest=/tmp/realtimeconfigquickscan
-
+    
     - name: run realtimeconfigquickscan
-      become: false
-      commmand: perl ./realTimeConfigQuickScan.pl chdir=/tmp/realtimeconfigquickscan
+      shell: 'perl ./realTimeConfigQuickScan.pl chdir=/tmp/realtimeconfigquickscan'
+
+
+# TODO: configure laptop-mode tools drives/USB power management
+# Another option is to create a systemd service/unit to switch governor to performance, but laptop-mode-tools has momre features
+# TODO: make kxstudio package version configurable as it will change
+# TODO: rtirq config? https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio/src/master/cfg/rtirq
+#                     http://subversion.ffado.org/wiki/IrqPriorities
+#                     http://alsa.opensrc.org/Rtirq
+# TODO: create a systemd service that further optimizes resource usage (stop radio/networking/cups/...)
+# TODO: install rt-preempt kernel, may need to reboot
+# TODO: config/optimize jack http://wiki.linuxaudio.org/wiki/list_of_jack_frame_period_settings_ideal_for_usb_interface
+#                             http://wiki.linuxaudio.org/wiki/optimize_jack
+# TODO: tweak PCI latencies? https://www.mythtv.org/wiki/PCI_Latency
+# TODO: switch CPU scheduler to BFS? https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler
+# TODO: customize CPU affinity? https://www.cyberciti.biz/tips/setting-processor-affinity-certain-task-or-process.html
+# TODO: autostart ladi-system-tray
     
 # Doc: https://bitbucket.org/thismaechler/ubuntustudio-14.04-realtimeaudio
 # Doc: http://kxstudio.linuxaudio.org/Repositories
