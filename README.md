@@ -78,7 +78,6 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## DAW/Sequencers
 
  * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour))
- * **[VCV Rack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW
  * [Helio workstation](https://helioworkstation.com/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more.  ([Source code](https://github.com/peterrudenko/helio-workstation/))
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
@@ -231,6 +230,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Synthesizers
 
 ### Additive
+ * **[VCV Rack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW
  * **[triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - polyphonic additive software synthesizer plugin `▒`
  * **[andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise**
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx))
