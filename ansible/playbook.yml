@@ -37,7 +37,7 @@
 #         - pulseaudio-module-jack
 #         - qjackctl
 #         - vlc-plugin-jack
-
+#         - qjackrcd
 
 ### KXStudio (disabled)
     
