@@ -5,16 +5,16 @@
 # Requires Debian 9 Stretch (testing)
 # https://github.com/nodiscc/awesome-linuxaudio
 # Minimum version: ansible 2.1
+# Example usage: ansible-playbook -i hosts playbook.yml --tags=download-soundfonts
+
 
 - hosts: all
   become: false
   become_user: root
   vars:
-    batt_cpu_governor: performance #CPU scaling governor on battery mode (performance/ondemand)
+     - batt_cpu_governor: performance #CPU scaling governor on battery mode (performance/ondemand)
+     - local_home: "{{ lookup('env','HOME') }}" # wrapper to find current $HOME
   tasks:
-
-### Packages
-
     - name: install base packages
       become: true
       apt: state=latest name={{ item }}
@@ -25,13 +25,13 @@
         - cpufrequtils
         - laptop-mode-tools
 
-     - name: install jack packages
-       become: true
-       apt: state=latest name={{ item }}
-       with_items:
-         - jackd
-         - gladish
-         - laditools
+    - name: install jack packages
+      become: true
+      apt: state=latest name={{ item }}
+      with_items:
+        - jackd
+        - gladish
+        - laditools
 
 
 #         - pulseaudio-module-jack
@@ -95,3 +95,38 @@
 # Doc: http://kxstudio.linuxaudio.org/Repositories
 # Doc: https://github.com/raboof/realtimeconfigquickscan
 # Doc: https://github.com/nodiscc/scriptz/blob/master/SNIPPETS.md
+
+
+### Samples
+
+    - name: download soundfonts from http://freepats.zenvoid.org/
+      get_url: url={{ item }} dest='{{ local_home }}'
+      tags: download-soundfonts
+      with_items:
+        - 'http://freepats.zenvoid.org/ChromaticPercussion/HangDminor/Hang-D-minor-H2-20170907.tar.gz'
+        - 'http://freepats.zenvoid.org/Organ/ChurchOrganEmulation/ChurchOrganEmulation-20160921.tar.bz2'
+        - 'http://freepats.zenvoid.org/Organ/DrawbarOrganEmulation/DrawbarOrganEmulation-SF2-20170225.tar.xz'
+        - 'http://freepats.zenvoid.org/Guitar/SpanishClassicalGuitar/SpanishClassicalGuitar-20160210.tar.xz'
+        - 'http://freepats.zenvoid.org/Guitar/SeagullSteelStringGuitar/SeagullSteelStringGuitar-20160907.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricGuitar/FenderTelecaster/FT-EGuitarClean-SF2-20170222.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricGuitar/FenderTelecaster/FT-EGuitarMutedDirect-20161130.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricGuitar/FenderTelecaster/FT-EGuitarMutedClean-20161202.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricGuitar/FenderTelecaster/FT-EGuitarDistortion-20161103.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricGuitar/YElectricBass/YElectricBassDirect-20161108.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricGuitar/YElectricBass/YElectricBassClean-20161107.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthBass1/SynthBass1-SF2-20161227.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthBass2/SynthBass2-SF2-20161230.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthStrings1/SynthStrings1-20160913.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthStrings2/SynthStrings2-20160913.tar.bz2'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthBrass1/SynthBrass1-20160915.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthSquare/SynthSquare-20161127.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/SynthCalliope/SynthCalliope-20161115.tar.xz'
+        - 'http://freepats.zenvoid.org/Synthesizer/NewAge/NewAge-20161211.tar.xz'
+        - 'http://freepats.zenvoid.org/Percussion/ColomboAcousticDrumKit/ColomboADK-FreePats-20160809-H2-097.tar.xz'
+        - 'http://freepats.zenvoid.org/Percussion/MuldjordKit/MuldjordKit2.tar.xz'
+        - 'http://freepats.zenvoid.org/SoundSets/FreePats2-GeneralMIDI/FreePats2-GM-20170822.tar.xz'
+        - 'http://freepats.zenvoid.org/Piano/KawaiUprightPiano/KawaiUprightPiano-SF2-20170128.tar.xz'
+        - 'http://freepats.zenvoid.org/Piano/YDP-GrandPiano/grand-piano-YDP-20160804.tar.bz2'
+        - 'http://freepats.zenvoid.org/Piano/SalamanderGrandPiano/SalamanderGrandPianoV3+20161209_48khz24bit.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricPiano/FM-Piano1/FM-Piano1-20161108.tar.xz'
+        - 'http://freepats.zenvoid.org/ElectricPiano/FM-Piano2/FM-Piano2-20161112.tar.xz'
