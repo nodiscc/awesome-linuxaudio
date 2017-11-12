@@ -203,3 +203,4 @@ http://linux-sound.org/snded.html done
 added scripts from http://jzu.free.fr/outils.html
 http://wiki.linuxaudio.org/wiki/tutorials/start done
 http://download.linuxaudio.org/
+http://www.ibiblio.org/pub/Linux/apps/sound/editors/ (1998)
