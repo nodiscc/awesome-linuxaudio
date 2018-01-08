@@ -148,7 +148,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins `▒`
  * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
  * [avw.lv2](https://github.com/mfisher31/avwlv2) - collection of Voltage Controlled LV2 modules ([◼](https://packages.debian.org/sid/avw.lv2)) `2013`
- * [caps](http://quitte.de/dsp/caps.html) - C* Audio Plugin Suite ([◼](https://packages.debian.org/sid/caps))
+ * [caps](http://quitte.de/dsp/caps.html) - C* Audio Plugin Suite (CAPS) comprises a range of classic sound effects and a few more basic audio DSP units, signal and noise generators. ([◼](https://packages.debian.org/sid/caps))
  * [cmt](http://www.ladspa.org/cmt/overview.html) - a collection of LADSPA plugins ([◼](https://packages.debian.org/sid/cmt))
  * [distrho-plugins-lv2](https://github.com/DISTRHO/DPF-Plugins) - DISTHRO Plugin Ports `▒`
  * [distrho-plugins-vst](https://github.com/DISTRHO/DPF-Plugins) - DISTHRO Plugin Ports `▒`
@@ -161,7 +161,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-lv2))
  * [juced-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Juced Plugins `▒`
  * [leet-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LEET LADSPA plugins `▒`
- * [mda-lv2](http://drobilla.net/software/mda-lv2/) - Paul Kellett's MDA plugins ported to LV2 ([◼](https://packages.debian.org/sid/mda-lv2))
+ * [mda-lv2](http://drobilla.net/software/mda-lv2/) - Paul Kellett's MDA 36 high-quality plugins ported to LV2 ([◼](https://packages.debian.org/sid/mda-lv2))
  * [mda-vst](https://packages.debian.org/sid/mda-vst) - MDA VST plugins
  * [ste-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - stereo LADPSA plugins ([◼](https://packages.debian.org/sid/ste-plugins))
  * [swh-plugins](http://plugin.org.uk/) - Steve Harris's LADSPA plugins ([◼](https://packages.debian.org/sid/swh-plugins))
@@ -175,7 +175,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Linux Studio Plugins](https://sourceforge.net/projects/lsp-plugins/) - Collection of LV2/LADSPA/VST/standalone audio processing applications 
 
 ### EQ
- * [eq10q](https://packages.debian.org/sid/eq10q) - LV2 equalizer
+ * [eq10q](http://eq10q.sourceforge.net/) - LV2 equalizer ([◼](https://packages.debian.org/sid/eq10q))
  * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([◼](https://packages.debian.org/sid/fil-plugins))
  * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
  * [lv2fil](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Stereo and mono LV2 plugins, four-band parametric equalisers `▒`
@@ -193,7 +193,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer `©`
  * [guitarix](http://guitarix.sourceforge.net/) - Rock guitar amplifier for Jack ([◼](https://packages.debian.org/sid/guitarix))
  * [gxvoxtonebender](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fuzz Tonebender LV2 plugin `▒`
- * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio Plugins `▒`
+ * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio DSSI and LADSPA audio plugins including DSP effects and a FM synthesizer `▒`
  * [ir.lv2-1.2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 IR reverb (1.2 version) `▒`
  * [ir.lv2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb ([◼](https://packages.debian.org/sid/ir.lv2))
  * [klangfalter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - convolution audio plugin `▒`
@@ -231,12 +231,12 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 ### Additive
  * **[VCV Rack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW
- * **[triceratops-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - polyphonic additive software synthesizer plugin `▒`
+ * **[triceratops-lv2](http://sourceforge.net/projects/triceratops/)** - polyphonic additive software synthesizer plugin `▒`
  * **[andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise**
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx))
  * [zynaddsubfx-dssi](http://zynaddsubfx.sourceforge.net) - dssi plugin of zynaddsubfx ([◼](https://packages.debian.org/sid/zynaddsubfx-dssi))
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](https://packages.debian.org/sid/yoshimi))
- * [add64](http://kxstudio.linuxaudio.org/Repositories:Plugins) - additive synthesizer for JACK `▒`
+ * [add64](https://sourceforge.net/projects/add64/) - additive synthesizer for JACK `▒`
  
 
 ### Subtractive
@@ -353,12 +353,13 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
  * **[jack-keyboard](http://jack-keyboard.sourceforge.net)** - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))
  * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](https://packages.debian.org/sid/abcmidi))
- * [arpage](http://kxstudio.linuxaudio.org/Repositories:Plugins) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
+ * [arpage](http://sourceforge.net/projects/arpage/) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](https://packages.debian.org/sid/gmidimonitor) - GTK+ application that shows MIDI events ([◼](https://packages.debian.org/sid/gmidimonitor)
  * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](https://packages.debian.org/sid/kmidimon))
  * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
  * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output
- * [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files 
+ * [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files
+ * [pizmidi-plugins](https://bitbucket.org/agraef/pizmidi/) - collection of cross-platform MIDI processing plugins. `▒`
  * [qmidiarp](http://qmidiarp.sourceforge.net/) - MIDI arpeggiator for ALSA ([◼](https://packages.debian.org/sid/qmidiarp))
  * [qmidinet](http://qmidinet.sourceforge.net/) - MIDI Network Gateway via UDP/IP Multicast ([◼](https://packages.debian.org/sid/qmidinet))
  * [vmpk](http://vmpk.sourceforge.net/) - Virtual MIDI Piano Keyboard ([◼](https://packages.debian.org/sid/vmpk))
