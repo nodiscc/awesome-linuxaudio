@@ -76,6 +76,8 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 -----------------------------------
 
 ## DAW/Sequencers
+ * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. `©`
+   * [AudioNodes Online](https://audionodes.com/online/) - Browser version.
  * **[VCV Rack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW
  * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour))
  * [Helio workstation](https://helioworkstation.com/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more.  ([Source code](https://github.com/peterrudenko/helio-workstation/))
