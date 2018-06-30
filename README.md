@@ -103,6 +103,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. `©` 
  * [milkytracker](http://www.milkytracker.org/) - music creation tool inspired by Fast Tracker 2 ([◼](https://packages.debian.org/sid/milkytracker))
  * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look&feel ([◼](https://packages.debian.org/sid/schism))
+ * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker ([◼](https://packages.debian.org/sid/klystrack))
 
 ## Audio Editors
 
