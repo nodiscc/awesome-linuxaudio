@@ -5,16 +5,17 @@ A list of software and resources for professional audio/video/live events produc
 
 [![](https://travis-ci.org/nodiscc/awesome-linuxaudio.svg?branch=master)](https://travis-ci.org/nodiscc/awesome-linuxaudio)
 
-**Work in progress** - See current [issues](issues/) and [CONTRIBUTING](#contributing).
+**Work in progress** - See current [issues](issues/) and [CONTRIBUTING](CONTRIBUTING.md).
 
-This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications.
+This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications. Software listed here is [Free Software](https://en.wikipedia.org/wiki/Free_software) unless noted otherwise.
 
 -------------------------
 
-    ◼ Debian package
+```
+    ◼   Debian package
     ▒   KXStudio package
     ©   Non-Free/closed source software
-
+```
 
 -------------------------
 
@@ -76,6 +77,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 -----------------------------------
 
 ## DAW/Sequencers
+
  * **[VCV Rack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW
  * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour))
  * [Helio workstation](https://helioworkstation.com/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more.  ([Source code](https://github.com/peterrudenko/helio-workstation/))
@@ -104,6 +106,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [milkytracker](http://www.milkytracker.org/) - music creation tool inspired by Fast Tracker 2 ([◼](https://packages.debian.org/sid/milkytracker))
  * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look&feel ([◼](https://packages.debian.org/sid/schism))
  * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker ([◼](https://packages.debian.org/sid/klystrack))
+
 
 ## Audio Editors
 
@@ -140,9 +143,11 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Tapeutape](http://hitmuri.net/index.php/software/tapeutape) - Highly configurable midi-controlled virtual sampler. 
  * [SuperBoucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport 
 
+
 ## Effects/Processing
 
 ### Collections
+
  * [calf-plugins](http://calf.sourceforge.net/) - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
  * [tal-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Togu Audio Line Plugins `▒`
  * [amb-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - ambisonics LADSPA plugins ([◼](https://packages.debian.org/sid/amb-plugins))
@@ -175,13 +180,17 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [infamous-plugins](https://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
  * [Linux Studio Plugins](https://sourceforge.net/projects/lsp-plugins/) - Collection of LV2/LADSPA/VST/standalone audio processing applications 
 
+
 ### EQ
+
  * [eq10q](http://eq10q.sourceforge.net/) - LV2 equalizer ([◼](https://packages.debian.org/sid/eq10q))
  * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([◼](https://packages.debian.org/sid/fil-plugins))
  * [luftikus](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog modeled equalizer `▒`
  * [lv2fil](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Stereo and mono LV2 plugins, four-band parametric equalisers `▒`
 
+
 ### Other FX
+
  * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([◼](https://packages.debian.org/sid/abgate))
  * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([◼](https://packages.debian.org/sid/autotalent))
  * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([◼](https://packages.debian.org/sid/zita-at1))
@@ -222,6 +231,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [creox](http://zyzstar.kosoru.com/?creox) - a real-time sound/effects processor. 
  * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `©`
 
+
 ## DJing / Vinyl emulation
 
  * [mixxx](http://www.mixxx.org/) - Digital Disc Jockey Interface ([◼](https://packages.debian.org/sid/mixxx))
@@ -231,6 +241,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Synthesizers
 
 ### Additive
+
  * **[triceratops-lv2](http://sourceforge.net/projects/triceratops/)** - polyphonic additive software synthesizer plugin `▒`
  * **[andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise**
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx))
@@ -525,7 +536,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [CasparCG Server](http://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production 
  * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
  * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
- * [dvswitch](http://dvswitch.alioth.debian.org/) - basic video mixer for live DV streams ([◼](https://packages.debian.org/sid/dvswitch))
  * [ffdiaporama](http://ffdiaporama.tuxfamily.org/ffdiaporama/) - Movie creator from photos and video clips ([◼](https://packages.debian.org/sid/ffdiaporama))
  * [FreeJ](https://www.dyne.org/software/freej/) - command-line realtime video mixing & manipulation software
  * [freemix](https://github.com/luisbg/freemix) - live video performance software `2011`
