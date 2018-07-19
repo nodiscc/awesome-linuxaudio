@@ -496,6 +496,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 **See <https://github.com/Kickball/awesome-selfhosted/#media-streaming> for the main list**
 
  * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
+ * [larigira](https://git.lattuga.net/boyska/larigira) - radio automation software based on MPD
  * [gpac](http://gpac.wp.mines-telecom.fr/) - GPAC Project on Advanced Content - utilities ([◼](https://gpac.wp.mines-telecom.fr/home/))
  * [landell](http://landell.holoscopio.com) - audio and video streams manager ([◼](https://packages.debian.org/sid/landell))
  * [vlc-nox](http://www.videolan.org/vlc/) - multimedia player and streamer (without X support) ([◼](https://packages.debian.org/sid/vlc-nox))
