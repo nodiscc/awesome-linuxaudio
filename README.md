@@ -564,7 +564,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ### 3D Modeling/CGI
 
- * [blender](http://www.blender.org/) - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
+ * **[blender](http://www.blender.org/)** - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
  * [aqsis](http://www.aqsis.org/) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([◼](https://packages.debian.org/sid/aqsis))
  * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface. 
  * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. `©`
