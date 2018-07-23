@@ -538,7 +538,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
  * [ffdiaporama](http://ffdiaporama.tuxfamily.org/ffdiaporama/) - Movie creator from photos and video clips ([◼](https://packages.debian.org/sid/ffdiaporama))
  * [FreeJ](https://www.dyne.org/software/freej/) - command-line realtime video mixing & manipulation software
- * [freemix](https://github.com/luisbg/freemix) - live video performance software `2011`
  * [frei0r-plugins](http://frei0r.dyne.org/) - minimalistic plugin API for video effects, plugins collection ([◼](https://packages.debian.org/sid/frei0r-plugins))
  * [Gephex](http://www.gephex.org/index.php) - modular video jockey software 
  * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer  
