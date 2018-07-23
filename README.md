@@ -530,6 +530,8 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
  * **[kdenlive](http://www.kdenlive.org/)** - non-linear video editor ([◼](https://packages.debian.org/sid/kdenlive))
  * **[Natron](https://natron.fr/)** - Cross-platform open-source compositing software
+ * **[Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - editing, color correction and professional audio post production, all in a single application `©`
+ * **[Nuke Studio](https://www.foundry.com/products/nuke)** - cutting-edge toolkits for node-based compositing, editorial and review `©`
  * [cinelerra](http://cinelerra.org/) - Cinema Production Software 
  * [Lightworks](https://www.lwks.com/) - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. `©`
  * [openshot](http://www.openshotvideo.com/) - Create and edit videos and movies ([◼](https://packages.debian.org/sid/openshot))
@@ -558,8 +560,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [dvgrab](http://www.kinodv.org/) - grab digital video data via IEEE1394 and USB links ([◼](https://packages.debian.org/sid/dvgrab))
  * [vid.stab](https://github.com/georgmartius/vid.stab) -  Video stabilization library http://public.hronopik.de/vid.stab/ 
  * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com 
- * [Blackmagic Da Vinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - editing, color correction and professional audio post production, all in a single application `©`
- * [Nuke Studio](https://www.foundry.com/products/nuke) - cutting-edge toolkits for node-based compositing, editorial and review `©`
 
 
 ### 3D Modeling/CGI
