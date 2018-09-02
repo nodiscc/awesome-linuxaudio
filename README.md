@@ -126,8 +126,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 ## Samplers
 
  * **[giada](https://www.giadamusic.com/)** - hardcore loop machine ([◼](https://packages.debian.org/sid/giada))
- * **[hydrogen](http://www.hydrogen-music.org/)** - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
- * **[hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits)** - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits))
+ * **[hydrogen](http://www.hydrogen-music.org/)** - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen)) + [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) ([◼](https://packages.debian.org/sid/hydrogen-drumkits))
  * **[samplv1](http://samplv1.sourceforge.net/)** - polyphonic sampler synthesizer ([◼](https://packages.debian.org/sid/samplv1))
  * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping Sampler ([◼](https://packages.debian.org/sid/sooperlooper))
  * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
