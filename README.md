@@ -669,6 +669,7 @@ _Sample segmentation, analysis, programmable editors_
  * [mplayer2](http://mplayer2.org) - next generation movie player for Unix-like systems ([◼](https://packages.debian.org/sid/mplayer2))
  * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([◼](https://packages.debian.org/sid/musique))
  * [sonata](https://github.com/multani/sonata) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
+ * [lollypop](https://gitlab.gnome.org/World/lollypop) - modern music player for GNOME
 
 
 
