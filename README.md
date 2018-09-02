@@ -87,6 +87,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
+ * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](https://packages.debian.org/sid/rosegarden))
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [b-step sequencer](http://b-step.monoplugs.com/) - harmonic music step sequencer to create melodies, arpeggios, drumsets, and basslines on the fly  `©`
