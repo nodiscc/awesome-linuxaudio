@@ -99,7 +99,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [seq24](http://www.filter24.org/seq24/) - Real time MIDI sequencer ([◼](https://packages.debian.org/sid/seq24))
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
  * [Open Octave](http://www.openoctave.org/) - MIDI/Audio sequencer. ([Source](https://github.com/ccherrett/oom)) 
-
+ * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
 
 ## Trackers
 
