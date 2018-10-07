@@ -329,6 +329,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
  * [libsox-fmt-all](http://sox.sourceforge.net) - All SoX format libraries ([◼](https://packages.debian.org/sid/libsox-fmt-all))
  * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples.
  * [pianobooster](http://pianobooster.sourceforge.net/) - Learn the piano just by playing a game, inspired by Guitar Hero  ([◼](https://packages.debian.org/sid/pianobooster))
+ * [sync-audio-tracks](https://github.com/alopatindev/sync-audio-tracks/) - Audio tracks synchronization command-line tool for video editors that don't support it
 
 ### Meters & Analysis
 
