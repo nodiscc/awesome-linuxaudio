@@ -560,8 +560,9 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [xdmx](https://packages.debian.org/sid/xdmx) - distributed multihead X server
  * [mistserver](http://www.mistserver.org/products) - Live or Video on Demand streaming media server that works well in any streaming environment
  * [dvgrab](http://www.kinodv.org/) - grab digital video data via IEEE1394 and USB links ([◼](https://packages.debian.org/sid/dvgrab))
- * [vid.stab](https://github.com/georgmartius/vid.stab) -  Video stabilization library http://public.hronopik.de/vid.stab/ 
- * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com 
+ * [vid.stab](http://public.hronopik.de/vid.stab/) - Video stabilization library ([Source code](https://github.com/georgmartius/vid.stab))
+ * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com
+ * [nageru](https://nageru.sesse.net/) - live video mixer, takes in inputs from one or more video cards, mixes them together and outputs a high-quality H.264 stream over TCP ([◼](https://packages.debian.org/sid/nageru))
 
 
 ### 3D Modeling/CGI
