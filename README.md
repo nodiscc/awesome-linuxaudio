@@ -495,6 +495,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 
 **See <https://github.com/Kickball/awesome-selfhosted/#media-streaming> for the main list**
 
+ * **[Open Broadcaster Software](https://obsproject.com/)** - recorder and streamer for live video content ([◼](https://packages.debian.org/sid/obs-studio))
  * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
  * [larigira](https://git.lattuga.net/boyska/larigira) - radio automation software based on MPD
  * [gpac](http://gpac.wp.mines-telecom.fr/) - GPAC Project on Advanced Content - utilities ([◼](https://gpac.wp.mines-telecom.fr/home/))
