@@ -86,11 +86,9 @@ List keys:
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
  * [Helio workstation](https://helioworkstation.com/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more.  ([Source code](https://github.com/peterrudenko/helio-workstation/))
- * [jackbeat](https://bitbucket.org/olivierg/jackbeat/wiki/Home) - Jackbeat is an audio sequencer for musicians and sound artists 
  * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms))
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
- * [Open Octave](http://www.openoctave.org/) - MIDI/Audio sequencer. ([Source](https://github.com/ccherrett/oom)) 
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
  * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
@@ -253,10 +251,10 @@ List keys:
  * [amsynth](http://code.google.com/p/amsynth/) - two oscillator software synthesizer ([◼](https://packages.debian.org/sid/amsynth))
  * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([◼](https://packages.debian.org/sid/blepvco)) `▒`
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](https://packages.debian.org/sid/bristol))
+   * [monobristol](https://packages.debian.org/sid/monobristol) - simple GUI for Bristol ([◼](https://packages.debian.org/sid/monobristol))
  * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `▒`
  * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `©`
  * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
- * [monobristol](http://dacr.hu/monobristol) - simple GUI for Bristol ([◼](https://packages.debian.org/sid/monobristol))
  * [obxd](http://kxstudio.linuxaudio.org/Repositories:Plugins) - ob-x emulation plugin `▒`
  * [sineshaper](hhttp://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers ([◼](https://packages.debian.org/sid/sineshaper))
  * [synthv1](http://synthv1.sourceforge.net/) - old-school polyphonic synthesizer ([◼](https://packages.debian.org/sid/synthv1)) `▒`
@@ -306,7 +304,6 @@ List keys:
  * [BEAST/BSE](https://beast.testbit.org/) - music composition and modular synthesis application 
  * [mcp-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugins designed for Alsa Modular Synth ([◼](https://packages.debian.org/sid/mcp-plugins))
  * [omins](http://www.nongnu.org/om-synth/omins.html) - collection of LADSPA plugins aimed at modular synthesizers ([◼](https://packages.debian.org/sid/omins))
- * [Psychosynth](http://www.psychosynth.com/index.php/What_is_Psychosynth%3F) - an interactive modular soft-synth inspired by the ideas of the Reactable 
  * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
  * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) `©`
 
@@ -433,7 +430,6 @@ List keys:
  * **[qjackctl](http://qjackctl.sourceforge.net)** - User interface for controlling the JACK sound server ([◼](https://packages.debian.org/sid/qjackctl))
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
  * [gjacktransport](http://gjacktransport.sourceforge.net/) - access to the JACK's transport mechanism as touchable slider ([◼](https://packages.debian.org/sid/gjacktransport))
- * [gladish](http://ladish.org/) - graphical interface for LADI Session Handler ([◼](https://packages.debian.org/sid/gladish))
  * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([◼](https://packages.debian.org/sid/jack-capture))
  * [jack-mixer](https://packages.debian.org/sid/jack-mixer) - JACK Audio Mixer ([◼](https://packages.debian.org/sid/jack-mixer))
  * [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](https://packages.debian.org/sid/jack-rack))
@@ -497,7 +493,7 @@ List keys:
  * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
  * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-amd64) - Linux for modern PCs (meta-package), PREEMPT_RT 
  * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio 
- * [rtirq-init](http://www.rncbc.org/jack/) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
+ * [rtirq-init](https://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
  * [rtkit](http://git.0pointer.net/rtkit.git/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
 
 ## Network streaming/broadcasting
@@ -507,7 +503,6 @@ List keys:
  * **[Open Broadcaster Software](https://obsproject.com/)** - recorder and streamer for live video content ([◼](https://packages.debian.org/sid/obs-studio))
  * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
  * [gpac](http://gpac.wp.mines-telecom.fr/) - GPAC Project on Advanced Content - utilities ([◼](https://gpac.wp.mines-telecom.fr/home/))
- * [landell](http://landell.holoscopio.com) - audio and video streams manager ([◼](https://packages.debian.org/sid/landell))
  * [larigira](https://git.lattuga.net/boyska/larigira) - radio automation software based on MPD
  * [vlc-nox](http://www.videolan.org/vlc/) - multimedia player and streamer (without X support) ([◼](https://packages.debian.org/sid/vlc-nox))
  * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
@@ -549,7 +544,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
  * [dvgrab](http://www.kinodv.org/) - grab digital video data via IEEE1394 and USB links ([◼](https://packages.debian.org/sid/dvgrab))
  * [ffdiaporama](http://ffdiaporama.tuxfamily.org/ffdiaporama/) - Movie creator from photos and video clips ([◼](https://packages.debian.org/sid/ffdiaporama))
- * [FreeJ](https://www.dyne.org/software/freej/) - command-line realtime video mixing & manipulation software
  * [frei0r-plugins](http://frei0r.dyne.org/) - minimalistic plugin API for video effects, plugins collection ([◼](https://packages.debian.org/sid/frei0r-plugins))
  * [Gephex](http://www.gephex.org/index.php) - modular video jockey software 
  * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer  
