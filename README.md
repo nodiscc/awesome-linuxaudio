@@ -128,7 +128,7 @@ List keys:
  * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
  * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
  * [kluppe](http://kluppe.klingt.org/) - a loop-player and recorder designed for live use ([◼](https://packages.debian.org/sid/kluppe))
- * [linuxsampler-all](https://packages.debian.org/sid/linuxsampler-all) - realtime audio sampler (meta)
+ * [linuxsampler-all](https://linuxsampler.org/) - realtime audio sampler `▒`
  * [ls16](https://packages.debian.org/sid/ls16) - LinuxSampler DSSI plugin GUI
  * [luppp](https://github.com/openAVproductions/openAV-Luppp) - luppp music creation tool ([◼](https://packages.debian.org/sid/luppp))
  * [petri-foo](http://petri-foo.sourceforge.net/) - MIDI controllable audio sampler - successor of specimen ([◼](https://packages.debian.org/sid/petri-foo))
