@@ -6,8 +6,11 @@
 - Please use the following syntax when adding new software to the list:
 
 ```
- * [projectname](https://www.project.homepage/) - Short project description, less than 250 characters ([◼](https://packages.debian.org/sid/projectname)) `©`
+ * [projectname](https://www.project.homepage/) - Short project description, less than 250 characters ([◼](https://packages.debian.org/sid/projectname)) `▒` `©`
 ```
+
 - The link to the Debian package page is optional.
+- The `▒` symbol is only required if the package is available in [KXStudio repositories](https://kxstudio.linuxaudio.org/Repositories)
 - The `©` symbol is only required if the software is not [Free/Libre Software](https://en.wikipedia.org/wiki/Free_software).
 - The list of contributors can be updated with `git shortlog -sne`
+- Actively maintained, high-quality, supported software may be highlighted in **bold.**
