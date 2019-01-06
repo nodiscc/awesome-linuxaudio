@@ -20,9 +20,7 @@ List keys:
 
 -------------------------
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+<!-- MarkdownTOC -->
 
 - [DAW/Sequencers](#dawsequencers)
 - [Trackers](#trackers)
@@ -35,15 +33,16 @@ List keys:
 - [DJing / Vinyl emulation](#djing--vinyl-emulation)
 - [Synthesizers](#synthesizers)
   - [Additive](#additive)
-  - [Substractive](#substractive)
+  - [Subtractive](#subtractive)
   - [FM](#fm)
-  - [Other Synths](#other-synths)
+  - [Wavetable](#wavetable)
+  - [Other synths](#other-synths)
 - [Modular synths](#modular-synths)
 - [Organ simulators](#organ-simulators)
 - [Audio utilities](#audio-utilities)
   - [Misc](#misc)
-  - [Meters & Analysis](#meters-&-analysis)
-  - [Tuners & Metronomes](#tuners-&-metronomes)
+  - [Meters & Analysis](#meters--analysis)
+  - [Tuners & Metronomes](#tuners--metronomes)
   - [MIDI Utilities](#midi-utilities)
   - [Transcoding](#transcoding)
 - [System utilities](#system-utilities)
@@ -51,7 +50,7 @@ List keys:
   - [ALSA](#alsa)
   - [Firewire](#firewire)
   - [VST adapters](#vst-adapters)
-  - [PulseAudio](#pulseaudio)
+  - [Pulseaudio](#pulseaudio)
   - [Other system utilities](#other-system-utilities)
 - [Network streaming/broadcasting](#network-streamingbroadcasting)
 - [Lighting](#lighting)
@@ -68,12 +67,10 @@ List keys:
   - [Other Software Lists](#other-software-lists)
   - [Documentation/Blogs](#documentationblogs)
   - [Communities/Forums](#communitiesforums)
-- [TODO](#todo)
 - [CONTRIBUTING](#contributing)
 - [LICENSE](#license)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
+<!-- /MarkdownTOC -->
 
 -----------------------------------
 
