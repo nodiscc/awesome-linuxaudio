@@ -86,7 +86,7 @@ List keys:
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
  * [helio-workstation](https://helio.fm/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more. `▒`
- * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms))
+ * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
@@ -127,14 +127,14 @@ List keys:
  * **[hydrogen](http://www.hydrogen-music.org/)** - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
    * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits)) `▒`
    * [hydrogen-drumkits-effects](http://www.hydrogen-music.org/?p=drumkits) - collection of unusual drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits-effects)) `▒`
+ * **[linuxsampler-all](https://linuxsampler.org/)** - realtime audio sampler (Standalone, DSSI, LV2 and VST) `▒`
+   * [ls16](https://packages.debian.org/sid/ls16) - DSSI plugin offering a front-end to the LinuxSampler library. `▒`
  * **[samplv1](http://samplv1.sourceforge.net/)** - polyphonic sampler synthesizer ([◼](https://packages.debian.org/sid/samplv1))
  * [avldrums.lv2](https://x42-plugins.com/x42/x42-avldrums) - drum sample player plugin dedicated to Glen MacArthur's AVLdrums. Rapidly sequence and mix midi-drums. `▒`
  * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
  * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
  * [kluppe](http://kluppe.klingt.org/) - a loop-player and recorder designed for live use ([◼](https://packages.debian.org/sid/kluppe))
- * [linuxsampler-all](https://linuxsampler.org/) - realtime audio sampler `▒`
- * [ls16](https://packages.debian.org/sid/ls16) - LinuxSampler DSSI plugin GUI
- * [luppp](https://github.com/openAVproductions/openAV-Luppp) - luppp music creation tool ([◼](https://packages.debian.org/sid/luppp))
+ * [luppp](https://github.com/openAVproductions/openAV-Luppp) - music creation tool, intended for live use. ([◼](https://packages.debian.org/sid/luppp)) `▒`
  * [petri-foo](http://petri-foo.sourceforge.net/) - MIDI controllable audio sampler - successor of specimen ([◼](https://packages.debian.org/sid/petri-foo))
  * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit ([◼](https://packages.debian.org/sid/qsampler))
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `©` 
@@ -168,6 +168,9 @@ List keys:
  * [leet-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LEET LADSPA plugins `▒`
  * [Linux Studio Plugins](https://sourceforge.net/projects/lsp-plugins/) - Collection of LV2/LADSPA/VST/standalone audio processing applications 
  * [mda-lv2](http://drobilla.net/software/mda-lv2/) - Paul Kellett's MDA 36 high-quality plugins ported to LV2 ([◼](https://packages.debian.org/sid/mda-lv2))
+   * [mda-vst](https://sourceforge.net/projects/mda-vst/) - Paul Kellett's MDA plugins ported to VST `▒`
+   * [mod-mda-lv2](https://github.com/moddevices/mda-lv2) - Paul Kellett's MDA plugins ported to LV2 (MOD version) `▒`
+ * [mod-utilities](https://github.com/moddevices/mod-utilities) - LV2 plugin utilities (filters/gain/switches/meter) `▒`
  * [psi-plugins](https://github.com/ycollet/psi-plugins) - small collection of LV2 plugins ideal for (but not limited to) electronic music.
  * [ste-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - stereo LADPSA plugins ([◼](https://packages.debian.org/sid/ste-plugins)) `▒`
  * [swh-lv2](http://plugin.org.uk/) - Steve Harris's SWH plugins ported to LV2 ([◼](https://packages.debian.org/sid/swh-lv2)) `▒`
@@ -211,7 +214,7 @@ List keys:
  * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
  * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `©`
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
- * [mod-pitchshifter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - pitch shifter audio plugins `▒`
+ * [mod-pitchshifter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Pitch Shifter LV2 effects `▒`
  * [paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - Extreme sound time-stretch ([◼](https://packages.debian.org/sid/paulstretch)
  * [phasex](http://github.com/williamweston/phasex) - Phase Harmonic Advanced Synthesis EXperiment ([◼](https://packages.debian.org/sid/phasex))
  * [pitcheddelay](http://kxstudio.linuxaudio.org/Repositories:Plugins) - pitch-shifting delay `▒`
@@ -307,7 +310,7 @@ List keys:
  * [BEAST/BSE](https://beast.testbit.org/) - music composition and modular synthesis application
  * [ingen](http://drobilla.net/software/ingen) - modular audio processing system for Jack and LV2 based systems. `▒`
    * [ams-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of Voltage Controlled LV2 modules for Ingen `▒`
- * [mcp-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugins designed for Alsa Modular Synth ([◼](https://packages.debian.org/sid/mcp-plugins))
+ * [mcp-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugins designed for Alsa Modular Synth ([◼](https://packages.debian.org/sid/mcp-plugins)) `▒`
  * [omins](http://www.nongnu.org/om-synth/omins.html) - collection of LADSPA plugins aimed at modular synthesizers ([◼](https://packages.debian.org/sid/omins))
  * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
  * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) `©`
@@ -354,6 +357,7 @@ List keys:
  * [jackmeter](http://www.aelius.com/njh/jackmeter/) - a basic command line meter for the JACK audio system ([◼](https://packages.debian.org/sid/jackmeter))
  * [japa](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK and ALSA Perceptual Analyser ([◼](https://packages.debian.org/sid/japa))
  * [jkmeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - horizontal or vertical bargraph audio level meter for Jack Audio Connection Kit ([◼](https://packages.debian.org/sid/jkmeter))
+ * [lufsmeter](https://www.klangfreund.com/lufsmeter/) - measures loudness similar to the human perception of loudness. (LV2/VST) `▒`
  * [meterbridge](http://plugin.org.uk/meterbridge/) - Collection of Audio meters for the JACK audio server ([◼](https://packages.debian.org/sid/meterbridge))
  * [QLoud](https://github.com/molke-productions/qloud/) - tool to measure loudspeaker frequency and step responses and distortions 
  * [siggen](http://www.comp.leeds.ac.uk/jj/linux/siggen.html) - Waveform generation tools ([◼](https://packages.debian.org/sid/siggen))
@@ -383,7 +387,8 @@ List keys:
  * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](https://packages.debian.org/sid/kmidimon))
  * [mididings](http://das.nasophon.de/mididings/) - MIDI router and processor based on Python ([◼](https://packages.debian.org/sid/mididings))
  * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
- * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output
+ * [midi-matrix.lv2](https://github.com/OpenMusicKontrollers/midi_matrix.lv2) - 3-in-1 plugin with GUI (MIDI channel filtering/rerouting/multiplication) `▒`
+ * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output `▒`
  * [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files
  * [pizmidi-plugins](https://bitbucket.org/agraef/pizmidi/) - collection of cross-platform MIDI processing plugins. `▒`
  * [pjb.au MIDI scripts](http://www.pjb.com.au/midi/) - Various MIDI utilities and scripts 
@@ -475,10 +480,10 @@ List keys:
  * [airwave](https://github.com/phantom-code/airwave) `2016` - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts 
  * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
  * [linvst](https://github.com/osxmidi/LinVst) - LinVst enables Windows VSTs to be used as Linux VSTs in Linux VST-capable DAWs.
+ * [mod-host](https://github.com/moddevices/mod-host) - LV2 host for JACK, controllable via socket or command line `▒`
+ * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
  * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
  * [wineasio](https://sourceforge.net/projects/wineasio/) - Wine ASIO driver for JACK `▒`
- * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
-
 
 ### Pulseaudio
 
