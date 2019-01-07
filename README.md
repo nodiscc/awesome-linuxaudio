@@ -287,7 +287,7 @@ List keys:
 ### Other synths
 
  * **[drumkv1](http://drumkv1.sourceforge.net/)** - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
- * **[fabla](https://github.com/openAVproductions/openAV-Fabla2) - Fabla drum sampler plugin instrument** `▒`
+ * **[fabla](https://github.com/openAVproductions/openAV-Fabla2)** - Fabla drum sampler plugin instrument `▒`
  * **[foo-yc20-vst](https://github.com/sampov2/foo-yc20)** - VST implementation of a 1969 designed Yamaha combo organ, the YC-20. `▒`
  * **[qsynth](http://qsynth.sourceforge.net)** - fluidsynth MIDI sound synthesiser front-end ([◼](https://packages.debian.org/sid/qsynth))
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
@@ -434,10 +434,9 @@ List keys:
 
 ### JACK
 
- * **[cadence](https://kxstudio.linuxaudio.org/Applications:Cadence)** - JACK audio toolbox, including a JACK patchbay (`catia`) and a LADISH graphical user interface (`claudia`) `▒`
- * **[carla/-git](https://kxstudio.linuxaudio.org/Applications:Carla)** - Carla is an audio plugin host, with support for many audio drivers and plugin formats, MIDI CC automation and OSC control. `▒`
-   * [carla-bridge-linux/win/wine32/64](https://kxstudio.linuxaudio.org/Applications:Carla) - Carla bridges for loading linux / windows 32/64 bits plugins `▒`
-   * [carla-lv2/vst](https://kxstudio.linuxaudio.org/Applications:Carla) - audio plugin host (LV2/VST plugins) `▒`
+ * **[cadence](https://kxstudio.linuxaudio.org/Applications:Cadence)** - set of tools useful for audio production `▒`
+ * **[catia](https://kxstudio.linuxaudio.org/Applications:Catia)** - JACK Audio Patchbay with A2J Bridge and JACK transport integration. `▒`
+ * **[claudia](https://kxstudio.linuxaudio.org/Applications:Claudia)** - LADISH frontend, focused at session management `▒`
  * **[jackd](http://jackaudio.org/)** - JACK Audio Connection Kit ([◼](https://packages.debian.org/sid/jackd))
  * **[qjackctl](http://qjackctl.sourceforge.net)** - User interface for controlling the JACK sound server ([◼](https://packages.debian.org/sid/qjackctl))
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
@@ -476,6 +475,9 @@ List keys:
  
 ### Plugin hosts & adapters
 
+ * **[carla/carla-git](https://kxstudio.linuxaudio.org/Applications:Carla)** - Carla is an audio plugin host, with support for many audio drivers and plugin formats, MIDI CC automation and OSC control. `▒`
+   * [carla-bridge-linux/win/wine32/64](https://kxstudio.linuxaudio.org/Applications:Carla) - Carla bridges for loading linux / windows 32/64 bits plugins `▒`
+   * [carla-lv2/vst](https://kxstudio.linuxaudio.org/Applications:Carla) - audio plugin host (LV2/VST plugins) `▒`
  * **[festige](https://www.syntheway.net/FeSTige.htm)** - graphical interface for fst and dssi-vst, allowing you to run Windows VST plugins on Linux. `▒`
  * [airwave](https://github.com/phantom-code/airwave) `2016` - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts 
  * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
