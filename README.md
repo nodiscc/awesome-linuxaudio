@@ -14,7 +14,7 @@ This list is provided to help you build your own GNU/Linux based A/V production 
 List keys:
 
 - ◼ Debian package: can be installed directly using APT on Debian and derivatives.
-- ▒ KXStudio package: can be installed using APT on kxStudio or Debian with kxStudio repositories enabled.
+- ▒ KXStudio package: can be installed using APT on KXStudio or Debian with KXStudio repositories enabled.
 - © Non-Free/closed source software: programs that restrict use/study/modification/distribution.
 
 
@@ -138,8 +138,8 @@ List keys:
  * [petri-foo](http://petri-foo.sourceforge.net/) - MIDI controllable audio sampler - successor of specimen ([◼](https://packages.debian.org/sid/petri-foo))
  * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit ([◼](https://packages.debian.org/sid/qsampler))
  * [Redux](http://www.renoise.com/products/redux) - a sample-based instrument, combined with a powerful phrase sequencer.  `©` 
- * [sooperlooper-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - looping sampler plugin `▒`
  * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping Sampler ([◼](https://packages.debian.org/sid/sooperlooper))
+   * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - looping sampler plugin `▒`
  * [SuperBoucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport 
  * [Tapeutape](http://hitmuri.net/index.php/software/tapeutape) - Highly configurable midi-controlled virtual sampler. 
 
@@ -207,7 +207,7 @@ List keys:
  * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio DSSI and LADSPA audio plugins including DSP effects and a FM synthesizer `▒`
  * [ir.lv2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb ([◼](https://packages.debian.org/sid/ir.lv2)) `▒`
    * [ir.lv2-1.2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb (1.2 version) `▒`
- * [klangfalter](https://github.com/HiFi-LoFi/KlangFalter) - convolution reverb audio plugin `▒`
+ * [klangfalter](https://github.com/HiFi-LoFi/KlangFalter) - convolution reverb audio plugin (LV2/VST) `▒`
  * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
  * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `©`
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
@@ -710,6 +710,12 @@ _Sample segmentation, analysis, programmable editors_
  * [multimedia-tasks](https://packages.debian.org/sid/multimedia-tasks) - Debian Multimedia tasks for tasksel
  * [multimedia-timestretching](https://packages.debian.org/sid/multimedia-timestretching) - Packages for stretching music and audio
  * [multimedia-video](https://packages.debian.org/sid/multimedia-video) - Video packages
+ * [kxstudio-meta-audio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)- KXStudio meta-packages - Audio plugins
+ * [kxstudio-meta-audio-plugins-collection](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - Collection of good audio plugins
+ * [kxstudio-meta-audio-plugins-dssi](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - DSSI plugins
+ * [kxstudio-meta-audio-plugins-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - LADSPA plugins
+ * [kxstudio-meta-audio-plugins-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - LV2 plugins
+ * [kxstudio-meta-audio-plugins-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - VST plugins
 
 
 ## Linux Distributions
