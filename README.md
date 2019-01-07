@@ -49,7 +49,7 @@ List keys:
   - [JACK](#jack)
   - [ALSA](#alsa)
   - [Firewire](#firewire)
-  - [VST adapters](#vst-adapters)
+  - [Plugin hosts & adapters](#plugin-hosts--adapters)
   - [Pulseaudio](#pulseaudio)
   - [Other system utilities](#other-system-utilities)
 - [Network streaming/broadcasting](#network-streamingbroadcasting)
@@ -164,7 +164,7 @@ List keys:
  * [infamous-plugins](https://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
  * [invada-studio-plugins-ladspa](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LADSPA audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-ladspa)) `▒`
  * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-lv2)) `▒`
- * [juced-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Juced Plugins `▒`
+ * [juced-plugins](https://distrho.sourceforge.io/ports.php) - Juced Plugins `▒`
  * [leet-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LEET LADSPA plugins `▒`
  * [Linux Studio Plugins](https://sourceforge.net/projects/lsp-plugins/) - Collection of LV2/LADSPA/VST/standalone audio processing applications 
  * [mda-lv2](http://drobilla.net/software/mda-lv2/) - Paul Kellett's MDA 36 high-quality plugins ported to LV2 ([◼](https://packages.debian.org/sid/mda-lv2))
@@ -207,7 +207,7 @@ List keys:
  * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio DSSI and LADSPA audio plugins including DSP effects and a FM synthesizer `▒`
  * [ir.lv2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb ([◼](https://packages.debian.org/sid/ir.lv2)) `▒`
    * [ir.lv2-1.2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb (1.2 version) `▒`
- * [klangfalter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - convolution audio plugin `▒`
+ * [klangfalter](https://github.com/HiFi-LoFi/KlangFalter) - convolution reverb audio plugin `▒`
  * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
  * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `©`
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
@@ -271,12 +271,12 @@ List keys:
  * [adlplug](https://github.com/jpcima/ADLplug) - FM synthesizer plugins, based on OPL3 and OPN2 sound chip emulations `▒`
  * [dexed](https://asb2m10.github.io/dexed/) - FM Plugin Synth closely modeled on the Yamaha DX7, including midi cartridge librarian/manager for the DX7. `▒`
  * [hexter](http://dssi.sourceforge.net/) - Yamaha DX7 modeling DSSI plugin ([◼](https://packages.debian.org/sid/hexter)) `▒`
+ * [juce-opl](https://distrho.sourceforge.io/ports.php) - Emulation of the Yamaha OPL sound chip used in PC sound cards from the 90s. `▒`
  * [oxefmsynth](http://www.oxesoft.com/) - 8 operators FM synth
 
 
 ### Wavetable
 
- * [blop](http://blop.sourceforge.net/) - Bandlimited wavetable-based plugins for LADSPA hosts ([◼](https://packages.debian.org/sid/blop))
  * [sorcer](https://github.com/openAVproductions/openAV-Sorcer) - Sorcer polyphonic wavetable synth LV2 plugin `▒`
  * [wsynth-dssi](http://www.nekosynth.co.uk/wiki/wsynth) - hack on Xsynth-DSSI to allow wavetable synthesis ([◼](https://packages.debian.org/sid/wsynth-dssi))  `▒`
 
@@ -378,6 +378,7 @@ List keys:
  * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](https://packages.debian.org/sid/abcmidi))
  * [arpage](http://sourceforge.net/projects/arpage/) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
  * [gmidimonitor](https://packages.debian.org/sid/gmidimonitor) - GTK+ application that shows MIDI events ([◼](https://packages.debian.org/sid/gmidimonitor)
+ * [jack-midi-clock](https://github.com/x42/jack_midi_clock) - JACK client that sends MIDI beat clock pulses `▒`
  * [jackass](https://github.com/falkTX/JackAss/) - JACK-MIDI support for VST hosts, including Wine apps `▒`
  * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](https://packages.debian.org/sid/kmidimon))
  * [mididings](http://das.nasophon.de/mididings/) - MIDI router and processor based on Python ([◼](https://packages.debian.org/sid/mididings))
@@ -437,7 +438,7 @@ List keys:
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
  * [gjacktransport](http://gjacktransport.sourceforge.net/) - access to the JACK's transport mechanism as touchable slider ([◼](https://packages.debian.org/sid/gjacktransport))
  * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([◼](https://packages.debian.org/sid/jack-capture))
- * [jack-link](https://github.com/rncbc/jack_link) -  JACK transport timebase bridge to Ableton Link `▒`
+ * [jack-link](https://github.com/rncbc/jack_link) - JACK transport timebase bridge to Ableton Link `▒`
  * [jack-mixer](https://packages.debian.org/sid/jack-mixer) - JACK Audio Mixer ([◼](https://packages.debian.org/sid/jack-mixer))
  * [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](https://packages.debian.org/sid/jack-rack))
  * [jack-tools](http://slavepianos.org/rd/?t=rju) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([◼](https://packages.debian.org/sid/jack-tools))
@@ -447,7 +448,6 @@ List keys:
  * [patchage](http://drobilla.net/software/patchage/) - modular patch bay for Jack audio and Alsa Midi ([◼](https://packages.debian.org/sid/patchage))
  * [qjackrcd](http://qjackrcd.sourceforge.net) - Qt4 application to record JACK server outputs ([◼](https://packages.debian.org/sid/qjackrcd))
  * [rotter](http://www.aelius.com/njh/rotter/) - JACK client for transmission recording and audio logging ([◼](https://packages.debian.org/sid/rotter))
- * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
  * [zita-mu1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html) - organise stereo monitoring for Jack Audio Connection Kit ([◼](https://packages.debian.org/sid/zita-mu1))
 
 ### ALSA
@@ -469,7 +469,7 @@ List keys:
  * [libraw1394-tools](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([◼](https://packages.debian.org/sid/libraw1394-tools))
 
  
-### VST adapters
+### Plugin hosts & adapters
 
  * **[festige](https://www.syntheway.net/FeSTige.htm)** - graphical interface for fst and dssi-vst, allowing you to run Windows VST plugins on Linux. `▒`
  * [airwave](https://github.com/phantom-code/airwave) `2016` - Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts 
@@ -477,6 +477,7 @@ List keys:
  * [linvst](https://github.com/osxmidi/LinVst) - LinVst enables Windows VSTs to be used as Linux VSTs in Linux VST-capable DAWs.
  * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
  * [wineasio](https://sourceforge.net/projects/wineasio/) - Wine ASIO driver for JACK `▒`
+ * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
 
 
 ### Pulseaudio
@@ -495,7 +496,8 @@ List keys:
 
 ### Other system utilities
 
- * [jalv](http://drobilla.net/software/jalv/) - tool to run LV2 plugins as stand-alone applications ([◼](https://packages.debian.org/sid/jalv))
+ * [jalv](http://drobilla.net/software/jalv/) - tool to run LV2 plugins as stand-alone applications ([◼](https://packages.debian.org/sid/jalv)) `▒`
+   * [jalv.select](https://github.com/brummer10/jalv_select) - GUI to select lv2 plugs from a list and run them with jalv `▒`
  * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
  * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-amd64) - Linux for modern PCs (meta-package), PREEMPT_RT 
  * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio 
