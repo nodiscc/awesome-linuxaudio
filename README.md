@@ -90,7 +90,7 @@ List keys:
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
  * [muse](http://www.muse-sequencer.org/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
- * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface. ([Source code](https://github.com/kmatheussen/radium))
+ * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface.
  * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](https://packages.debian.org/sid/rosegarden))
  * [seq24](http://www.filter24.org/seq24/) - Real time MIDI sequencer ([◼](https://packages.debian.org/sid/seq24))
@@ -128,7 +128,7 @@ List keys:
    * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits)) `▒`
    * [hydrogen-drumkits-effects](http://www.hydrogen-music.org/?p=drumkits) - collection of unusual drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits-effects)) `▒`
  * **[samplv1](http://samplv1.sourceforge.net/)** - polyphonic sampler synthesizer ([◼](https://packages.debian.org/sid/samplv1))
- * [avldrums.lv2](https://x42-plugins.com/x42/x42-avldrums) - drum sample player plugin dedicated to Glen MacArthur's AVLdrums. Rapidly sequence and mix midi-drums. ([Source code](https://github.com/x42/avldrums.lv2)) `▒`
+ * [avldrums.lv2](https://x42-plugins.com/x42/x42-avldrums) - drum sample player plugin dedicated to Glen MacArthur's AVLdrums. Rapidly sequence and mix midi-drums. `▒`
  * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
  * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
  * [kluppe](http://kluppe.klingt.org/) - a loop-player and recorder designed for live use ([◼](https://packages.debian.org/sid/kluppe))
@@ -567,7 +567,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor 
  * [synaesthesia](https://packages.debian.org/sid/synaesthesia) - Program for representing sounds visually
  * [Veejay](http://veejayhq.net/) - realtime video sequencer and effects processor  
- * [vid.stab](http://public.hronopik.de/vid.stab/) - Video stabilization library ([Source code](https://github.com/georgmartius/vid.stab))
+ * [vid.stab](http://public.hronopik.de/vid.stab/) - Video stabilization library
  * [xdmx](https://packages.debian.org/sid/xdmx) - distributed multihead X server
  * [xjadeo](http://xjadeo.sourceforge.net/) - Video player with JACK sync ([◼](https://packages.debian.org/sid/xjadeo))
  * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. `©`
