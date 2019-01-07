@@ -727,7 +727,7 @@ _Sample segmentation, analysis, programmable editors_
 
 ## Linux Distributions
 
- * **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 12.04.3 LTS. 
+ * **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.5 LTS. 
  * [AVLinux](http://www.bandshed.net/avlinux/)
  * [DidJiX](http://easy.open.and.free.fr/didjix/)
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
