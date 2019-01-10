@@ -204,6 +204,7 @@ List keys:
  * [freqtweak](http://freqtweak.sourceforge.net/) - Realtime audio frequency spectral manipulation ([◼](https://packages.debian.org/sid/freqtweak))
  * [g2reverb](https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/) -reverb LADSPA plugin `▒`
  * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer `©`
+ * [go-dsp-guitar](https://github.com/andrepxx/go-dsp-guitar) - A cross-platform effects processor / amp simulator for electric guitars and other instruments.  Supports JACK and remote control through web interface.
  * [guitarix](http://guitarix.sourceforge.net/) - Rock guitar amplifier for Jack (Standalone/LADSPA/LV2) ([◼](https://packages.debian.org/sid/guitarix)) `▒`
    * [gxplugins](https://github.com/brummer10/GxPlugins.lv2) - extra lv2 plugins from the guitarix project `▒`
  * [gxvoxtonebender](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Fuzz Tonebender LV2 plugin `▒`
