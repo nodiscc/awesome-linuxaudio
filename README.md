@@ -757,6 +757,7 @@ _Sample segmentation, analysis, programmable editors_
  * [Awesome Linux Software (audio section)](https://github.com/LewisVo/Awesome-Linux-Software#audio)
  * [Comparison of free software for audio - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
  * [LV2 Plugins list](http://lv2plug.in/pages/projects.html)
+ * [Wine-VST](https://github.com/Sangeppato/wine-vst) - Some VSTs tested under Linux with Wine and LinVst.
 
 ### Documentation/Blogs
 
