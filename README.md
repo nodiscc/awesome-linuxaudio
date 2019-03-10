@@ -290,6 +290,7 @@ List keys:
  * **[fabla](https://github.com/openAVproductions/openAV-Fabla2)** - Fabla drum sampler plugin instrument `▒`
  * **[foo-yc20-vst](https://github.com/sampov2/foo-yc20)** - VST implementation of a 1969 designed Yamaha combo organ, the YC-20. `▒`
  * **[qsynth](http://qsynth.sourceforge.net)** - fluidsynth MIDI sound synthesiser front-end ([◼](https://packages.debian.org/sid/qsynth))
+ * **[Tracktion BioTek](https://www.tracktion.com/products/biotek)** - new generation of software synth that combines the sounds of nature with a complex synthesis engine to create weird and wonderful organic soundscapes. `©`
  * [argotlunar](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Realtime granulator LV2/VST plugin `▒`
  * [din](http://dinisnoise.org/) - digital audio synthesizer ([◼](https://packages.debian.org/sid/din))
  * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits  `▒`
