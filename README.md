@@ -99,12 +99,12 @@ List keys:
 
 ## Trackers
 
+ * [goattracker](https://sourceforge.net/projects/goattracker2/) - C64 music editor. [◼](https://packages.debian.org/sid/goattracker))
  * [jacker](https://bitbucket.org/paniq/jacker/wiki/Home) - A MIDI tracker for JACK `▒`
  * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker ([◼](https://packages.debian.org/sid/klystrack))
  * [milkytracker](http://www.milkytracker.org/) - music creation tool inspired by Fast Tracker 2 ([◼](https://packages.debian.org/sid/milkytracker))
  * [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. `©` 
  * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look&feel ([◼](https://packages.debian.org/sid/schism))
-
 
 ## Audio Editors
 
