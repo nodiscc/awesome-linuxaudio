@@ -93,7 +93,8 @@ List keys:
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface.
  * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](https://packages.debian.org/sid/rosegarden))
- * [seq24](http://www.filter24.org/seq24/) - Real time MIDI sequencer ([◼](https://packages.debian.org/sid/seq24))
+ * [seq24](http://www.filter24.org/seq24/) - Minimalist Real time MIDI sequencer ([◼](https://packages.debian.org/sid/seq24))
+ * [sequencer64] - Real time MIDI sequencer, a major reboot of seq24 with many new features.
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
 
