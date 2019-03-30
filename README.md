@@ -572,8 +572,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [ffdiaporama](http://ffdiaporama.tuxfamily.org/ffdiaporama/) - Movie creator from photos and video clips ([◼](https://packages.debian.org/sid/ffdiaporama))
  * [frei0r-plugins](http://frei0r.dyne.org/) - minimalistic plugin API for video effects, plugins collection ([◼](https://packages.debian.org/sid/frei0r-plugins))
  * [Gephex](http://www.gephex.org/index.php) - modular video jockey software 
- * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer  
- * [kino](http://www.kinodv.org/) - Non-linear editor for Digital Video data ([◼](https://packages.debian.org/sid/kino))
+ * [glmixer](http://sourceforge.net/projects/glmixer/) - Graphic Live Mixer
  * [Lightworks](https://www.lwks.com/) - professional Non-Linear Editing (NLE) software supporting resolutions up to 4K. `©`
  * [lives](http://lives.sourceforge.net/) - Video Editing system allowing users to edit and create video ([◼](https://packages.debian.org/sid/lives))
  * [Luz Studio](https://github.com/lighttroupe/luz) - A live motion graphics editor and performer. 
