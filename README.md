@@ -354,7 +354,7 @@ List keys:
  * [sox](http://sox.sourceforge.net) - Swiss army knife of sound processing ([◼](https://packages.debian.org/sid/sox))
  * [sync-audio-tracks](https://github.com/alopatindev/sync-audio-tracks/) - Audio tracks synchronization command-line tool for video editors that don't support it
  * [timemachine](http://plugin.org.uk/timemachine/) - JACK audio recorder for spontaneous and conservatory use ([◼](https://packages.debian.org/sid/timemachine))
-
+ * [taptempo](https://taptempo.tuxfamily.org/) - A command line tap tempo. Hit enter key with style and you'll get the corresponding number of beats per minute (BPM). ([◼](https://packages.debian.org/sid/taptempo))
 
 ### Meters & Analysis
 
