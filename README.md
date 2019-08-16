@@ -804,6 +804,8 @@ _Sample segmentation, analysis, programmable editors_
  * [alsa.opensrc.org Wiki](http://alsa.opensrc.org/) ([Source](https://github.com/opensrc/alsa))
  * [JACK Audio Wiki](https://github.com/jackaudio/jackaudio.github.com/wiki)
  * [CommandLineFu - commands tagged audio](http://www.commandlinefu.com/commands/tagged/26/audio)
+ * [Debian Wiki - Multimedia](https://wiki.debian.org/Multimedia)
+ * [Arch Wiki - List of Applications](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### Communities/Forums
 
