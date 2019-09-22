@@ -795,7 +795,6 @@ _Sample segmentation, analysis, programmable editors_
 ### Documentation/Blogs
 
  * [Libre Music Production](http://libremusicproduction.com/) - News, articles, tutorials, interviews, tools, resources...
- * [Linux Audio Users Guide](http://linux-audio.com/)
  * [Linux MAO Wiki](http://linuxmao.org/Accueil) (fr)
  * [Linux Audio Wiki](http://wiki.linuxaudio.org/wiki/start)
  * [KXStudio Manual](http://wiki.linuxaudio.org/wiki/kxstudio_manual) - a good introduction to Linux Audio in general.
