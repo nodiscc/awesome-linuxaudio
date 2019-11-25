@@ -301,7 +301,9 @@ List keys:
  * [din](http://dinisnoise.org/) - digital audio synthesizer ([◼](https://packages.debian.org/sid/din))
  * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits  `▒`
  * [fluid-soundfont-gm](https://packages.debian.org/sid/fluid-soundfont-gm) - Fluid (R3) General MIDI SoundFont (GM)
- * [fluidsynth/-static](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer ([◼](https://packages.debian.org/sid/fluidsynth)) `▒`
+ * [fluid-soundfont-gs](https://packages.debian.org/sid/fluid-soundfont-gs) - Fluid (R3) General MIDI SoundFont (GS)
+ * [fluidr3-gm-soundfont](https://packages.debian.org/sid/fluidr3-gm-soundfont) - Fluid (R3) Mono GM SoundFont from MuseScore 2
+ * [fluidsynth/-static](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer with plugins for media players ([◼](https://packages.debian.org/sid/fluidsynth)) `▒`
  * [freebirth-data](http://freebirth.sourceforge.net/) - Bass synthesizer/sample player/sequencer -- sound samples ([◼](https://packages.debian.org/sid/freebirth-data))
  * [freebirth](http://freebirth.sourceforge.net/) - Bass synthesizer/sample player/sequencer ([◼](https://packages.debian.org/sid/freebirth))
  * [gmorgan](http://gmorgan.sourceforge.net/) - MIDI rhythm station emulator software ([◼](https://packages.debian.org/sid/gmorgan))
@@ -442,8 +444,11 @@ List keys:
  * [soundconverter](http://soundconverter.org/) - GNOME application to convert audio files into other formats ([◼](https://packages.debian.org/sid/soundconverter))
  * [transmageddon](http://www.linuxrising.org/) - video transcoder for Linux and Unix systems built using GStreamer ([◼](https://packages.debian.org/sid/transmageddon))
  * **[winff](https://github.com/WinFF/winff)** - graphical video and audio batch converter using ffmpeg or avconv ([◼](https://packages.debian.org/sid/winff))
- * [zita-bls1](http://kokkinizita.linuxaudio.org/linuxaudio/) - 	binaural stereo signals converter  ([◼](https://packages.debian.org/sid/zita-bls1))
-
+ * [zita-bls1](http://kokkinizita.linuxaudio.org/linuxaudio/) -	binaural stereo signals converter  ([◼](https://packages.debian.org/sid/zita-bls1))
+ * [lame](http://lame.sourceforge.net/) - MP3 encoding library, frontend application, and other sound analysis/convenience tools ([◼](https://packages.debian.org/sid/lame))
+ * [vorbis-tools](http://lame.sourceforge.net/) - OGG Vorbis encoder/decoder, player, information tool, and splitter ([◼](https://packages.debian.org/sid/vorbis-tools))
+ * [mp3info](http://www.ibiblio.org/mp3info/) - An MP3 technical info viewer and ID3 1.x tag editor ([◼](https://packages.debian.org/sid/mp3info))
+ 
 
 ### CD/DVD Ripping
 
@@ -451,6 +456,13 @@ List keys:
  * **[handbrake](http://www.handbrake.fr/)** - versatile DVD ripper and video transcoder (GTK+ GUI) ([◼](https://packages.debian.org/sid/handbrake))
  * **[sound-juicer](https://wiki.gnome.org/Apps/SoundJuicer)** - GNOME CD Ripper ([◼](https://packages.debian.org/sid/sound-juicer))
  * [ogmrip](http://ogmrip.sourceforge.net) - Application for ripping and encoding DVD ([◼](https://packages.debian.org/sid/ogmrip))
+ * [cdparanoia](http://www.xiph.org/paranoia/) - audio extraction tool for sampling CDs ([◼](https://packages.debian.org/sid/cdparanoia))
+ * [yaret](http://www.nongnu.org/yaret) - console tool to turn CDs into encoded music ([◼](https://packages.debian.org/sid/yaret))
+ * [ripit](http://www.suwald.com/ripit/news.php) - Textbased audio CD ripper ([◼](https://packages.debian.org/sid/ripit))
+ * [gramofile](http://www.opensourcepartners.nl/~costar/gramofile) - transfer sound from gramophone records to CD ([◼](https://packages.debian.org/sid/gramofile))
+ * [ripperx](http://sourceforge.net/projects/ripperx/) - GTK-based audio CD ripper/encoder ([◼](https://packages.debian.org/sid/ripperx))
+ * [abcde](https://abcde.einval.com/) - A Better CD Encoder ([◼](https://packages.debian.org/sid/abcde))
+
 
 ## System utilities
 
@@ -513,14 +525,15 @@ List keys:
 
  * [padevchooser](https://github.com/d3matt/padevchooser) - PulseAudio Device Chooser ([◼](https://packages.debian.org/sid/padevchooser))
  * [paman](http://0pointer.de/lennart/projects/paman/) - PulseAudio Manager ([◼](https://packages.debian.org/sid/paman))
- * [paprefs](http://freedesktop.org/software/pulseaudio/paprefs/) - PulseAudio Preferences ([◼](https://packages.debian.org/sid/paprefs))
- * [pavucontrol](http://freedesktop.org/software/pulseaudio/pavucontrol/) - PulseAudio Volume Control ([◼](https://packages.debian.org/sid/pavucontrol))
+ * **[paprefs](http://freedesktop.org/software/pulseaudio/paprefs/)** - PulseAudio Preferences ([◼](https://packages.debian.org/sid/paprefs))
+ * **[pavucontrol](http://freedesktop.org/software/pulseaudio/pavucontrol/)** - PulseAudio Volume Control ([◼](https://packages.debian.org/sid/pavucontrol))
  * [pavumeter](http://0pointer.de/lennart/projects/pavumeter/) - PulseAudio Volume Meter ([◼](https://packages.debian.org/sid/pavumeter))
  * [pulseaudio-module-jack](http://www.pulseaudio.org) - jackd modules for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-jack))
  * [pulseaudio-module-lirc](http://www.pulseaudio.org) - lirc module for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-lirc))
  * [pulseaudio-module-x11](http://www.pulseaudio.org) - X11 module for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-x11))
  * [pulseaudio-utils](http://www.pulseaudio.org) - Command line tools for the PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-utils))
- * [pulseaudio](http://www.pulseaudio.org) - PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio))
+ * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - command-line mixer for PulseAudio with a curses interface ([◼](https://packages.debian.org/sid/pulsemixer))
+ * **[pulseaudio](http://www.pulseaudio.org)** - PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio))
 
 
 ### Other system utilities
@@ -535,7 +548,7 @@ List keys:
 
 ## Network streaming/broadcasting
 
-**See <https://github.com/Kickball/awesome-selfhosted/#media-streaming> for the main list**
+**See <https://github.com/awesome-selfhosted/awesome-selfhosted/#media-streaming> for the main list**
 
  * **[Open Broadcaster Software](https://obsproject.com/)** - recorder and streamer for live video content ([◼](https://packages.debian.org/sid/obs-studio))
  * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
@@ -712,6 +725,7 @@ _Sample segmentation, analysis, programmable editors_
  * [lollypop](https://gitlab.gnome.org/World/lollypop) - modern music player for GNOME
  * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([◼](https://packages.debian.org/sid/musique))
  * [sonata](https://github.com/multani/sonata) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
+ * [xmms2](http://xmms2.org/) - Client/server based media player system ([◼](https://packages.debian.org/sid/xmms2))
 
 ### Command-line
 
