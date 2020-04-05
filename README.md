@@ -99,6 +99,7 @@ List keys:
  * [sequencer64] - Real time MIDI sequencer, a major reboot of seq24 with many new features.
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
+* [zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation
 
 ## Trackers
 
