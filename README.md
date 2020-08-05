@@ -732,7 +732,6 @@ _Sample segmentation, analysis, programmable editors_
  * [modplug-tools](http://modplug-xmms.sourceforge.net/) - command line players for modplug formats (amf, ams, mod...) ([◼](https://packages.debian.org/sid/modplug-tools))
  * [mp3blaster](http://mp3blaster.sf.net/) - Full-screen console mp3 and Ogg Vorbis player ([◼](https://packages.debian.org/sid/mp3blaster))
  * [mpg123](http://mpg123.org/) - Command-line MPEG layer 1/2/3 audio player ([◼](https://packages.debian.org/sid/mpg123))
- * [mplayer2](http://mplayer2.org) - next generation movie player for Unix-like systems ([◼](https://packages.debian.org/sid/mplayer2))
  * [opencubicplayer](http://stian.cubic.org/project-ocp.php) - UNIX port of Open Cubic Player ([◼](https://packages.debian.org/sid/opencubicplayer))
 
 ## Metapackages
