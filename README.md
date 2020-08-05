@@ -720,7 +720,6 @@ _Sample segmentation, analysis, programmable editors_
  * [lollypop](https://gitlab.gnome.org/World/lollypop) - modern music player for GNOME
  * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([◼](https://packages.debian.org/sid/musique))
  * [sonata](https://github.com/multani/sonata) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
- * [xmms2](http://xmms2.org/) - Client/server based media player system ([◼](https://packages.debian.org/sid/xmms2))
 
 ### Command-line
 
