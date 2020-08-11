@@ -71,6 +71,7 @@ List keys:
   - [Documentation/Blogs](#documentationblogs)
   - [Communities/Forums](#communitiesforums)
 - [CONTRIBUTING](#contributing)
+- [MIRRORS](#mirrors)
 - [LICENSE](#license)
 
 <!-- /MarkdownTOC -->
@@ -830,6 +831,10 @@ _Sample segmentation, analysis, programmable editors_
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+## MIRRORS
+
+- https://gitlab.com/nodiscc/awesome-linuxaudio
+- https://github.com/nodiscc/awesome-linuxaudio
 
 ## LICENSE
 
