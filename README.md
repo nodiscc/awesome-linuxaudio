@@ -259,7 +259,7 @@ List keys:
 
 ### Subtractive
 
- * [amsynth](http://code.google.com/p/amsynth/) - two oscillator software synthesizer ([◼](https://packages.debian.org/sid/amsynth))
+ * [amsynth](https://github.com/amsynth/amsynth) - two oscillator software synthesizer ([◼](https://packages.debian.org/sid/amsynth))
  * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([◼](https://packages.debian.org/sid/blepvco)) `▒`
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](https://packages.debian.org/sid/bristol))
    * [monobristol](https://packages.debian.org/sid/monobristol) - simple GUI for Bristol ([◼](https://packages.debian.org/sid/monobristol))
