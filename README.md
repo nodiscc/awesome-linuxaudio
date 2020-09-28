@@ -580,10 +580,10 @@ _Icecast clients_
 
 See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
- * **[Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - editing, color correction and professional audio post production, all in a single application `©`
  * **[kdenlive](http://www.kdenlive.org/)** - non-linear video editor ([◼](https://packages.debian.org/sid/kdenlive))
  * **[Natron](https://natrongithub.github.io/)** - Cross-platform open-source compositing software, used to produce visual effects.
- * **[Nuke Studio](https://www.foundry.com/products/nuke)** - cutting-edge toolkits for node-based compositing, editorial and review `©`
+ * [flowblade](https://jliljebl.github.io/flowblade/) - Free & Libre multitrack non-linear video editor  ([◼](https://packages.debian.org/sid/flowblade))
+ * [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - editing, color correction and professional audio post production, all in a single application `©`
  * [CasparCG Server](http://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production 
  * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
  * [cinelerra](http://cinelerra.org/) - Cinema Production Software 
@@ -600,6 +600,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [mistserver](http://www.mistserver.org/products) - Live or Video on Demand streaming media server that works well in any streaming environment
  * [Moviepy](https://zulko.github.io/moviepy/) - Python module for video editing, which can be used for basic operations (like cuts, concatenations, title insertions), video compositing (a.k.a. non-linear editing), video processing, or to create advanced effects. 
  * [nageru](https://nageru.sesse.net/) - live video mixer, takes in inputs from one or more video cards, mixes them together and outputs a high-quality H.264 stream over TCP ([◼](https://packages.debian.org/sid/nageru))
+ * [Nuke Studio](https://www.foundry.com/products/nuke) - cutting-edge toolkits for node-based compositing, editorial and review `©`
  * [openshot](http://www.openshotvideo.com/) - Create and edit videos and movies ([◼](https://packages.debian.org/sid/openshot))
  * [pitivi](http://www.pitivi.org) - non-linear audio/video editor using GStreamer ([◼](https://packages.debian.org/sid/pitivi))
  * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com
