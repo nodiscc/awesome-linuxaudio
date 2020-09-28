@@ -349,7 +349,7 @@ List keys:
  * [fadecut](http://github.com/micressor/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([◼](https://packages.debian.org/sid/fadecut))
  * [gwc](http://gwc.sf.net) - Audio file denoiser ([◼](https://packages.debian.org/sid/gwc))
  * [libsox-fmt-all](http://sox.sourceforge.net) - All SoX format libraries ([◼](https://packages.debian.org/sid/libsox-fmt-all))
- * [Linux Show Player](http://linux-show-player.sourceforge.net/) a free cue player designed for sound-playback in stage production. The goal of the project is to provide a complete playback software for musical plays, theater shows and similar.
+ * [Linux Show Player](http://linux-show-player.sourceforge.net/) a free cue player designed for sound-playback in stage production. The goal of the project is to provide a complete playback software for musical plays, theater shows and similar. ([◼](https://packages.debian.org/sid/linux-show-player))
  * [nama](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html) - Multitrack recording with Ecasound ([◼](https://packages.debian.org/sid/nama))
  * [pianobooster](http://pianobooster.sourceforge.net/) - Learn the piano just by playing a game, inspired by Guitar Hero  ([◼](https://packages.debian.org/sid/pianobooster))
  * [Samplecat](https://ayyi.github.io/samplecat/) - a program for cataloguing and auditioning audio samples.
