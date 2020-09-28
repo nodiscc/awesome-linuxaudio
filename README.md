@@ -713,7 +713,7 @@ _Sample segmentation, analysis, programmable editors_
  * **[vlc](http://www.videolan.org/vlc/)** - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
  * [amarok](http://amarok.kde.org) - easy to use media player based on the KDE Platform ([◼](https://packages.debian.org/sid/amarok))
  * [ario](http://ario-player.sourceforge.net/) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/ario))
- * [cantata](https://code.google.com/p/cantata/) - KDE client for the music player daemon (MPD) ([◼](https://packages.debian.org/sid/cantata))
+ * [cantata](https://github.com/cdrummond/cantata) - KDE client for the music player daemon (MPD) ([◼](https://packages.debian.org/sid/cantata))
  * [exaile](http://www.exaile.org/) - flexible, full-featured audio player ([◼](https://packages.debian.org/sid/exaile))
  * [gmusicbrowser](http://www.gmusicbrowser.org/) - graphical jukebox for large music collections ([◼](https://packages.debian.org/sid/gmusicbrowser))
  * [gnome-music](https://wiki.gnome.org/Apps/Music) - Music is the new GNOME music playing application ([◼](https://packages.debian.org/sid/gnome-music))
