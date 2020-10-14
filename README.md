@@ -315,6 +315,8 @@ List keys:
  * [u-he Zebra 2](https://u-he.com/products/zebra2/) - sound-design playground with numerous sound sculpting tools `©`
  * [u-he Zebralette](https://u-he.com/products/zebralette/) - A free synthesizer and an introduction to Zebra2’s fantastic oscillators. `©`
  * [xsynth-dssi](http://dssi.sourceforge.net) - classic-analog (VCOs/VCF/VCA) style software synthesizer ([◼](https://packages.debian.org/sid/xsynth-dssi))
+ * [pianoteq](https://www.modartt.com/pianoteq) - Virtual piano based on physical modeling of real instruments. `©`
+ * [organteq](https://www.modartt.com/organteq) - Physically modelled pipe organ. `©`
 
 
 ## Modular synths
