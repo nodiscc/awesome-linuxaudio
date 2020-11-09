@@ -623,7 +623,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [aqsis](http://www.aqsis.org/) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([◼](https://packages.debian.org/sid/aqsis))
  * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface.
  * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. `©`
- * [evolvotron](http://www.bottlenose.demon.co.uk/share/evolvotron/) - Generator of textures through interactive evolution ([◼](https://packages.debian.org/sid/evolvotron))
+ * [evolvotron](https://sourceforge.net/projects/evolvotron/) - Generator of textures through interactive evolution ([◼](https://packages.debian.org/sid/evolvotron))
  * [flumotion](https://packages.debian.org/sid/flumotion) - modern streaming media server built with a modular distributed design, giving you stability and scalability in offering high-quality streaming media.
  * [fluxus](http://www.pawfal.org/fluxus/) - A 3D game engine for livecoding worlds into existence. 
  * [fractalnow](http://fractalnow.sourceforge.net) - Fast, advanced fractal generator ([◼](https://packages.debian.org/sid/fractalnow))
