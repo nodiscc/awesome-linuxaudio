@@ -125,6 +125,7 @@ List keys:
 
 ## Samplers
 
+ * [Bliss](https://www.discodsp.com/bliss/) - Performance sampler featuring scalable & themeable GUI, VSTi sampling, 8 macro assignments, dual zero delay feedback filters, sample editor, 7 built-in effects, flexible modulation, parameter morphing and highest offline resampling quality using 512 points SINC algorithm.  `©`
  * **[drumgizmo](http://www.drumgizmo.org/wiki/)** - multichannel, multilayered, cross-platform drum plugin and stand-alone application. It enables you to compose drums in midi and mix them with a multichannel approach ([◼](https://packages.debian.org/sid/drumgizmo)) `▒`
  * **[giada](https://www.giadamusic.com/)** - hardcore loop machine ([◼](https://packages.debian.org/sid/giada)) `▒`
  * **[hydrogen](http://www.hydrogen-music.org/)** - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
@@ -230,6 +231,7 @@ List keys:
  * [rubberband-ladspa](http://www.breakfastquay.com/rubberband/) - LADSPA plugin for audio pitch-shifting ([◼](https://packages.debian.org/sid/rubberband-ladspa))
  * [sonic](https://github.com/waywardgeek/sonic) - Simple utility to speed up or slow down speech ([◼](https://packages.debian.org/sid/sonic))
  * [soundstretch](http://www.surina.net/soundtouch/) - Stretches and pitch-shifts sound independently ([◼](https://packages.debian.org/sid/soundstretch))
+ * [Schroeder](https://www.discodsp.com/schroeder/) - Modeled reverb based on Schroeder reverberator.  `©`
  * [stretchplayer](http://www.teuton.org/~gabriel/stretchplayer/) - Audio file player with time stretch and pitch shifting ([◼](https://packages.debian.org/sid/stretchplayer))
  * [terminatorx](http://www.terminatorx.org/) - realtime audio synthesizer ([◼](https://packages.debian.org/sid/terminatorx))
  * [vm.lv2](https://open-music-kontrollers.ch/lv2/vm/) - virtual machine plugin bundle (Control, CV, Audio, Atom) `▒`
@@ -253,6 +255,7 @@ List keys:
  * **[andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise**
  * **[triceratops-lv2](http://sourceforge.net/projects/triceratops/)** - polyphonic additive software synthesizer plugin `▒`
  * [add64](https://sourceforge.net/projects/add64/) - additive synthesizer for JACK `▒`
+ * [Vertigo](https://www.discodsp.com/vertigo/) - 256 oscillators additive synth with resynthesis and sound morphing. Imports WAV and BMP. Very accurate recreation of complex musical phrases, drumloops, speech and simple tones.  `©` 
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](https://packages.debian.org/sid/yoshimi))
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx)) `▒`
  
@@ -264,9 +267,10 @@ List keys:
  * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](https://packages.debian.org/sid/bristol))
    * [monobristol](https://packages.debian.org/sid/monobristol) - simple GUI for Bristol ([◼](https://packages.debian.org/sid/monobristol))
  * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `▒`
- * [Discovery Pro](http://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `©`
+ * [Discovery](https://www.discodsp.com/discovery/) - Virtual Analog synthesizer `©`
+ * [Discovery Pro](https://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `©`
  * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
- * [obxd](http://kxstudio.linuxaudio.org/Repositories:Plugins) - ob-x emulation plugin `▒`
+ * [OB-Xd](https://www.discodsp.com/obxd/) - OB-Xd is based on the Oberheim OB-X `▒`
  * [sineshaper](hhttp://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers ([◼](https://packages.debian.org/sid/sineshaper))
  * [synthv1](http://synthv1.sourceforge.net/) - old-school polyphonic synthesizer ([◼](https://packages.debian.org/sid/synthv1)) `▒`
  * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface ([◼](https://packages.debian.org/sid/whysynth))
@@ -278,6 +282,7 @@ List keys:
  * [adlplug](https://github.com/jpcima/ADLplug) - FM synthesizer plugins, based on OPL3 and OPN2 sound chip emulations `▒`
  * [dexed](https://asb2m10.github.io/dexed/) - FM Plugin Synth closely modeled on the Yamaha DX7, including midi cartridge librarian/manager for the DX7. `▒`
  * [hexter](http://dssi.sourceforge.net/) - Yamaha DX7 modeling DSSI plugin ([◼](https://packages.debian.org/sid/hexter)) `▒`
+ * [OPL](https://www.discodsp.com/opl/) - The OPL is a digital sound synthesis chip developed by Yamaha in the mid 1980s `▒` 
  * [juce-opl](https://distrho.sourceforge.io/ports.php) - Emulation of the Yamaha OPL sound chip used in PC sound cards from the 90s. `▒`
  * [oxefmsynth](http://www.oxesoft.com/) - 8 operators FM synth
 
@@ -379,6 +384,7 @@ List keys:
  * [meterbridge](http://plugin.org.uk/meterbridge/) - Collection of Audio meters for the JACK audio server ([◼](https://packages.debian.org/sid/meterbridge))
  * [QLoud](https://github.com/molke-productions/qloud/) - tool to measure loudspeaker frequency and step responses and distortions 
  * [siggen](https://packages.debian.org/sid/siggen) - a set of tools for imitating a laboratory Signal Generator, generating audio signals out of Linux's /dev/dsp audio device. ([◼](https://packages.debian.org/sid/siggen))
+ * [Scope](https://www.discodsp.com/scope/) - Simple oscilloscope `©`
  * [sonic-visualiser](http://www.sonicvisualiser.org) - View and analyse the contents of music audio files ([◼](https://packages.debian.org/sid/sonic-visualiser))
  * [spek](https://packages.debian.org/sid/spek) - acoustic spectrum analyser
  * [xoscope](http://xoscope.sourceforge.net/) - digital oscilloscope ([◼](https://packages.debian.org/sid/xoscope))
