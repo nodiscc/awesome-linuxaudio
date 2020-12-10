@@ -273,7 +273,7 @@ List keys:
  * [discovery pro](https://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler. `©`
  * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Polyphonic synthesizer. `▒`
  * [ob-xd](https://www.discodsp.com/obxd/) - OB-Xd is based on the Oberheim OB-X. `▒`
- * [sineshaper](hhttp://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers. ([◼](https://packages.debian.org/sid/sineshaper))
+ * [sineshaper](http://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers. ([◼](https://packages.debian.org/sid/sineshaper))
  * [synthv1](http://synthv1.sourceforge.net/) - Old-school polyphonic synthesizer. ([◼](https://packages.debian.org/sid/synthv1)) `▒`
  * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface. ([◼](https://packages.debian.org/sid/whysynth))
  * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter. `▒`
