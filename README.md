@@ -254,29 +254,29 @@ List keys:
 
 ### Additive
 
- * **[andes](https://artfwo.github.io/andes/) - sound synthesiser based on Perlin noise**
- * **[triceratops-lv2](http://sourceforge.net/projects/triceratops/)** - polyphonic additive software synthesizer plugin `▒`
  * [add64](https://sourceforge.net/projects/add64/) - additive synthesizer for JACK `▒`
- * [Vertigo](https://www.discodsp.com/vertigo/) - 256 oscillators additive synth with resynthesis and sound morphing. Imports WAV and BMP. Very accurate recreation of complex musical phrases, drumloops, speech and simple tones.  `©` 
+ * [andes](https://artfwo.github.io/andes/) - Sound synthesiser based on Perlin noise
+ * [triceratops-lv2](http://sourceforge.net/projects/triceratops/) - polyphonic additive software synthesizer plugin `▒`
+ * [vertigo](https://www.discodsp.com/vertigo/) - 256 oscillators additive synth with resynthesis and sound morphing. Imports WAV and BMP. Very accurate recreation of complex musical phrases, drumloops, speech and simple tones. `©`
  * [yoshimi](http://yoshimi.sourceforge.net) - software synthesizer based on ZynAddSubFX ([◼](https://packages.debian.org/sid/yoshimi))
  * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx)) `▒`
- 
+
 
 ### Subtractive
 
- * [amsynth](https://github.com/amsynth/amsynth) - two oscillator software synthesizer ([◼](https://packages.debian.org/sid/amsynth))
- * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins ([◼](https://packages.debian.org/sid/blepvco)) `▒`
- * [bristol](http://bristol.sourceforge.net/) - vintage synthesizer emulator ([◼](https://packages.debian.org/sid/bristol))
-   * [monobristol](https://packages.debian.org/sid/monobristol) - simple GUI for Bristol ([◼](https://packages.debian.org/sid/monobristol))
+ * [amsynth](https://github.com/amsynth/amsynth) - Two oscillator software synthesizer. ([◼](https://packages.debian.org/sid/amsynth))
+ * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins. ([◼](https://packages.debian.org/sid/blepvco)) `▒`
+ * [bristol](http://bristol.sourceforge.net/) - Vintage synthesizer emulator. ([◼](https://packages.debian.org/sid/bristol))
+   * [monobristol](https://packages.debian.org/sid/monobristol) - Simple GUI for Bristol. ([◼](https://packages.debian.org/sid/monobristol))
  * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `▒`
- * [Discovery](https://www.discodsp.com/discovery/) - Virtual Analog synthesizer `©`
- * [Discovery Pro](https://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler `©`
- * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - polyphonic synthesizer `▒`
- * [OB-Xd](https://www.discodsp.com/obxd/) - OB-Xd is based on the Oberheim OB-X `▒`
- * [sineshaper](hhttp://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers ([◼](https://packages.debian.org/sid/sineshaper))
- * [synthv1](http://synthv1.sourceforge.net/) - old-school polyphonic synthesizer ([◼](https://packages.debian.org/sid/synthv1)) `▒`
- * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface ([◼](https://packages.debian.org/sid/whysynth))
- * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter `▒`
+ * [discovery](https://www.discodsp.com/discovery/) - Virtual Analog synthesizer. `©`
+ * [discovery pro](https://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler. `©`
+ * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Polyphonic synthesizer. `▒`
+ * [ob-xd](https://www.discodsp.com/obxd/) - OB-Xd is based on the Oberheim OB-X. `▒`
+ * [sineshaper](hhttp://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers. ([◼](https://packages.debian.org/sid/sineshaper))
+ * [synthv1](http://synthv1.sourceforge.net/) - Old-school polyphonic synthesizer. ([◼](https://packages.debian.org/sid/synthv1)) `▒`
+ * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface. ([◼](https://packages.debian.org/sid/whysynth))
+ * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter. `▒`
 
 
 ### FM
