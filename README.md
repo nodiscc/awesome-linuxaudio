@@ -80,13 +80,12 @@ List keys:
 
 ## DAW/Sequencers
 
- * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
- * **[vcvrack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW `▒`
+ * [ardour](http://www.ardour.org/) - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
  * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
  * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine ([◼](https://packages.debian.org/sid/dino))
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
- * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
+ * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©`
  * [helio-workstation](https://helio.fm/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more. `▒`
  * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
@@ -97,9 +96,11 @@ List keys:
  * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
  * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](https://packages.debian.org/sid/rosegarden))
  * [seq24](http://www.filter24.org/seq24/) - Minimalist Real time MIDI sequencer ([◼](https://packages.debian.org/sid/seq24))
- * [sequencer64] - Real time MIDI sequencer, a major reboot of seq24 with many new features.
+ * [sequencer64](https://github.com/ahlstromcj/sequencer64) - Real time MIDI sequencer, a major reboot of seq24 with many new features.
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
+ * [vcvrack](https://vcvrack.com/) - Open-source virtual Eurorack DAW `▒`
+ * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation `©`
 
 ## Trackers
 
@@ -108,7 +109,6 @@ List keys:
  * **[milkytracker](http://www.milkytracker.org/)** - music creation tool inspired by Fast Tracker 2 ([◼](https://packages.debian.org/sid/milkytracker))
  * [Renoise](http://www.renoise.com/products/renoise) - a Digital Audio Workstation (DAW) using a tracker-based approach. `©`
  * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look&feel ([◼](https://packages.debian.org/sid/schism))
- * []
 
 ## Audio Editors
 
@@ -122,7 +122,6 @@ List keys:
  * [smasher](http://sourceforge.net/projects/smasher/) - Cross-platform audio loop slicer designed to create sliced loops from WAV, MP3, FLAC or AIFF files in seconds without a sequencer `2013`
  * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. `2013`
  * [sweep](http://www.metadecks.org/software/sweep/) - Audio editor and live playback tool ([◼](https://packages.debian.org/sid/sweep))
-
 
 ## Samplers
 
