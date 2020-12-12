@@ -850,6 +850,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 - https://gitlab.com/nodiscc/awesome-linuxaudio
 - https://github.com/nodiscc/awesome-linuxaudio
+- https://salsa.debian.org/nodiscc2-guest/awesome-linuxaudio
 
 ## LICENSE
 

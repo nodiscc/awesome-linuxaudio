@@ -12,10 +12,4 @@
 - The `▒` symbol is only required if the package is available in [KXStudio repositories](https://kxstudio.linuxaudio.org/Repositories)
 - The `©` symbol is only required if the software is not [Free/Libre Software](https://en.wikipedia.org/wiki/Free_software).
 - The list of contributors can be updated with `git shortlog -sne`
-- Actively maintained, high-quality, supported software may be highlighted in **bold.**
 
-This project is mirrored at:
-
-- https://gitlab.com/nodiscc/awesome-linuxaudio
-- https://salsa.debian.org/nodiscc2-guest/awesome-linuxaudio
-- https://github.com/nodiscc/awesome-linuxaudio
