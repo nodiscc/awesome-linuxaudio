@@ -11,5 +11,4 @@
 - The link to the Debian package page is optional.
 - The `▒` symbol is only required if the package is available in [KXStudio repositories](https://kxstudio.linuxaudio.org/Repositories)
 - The `©` symbol is only required if the software is not [Free/Libre Software](https://en.wikipedia.org/wiki/Free_software).
-- The list of contributors can be updated with `git shortlog -sne`
 

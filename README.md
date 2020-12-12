@@ -3,7 +3,9 @@
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
 
-[![](https://travis-ci.org/nodiscc/awesome-linuxaudio.svg?branch=master)](https://travis-ci.org/nodiscc/awesome-linuxaudio)
+[![](https://gitlab.com/nodiscc/awesome-linuxaudio/badges/master/pipeline.svg)](https://gitlab.com/nodiscc/awesome-linuxaudio/-/pipelines)
+
+
 
 **Work in progress** - See current [issues](https://gitlab.com/nodiscc/awesome-linuxaudio/issues) and [CONTRIBUTING](CONTRIBUTING.md).
 
@@ -219,7 +221,6 @@ List keys:
    * [ir.lv2-1.2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb (1.2 version) `▒`
  * [klangfalter](https://github.com/HiFi-LoFi/KlangFalter) - convolution reverb audio plugin (LV2/VST) `▒`
  * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
- * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `©`
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
  * [mod-pitchshifter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Pitch Shifter LV2 effects `▒`
  * [paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - Extreme sound time-stretch ([◼](https://packages.debian.org/sid/paulstretch))
@@ -784,7 +785,6 @@ _Sample segmentation, analysis, programmable editors_
 ## Linux Distributions
 
  * **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.5 LTS. 
- * [AVLinux](http://www.bandshed.net/avlinux/)
  * [DidJiX](http://easy.open.and.free.fr/didjix/)
  * [Tango Studio](http://tangostudio.tuxfamily.org/)
  * [Ubuntu Studio](http://ubuntustudio.org/)
@@ -837,8 +837,6 @@ _Sample segmentation, analysis, programmable editors_
  * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
  * [LinuxMusicians forum](https://linuxmusicians.com/)
  * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
- * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page) (inactive)
- * [AVLinux Forums](http://bandshed.net/forum/index.php)
 
 --------------------------------------------
 
@@ -858,10 +856,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-2020:
 
+<!-- this list is generated automatically by 'make authors' -->
+
 ```
-   259  nodiscc <nodiscc@gmail.com>
+   288  nodiscc <nodiscc@gmail.com>
      4  Сухарик <suhr@i2pmail.org>
      3  Paulo Thiago Santa <paulothiago0605@gmail.com>
+     2  bcaccia <reverbtank@gmail.com>
      1  Aaron Wolf <wolftune@gmail.com>
      1  Alexander Lopatin <alopatindev@gmail.com>
      1  Amal Karunarathna <nasashinega@gmail.com>
@@ -869,14 +870,19 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
      1  Andrew Kelley <superjoe30@gmail.com>
      1  Artem Popov <artfwo@gmail.com>
      1  BoySka <boyska@users.noreply.github.com>
+     1  David Marzal <2069735+Marzal@users.noreply.github.com>
      1  Derek Bever <derek.bever@gmail.com>
      1  Fabio Neves <hello+github@fabioneves.ca>
      1  Jean-Michaël Celerier <jeanmichael.celerier+github@gmail.com>
      1  John White <jana_tb@live.com>
      1  José Fernández Ramos <el.atomo@gmail.com>
      1  Luraktinus <33608674+Luraktinus@users.noreply.github.com>
+     1  Robbert van der Helm <mail@robbertvanderhelm.nl>
+     1  Thibaud Keller <tibthejazzdude@gmail.com>
      1  VirtualTam <virtualtam@flibidi.net>
      1  drone <drone@derrichter.lan>
      1  drone <nodiscc@gmail.com>
      1  paulbatchelor <thisispaulbatchelor@gmail.com>
+     1  reales <13709183+reales@users.noreply.github.com>
+     1  sezanzeb <proxima@hip70890b.de>
 ```

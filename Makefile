@@ -17,3 +17,7 @@ list_kxstudio_packages:
 	curl http://ppa.launchpad.net/kxstudio-debian/plugins/ubuntu/dists/bionic/main/binary-amd64/Packages.xz | xzless
 	curl http://ppa.launchpad.net/kxstudio-debian/apps/ubuntu/dists/bionic/main/binary-amd64/Packages.xz | xzless
 	curl http://ppa.launchpad.net/kxstudio-debian/kxstudio/ubuntu/dists/bionic/main/binary-amd64/Packages.xz | xzless
+
+# generate a list of contirbutors to the git repository
+authors:
+	git shortlog -sne

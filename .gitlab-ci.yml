@@ -1,0 +1,13 @@
+---
+
+image: ruby
+
+test:
+  before_script:
+    - gem install awesome_bot
+    - apt-get update && apt-get install -y shellcheck python3-venv
+    - export LC_ALL=C.UTF-8
+    - export LANG=C.UTF-8
+  script:
+    - make checks
+
