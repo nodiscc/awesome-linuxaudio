@@ -1,7 +1,7 @@
 ## CONTRIBUTING
 
 - Check existing [issue reports](https://gitlab.com/nodiscc/awesome-linuxaudio/issues), or report new ones.
-- To add new software, please edit the README file (using the [Markdown](https://help.github.com/articles/github-flavored-markdown/) syntax) and send your patch as a Pull Request. See https://help.github.com/articles/editing-files-in-another-user-s-repository/ and https://help.github.com/articles/using-pull-requests/ for help about editing files and creating pull requests.
+- To add new software, please [edit the README file](https://gitlab.com/nodiscc/awesome-linuxaudio/-/edit/master/README.md) (using the [Markdown]()https://docs.gitlab.com/ee/user/markdown.html syntax) and [send your patch as a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html).
 - Please use the following syntax when adding new software to the list:
 
 ```
