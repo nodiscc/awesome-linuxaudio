@@ -3,7 +3,9 @@
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
 
-[![](https://travis-ci.org/nodiscc/awesome-linuxaudio.svg?branch=master)](https://travis-ci.org/nodiscc/awesome-linuxaudio)
+[![](https://gitlab.com/nodiscc/awesome-linuxaudio/badges/master/pipeline.svg)](https://gitlab.com/nodiscc/awesome-linuxaudio/-/pipelines)
+
+
 
 **Work in progress** - See current [issues](https://gitlab.com/nodiscc/awesome-linuxaudio/issues) and [CONTRIBUTING](CONTRIBUTING.md).
 
