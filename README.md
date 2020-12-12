@@ -80,8 +80,7 @@ List keys:
 
 ## DAW/Sequencers
 
- * **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
- * **[vcvrack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW `▒`
+ * [ardour](http://www.ardour.org/) - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
  * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
  * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine ([◼](https://packages.debian.org/sid/dino))
@@ -99,6 +98,7 @@ List keys:
  * [sequencer64](https://github.com/ahlstromcj/sequencer64) - Real time MIDI sequencer, a major reboot of seq24 with many new features.
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
+ * [vcvrack](https://vcvrack.com/) - Open-source virtual Eurorack DAW `▒`
  * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation `©`
 
 ## Trackers
