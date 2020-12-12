@@ -479,6 +479,8 @@ List keys:
  * **[claudia](https://kxstudio.linuxaudio.org/Applications:Claudia)** - LADISH frontend, focused at session management `▒`
  * **[jackd](http://jackaudio.org/)** - JACK Audio Connection Kit ([◼](https://packages.debian.org/sid/jackd))
  * **[qjackctl](http://qjackctl.sourceforge.net)** - User interface for controlling the JACK sound server ([◼](https://packages.debian.org/sid/qjackctl))
+ * **[studio-controls](https://github.com/ovenwerks/studio-controls)** - small application to allow setting up audio for (semi)pro
+audio work.
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
  * [gjacktransport](http://gjacktransport.sourceforge.net/) - access to the JACK's transport mechanism as touchable slider ([◼](https://packages.debian.org/sid/gjacktransport))
  * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([◼](https://packages.debian.org/sid/jack-capture))
