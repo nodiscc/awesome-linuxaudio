@@ -6,7 +6,7 @@ checks: awesome_bot
 # requirements: gem install --user-install awesome_bot
 awesome_bot:
 	PATH=$$PATH:~/.gem/ruby/2.5.0/bin/ && \
-	awesome_bot --files README.md --allow-dupe --allow-redirect --set-timeout 10 --white-list www.audacityteam.org,open-music-kontrollers.ch
+	awesome_bot --files README.md linux-sound/*.md --allow-dupe --allow-redirect --set-timeout 10 --white-list www.audacityteam.org,open-music-kontrollers.ch
 
 debianwiki:
 	./utils.sh debianwiki
