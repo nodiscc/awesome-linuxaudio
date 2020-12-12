@@ -221,7 +221,6 @@ List keys:
    * [ir.lv2-1.2](https://tomszilagyi.github.io/plugins/ir.lv2/) - LV2 IR reverb (1.2 version) `▒`
  * [klangfalter](https://github.com/HiFi-LoFi/KlangFalter) - convolution reverb audio plugin (LV2/VST) `▒`
  * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
- * [malefica](http://www.evilsoundlab.com/category/products/) - virtual high-gain distortion guitar pedal based on original schematics `©`
  * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
  * [mod-pitchshifter](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Pitch Shifter LV2 effects `▒`
  * [paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - Extreme sound time-stretch ([◼](https://packages.debian.org/sid/paulstretch))
