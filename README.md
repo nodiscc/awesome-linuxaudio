@@ -856,10 +856,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-2020:
 
+<!-- this list is generated automatically by 'make authors' -->
+
 ```
-   259  nodiscc <nodiscc@gmail.com>
+   288  nodiscc <nodiscc@gmail.com>
      4  Сухарик <suhr@i2pmail.org>
      3  Paulo Thiago Santa <paulothiago0605@gmail.com>
+     2  bcaccia <reverbtank@gmail.com>
      1  Aaron Wolf <wolftune@gmail.com>
      1  Alexander Lopatin <alopatindev@gmail.com>
      1  Amal Karunarathna <nasashinega@gmail.com>
@@ -867,14 +870,19 @@ This work is licensed under the [CreativeCommons Attribution Share-alike license
      1  Andrew Kelley <superjoe30@gmail.com>
      1  Artem Popov <artfwo@gmail.com>
      1  BoySka <boyska@users.noreply.github.com>
+     1  David Marzal <2069735+Marzal@users.noreply.github.com>
      1  Derek Bever <derek.bever@gmail.com>
      1  Fabio Neves <hello+github@fabioneves.ca>
      1  Jean-Michaël Celerier <jeanmichael.celerier+github@gmail.com>
      1  John White <jana_tb@live.com>
      1  José Fernández Ramos <el.atomo@gmail.com>
      1  Luraktinus <33608674+Luraktinus@users.noreply.github.com>
+     1  Robbert van der Helm <mail@robbertvanderhelm.nl>
+     1  Thibaud Keller <tibthejazzdude@gmail.com>
      1  VirtualTam <virtualtam@flibidi.net>
      1  drone <drone@derrichter.lan>
      1  drone <nodiscc@gmail.com>
      1  paulbatchelor <thisispaulbatchelor@gmail.com>
+     1  reales <13709183+reales@users.noreply.github.com>
+     1  sezanzeb <proxima@hip70890b.de>
 ```
