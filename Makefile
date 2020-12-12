@@ -21,3 +21,14 @@ list_kxstudio_packages:
 # generate a list of contirbutors to the git repository
 authors:
 	git shortlog -sne
+
+# temporary target to work on http://linux-sound.org merge
+# https://gitlab.com/nodiscc/awesome-linuxaudio/-/issues/4
+# requires html2text (pip3 install html2text)
+import_linux_sound_org:
+	mkdir -p linux-sound && \
+	allpages=$$(curl --silent http://linux-sound.org/toc.html | grep --only-matching 'href=".*.html"' | awk -F '"' '{print $$2}' | sed 's/\.html//') && \
+	for i in $$allpages; do echo "Importing http://linux-sound.org/$$i.html" && \
+	curl --silent http://linux-sound.org/$$i.html | html2text --decode-errors=ignore /dev/stdin > linux-sound/$$i.md; \
+	done
+
