@@ -474,26 +474,25 @@ List keys:
 
 ### JACK
 
- * **[cadence](https://kxstudio.linuxaudio.org/Applications:Cadence)** - set of tools useful for audio production `▒`
- * **[catia](https://kxstudio.linuxaudio.org/Applications:Catia)** - JACK Audio Patchbay with A2J Bridge and JACK transport integration. `▒`
- * **[claudia](https://kxstudio.linuxaudio.org/Applications:Claudia)** - LADISH frontend, focused at session management `▒`
- * **[jackd](http://jackaudio.org/)** - JACK Audio Connection Kit ([◼](https://packages.debian.org/sid/jackd))
- * **[qjackctl](http://qjackctl.sourceforge.net)** - User interface for controlling the JACK sound server ([◼](https://packages.debian.org/sid/qjackctl))
- * **[studio-controls](https://github.com/ovenwerks/studio-controls)** - small application to allow setting up audio for (semi)pro
-audio work.
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
+ * [cadence](https://kxstudio.linuxaudio.org/Applications:Cadence) - set of tools useful for audio production `▒`
+ * [catia](https://kxstudio.linuxaudio.org/Applications:Catia) - JACK Audio Patchbay with A2J Bridge and JACK transport integration. `▒`
+ * [claudia](https://kxstudio.linuxaudio.org/Applications:Claudia) - LADISH frontend, focused at session management `▒`
  * [gjacktransport](http://gjacktransport.sourceforge.net/) - access to the JACK's transport mechanism as touchable slider ([◼](https://packages.debian.org/sid/gjacktransport))
  * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([◼](https://packages.debian.org/sid/jack-capture))
+ * [jackd2-firewire](http://jackaudio.org/) - JACK Audio Connection Kit (FFADO and FreeBoB backends) ([◼](https://packages.debian.org/sid/jackd2-firewire))
+ * [jackd](http://jackaudio.org/) - JACK Audio Connection Kit ([◼](https://packages.debian.org/sid/jackd))
+ * [jackeq](http://djcj.org/jackeq/) - routes and manipulates audio from/to multiple sources ([◼](https://packages.debian.org/sid/jackeq))
  * [jack-link](https://github.com/rncbc/jack_link) - JACK transport timebase bridge to Ableton Link `▒`
  * [jack-mixer](https://packages.debian.org/sid/jack-mixer) - JACK Audio Mixer ([◼](https://packages.debian.org/sid/jack-mixer))
  * [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](https://packages.debian.org/sid/jack-rack))
  * [jack-tools](http://slavepianos.org/rd/?t=rju) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([◼](https://packages.debian.org/sid/jack-tools))
- * [jackd2-firewire](http://jackaudio.org/) - JACK Audio Connection Kit (FFADO and FreeBoB backends) ([◼](https://packages.debian.org/sid/jackd2-firewire))
- * [jackeq](http://djcj.org/jackeq/) - routes and manipulates audio from/to multiple sources ([◼](https://packages.debian.org/sid/jackeq))
  * [laditools](https://launchpad.net/laditools) - Linux Audio Desktop Integration Tools ([◼](https://packages.debian.org/sid/laditools))
  * [patchage](http://drobilla.net/software/patchage/) - modular patch bay for Jack audio and Alsa Midi ([◼](https://packages.debian.org/sid/patchage))
+ * [qjackctl](http://qjackctl.sourceforge.net) - User interface for controlling the JACK sound server ([◼](https://packages.debian.org/sid/qjackctl))
  * [qjackrcd](http://qjackrcd.sourceforge.net) - Qt4 application to record JACK server outputs ([◼](https://packages.debian.org/sid/qjackrcd))
  * [rotter](http://www.aelius.com/njh/rotter/) - JACK client for transmission recording and audio logging ([◼](https://packages.debian.org/sid/rotter))
+ * [studio-controls](https://github.com/ovenwerks/studio-controls) - small application to allow setting up audio for semi-pro audio work.
  * [zita-mu1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html) - organise stereo monitoring for Jack Audio Connection Kit ([◼](https://packages.debian.org/sid/zita-mu1))
 
 
