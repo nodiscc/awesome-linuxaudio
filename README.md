@@ -838,7 +838,6 @@ _Sample segmentation, analysis, programmable editors_
  * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
  * [LinuxMusicians forum](https://linuxmusicians.com/)
  * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
- * [OpenSourceMusician Wiki/Podcast](http://opensourcemusician.com/index.php/Main_Page) (inactive)
  * [AVLinux Forums](http://bandshed.net/forum/index.php)
 
 --------------------------------------------
