@@ -84,10 +84,9 @@ List keys:
  * **[vcvrack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW `▒`
  * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
  * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
- * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation 
  * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine ([◼](https://packages.debian.org/sid/dino))
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
- * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©` 
+ * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©`
  * [helio-workstation](https://helio.fm/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more. `▒`
  * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
@@ -100,6 +99,7 @@ List keys:
  * [sequencer64](https://github.com/ahlstromcj/sequencer64) - Real time MIDI sequencer, a major reboot of seq24 with many new features.
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
+ * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation `©`
 
 ## Trackers
 
