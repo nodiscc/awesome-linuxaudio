@@ -517,6 +517,11 @@ List keys:
  * [libraw1394-tools](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([◼](https://packages.debian.org/sid/libraw1394-tools))
 
 
+### Pipewire
+
+ * **[pipewire](https://pipewire.org/)** - PipeWire audio and video graph processing engine ([◼](https://packages.debian.org/sid/pipewire))
+
+
 ### Plugin hosts & adapters
 
  * **[carla/carla-git](https://kxstudio.linuxaudio.org/Applications:Carla)** - Carla is an audio plugin host, with support for many audio drivers and plugin formats, MIDI CC automation and OSC control. `▒`
