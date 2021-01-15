@@ -1,4 +1,3 @@
-
 # awesome-linuxaudio
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
@@ -89,10 +88,12 @@ List keys:
  * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
  * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©`
  * [helio-workstation](https://helio.fm/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more. `▒`
+ * [Laborejo](https://laborejo.org/laborejo/) - is a MIDI sequencer based on classical music notation. `▒`
  * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
  * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
  * [muse](https://muse-sequencer.github.io/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
  * [ossia score](https://ossia.io/) - Interactive sequencer with intelligent timelines supporting audio, video, OSC, MIDI, DMX and more.
+ * [Patroneo](https://www.laborejo.org/patroneo) - is an easy to use, pattern based midi sequencer `▒`
  * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
  * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface.
  * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
@@ -131,6 +132,7 @@ List keys:
  * [bliss](https://www.discodsp.com/bliss/) - Performance sampler featuring scalable & themeable GUI, VSTi sampling, 8 macro assignments, dual zero delay feedback filters, sample editor, 7 built-in effects, flexible modulation, parameter morphing and highest offline resampling quality using 512 points SINC algorithm. `©`
  * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
  * [drumgizmo](http://www.drumgizmo.org/wiki/) - multichannel, multilayered, cross-platform drum plugin and stand-alone application. It enables you to compose drums in midi  and mix them with a multichannel approach ([◼](https://packages.debian.org/sid/drumgizmo)) `▒`
+ * [Fluajho](https://laborejo.org/fluajho)- a simple sf2 soundfont host/player for Linux. Behind the scenes the Fluidsynth library is at work, hence the name. `▒`
  * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
  * [giada](https://www.giadamusic.com/) - hardcore loop machine ([◼](https://packages.debian.org/sid/giada)) `▒`
 
@@ -474,7 +476,7 @@ List keys:
 ## System utilities
 
 ### JACK
-
+ * [Agordejo](https://laborejo.org/agordejo/) - is a music production session manager. It is used to start your programs, remember their (JACK) interconnections and make your life easier in general.  `▒`
  * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
  * [cadence](https://kxstudio.linuxaudio.org/Applications:Cadence) - set of tools useful for audio production `▒`
  * [catia](https://kxstudio.linuxaudio.org/Applications:Catia) - JACK Audio Patchbay with A2J Bridge and JACK transport integration. `▒`
