@@ -102,7 +102,7 @@ List keys:
  * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
  * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
  * [vcvrack](https://vcvrack.com/) - Open-source virtual Eurorack DAW `▒`
- * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation `©`
+ * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation
 
 ## Trackers
 
