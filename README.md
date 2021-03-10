@@ -627,7 +627,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
  * [xdmx](https://packages.debian.org/sid/xdmx) - distributed multihead X server
  * [xjadeo](http://xjadeo.sourceforge.net/) - Video player with JACK sync ([◼](https://packages.debian.org/sid/xjadeo))
  * [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. `©`
-
+ * [Syncplay](https://syncplay.pl/) - Synchronize playback of various video players via internet. ([◼](https://packages.debian.org/sid/syncplay))
 
 ### 3D Modeling/CGI
 
