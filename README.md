@@ -534,7 +534,7 @@ List keys:
 * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
 * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
 * [wineasio](https://sourceforge.net/projects/wineasio/) - Wine ASIO driver for JACK `▒`
-* **[yabridge](https://github.com/robbert-vdh/yabridge)** - A modern and transparent way to use Windows VST2 plugins on Linux
+* **[yabridge](https://github.com/robbert-vdh/yabridge)** - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux
 
 ### Pulseaudio
 
