@@ -150,7 +150,6 @@ List keys:
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
-* [tapeutape](http://hitmuri.net/index.php/software/tapeutape) - Highly configurable midi-controlled virtual sampler.
 
 
 ## Effects/Processing
