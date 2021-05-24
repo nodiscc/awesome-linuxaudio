@@ -673,7 +673,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ### Authoring
 
-* [aegisub](http://www.aegisub.org/) - advanced subtitle editor ([◼](https://packages.debian.org/sid/aegisub))
+* [aegisub](https://packages.debian.org/sid/aegisub) - advanced subtitle editor ([◼](https://packages.debian.org/sid/aegisub))
 * [devede](http://www.rastersoft.com/programas/devede.html) - simple application to create Video DVDs ([◼](https://packages.debian.org/sid/devede))
 * [gnome-subtitles](http://gnome-subtitles.sourceforge.net) - Subtitle editor for the GNOME Desktop environment ([◼](https://packages.debian.org/sid/gnome-subtitles))
 * [subtitlecomposer](http://sourceforge.net/projects/subcomposer) - Subtitles editor for KDE ([◼](https://packages.debian.org/sid/subtitlecomposer))
