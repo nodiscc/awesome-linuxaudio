@@ -628,7 +628,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [pitivi](http://www.pitivi.org) - non-linear audio/video editor using GStreamer ([◼](https://packages.debian.org/sid/pitivi))
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com
 * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor 
-* [synaesthesia](https://packages.debian.org/sid/synaesthesia) - Program for representing sounds visually
+* [synaesthesia](https://packages.debian.org/stretch/synaesthesia) - Program for representing sounds visually
 * [Veejay](https://veejayhq.github.io/) - realtime video sequencer and effects processor
 * [vid.stab](http://public.hronopik.de/vid.stab/) - Video stabilization library
 * [xdmx](https://packages.debian.org/sid/xdmx) - distributed multihead X server
