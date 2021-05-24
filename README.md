@@ -751,7 +751,7 @@ _Sample segmentation, analysis, programmable editors_
 **Command-line/TUI**
 
 * **[cmus](https://cmus.github.io/)** - lightweight ncurses audio player ([◼](https://packages.debian.org/sid/moc))
-* **[moc](http://moc.daper.net)** - ncurses based console audio player ([◼](https://packages.debian.org/sid/moc))
+* **[moc](https://packages.debian.org/sid/moc)** - ncurses based console audio player ([◼](https://packages.debian.org/sid/moc))
 * **[mpd](https://www.musicpd.org/)** - a music server/player that allows local or remote access to audio files, streams and playlists. ([◼](https://packages.debian.org/sid/mpd))
 * **[mpv](http://mpv.io/)** - video player based on MPlayer/mplayer2 ([◼](https://packages.debian.org/sid/mpv))
 * [adplug-utils](http://adplug.sourceforge.net/) - audio player for AdLib (OPL2) and Sound Blaster (Dual OPL2/OPL3) audio formats ([◼](https://packages.debian.org/sid/adplug-utils))
