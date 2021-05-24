@@ -633,6 +633,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 * **[blender](http://www.blender.org/)** - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
 * [aqsis](http://www.aqsis.org/) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([◼](https://packages.debian.org/sid/aqsis))
+* [Art of Illusion](http://www.artofillusion.org/) - 3D modeling and rendering studio written in Java.
 * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface.
 * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. `©`
 * [evolvotron](https://sourceforge.net/projects/evolvotron/) - Generator of textures through interactive evolution ([◼](https://packages.debian.org/sid/evolvotron))
@@ -728,6 +729,7 @@ _Sample segmentation, analysis, programmable editors_
 * [amarok](http://amarok.kde.org) - easy to use media player based on the KDE Platform ([◼](https://packages.debian.org/sid/amarok))
 * [ario](http://ario-player.sourceforge.net/) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/ario))
 * [cantata](https://github.com/cdrummond/cantata) - KDE client for the music player daemon (MPD) ([◼](https://packages.debian.org/sid/cantata))
+* [DeaDBeeF](https://deadbeef.sourceforge.io/) - Modular foobar2000-like audio player.
 * [exaile](http://www.exaile.org/) - flexible, full-featured audio player ([◼](https://packages.debian.org/sid/exaile))
 * [gmusicbrowser](http://www.gmusicbrowser.org/) - graphical jukebox for large music collections ([◼](https://packages.debian.org/sid/gmusicbrowser))
 * [gnome-music](https://wiki.gnome.org/Apps/Music) - Music is the new GNOME music playing application ([◼](https://packages.debian.org/sid/gnome-music))
