@@ -1,4 +1,3 @@
-
 # awesome-linuxaudio
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
@@ -156,6 +155,7 @@ List keys:
 
 ### Collections
 
+[ACMT Essential VST Plug-Ins Collection for Linux](https://www.acmt.co.uk/products/download-acmt-essential) Applied Computer Music Technologies Ltd - Essential VST Plug-Ins Collection for Linux
 * **[calf-plugins](http://calf.sourceforge.net/)** - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
 * **[dpf-plugins](https://github.com/DISTRHO/DPF-Plugins)** - audio plugin collection from DISTRHO `▒`
 * **[freaked-plugins](https://github.com/pjotrompet/Freaked)** - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `▒`
