@@ -8,5 +8,4 @@ test:
     - export LANG=C.UTF-8
   script:
     - make checks
-  only:
-    - master
+  when: manual
