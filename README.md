@@ -2,7 +2,7 @@
 
 A list of software and resources for professional audio/video/live events production on the Linux platform
 
-[![](https://gitlab.com/nodiscc/awesome-linuxaudio/badges/master/pipeline.svg)](https://gitlab.com/nodiscc/awesome-linuxaudio/-/pipelines)
+[![](https://gitlab.com/nodiscc/awesome-linuxaudio/badges/master/pipeline.svg)](https://gitlab.com/nodiscc/awesome-linuxaudio/-/pipelines?page=1&scope=all&ref=master)
 
 
 
