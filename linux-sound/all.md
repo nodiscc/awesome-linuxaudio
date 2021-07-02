@@ -94,7 +94,6 @@ also well-advised to search the archives of the [Linux Audio
 * [Ambisonics Player](http://www.klaveness.info/ambplay.html) **Java** -based b-format player from Roger Klaveness 
 * [AMB Plugins](http://users.skynet.be/solaris/linuxaudio) updated version available now 
 * [ameter](http://laugeo.free.fr/ameter.html) audio level meter (requires **ALSA** ) from Laurent Georget 
-* [ametro](http://perso.wanadoo.es/plcl/ametro/ametro-en.html) very nice "simple MIDI metronome using the ALSA sequencer" from Pedro Lopez-Cabanillas 
 * [amidmap](http://www.cowlark.com/amidimap.html) reads, processes, and transmits MIDI events 
 * [AMOS](http://www.darmstadt.gmd.de/oasys/projects/amos/aat.html) homepage for an audio tool for the Sun SPARCstation 
 * [amSynthe](http://amsynthe.sourceforge.net/) very cool analog synth modelling from Nick Dowell 
@@ -256,9 +255,6 @@ Bless 'em all.
 * [Building A Solid-state Mini-ITX Linux Recording Studio](http://linuxdevices.com/articles/AT8275095591.html) Henry Kingman describes his experience to readers of **LinuxDevices.com**
 * [Building Sounds for your Applications with SoundTracker](http://www.linuxplanet.com/linuxplanet/tutorials/4363/1/) sage advice from the experts at **LinuxPlanet**
 * [Build It: Digital Audio Workstation](http://www.extremetech.com/print_article/0,3998,a=35629,00.asp) Dave Salvator tells how its done for readers of **ExtremeTech**
-* [BurnIT](http://burnit.dotsrc.org/) JAVA front-end for _mkisofs_ and _cdrecord_
-but it utilizes technology from the **UAE** project.
-Button link images courtesy Harald Lapp : ![](th_snd1.gif) ![](th_snd2.gif)
 * [Buzztard](http://www.buzztard.org/) another incarnation of **Buzz** , from Stefan Kost & Crew 
 * [Buzz Tracker On Linux](http://flavor8.com/index.php/2005/10/15/buzz-tracker-on-linux/) how to make the popular Windows tracker work under your favorite OS 
 * [Cabbage](http://www.thecabbagefoundation.org/) Cross-platform Csound-based audio plugin production environment from Rory Walsh. 
@@ -287,7 +283,6 @@ ccrma.png)](http://ccrma.stanford.edu/planetccrma/software/)
 * [cdlabelgen](http://www.aczoom.com/tools/cdinsert/) generates frontcards and traycards for CD cases 
 * [CDLoop](http://www.cbrunzema.de/software.html) a CD player with looping capabilities for musicians who want to play along with parts of a CD 
 * [cdloop](http://www.ibiblio.org/pub/Linux/apps/sound/cdrom/) a utility to loop passages playing from an audio CD 
-* [CDox](http://sammael.mine.nu:8081/cdox/Show) tool for creating CD covers, requires **Java**
 * [CDox](http://sourceforge.net/projects/cdox/) tool for creating CD covers, requires **Java 1.4**
 * [cdparanoia](http://www.xiph.org/paranoia/) an improved version of the **cdda2wav** CD audio grabber 
 * [cdrdao](http://cdrdao.sourceforge.net/) "records audio or data CD-Rs in disk-at-once (DAO) mode based on a textual description of the CD contents (toc-file)" 
@@ -462,7 +457,6 @@ Dave I use[Xmcd](http://www.amb.org/xmcd/).
 * [DiffM](http://igorsherb.narod.ru/Metronome/) a **Java** -based metronome 
 [Digigram](http://www.digigram.com). If you need a serial port MIDI interface
 * [DigitalDJ Enhanced](http://aranath.net/ddj/index.html) feature-rich version of Mike Oliphant's Linux jukebox 
-* [DigitalDJ](http://www.nostatic.org/grip/) an SQL-based MP3 player front-end from Mike Oliphant, designed to work with his **Grip**
 * [Digital Rights Management & Music: A barrier to creativity?](http://www.soundonsound.com/sos/aug03/articles/drm.htm) Daniel James asks the question in **Sound On Sound**
 * [Digital Soundshapes: Einfuehrung in die Theorie und Praxis der Klangsynthese](http://www.folkwang.uni-essen.de/~ludi/Public/kurs/offenKurs.html) an excellent online introduction to the theory and practice of digital sound synthesis ( _mostly in German but with some sections in English_ ) 
 * [Digital Waveguide Modeling of Musical Instruments](http://ccrma-www.stanford.edu/~jos/waveguide/) excellent material from Julius O. Smith III 
@@ -470,7 +464,6 @@ Dave I use[Xmcd](http://www.amb.org/xmcd/).
 * [Dino](http://dinoseq.sourceforge.net/) neat MIDI sequencer using the latest **JACK** (development version with MIDI capability), from Lars Luthman 
 * [Dino](http://dinoseq.sourceforge.net/) neat MIDI sequencer using the latest **JACK** (with MIDI capability), from Lars Luthman 
 * [DireShow](http://ibiblio.org/pub/linux/apps/sound/lightshow/) frequency analyzer with a nice SVGA interface 
-* [Disc-Cover](http://www.vanhemert.co.uk/disc-cover.html) utility for making CD cover labels 
 * [dis-dot-dat](http://dis-dot-dat.net/index.cgi?item=/music/) music from James Shuttleworth, made with **Cheesetracker** and **Ardour**
 * [Dissociated Studio](http://www.panix.com/~asl2/music/dissoc_studio/) takes an audio file, segments it, computes a segment similarity matrix, and plays the piece, skipping from segment to similar segment; very cool software from Aaron Lav 
 * [DIVA Libraries](http://www.tml.hut.fi/~tilmonen/diva/) C++ classes for multiplatform multimedia programming on UNIX/Linux systems 
@@ -719,7 +712,6 @@ for UAE that is based on the **WinUAE** enhancements, including sound support
 * [GNOME Media Framework](http://www.gnome.org/gmf/) "...for recording, processing, and playing back media data in a type-independent manner...designed to be used for professional audio processing and realtime performance" 
 * [GnomeMeeting](http://www.gnomemeeting.org/) "... H.323 compatible videoconferencing and VOIP/IP-telephony application that allows you to make audio and video calls to remote users with H.323 hardware or software (such as Microsoft Netmeeting)" 
 * [Gnometab](http://solutionm.com/gnometab/gnometab.html) guitar tablature editor for **Gnome2**
-* [GnomeToaster](http://gnometoaster.rulez.org/) CD creation suite for **GNOME**
 * [Gnome Wave Cleaner](http://gwc.sourceforge.net) denoise, dehiss and amplify CD-quality WAV files 
 * [Gnomoradio](http://gnomoradio.org/announcement.php) media player and p2p app/project, promotes free music 
 * [GNU 3DKit](http://www.fsf.org/software/gnu3dkit/gnu3dkit.html) frameworks for rendering 3D graphics and sound with **GNUstep**
@@ -743,7 +735,6 @@ for UAE that is based on the **WinUAE** enhancements, including sound support
 * [Gravis Ultrasound Project](http://www.perex.cz/~perex/ultra/) dedicated to improved Linux support for the Gravis soundcards 
 * [grio](http://kipper.crk.umn.edu/~gerla/grio/) is "...a GNOME tool for managing your **Diamond Rio PMP300** MP3 player" 
 * [GriPD](http://mambo.peabody.jhu.edu/~jsarlo/gripd/) a graphic interface builder for **Pd** , from Joseph A. Sarlo 
-* [GRip](http://www.nostatic.org/grip/) "...a Gtk-based front-end for CD-rippers such as **cdparanoia** and **cdda2wav** " 
 * [Groovit](http://groovit.disjunkt.com/) a matrix-style drum-pattern composer 
 * [Gscore](http://www.gscore.org/index.html) "a non-page-oriented notation program", from Sebastien Tricaud 
 * [Gscore](http://www.gscore.org/trac) "a non-page-oriented notation program", from Sebastien Tricaud 
@@ -840,78 +831,8 @@ Hardware + Linux If you are looking for pro-audio interfaces that will work
 I continue to cover the Linux sound & music software scene in my column for
 * [icube](http://www.equalarea.com/paul/icube/) an editor/controller for the [ICubeX](http://www.infusionsystems.com) sensor/digitizer, from Paul Davis 
 * [IEEE P1639](http://www.plus24.com/ieeep1639/) Phil Kerr's "... Ethernet based protocol wrapper allowing the transmission and reception of MIDI data within a LAN environment" (this project was formerly known as **DMIDI** ) 
-If anyone needs to send money to me :
-If you are looking for pro-audio interfaces that will work with Linux your
-I have also read that [Encore](http://www.passportdesigns.com) will open under
-* I have experimented with the [Cloanto: Amiga Forever](http://www.amigaforever.com/) package. Sound support is good, I was able to run some trackers ( **Octamed** , **ProTracker** ) and some MIDI applications. 
-* I have experimented with the [Cloanto: Amiga Forever](http://www.amigaforever.com/) package. Sound support is good, I was able to run some trackers ( **Octamed** , **ProTracker** ) and some MIDI applications.  [E-UAE](http://www.rcdrummond.net/uae/) is an experimental development track for UAE that is based on the **WinUAE** enhancements. Sound support is included, but as of January 2005 I have not yet tested this software. 
-[![](images/64studio-logo.png)](http://64studio.com/) [![](images/jacklab-
-[![](images/aboutmuselogo.png)](http://muse-sequencer.org/)
-[![](images/aeolus.png)](http://users.skynet.be/solaris/linuxaudio/aeolus.html)
-[![](images/aldrin-logo.png)](http://code.google.com/p/aldrin-sequencer/)
-[![](images/alsalogo.gif)](http://www.alsa-project.org) [![](images/jack-logo-
-[![](images/amarok-logo.png)](http://amarok.kde.org/) [![](images/alsaplayer-
-[![](images/amsynth-logo.png)](http://amsynthe.sourceforge.net/amSynth/)
-[![](images/apodio2.png)](http://www.apo33.org/apodio/doku.php)
-[![](images/aqualung-logo.png)](http://aqualung.sf.net) [![](images/mikmod-
-[![](images/ardour-logo.png)](http://ardour.org)
-[![](images/audacity.jpg)](http://audacity.sourceforge.net/)
-[![](images/baudline-logo.png)](http://www.baudline.com/)
-[![](images/beast-left.png)](http://beast.gtk.org/)
-[![](images/blender-logo.png)](http://www.blender.org/) [![](images/jahshaka-
-[![](images/chuck-logo.jpg)](http://chuck.cs.princeton.edu/)
-[![](images/clamlogo.jpg)](http://clam-project.org/) [![](images/cSound-
-[![](images/dynebolic-banner.png)](http://dynebolic.org/) [![](images/planet-
-[![](images/ecasound.jpg)](http://www.eca.cx/ecasound/)
-[![](images/etktab-logo.gif)](http://etktab.sourceforge.net)
-[![](images/fish_xiph_org.png)](http://www.xiph.org/)
-[![](images/freeadsp-logo.png)](http://freeadsp.sourceforge.net/)
-[![](images/freewheel-logo.png)](http://freewheeling.sourceforge.net/)
-[![](images/fretsonfire-logo.png)](http://fretsonfire.sourceforge.net/)
-[![](images/fstlogo.jpg)](http://joebutton.co.uk/fst/) [![](images/lash-
-[![](images/galan-logo.png)](http://galan.sourceforge.net/) [![](images/cm-
-[![](images/ggseq-logo.png)](http://ggseq.sourceforge.net/HomePage)
-[![](images/gneutronica-logo.png)](http://gneutronica.sourceforge.net/)
-[![](images/grip-logo.png)](http://www.nostatic.org/grip/)
-[![](images/h2logo-cropped.png)](http://www.hydrogen-music.org/)
-[![](images/jeinlogo.png)](http://eamusic.dartmouth.edu/~paul/jein/)
-[![](images/jsynthlib-logo.png)](http://www.jsynthlib.org/)
-[![](images/kguitar-logo-yellow.png)](http://kguitar.sourceforge.net)
-[![](images/khagan-logo.png)](http://khagan.berlios.de/) [![](images/nomad-
-[![](images/lad-logo.png)](http://lad.linuxaudio.org)
-[![](images/ladspa.jpg)](http://ladspa.org)
-[![](images/lam-halfsize.jpg)](http://lam.fugal.net/)
-[![](images/lamp-logo.jpg)](http://lamp-project.sourceforge.net/)
-[![](images/lao_banner_06_on_white_w300.png)](http://linuxaudio.org)
-[![](images/lau_logo.gif)](http://lad.linuxaudio.org/subscribe/lau.html)
-[![](images/lilypond-logo.png)](http://lilypond.org/web/) [![](images/denemo-
-[![](images/linuxDSP_logo.png)](http://www.linuxdsp.co.uk/)
-[![](images/lmms-logo.png)](http://lmms.sourceforge.net/)
-[![](images/lsbackground-chopped.jpg)](http://www.linuxsampler.org/)
-[![](images/lv2-logo.png)](http://lv2plug.in/)
-[![](images/midisaurus2.png)](http://dino.nongnu.org)
-[![](images/mpg123-logo.png)](http://www.mpg123.de/) [![](images/amuc-
-[![](images/mplayer-logo.jpg)](http://www.mplayerhq.hu/design7/news.html)
-[![](images/musix.png)](http://www.musix.org.ar/)
-[![](images/om-logo.png)](http://www.nongnu.org/om-synth/)
-[![](images/rakarrack3-logo)](http://rakarrack.sourceforge.net/)
-[![](images/rezound_web_logo.jpg)](http://rezound.sourceforge.net/)
-[![](images/rosegarden-logo.png)](http://www.rosegardenmusic.com/)
-[![](images/RTcmix.gif)](http://rtcmix.org/)
-images seen at the top of this page.
-[![](images/seq24mount-chopped.png)](https://launchpad.net/seq24)
-[![](images/smack_drum.jpg)](http://smack.berlios.de/) [![](images/fluidsynth-
-[![](images/snd-logo.png)](http://ccrma.stanford.edu/software/snd/)
-[![](images/songwrite-
-[![](images/sooperlooper-logo.png)](http://essej.net/sooperlooper/)
-[![](images/sv-title.png)](http://www.sonicvisualiser.org/)
-[![](images/sweep_logo.png)](http://www.metadecks.org/software/sweep/index.html)
-[![](images/tuxgtr-logo.png)](http://www.tuxguitar.com.ar/)
-[![](images/wired_banner.png)](http://wired.sourceforge.net/)
-[![](images/xine-logo-full.png)](http://www.xine-project.org/home)
-[![](images/xowave-logo.png)](http://www.xowave.com/)
-[![](images/zyn-logo.jpg)](http://zynaddsubfx.sourceforge.net/)
-* **Image To Sound**
+
+
 * [IMD4Linux](http://www.5dwm.org/) Eric Masson's project to rework **SGI** 's Indigo Desktop (and apps!) to run on Linux 
 * [IMG](ftp://ftp.uu.net/pub/music/) Peter Langston's **Incidental Music Generator** for the SPARCstation 
 * [IMG](ftp://mustec.bgsu.edu/pub/linux/IMGlinux.tar.gz) is a MIDI music composition system with pre-defined "styles" 
@@ -1677,7 +1598,6 @@ per month, and links to my previously published work for LJ can be found on
 * [PHAT](http://www.gazuga.net/phat.php) "a collection of **GTK+** widgets geared toward pro-audio apps", from Pete Bessman and friends 
 * [phazor](http://www.alsa-project.org/~mcnab/) creates ambient textures by a very interesting use of the FFT 
 * [Phonogramme](http://www.ai.univ-paris8.fr/~vi/phonogramme/phonogramme.html) I think you just have to see this one...( _This page is in French_ ) 
-* [PhonoRipper](http://klappnase.zexxo.net/phonoripper/index.html) utility for ripping and recording audio CDs, requires **SNACK**
 * [PhonoRipper](http://www.8ung.at/klappnase/phonoripper/phonoripper.html) utility for ripping and recording audio CDs, requires **SNACK**
 * [PHPAudioFile](http://www.entropy.at/forum.php?action=thread&t_id=15) "...a class that is designed to recognize attributes of audio files" 
 * [PipeWave](http://www.cf.ac.uk/psych/CullingJ/) DSP and "auditory modelling" programs using UNIX pipes 
@@ -1804,7 +1724,6 @@ project.org/alsa-doc/) page for current information regarding ALSA drivers for
 * **Radio !**
 * [RadioActive](http://cactus.rulez.org/projects/radioactive/) radio application for **Video4Linux** -compatible radio tuner cards 
 * [Radio Hard Disk](http://www.grame.fr/radio-hd/) unique application from the **MidiShare** team 
-* [radio-spase](http://www.elis.rug.ac.be/~ronsse/mr/radio-spase.c) C source for kernel module supporting the **SPASE PCRadio-003** radio card 
 * [RadioSuite HD](http://www.onairusa.com/rshd.htm) a Linux-based hard-disk storage system (hard/software) for high-performance network broadcasting 
 * [Radium](http://www.notam02.no/radium/) unique graphic music-making environment with similarities to module trackers and MIDI sequencers 
 * [rain](http://www.sci.fi/~mjkoskin/) is a **Tcl/Tk** script to convert GIF images to sound or to a Csound score 
@@ -1918,8 +1837,6 @@ Repositories
 * [SBLive for Linux](http://how.to/sblive) an unofficial and very informative page 
 * [SBLive On Linux FAQ (unofficial)](http://rockfish.net/sblive/faq.shtml) everything you wanted to know... 
 * [SBLive Setup](http://www.linuxnewbie.org/nhf/Soundcards) instructions for compiling the CVS code, from Morganth 
-* [sc88sysex](http://perso.wanadoo.es/plcl/misc/sc88sysex-0.1.tar.gz) command-line utility to send/receive data to & from the **Roland SC88** sound module 
-* [sc88sysex](http://perso.wanadoo.es/plcl/misc/sc88sysex-0.1.tar.gz) command-line utility to send/receive data to & from the **Roland SC88** sound module ( _direct link_ ) 
 * [Scala](http://www.huygens-fokker.org/scala/) A powerful software tool for experimentation with musical tunings, can save data in Csound score format. 
 * [Scala](http://www.xs4all.nl/~huygensf/scala/) a powerful software tool for experimentation with musical tunings, can save data in **Csound** score format 
 * [SCAR](http://www.pdamusic.com/computer/scar.html) the Simple Console Audio Recorder from Seth David Johnson 
@@ -2525,8 +2442,6 @@ with Linux applications your choices are limited to certain cards from
 * [XMMS](http://www.xmms.org) excellent player for MP3, MOD, WAV and other formats 
 * [XMMS-LADSPA](http://www.ecs.soton.ac.uk/~njl98r/code/audio/) a plugin to host plugins, from Nick Lamb 
 * [XMovie](http://heroinewarrior.com/xmovie.php3) **DVD** and **Quicktime** movie player, supports JPEG Photo, YUV2, and raw RGB modes, with stereo audio in PCM, ulaw, or IMA4 formats 
-* [Xmp3Burn](http://perso.wanadoo.es/ja_recio/xmp3burn/en/index.htm) burn audio CDs directly from MP3 files 
-* [XMp3Burn](http://perso.wanadoo.es/ja_recio/xmp3burn/xmp3burn.html) burn MP3 files directly to CD 
 * [xmp](http://xmp.sourceforge.net/) the Extended Module Player 
 * [xmradio](http://core.de/~coto/projects/xmradio/) **Motif** -based radio tuner, uses **Video4Linux**
 * [xmradio](http://core.de/~coto/projects/xmradio/) **Motif** -based radio tuner, uses **Video4Linux** 
