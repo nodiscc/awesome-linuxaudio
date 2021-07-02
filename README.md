@@ -148,6 +148,7 @@ List keys:
 * [samplv1](http://samplv1.sourceforge.net/)** - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
+* [soundux](https://soundux.rocks/) - A cross-platform soundboard
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
 
 
