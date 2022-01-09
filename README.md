@@ -248,7 +248,7 @@ List keys:
 
 ## DJing / Vinyl emulation
 
-* [mixxx](http://www.mixxx.org/) - Digital Disc Jockey Interface ([◼](https://packages.debian.org/sid/mixxx))
+* **[mixxx](http://www.mixxx.org/)** - Digital Disc Jockey Interface ([◼](https://packages.debian.org/sid/mixxx))
 * [xwax](http://www.xwax.co.uk/) - open-source vinyl emulation software for Linux with timecoded vinyl support ([◼](https://packages.debian.org/sid/xwax))
 * [DiscoDOS](http://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet - remember and analyze your DJ sets based on Discogs and AcousticBrainz data ([◼](https://packages.debian.org/sid/discodos))
 
@@ -683,6 +683,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ## Signal processing/electronics
 
+* **[puredata](http://puredata.info)** - realtime computer music and graphics system ([◼](https://packages.debian.org/sid/puredata))
 * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (LV2 & VST, Extra) `▒`
 * [cabbage-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (LV2 & VST) `▒`
 * [camomile](https://github.com/pierreguillot/Camomile) - a dynamic vst plugin that loads Pure Data patches
@@ -700,7 +701,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [lirc](http://lirc.org) - infra-red remote control support ([◼](https://packages.debian.org/sid/lirc))
 * [nyquist](http://www.cs.cmu.edu/~music/nyquist/) - language for music composition and sound synthesis ([◼](https://packages.debian.org/sid/nyquist))
 * [pd-csound](http://www.csounds.com) - Csound external for PureData ([◼](https://packages.debian.org/sid/pd-csound))
-* [puredata](http://puredata.info) - realtime computer music and graphics system ([◼](https://packages.debian.org/sid/puredata))
 * [Room EQ Wizard](http://www.roomeqwizard.com/) -room acoustics analysis software for measuring and analysing room and loudspeaker responses. 
 * [Soundpipe](http://www.github.com/PaulBatchelor/Soundpipe) - A library of high quality music DSP algorithms. 
 * [supercollider-supernova](http://supercollider.sourceforge.net/) - real time audio synthesis server (multiprocessor version) ([◼](https://packages.debian.org/sid/supercollider-supernova))
