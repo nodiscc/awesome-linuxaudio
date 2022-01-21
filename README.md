@@ -629,7 +629,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [openshot](http://www.openshotvideo.com/) - Create and edit videos and movies ([◼](https://packages.debian.org/sid/openshot))
 * [pitivi](http://www.pitivi.org) - non-linear audio/video editor using GStreamer ([◼](https://packages.debian.org/sid/pitivi))
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com
-* [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor 
+* [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor ([◼](https://packages.debian.org/sid/shotcut))
 * [synaesthesia](https://packages.debian.org/stretch/synaesthesia) - Program for representing sounds visually
 * [Veejay](https://veejayhq.github.io/) - realtime video sequencer and effects processor
 * [vid.stab](http://public.hronopik.de/vid.stab/) - Video stabilization library
@@ -643,6 +643,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 * **[blender](http://www.blender.org/)** - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
 * [aqsis](http://www.aqsis.org/) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([◼](https://packages.debian.org/sid/aqsis))
+* [cloudcompare](http://www.danielgm.net/cc/) - 3D point cloud and mesh processing software ([◼](https://packages.debian.org/sid/cloudcompare))
 * [Art of Illusion](http://www.artofillusion.org/) - 3D modeling and rendering studio written in Java.
 * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface.
 * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. `©`
@@ -658,6 +659,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [makehuman](http://www.makehuman.org/) - Modelling of 3-Dimensional humanoid characters ([◼](https://packages.debian.org/sid/makehuman))
 * [mandelbulber](http://sites.google.com/site/mandelbulber/) - 3D fractal renderer and animator ([◼](https://packages.debian.org/sid/mandelbulber))
 * [meshlab](http://meshlab.sourceforge.net/) - System for processing and editing triangular meshes ([◼](https://packages.debian.org/sid/meshlab))
+* [mm3d](https://clover.moe/mm3d/) - OpenGL based 3D model editor ([◼](https://packages.debian.org/sid/mm3d))
 * [Substance Designer](https://www.allegorithmic.com/products/substance-designer) - Material Authoring Tool `©`
 * [Substance Painter](https://www.allegorithmic.com/products/substance-painter) - 3D Painting Software `©`
 * [Substance Player](https://www.allegorithmic.com/products/substance-player) - Easy material tweaking and visualization `©`
