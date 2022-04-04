@@ -608,6 +608,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * **[Natron](https://natrongithub.github.io/)** - Cross-platform open-source compositing software, used to produce visual effects.
 * **[flowblade](https://jliljebl.github.io/flowblade/) - Free & Libre multitrack non-linear video editor ([◼](https://packages.debian.org/sid/flowblade))**
 * **[olive](https://olivevideoeditor.org/) - Professional open-source NLE video editor ([◼](https://packages.debian.org/sid/olive-editor))**
+* [auto-editor](https://auto-editor.com/) - a program for automatically editing video and audio by analyzing a variety of methods, most notably audio loudness. ([◼](https://packages.debian.org/sid/auto-editor))
 * [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - editing, color correction and professional audio post production, all in a single application `©`
 * [CasparCG Server](http://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production 
 * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
