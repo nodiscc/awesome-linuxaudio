@@ -81,6 +81,7 @@ List keys:
 
 ## DAW/Sequencers
 
+* [1BITDRAGON](https://1bitdragon.com/) - easy to use sample based sequencer. Rhythm Generators, arpeggiators, MIDI/WAV export. `©`
 * [ardour](http://www.ardour.org/) - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
 * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
 * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
@@ -149,6 +150,7 @@ List keys:
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [soundux](https://soundux.rocks/) - A cross-platform soundboard
+* [Speedrum](https://www.apisoniclabs.com/speedrum.html) - MPC style drum sampler, 32 pads with essential effects, and with 8 sample layers per pad. `©`
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
 
 
@@ -172,6 +174,7 @@ List keys:
 * [fomp](https://drobilla.net/software/fomp.html) - 1 auto-wah, 1 EQ, 3 chorus, 5 filters, and 3 oscillators LV2 plugins. ([◼](https://packages.debian.org/sid/fomp)) `▒`
 * [foo-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - small set of LADSPA plugins (Lookahead Limiter/Transient Architect) `▒`
 * [ardour-lv2-plugins](https://www.ardour.org/) - Set of LV2 plugins provided by Ardour. ([◼](https://packages.debian.org/sid/ardour-lv2-plugins))
+* [Chowdhury DSP](https://chowdsp.com/products.html) - Audio signal processing tools for music makers
 * [infamous-plugins](https://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
 * [invada-studio-plugins-ladspa](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LADSPA audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-ladspa)) `▒`
 * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-lv2)) `▒`
@@ -317,6 +320,7 @@ List keys:
 * [gmorgan](http://gmorgan.sourceforge.net/) - MIDI rhythm station emulator software ([◼](https://packages.debian.org/sid/gmorgan))
 * [newtonator](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 synth that produces unpredictable sounds `▒`
 * [paraphrasis](https://github.com/VirtualAnalogy/Paraphrasis) - spectral modeling synthesizer 
+* [Surge XT](https://surge-synthesizer.github.io/) - hybrid synthesizer featuring many synthesis techniques, a great selection of filters, a flexible modulation engine, a smorgasbord of effects, and modern features like MPE and microtuning
 * [u-he Diva](https://u-he.com/products/diva/) - Virtual Analogue synthesizer `©`
 * [u-he Hive](https://u-he.com/products/hive/) - Uncomplicated, flexible, CPU-friendly hybrid synthesizer `©`
 * [u-he Podolski](https://u-he.com/products/podolski/) - free, straightforward, CPU-efficient virtual analogue synthesizer. One oscillator, one filter, one envelope and an arpeggiator / sequencer. `©`
@@ -415,6 +419,7 @@ List keys:
 * [jack-midi-clock](https://github.com/x42/jack_midi_clock) - JACK client that sends MIDI beat clock pulses `▒`
 * [jackass](https://github.com/falkTX/JackAss/) - JACK-MIDI support for VST hosts, including Wine apps `▒`
 * [kmidimon](http://kmidimon.sourceforge.net) - MIDI monitor using ALSA sequencer and KDE user interface ([◼](https://packages.debian.org/sid/kmidimon))
+* [LibreArp](https://librearp.gitlab.io/) - LV2/VST3 free-form pattern arpeggiator
 * [midi-matrix.lv2](https://github.com/OpenMusicKontrollers/midi_matrix.lv2) - 3-in-1 plugin with GUI (MIDI channel filtering/rerouting/multiplication) `▒`
 * [mididings](http://das.nasophon.de/mididings/) - MIDI router and processor based on Python ([◼](https://packages.debian.org/sid/mididings))
 * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
