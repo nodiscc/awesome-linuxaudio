@@ -167,6 +167,7 @@ List keys:
 * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins `▒`
 * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
 * [avw.lv2](https://github.com/mfisher31/avwlv2) - collection of Voltage Controlled LV2 modules ([◼](https://packages.debian.org/sid/avw.lv2)) `2013`
+* [BYOD](https://chowdsp.com/products.html) - Build-Your-Own-Distortion is an audio plugin that allows the user to create custom guitar effects, with a focus on guitar distortion
 * [caps-lv2](https://github.com/moddevices/caps-lv2) - LV2 port for the CAPS Audio Plugin Suite `▒`
 * [caps](http://quitte.de/dsp/caps.html) - C* Audio Plugin Suite (CAPS) comprises a range of classic sound effects and a few more basic audio DSP units, signal and noise generators. ([◼](https://packages.debian.org/sid/caps))
 * [cmt](http://www.ladspa.org/cmt/overview.html) - a collection of LADSPA plugins ([◼](https://packages.debian.org/sid/cmt)) `▒`
@@ -174,7 +175,11 @@ List keys:
 * [fomp](https://drobilla.net/software/fomp.html) - 1 auto-wah, 1 EQ, 3 chorus, 5 filters, and 3 oscillators LV2 plugins. ([◼](https://packages.debian.org/sid/fomp)) `▒`
 * [foo-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - small set of LADSPA plugins (Lookahead Limiter/Transient Architect) `▒`
 * [ardour-lv2-plugins](https://www.ardour.org/) - Set of LV2 plugins provided by Ardour. ([◼](https://packages.debian.org/sid/ardour-lv2-plugins))
-* [Chowdhury DSP](https://chowdsp.com/products.html) - Audio signal processing tools for music makers
+* [Chow Tape Model](https://chowdsp.com/products.html) - digital emulation of a reel-to-reel analog tape machine. The original algorithm was developed to emulate the Sony TC-260
+* [Chow Matrix](https://chowdsp.com/products.html) - infinitely growable delay effect, with complex internal modulation and feedback. With extra features including pitch-shifting, diffusion, and distortion
+* [Chow Centaur](https://chowdsp.com/products.html) - digital emulation of the Klon Centaur guitar pedal
+* [Chow Phaser](https://chowdsp.com/products.html) - digital phaser effect originally inspired by the Schulte Compact Phasing 'A'
+* [ChowDSP VCV](https://chowdsp.com/products.html) - several modules for VCV Rack, including ports of ChowTape and ChowPhaser. Other modules include distortion effects, modal filters, and more
 * [infamous-plugins](https://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
 * [invada-studio-plugins-ladspa](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LADSPA audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-ladspa)) `▒`
 * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-lv2)) `▒`
@@ -279,6 +284,7 @@ List keys:
 * [discovery pro](https://www.discodsp.com/discoverypro/) - Virtual Analog synthesizer + sampler. `©`
 * [helm](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Polyphonic synthesizer. `▒`
 * [ob-xd](https://www.discodsp.com/obxd/) - OB-Xd is based on the Oberheim OB-X. `▒`
+  * [ob-xd](https://github.com/reales/OB-Xd) - Open source version of OB-Xd 
 * [sineshaper](http://ll-plugins.nongnu.org/lv2/sineshaper.html) - Monophonic synth plugin with two oscillators and waveshapers. ([◼](https://packages.debian.org/sid/sineshaper))
 * [synthv1](http://synthv1.sourceforge.net/) - Old-school polyphonic synthesizer. ([◼](https://packages.debian.org/sid/synthv1)) `▒`
 * [whysynth](http://www.smbolton.com/whysynth.html) - DSSI Soft Synth Interface. ([◼](https://packages.debian.org/sid/whysynth))
@@ -303,6 +309,7 @@ List keys:
 
 ### Other synths
 
+* [Chow Kick](https://chowdsp.com/products.html) - kick drum synthesizer based on creative physical modelling of old drum machine circuits
 * **[drumkv1](http://drumkv1.sourceforge.net/)** - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
 * **[fabla](https://github.com/openAVproductions/openAV-Fabla2)** - Fabla drum sampler plugin instrument `▒`
 * **[foo-yc20-vst](https://github.com/sampov2/foo-yc20)** - VST implementation of a 1969 designed Yamaha combo organ, the YC-20. `▒`
@@ -343,7 +350,7 @@ List keys:
 * [omins](http://www.nongnu.org/om-synth/omins.html) - collection of LADSPA plugins aimed at modular synthesizers ([◼](https://packages.debian.org/sid/omins))
 * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
 * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) `©`
-* [u-he Ace](https://u-he.com/products/ace/) - , Compact, clear synthesizer, with a careful selection of modules and semi-modular architecture `©`
+* [u-he ACE](https://u-he.com/products/ace/) - compact, clear synthesizer, with a careful selection of modules and semi-modular architecture `©`
 * [u-he Bazille](https://u-he.com/products/bazille/) - large polyphonic modular system with digital (PD, FM based) oscillators, multimode filters, modulation options, and more `©`
 
 
