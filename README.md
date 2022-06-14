@@ -150,9 +150,9 @@ List keys:
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [soundux](https://soundux.rocks/) - A cross-platform soundboard
-* [Speedrum](https://www.apisoniclabs.com/speedrum.html) - MPC style drum sampler, 32 pads with essential effects, and with 8 sample layers per pad. `©`
+* [Speedrum](https://www.apisoniclabs.com/speedrum.html) - MPC style drum sampler, 32 pads with essential effects, and with 8 sample layers per pad `©`
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
-
+* [TAL-Sampler](https://tal-software.com/products/tal-sampler) - full featured analog modeled synthesizer with a sampler engine as sound source, including a powerful modulation matrix and a high quality self-oscillating 24/12/6 dB low pass filter `©`
 
 ## Effects/Processing
 
@@ -161,7 +161,7 @@ List keys:
 * **[calf-plugins](http://calf.sourceforge.net/)** - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
 * **[dpf-plugins](https://github.com/DISTRHO/DPF-Plugins)** - audio plugin collection from DISTRHO `▒`
 * **[freaked-plugins](https://github.com/pjotrompet/Freaked)** - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `▒`
-* **[tal-plugins](https://tal-software.com/)** - Togu Audio Line Plugins (Dub-3, Filter/-2, NoiseMaker, Reverb/-2/-3, Vocoder-2) `▒`
+* **[tal-plugins](https://tal-software.com/)** - Togu Audio Line Plugins (Dub-3, Filter/-2, Reverb/-2/-3, Vocoder-2) `▒`
 * [ACMT Essential VST Plug-Ins Collection for Linux](https://www.acmt.co.uk/products/download-acmt-essential) - A comprehensive range of essential high-end analogue modelled plug-ins for Linux `©`
 * [amb-plugins](https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/) - ambisonics LADSPA plugins ([◼](https://packages.debian.org/sid/amb-plugins))
 * [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins `▒`
@@ -330,6 +330,10 @@ List keys:
 * [Odin 2](https://thewavewarden.com/odin2) - powerful 24-voice polyphonic virtual analog synthesizer with multiple oscillator types LV2/VST3/CLAP
 * [paraphrasis](https://github.com/VirtualAnalogy/Paraphrasis) - spectral modeling synthesizer 
 * [Surge XT](https://surge-synthesizer.github.io/) - hybrid synthesizer featuring many synthesis techniques, a great selection of filters, a flexible modulation engine, a smorgasbord of effects, and modern features like MPE and microtuning
+* [TAL-BassLine-101](https://tal-software.com/products/tal-bassline-101) - monophonic bass synthesizer and a very accurate emulation of the popular SH 101 `©`
+* [TAL-J-8](https://tal-software.com/products/tal-j-8) - very accurate emulation of the popular 80’s hardware synthesiser and calibrated after our own Jupiter 8 device `©`
+* [TAL-NoiseMaker](https://tal-software.com/products/tal-noisemaker) - free virtual analog synthesizer with a great sound and low CPU usage `©`
+* [TAL-U-No-LX](https://tal-software.com/products/tal-u-no-lx) - complete emulation of the popular Juno 60, zero feedback delay filters and carefully calibrated controls make this synth a good replacement for the analog device `©`
 * [u-he Diva](https://u-he.com/products/diva/) - Virtual Analogue synthesizer `©`
 * [u-he Hive](https://u-he.com/products/hive/) - Uncomplicated, flexible, CPU-friendly hybrid synthesizer `©`
 * [u-he Podolski](https://u-he.com/products/podolski/) - free, straightforward, CPU-efficient virtual analogue synthesizer. One oscillator, one filter, one envelope and an arpeggiator / sequencer. `©`
@@ -352,6 +356,7 @@ List keys:
 * [omins](http://www.nongnu.org/om-synth/omins.html) - collection of LADSPA plugins aimed at modular synthesizers ([◼](https://packages.debian.org/sid/omins))
 * [spiralsynthmodular](http://kxstudio.linuxaudio.org/Repositories:Plugins) - object orientated music studio `▒`
 * [Sunvox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker) `©`
+* [TAL-MOD](https://tal-software.com/products/tal-mod) - virtual analog synthesizer with an exceptional sound and almost unlimited modulation possiblities `©`
 * [u-he ACE](https://u-he.com/products/ace/) - compact, clear synthesizer, with a careful selection of modules and semi-modular architecture `©`
 * [u-he Bazille](https://u-he.com/products/bazille/) - large polyphonic modular system with digital (PD, FM based) oscillators, multimode filters, modulation options, and more `©`
 
