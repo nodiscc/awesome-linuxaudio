@@ -114,6 +114,7 @@ List keys:
 * [hivelytracker](http://www.hivelytracker.co.uk/) - Music tracker program based upon the AHX. ([◼](https://packages.debian.org/sid/hivelytracker))
 * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker. ([◼](https://packages.debian.org/sid/klystrack))
 * [milkytracker](http://www.milkytracker.org/) - Music creation tool inspired by Fast Tracker 2. ([◼](https://packages.debian.org/sid/milkytracker))
+* [pt2-clone](https://16-bits.org/pt2.php) - Multi-platform clone of the classic music making software ProTracker 2 from the Commodore Amiga days. ([◼](https://packages.debian.org/sid/pt2-clone))
 * [Renoise](http://www.renoise.com/products/renoise) - Digital Audio Workstation (DAW) using a tracker-based approach. `©`
 * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look & feel. ([◼](https://packages.debian.org/sid/schism))
 
