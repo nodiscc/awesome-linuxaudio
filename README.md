@@ -21,65 +21,71 @@ List keys:
 
 -------------------------
 
-<!-- MarkdownTOC -->
+<!-- TOC -->
 
-- [DAW/Sequencers](#dawsequencers)
-- [Trackers](#trackers)
-- [Audio Editors](#audio-editors)
-- [Samplers](#samplers)
-- [Effects/Processing](#effectsprocessing)
-  - [Collections](#collections)
-  - [EQ](#eq)
-  - [Other FX](#other-fx)
-- [DJing / Vinyl emulation](#djing--vinyl-emulation)
-- [Synthesizers](#synthesizers)
-  - [Additive](#additive)
-  - [Subtractive](#subtractive)
-  - [FM](#fm)
-  - [Wavetable](#wavetable)
-  - [Other synths](#other-synths)
-- [Modular synths](#modular-synths)
-- [Organ simulators](#organ-simulators)
-- [Audio utilities](#audio-utilities)
-  - [Misc](#misc)
-  - [Meters & Analysis](#meters--analysis)
-  - [Tuners & Metronomes](#tuners--metronomes)
-  - [MIDI Utilities](#midi-utilities)
-  - [Transcoding](#transcoding)
-  - [CD/DVD Ripping](#cddvd-ripping)
-- [System utilities](#system-utilities)
-  - [JACK](#jack)
-  - [ALSA](#alsa)
-  - [Firewire](#firewire)
-  - [Plugin hosts & adapters](#plugin-hosts--adapters)
-  - [Pulseaudio](#pulseaudio)
-  - [Other system utilities](#other-system-utilities)
-- [Network streaming/broadcasting](#network-streamingbroadcasting)
-- [Lighting](#lighting)
-- [Video](#video)
-  - [3D Modeling/CGI](#3d-modelingcgi)
-  - [Authoring](#authoring)
-- [Signal processing/electronics](#signal-processingelectronics)
-- [Score Editors](#score-editors)
-- [Media players](#media-players)
-  - [Graphical](#graphical)
-  - [Command-line](#command-line)
-- [Metapackages](#metapackages)
-- [Linux Distributions](#linux-distributions)
+- [Software](#software)
+    - [DAW/Sequencers](#dawsequencers)
+    - [Trackers](#trackers)
+    - [Audio Editors](#audio-editors)
+    - [Samplers](#samplers)
+    - [Effects/Processing](#effectsprocessing)
+    - [Collections](#collections)
+    - [EQ](#eq)
+    - [Other FX](#other-fx)
+    - [DJing / Vinyl emulation](#djing--vinyl-emulation)
+    - [Synthesizers](#synthesizers)
+    - [Additive](#additive)
+    - [Subtractive](#subtractive)
+    - [FM](#fm)
+    - [Wavetable](#wavetable)
+    - [Other synths](#other-synths)
+    - [Modular synths](#modular-synths)
+    - [Organ simulators](#organ-simulators)
+    - [Audio utilities](#audio-utilities)
+    - [Misc](#misc)
+    - [Meters & Analysis](#meters--analysis)
+    - [Tuners & Metronomes](#tuners--metronomes)
+    - [MIDI Utilities](#midi-utilities)
+    - [Transcoding](#transcoding)
+    - [CD/DVD Ripping](#cddvd-ripping)
+    - [System utilities](#system-utilities)
+    - [JACK](#jack)
+    - [ALSA](#alsa)
+    - [Firewire](#firewire)
+    - [Pipewire](#pipewire)
+    - [Plugin hosts & adapters](#plugin-hosts--adapters)
+    - [Pulseaudio](#pulseaudio)
+    - [Other system utilities](#other-system-utilities)
+    - [Network streaming/broadcasting](#network-streamingbroadcasting)
+    - [Lighting](#lighting)
+    - [Video](#video)
+    - [D Modeling/CGI](#d-modelingcgi)
+    - [Authoring](#authoring)
+    - [Signal processing/electronics](#signal-processingelectronics)
+    - [Score Editors](#score-editors)
+    - [Media players](#media-players)
+    - [Metapackages](#metapackages)
+    - [Linux Distributions](#linux-distributions)
 - [SAMPLES/PRESETS/RESOURCES](#samplespresetsresources)
 - [DOCUMENTATION](#documentation)
-  - [Other Software Lists](#other-software-lists)
-  - [Documentation/Blogs](#documentationblogs)
-  - [Communities/Forums](#communitiesforums)
+    - [Other Software Lists](#other-software-lists)
+    - [Documentation/Blogs](#documentationblogs)
+    - [Communities/Forums](#communitiesforums)
 - [CONTRIBUTING](#contributing)
 - [MIRRORS](#mirrors)
 - [LICENSE](#license)
+
+<!-- /TOC -->
+
+
 
 <!-- /MarkdownTOC -->
 
 -----------------------------------
 
-## DAW/Sequencers
+## Software
+
+### DAW/Sequencers
 
 * [1BITDRAGON](https://1bitdragon.com/) - easy to use sample based sequencer. Rhythm Generators, arpeggiators, MIDI/WAV export. `©`
 * [ardour](http://www.ardour.org/) - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
@@ -106,7 +112,7 @@ List keys:
 * [vcvrack](https://vcvrack.com/) - Open-source virtual Eurorack DAW `▒`
 * [Zrythm](https://www.zrythm.org/) - A highly automated and intuitive digital audio workstation
 
-## Trackers
+### Trackers
 
 * [bambootracker](https://bambootracker.github.io/BambooTracker/) - Cross-platform music tracker for the Yamaha YM2608 (OPNA) sound chip which was used in NEC PC-8801/9801 series computers. ([◼](https://packages.debian.org/sid/bambootracker))
 * [cheesecutter](https://github.com/theyamo/CheeseCutter) - Tracker program for composing music for the SID chip. ([◼](https://packages.debian.org/sid/cheesecutter))
@@ -118,7 +124,7 @@ List keys:
 * [Renoise](http://www.renoise.com/products/renoise) - Digital Audio Workstation (DAW) using a tracker-based approach. `©`
 * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look & feel. ([◼](https://packages.debian.org/sid/schism))
 
-## Audio Editors
+### Audio Editors
 
 * **[audacity](https://www.audacityteam.org/)** - fast, cross-platform audio editor ([◼](https://packages.debian.org/sid/audacity))
 * [eisenkraut](http://www.sciss.de/eisenkraut/) - A multi-channel and hi-res capable audio file editor ([◼](https://packages.debian.org/sid/eisenkraut))
@@ -131,7 +137,7 @@ List keys:
 * [Sound Studio](http://sourceforge.net/projects/studio/) - A simple (minimal) light-weight tool for editing smaller soundfiles. Because Sound Studio uses Sox, it can cope with a wide variety of audio file formats. `2013`
 * [sweep](http://www.metadecks.org/software/sweep/) - Audio editor and live playback tool ([◼](https://packages.debian.org/sid/sweep))
 
-## Samplers
+### Samplers
 
 * [avldrums.lv2](https://x42-plugins.com/x42/x42-avldrums) - drum sample player plugin dedicated to Glen MacArthur's AVLdrums. Rapidly sequence and mix midi-drums. `▒`
 * [bliss](https://www.discodsp.com/bliss/) - Performance sampler featuring scalable & themeable GUI, VSTi sampling, 8 macro assignments, dual zero delay feedback filters, sample editor, 7 built-in effects, flexible modulation, parameter morphing and highest offline resampling quality using 512 points SINC algorithm. `©`
@@ -158,7 +164,7 @@ List keys:
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
 * [TAL-Sampler](https://tal-software.com/products/tal-sampler) - full featured analog modeled synthesizer with a sampler engine as sound source, including a powerful modulation matrix and a high quality self-oscillating 24/12/6 dB low pass filter `©`
 
-## Effects/Processing
+### Effects/Processing
 
 ### Collections
 
@@ -261,13 +267,13 @@ List keys:
 * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([◼](https://packages.debian.org/sid/zita-at1))
 * [zita-rev1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html) - pro-audio reverb effect  ([◼](https://packages.debian.org/sid/zita-rev1))
 
-## DJing / Vinyl emulation
+### DJing / Vinyl emulation
 
 * **[mixxx](http://www.mixxx.org/)** - Digital Disc Jockey Interface ([◼](https://packages.debian.org/sid/mixxx))
 * [xwax](http://www.xwax.co.uk/) - open-source vinyl emulation software for Linux with timecoded vinyl support ([◼](https://packages.debian.org/sid/xwax))
 * [DiscoDOS](http://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet - remember and analyze your DJ sets based on Discogs and AcousticBrainz data ([◼](https://packages.debian.org/sid/discodos))
 
-## Synthesizers
+### Synthesizers
 
 ### Additive
 
@@ -351,7 +357,7 @@ List keys:
 * [organteq](https://www.modartt.com/organteq) - Physically modelled pipe organ. `©`
 
 
-## Modular synths
+### Modular synths
 
 * [ams](http://alsamodular.sourceforge.net/) - Realtime modular synthesizer for ALSA ([◼](https://packages.debian.org/sid/ams))
 * [BEAST/BSE](https://github.com/tim-janik/beast/) - music composition and modular synthesis application
@@ -366,7 +372,7 @@ List keys:
 * [u-he Bazille](https://u-he.com/products/bazille/) - large polyphonic modular system with digital (PD, FM based) oscillators, multimode filters, modulation options, and more `©`
 
 
-## Organ simulators
+### Organ simulators
 
 * [aeolus](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/) - Synthesised pipe organ emulator ([◼](https://packages.debian.org/sid/aeolus))
 * [azr3-jack](http://ll-plugins.nongnu.org/azr3/) - drawbar organ simulator ([◼](https://packages.debian.org/sid/azr3-jack))
@@ -374,7 +380,7 @@ List keys:
 * [setbfree](http://setbfree.org) - DSP tonewheel organ ([◼](https://packages.debian.org/sid/setbfree))
 
 
-## Audio utilities
+### Audio utilities
 
 ### Misc
 
@@ -497,7 +503,7 @@ List keys:
 * [abcde](https://abcde.einval.com/) - A Better CD Encoder ([◼](https://packages.debian.org/sid/abcde))
 
 
-## System utilities
+### System utilities
 
 ### JACK
 
@@ -589,7 +595,7 @@ List keys:
 * [rtirq-init](https://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
 * [rtkit](http://git.0pointer.net/rtkit.git/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
 
-## Network streaming/broadcasting
+### Network streaming/broadcasting
 
 **See <https://github.com/awesome-selfhosted/awesome-selfhosted/#media-streaming> for the main list**
 
@@ -615,7 +621,7 @@ _Icecast clients_
 * [oggfwd](http://v2v.cc/~j/oggfwd/) - basic icecast source client for audio and video streaming ([◼](https://packages.debian.org/sid/oggfwd))
 
 
-## Lighting
+### Lighting
 
 * [D::Light](http://www.getdlight.com/index.php/en/) - mobile, flexible solution to control modern lighting/performance technology. `©`
 * [hyperion](https://github.com/tvdzwan/hyperion) -  An opensource 'AmbiLight' implementation controlled using the RaspBerry Pi 
@@ -623,7 +629,7 @@ _Icecast clients_
 * [Q Light Controller+ (QLC+)](http://www.qlcplus.org/) - a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. 
 
 
-## Video
+### Video
 
 See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
@@ -709,7 +715,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [vlc-plugin-vlsub](http://addons.videolan.org/content/show.php?action=content&content=148752) - VLC extension to download subtitles from opensubtitles.org ([◼](https://packages.debian.org/sid/vlc-plugin-vlsub))
 
 
-## Signal processing/electronics
+### Signal processing/electronics
 
 * **[puredata](http://puredata.info)** - realtime computer music and graphics system ([◼](https://packages.debian.org/sid/puredata))
 * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (LV2 & VST, Extra) `▒`
@@ -742,7 +748,7 @@ _Sample segmentation, analysis, programmable editors_
 * [wavesurfer](http://www.speech.kth.se/wavesurfer) - Sound visualization and manipulation program for speech/sound analysis and sound annotation/transcription ([◼](https://packages.debian.org/sid/wavesurfer))
 
 
-## Score Editors
+### Score Editors
 
 * **[musescore](http://musescore.org/)** - popular professional level WYIWYG music score editor ([◼](https://packages.debian.org/sid/musescore))
 * [ariamaestosa](http://ariamaestosa.sourceforge.net/) - midi tracker/editor with keyboard, guitar, drum and controller views. `▒`
@@ -753,7 +759,7 @@ _Sample segmentation, analysis, programmable editors_
 * [tuxguitar](http://www.tuxguitar.com.ar) - Multitrack guitar tablature editor and player (gp3 to gp5) ([◼](https://packages.debian.org/sid/tuxguitar)) `▒`
 
 
-## Media players
+### Media players
 
 **Graphical**
 
@@ -790,7 +796,7 @@ _Sample segmentation, analysis, programmable editors_
 * [opencubicplayer](http://stian.cubic.org/project-ocp.php) - UNIX port of Open Cubic Player ([◼](https://packages.debian.org/sid/opencubicplayer))
 
 
-## Metapackages
+### Metapackages
 
 * [multimedia-ambisonics](https://packages.debian.org/sid/multimedia-ambisonics) - Packages for working with ambisonics (3D surround sound)
 * [multimedia-audio-plugins](https://packages.debian.org/sid/multimedia-audio-plugins) - Audio processing plugins, synths and virtual instruments
@@ -821,7 +827,7 @@ _Sample segmentation, analysis, programmable editors_
 * [kxstudio-meta-audio-plugins-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - VST plugins
 
 
-## Linux Distributions
+### Linux Distributions
 
 * **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.5 LTS. 
 * [DidJiX](http://easy.open.and.free.fr/didjix/)
