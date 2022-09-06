@@ -110,7 +110,8 @@ List keys:
 
 * [bambootracker](https://bambootracker.github.io/BambooTracker/) - Cross-platform music tracker for the Yamaha YM2608 (OPNA) sound chip which was used in NEC PC-8801/9801 series computers. ([◼](https://packages.debian.org/sid/bambootracker))
 * [cheesecutter](https://github.com/theyamo/CheeseCutter) - Tracker program for composing music for the SID chip. ([◼](https://packages.debian.org/sid/cheesecutter))
-* [goattracker](https://sourceforge.net/projects/goattracker2/) - C64 music editor. [◼](https://packages.debian.org/sid/goattracker))
+* [goattracker](https://sourceforge.net/projects/goattracker2/) - C64 music editor. ([◼](https://packages.debian.org/sid/goattracker))
+* [hivelytracker](http://www.hivelytracker.co.uk/) - Music tracker program based upon the AHX. ([◼](https://packages.debian.org/sid/hivelytracker))
 * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker. ([◼](https://packages.debian.org/sid/klystrack))
 * [milkytracker](http://www.milkytracker.org/) - Music creation tool inspired by Fast Tracker 2. ([◼](https://packages.debian.org/sid/milkytracker))
 * [Renoise](http://www.renoise.com/products/renoise) - Digital Audio Workstation (DAW) using a tracker-based approach. `©`
