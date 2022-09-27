@@ -487,7 +487,8 @@ List keys:
 * [lame](http://lame.sourceforge.net/) - MP3 encoding library, frontend application, and other sound analysis/convenience tools ([◼](https://packages.debian.org/sid/lame))
 * [vorbis-tools](http://lame.sourceforge.net/) - OGG Vorbis encoder/decoder, player, information tool, and splitter ([◼](https://packages.debian.org/sid/vorbis-tools))
 * [mp3info](http://www.ibiblio.org/mp3info/) - An MP3 technical info viewer and ID3 1.x tag editor ([◼](https://packages.debian.org/sid/mp3info))
- 
+* [puddletag](https://docs.puddletag.net/) - simple, powerful audio tag editor ([◼](https://packages.debian.org/sid/puddletag))
+
 
 ### CD/DVD Ripping
 
