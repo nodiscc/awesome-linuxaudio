@@ -488,6 +488,7 @@ List keys:
 * [vorbis-tools](http://lame.sourceforge.net/) - OGG Vorbis encoder/decoder, player, information tool, and splitter ([◼](https://packages.debian.org/sid/vorbis-tools))
 * [mp3info](http://www.ibiblio.org/mp3info/) - An MP3 technical info viewer and ID3 1.x tag editor ([◼](https://packages.debian.org/sid/mp3info))
 * [puddletag](https://docs.puddletag.net/) - simple, powerful audio tag editor ([◼](https://packages.debian.org/sid/puddletag))
+* [Ex Falso](https://quodlibet.readthedocs.io/en/latest/guide/editing_tags.html) - audio tag editor for GTK+ ([◼](https://packages.debian.org/sid/exfalso))
 
 
 ### CD/DVD Ripping
