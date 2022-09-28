@@ -886,6 +886,7 @@ _Sample segmentation, analysis, programmable editors_
 * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
 * [LinuxMusicians forum](https://linuxmusicians.com/)
 * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
+* [Linux Lighting Group](https://llg.cubic.org/) - Lighting Hardware and Software for Linux and similar platforms.
 
 --------------------------------------------
 
