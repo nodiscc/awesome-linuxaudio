@@ -119,10 +119,14 @@ List keys:
 * [goattracker](https://sourceforge.net/projects/goattracker2/) - C64 music editor. ([◼](https://packages.debian.org/sid/goattracker))
 * [hivelytracker](http://www.hivelytracker.co.uk/) - Music tracker program based upon the AHX. ([◼](https://packages.debian.org/sid/hivelytracker))
 * [klystrack](https://github.com/kometbomb/klystrack) - Chiptune tracker. ([◼](https://packages.debian.org/sid/klystrack))
+* [komposter](http://komposter.haxor.fi/) - lightweight music composing system. ([◼](https://packages.debian.org/sid/komposter))
 * [milkytracker](http://www.milkytracker.org/) - Music creation tool inspired by Fast Tracker 2. ([◼](https://packages.debian.org/sid/milkytracker))
 * [pt2-clone](https://16-bits.org/pt2.php) - Multi-platform clone of the classic music making software ProTracker 2 from the Commodore Amiga days. ([◼](https://packages.debian.org/sid/pt2-clone))
 * [Renoise](http://www.renoise.com/products/renoise) - Digital Audio Workstation (DAW) using a tracker-based approach. `©`
 * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look & feel. ([◼](https://packages.debian.org/sid/schism))
+* [tiatracker](https://bitbucket.org/kylearan/tiatracker) - music tracker for making Atari VCS 2600. ([◼](https://packages.debian.org/sid/tiatracker))
+* [tutka](http://www.nongnu.org/tutka/) - tracker style MIDI sequencer. ([◼](https://packages.debian.org/sid/tutka))
+* [zytrax](https://github.com/reduz/zytrax) - Easy to use, tracker-inspired music sequencer. ([◼](https://packages.debian.org/sid/zytrax))
 
 ### Audio Editors
 
