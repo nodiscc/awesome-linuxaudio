@@ -107,6 +107,7 @@ List keys:
 * [rosegarden](http://www.rosegardenmusic.com/) - music editor and MIDI/audio sequencer ([◼](https://packages.debian.org/sid/rosegarden))
 * [seq24](http://www.filter24.org/seq24/) - Minimalist Real time MIDI sequencer ([◼](https://packages.debian.org/sid/seq24))
 * [sequencer64](https://github.com/ahlstromcj/sequencer64) - Real time MIDI sequencer, a major reboot of seq24 with many new features.
+* [Stargate DAW](https://github.com/stargatedaw/stargate) - Cross-platform, all-in-one DAW and plugin suite
 * [Tracktion](http://www.tracktion.com/) - The musician's DAW  `©`
 * [traverso](http://traverso-daw.org/) - Multitrack audio recorder and editor ([◼](https://packages.debian.org/sid/traverso))
 * [vcvrack](https://vcvrack.com/) - Open-source virtual Eurorack DAW `▒`
