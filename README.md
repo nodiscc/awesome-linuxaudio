@@ -456,7 +456,7 @@ List keys:
 * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
 * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output `▒`
 * [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files
-* [pizmidi-plugins](https://bitbucket.org/agraef/pizmidi/) - collection of cross-platform MIDI processing plugins. `▒`
+* [pizmidi-plugins](https://www.thepiz.org/plugins/?p=pizmidi) - collection of cross-platform MIDI processing plugins. `▒`
 * [pjb.au MIDI scripts](http://www.pjb.com.au/midi/) - Various MIDI utilities and scripts 
 * [qmidiarp](http://qmidiarp.sourceforge.net/) - MIDI arpeggiator for ALSA ([◼](https://packages.debian.org/sid/qmidiarp))
 * [QmidiCtl](http://qmidictl.sourceforge.net/qmidictl-index.html) - A MIDI Remote Controller via UDP/IP Multicast 
