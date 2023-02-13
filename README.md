@@ -664,7 +664,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [Moviepy](https://zulko.github.io/moviepy/) - Python module for video editing, which can be used for basic operations (like cuts, concatenations, title insertions), video compositing (a.k.a. non-linear editing), video processing, or to create advanced effects. 
 * [nageru](https://nageru.sesse.net/) - live video mixer, takes in inputs from one or more video cards, mixes them together and outputs a high-quality H.264 stream over TCP ([◼](https://packages.debian.org/sid/nageru))
 * [Nuke Studio](https://www.foundry.com/products/nuke) - cutting-edge toolkits for node-based compositing, editorial and review `©`
-* [openshot](http://www.openshotvideo.com/) - Create and edit videos and movies ([◼](https://packages.debian.org/sid/openshot))
+* [openshot](http://www.openshot.org/) - Create and edit videos and movies ([◼](https://packages.debian.org/sid/openshot-qt))
 * [pitivi](http://www.pitivi.org) - non-linear audio/video editor using GStreamer ([◼](https://packages.debian.org/sid/pitivi))
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface http://pydub.com
 * [Shotcut](http://www.shotcut.org/) - a free, open source, cross-platform video editor ([◼](https://packages.debian.org/sid/shotcut))
