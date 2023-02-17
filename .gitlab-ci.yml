@@ -1,8 +1,9 @@
 stages:
-  - test
+  - checks
   - debianwiki
 
-test:
+checks:
+  stage: checks
   image: ruby
   before_script:
     - gem install awesome_bot
@@ -16,6 +17,7 @@ test:
   needs: []
 
 debianwiki:
+  stage: debianwiki
   image: debian:sid-slim
   before_script:
     - sed -i 's/main/main contrib non-free/g' /etc/apt/sources.list.d/debian.sources
