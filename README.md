@@ -515,7 +515,6 @@ List keys:
 * [jackd](http://jackaudio.org/) - JACK Audio Connection Kit ([◼](https://packages.debian.org/sid/jackd))
 * [jack-link](https://github.com/rncbc/jack_link) - JACK transport timebase bridge to Ableton Link `▒`
 * [jack_mixer](https://rdio.space/jackmixer/) - JACK Audio Mixer ([◼](https://packages.debian.org/buster/jack-mixer))
-* [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](https://packages.debian.org/sid/jack-rack))
 * [jack-tools](http://slavepianos.org/rd/?t=rju) - various JACK tools: dl, record, scope, osc, plumbing, udp, play, transport ([◼](https://packages.debian.org/sid/jack-tools))
 * [laditools](https://launchpad.net/laditools) - Linux Audio Desktop Integration Tools ([◼](https://packages.debian.org/sid/laditools))
 * [patchage](https://drobilla.net/software/patchage.html) - modular patch bay for Jack audio and Alsa Midi ([◼](https://packages.debian.org/sid/patchage))
