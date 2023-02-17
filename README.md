@@ -567,7 +567,6 @@ List keys:
 
 ### Pulseaudio
 
-* [padevchooser](https://github.com/d3matt/padevchooser) - PulseAudio Device Chooser ([◼](https://packages.debian.org/sid/padevchooser))
 * [paman](http://0pointer.de/lennart/projects/paman/) - PulseAudio Manager ([◼](https://packages.debian.org/sid/paman))
 * **[paprefs](http://freedesktop.org/software/pulseaudio/paprefs/)** - PulseAudio Preferences ([◼](https://packages.debian.org/sid/paprefs))
 * **[pavucontrol](http://freedesktop.org/software/pulseaudio/pavucontrol/)** - PulseAudio Volume Control ([◼](https://packages.debian.org/sid/pavucontrol))
