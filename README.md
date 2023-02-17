@@ -788,6 +788,7 @@ _Sample segmentation, analysis, programmable editors_
 * [lollypop](https://gitlab.gnome.org/World/lollypop) - modern music player for GNOME
 * [musique](http://flavio.tordini.org/musique) - Simple but sophisticated graphical music player ([◼](https://packages.debian.org/sid/musique))
 * [sonata](https://github.com/multani/sonata) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
+* [strawberry](https://strawberrymusicplayer.org/) - audio player and music collection organizer, for of Clementine. ([◼](https://packages.debian.org/sid/strawberry))
 * [ymuse](https://github.com/yktoo/ymuse) - GTK client for Music Player Daemon (MPD) written in Go ([◼](https://packages.debian.org/sid/ymuse))
 
 **Command-line/TUI**
