@@ -573,7 +573,6 @@ List keys:
 * [pavumeter](http://0pointer.de/lennart/projects/pavumeter/) - PulseAudio Volume Meter ([◼](https://packages.debian.org/sid/pavumeter))
 * [pulseaudio-module-jack](http://www.pulseaudio.org) - jackd modules for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-jack))
 * [pulseaudio-module-lirc](http://www.pulseaudio.org) - lirc module for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-lirc))
-* [pulseaudio-module-x11](http://www.pulseaudio.org) - X11 module for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-x11))
 * [pulseaudio-utils](http://www.pulseaudio.org) - Command line tools for the PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-utils))
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - command-line mixer for PulseAudio with a curses interface ([◼](https://packages.debian.org/sid/pulsemixer))
 * **[pulseaudio](http://www.pulseaudio.org)** - PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio))
