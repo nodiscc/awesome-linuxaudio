@@ -609,8 +609,6 @@ _Icecast clients_
 * [ices2](http://www.icecast.org/ices.php) - Ogg Vorbis streaming source for Icecast 2 ([◼](https://packages.debian.org/sid/ices2))
 * [idjc](http://idjc.sourceforge.net/) - graphical shoutcast/icecast client ([◼](https://packages.debian.org/sid/idjc))
 * [liquidsoap](http://savonet.sourceforge.net/) - audio streaming language ([◼](https://packages.debian.org/sid/liquidsoap))
-  * [liguidsoap](http://savonet.sourceforge.net/) - control GUI for liquidsoap ([◼](https://packages.debian.org/sid/liguidsoap))
-  * [liquidsoap-plugin-all](http://savonet.sourceforge.net/) - audio streaming language -- all plugins ([◼](https://packages.debian.org/sid/liquidsoap-plugin-all))
 * [oggfwd](http://v2v.cc/~j/oggfwd/) - basic icecast source client for audio and video streaming ([◼](https://packages.debian.org/sid/oggfwd))
 
 
