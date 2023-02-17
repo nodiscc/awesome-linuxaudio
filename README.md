@@ -427,7 +427,6 @@ List keys:
 * [fmit](http://gillesdegottex.github.io/fmit) - Free Music Instrument Tuner ([◼](https://packages.debian.org/sid/fmit))
 * [gtick](http://www.antcom.de/gtick/) - Metronome application ([◼](https://packages.debian.org/sid/gtick))
 * [gtkguitune](https://packages.debian.org/sid/gtkguitune) - Guitar and other instruments tuner
-* [gtklick](http://das.nasophon.de/gtklick/) - simple metronome GUI for JACK ([◼](https://packages.debian.org/sid/gtklick))
 * [gxtuner](http://guitarix.sourceforge.net/) - Tuner for Jack ([◼](https://packages.debian.org/sid/gxtuner))
 * [lingot](https://packages.debian.org/sid/lingot) - accurate and easy to use musical instrument tuner
 
