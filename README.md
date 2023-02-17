@@ -745,7 +745,6 @@ _Sample segmentation, analysis, programmable editors_
 * **[quodlibet](https://github.com/quodlibet/quodlibet/)** - audio library manager and player for GTK3 ([◼](https://packages.debian.org/sid/quodlibet))
 * **[rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)** - music player and organizer for GNOME ([◼](https://packages.debian.org/sid/rhythmbox))
 * **[vlc](http://www.videolan.org/vlc/)** - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
-* [amarok](http://amarok.kde.org) - easy to use media player based on the KDE Platform ([◼](https://packages.debian.org/sid/amarok))
 * [ario](http://ario-player.sourceforge.net/) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/ario))
 * [cantata](https://github.com/cdrummond/cantata) - KDE client for the music player daemon (MPD) ([◼](https://packages.debian.org/sid/cantata))
 * [DeaDBeeF](https://deadbeef.sourceforge.io/) - Modular foobar2000-like audio player.
