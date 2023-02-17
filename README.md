@@ -515,7 +515,6 @@ List keys:
 * [jack-capture](https://github.com/kmatheussen/jack_capture) - program for recording soundfiles with jack ([◼](https://packages.debian.org/sid/jack-capture))
 * [jackd2-firewire](http://jackaudio.org/) - JACK Audio Connection Kit (FFADO and FreeBoB backends) ([◼](https://packages.debian.org/sid/jackd2-firewire))
 * [jackd](http://jackaudio.org/) - JACK Audio Connection Kit ([◼](https://packages.debian.org/sid/jackd))
-* [jackeq](http://djcj.org/jackeq/) - routes and manipulates audio from/to multiple sources ([◼](https://packages.debian.org/sid/jackeq))
 * [jack-link](https://github.com/rncbc/jack_link) - JACK transport timebase bridge to Ableton Link `▒`
 * [jack_mixer](https://rdio.space/jackmixer/) - JACK Audio Mixer ([◼](https://packages.debian.org/buster/jack-mixer))
 * [jack-rack](http://jack-rack.sourceforge.net/) - LADSPA effects "rack" for JACK ([◼](https://packages.debian.org/sid/jack-rack))
