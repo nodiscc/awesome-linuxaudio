@@ -708,8 +708,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [cabbage-plugins-extra](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (LV2 & VST, Extra) `▒`
 * [cabbage-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - csound development toolkit plugins (LV2 & VST) `▒`
 * [camomile](https://github.com/pierreguillot/Camomile) - a dynamic vst plugin that loads Pure Data patches
-* [clam-networkeditor-examples](http://clam-project.org/) - CLAM Network Editor, examples ([◼](https://packages.debian.org/sid/clam-networkeditor-examples))
-* [clam-networkeditor](http://clam-project.org/) - CLAM Network Editor, prototyping tool for CLAM ([◼](https://packages.debian.org/sid/clam-networkeditor))
 * [csladspa](http://www.csounds.com) - LADSPA plugin for Csound ([◼](https://packages.debian.org/sid/csladspa))
 * [csound-data](http://www.csounds.com) - data files used by the csound library ([◼](https://packages.debian.org/sid/csound-data))
 * [csound-utils](http://www.csounds.com) - miscellaneous utilities for the Csound system ([◼](https://packages.debian.org/sid/csound-utils))
