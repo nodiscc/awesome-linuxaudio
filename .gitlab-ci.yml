@@ -1,6 +1,9 @@
-image: ruby
+stages:
+  - test
+  - debianwiki
 
 test:
+  image: ruby
   before_script:
     - gem install awesome_bot
     - apt-get update && apt-get install -y shellcheck python3-venv
@@ -10,6 +13,7 @@ test:
     - make checks
   only:
     - master
+  needs: []
 
 debianwiki:
   image: debian:sid-slim
@@ -18,3 +22,4 @@ debianwiki:
     - apt-get update && apt-get install -y make
   script:
     - make debianwiki
+  needs: []
