@@ -542,7 +542,6 @@ List keys:
 
 * [ffado-mixer-qt4](http://www.ffado.org) - FFADO D-Bus mixer applets (QT4) ([◼](https://packages.debian.org/sid/ffado-mixer-qt4))
 * [libraw-bin](http://www.libraw.org/) - raw image decoder library (tools) ([◼](https://packages.debian.org/sid/libraw-bin))
-* [libraw10](http://www.libraw.org/) - raw image decoder library ([◼](https://packages.debian.org/sid/libraw10))
 * [libraw1394-11](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([◼](https://packages.debian.org/sid/libraw1394-11))
 * [libraw1394-tools](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([◼](https://packages.debian.org/sid/libraw1394-tools))
 
