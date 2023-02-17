@@ -791,7 +791,6 @@ _Sample segmentation, analysis, programmable editors_
 * [multimedia-samplers](https://packages.debian.org/sid/multimedia-samplers) - Software samplers ([◼](https://packages.debian.org/sid/multimedia-samplers))
 * [multimedia-soundsynthesis](https://packages.debian.org/sid/multimedia-soundsynthesis) - Packages for sound synthesis ([◼](https://packages.debian.org/sid/multimedia-soundsynthesis))
 * [multimedia-tasks](https://packages.debian.org/sid/multimedia-tasks) - Debian Multimedia tasks for tasksel ([◼](https://packages.debian.org/sid/multimedia-tasks))
-* [multimedia-timestretching](https://packages.debian.org/sid/multimedia-timestretching) - Packages for stretching music and audio ([◼](https://packages.debian.org/sid/multimedia-timestretching))
 * [multimedia-video](https://packages.debian.org/sid/multimedia-video) - Video packages ([◼](https://packages.debian.org/sid/multimedia-video))
 * [kxstudio-meta-audio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)- KXStudio meta-packages - Audio plugins
 * [kxstudio-meta-audio-plugins-collection](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - Collection of good audio plugins
