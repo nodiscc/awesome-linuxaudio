@@ -596,7 +596,7 @@ List keys:
 * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
 * [gpac](http://gpac.wp.mines-telecom.fr/) - GPAC Project on Advanced Content ([◼](https://packages.debian.org/sid/gpac))
 * [larigira](https://git.lattuga.net/boyska/larigira) - radio automation software based on MPD
-* [vlc-nox](http://www.videolan.org/vlc/) - multimedia player and streamer (without X support) ([◼](https://packages.debian.org/sid/vlc-nox))
+* [vlc-bin](http://www.videolan.org/vlc/) - multimedia player and streamer (headless) ([◼](https://packages.debian.org/sid/vlc-bin))
 * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
 * [zita-njbridge](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Jack clients to transmit multichannel audio over a local IP network ([◼](https://packages.debian.org/sid/zita-njbridge))
 
