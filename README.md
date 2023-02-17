@@ -18,10 +18,7 @@ List keys:
 - ▒ KXStudio package: can be installed using APT on KXStudio or Debian with KXStudio repositories enabled.
 - © Non-Free/closed source software: programs that restrict use/study/modification/distribution.
 
-
 -------------------------
-
-<!-- TOC -->
 
 - [Software](#software)
     - [DAW/Sequencers](#dawsequencers)
@@ -74,12 +71,6 @@ List keys:
 - [CONTRIBUTING](#contributing)
 - [MIRRORS](#mirrors)
 - [LICENSE](#license)
-
-<!-- /TOC -->
-
-
-
-<!-- /MarkdownTOC -->
 
 -----------------------------------
 
