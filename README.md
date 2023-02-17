@@ -374,7 +374,7 @@ List keys:
 ### Synthesizers - Organ simulators
 
 * [aeolus](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/) - Synthesised pipe organ emulator ([◼](https://packages.debian.org/sid/aeolus))
-* [azr3-jack](http://ll-plugins.nongnu.org/azr3/) - drawbar organ simulator ([◼](https://packages.debian.org/sid/azr3-jack))
+* [azr3-jack](http://ll-plugins.nongnu.org/azr3/) - drawbar organ simulator
 * [horgand](https://github.com/ycollet/horgand) - JACK capable organ softsynth ([◼](https://packages.debian.org/sid/horgand))
 * [setbfree](http://setbfree.org) - DSP tonewheel organ ([◼](https://packages.debian.org/sid/setbfree))
 
