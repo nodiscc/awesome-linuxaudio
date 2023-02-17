@@ -675,7 +675,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [geomview](http://www.geomview.org/) - interactive geometry viewing program ([◼](https://packages.debian.org/sid/geomview))
 * [Houdini](https://www.sidefx.com/products/houdini-fx/) - Professionnal 3D animation solution using a procedural node-based workflow `©`
 * [javamorph](http://code.google.com/p/javamorph/) - Java morphing film-make program for pixel picture-input ([◼](https://packages.debian.org/sid/javamorph))
-* [mandelbulber](http://sites.google.com/site/mandelbulber/) - 3D fractal renderer and animator ([◼](https://packages.debian.org/sid/mandelbulber))
+* [mandelbulber2](https://github.com/buddhi1980/mandelbulber2) - 3D fractal renderer and animator ([◼](https://packages.debian.org/sid/mandelbulber2))
 * [meshlab](http://meshlab.sourceforge.net/) - System for processing and editing triangular meshes ([◼](https://packages.debian.org/sid/meshlab))
 * [mm3d](https://clover.moe/mm3d/) - OpenGL based 3D model editor ([◼](https://packages.debian.org/sid/mm3d))
 * [Substance Designer](https://www.allegorithmic.com/products/substance-designer) - Material Authoring Tool `©`
