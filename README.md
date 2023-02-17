@@ -151,7 +151,6 @@ List keys:
 * [linuxsampler-all](https://linuxsampler.org/)** - Realtime audio sampler. (Standalone, DSSI, LV2 and VST) `▒`
   * [ls16](https://packages.debian.org/sid/ls16) - DSSI plugin offering a front-end to the LinuxSampler library. `▒`
 * [luppp](https://github.com/openAVproductions/openAV-Luppp) - Music creation tool, intended for live use. `▒`
-* [petri-foo](http://petri-foo.sourceforge.net/) - MIDI controllable audio sampler - successor of specimen. ([◼](https://packages.debian.org/sid/petri-foo))
 * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit. ([◼](https://packages.debian.org/sid/qsampler))
 * [redux](http://www.renoise.com/products/redux) - Sample-based instrument, combined with a powerful phrase sequencer. `©`
 * [samplv1](http://samplv1.sourceforge.net/)** - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
