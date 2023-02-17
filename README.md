@@ -751,7 +751,6 @@ _Sample segmentation, analysis, programmable editors_
 * [exaile](http://www.exaile.org/) - flexible, full-featured audio player
 * [gnome-music](https://wiki.gnome.org/Apps/Music) - Music is the new GNOME music playing application ([◼](https://packages.debian.org/sid/gnome-music))
 * [gpodder](http://gpodder.org/) - podcast client and feed aggregator ([◼](https://packages.debian.org/sid/gpodder))
-* [guayadeque](http://sourceforge.net/projects/guayadeque) - lightweight music player ([◼](https://packages.debian.org/sid/guayadeque))
 * [lollypop](https://gitlab.gnome.org/World/lollypop) - modern music player for GNOME
 * [sonata](https://github.com/multani/sonata) - GTK+ client for the Music Player Daemon (MPD) ([◼](https://packages.debian.org/sid/sonata))
 * [strawberry](https://strawberrymusicplayer.org/) - audio player and music collection organizer, for of Clementine. ([◼](https://packages.debian.org/sid/strawberry))
