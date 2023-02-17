@@ -656,7 +656,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 ### 3D Modeling/CGI
 
 * **[blender](http://www.blender.org/)** - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
-* [aqsis](http://www.aqsis.org/) - 3D rendering solution adhering to the RenderMan(R) standard, binaries ([◼](https://packages.debian.org/sid/aqsis))
 * [cloudcompare](http://www.danielgm.net/cc/) - 3D point cloud and mesh processing software ([◼](https://packages.debian.org/sid/cloudcompare))
 * [Art of Illusion](http://www.artofillusion.org/) - 3D modeling and rendering studio written in Java.
 * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface.
