@@ -1,6 +1,6 @@
 #!/bin/bash
-# Description:
-# Requirements: bash sed grep cut
+# Description: generate debian packages list, using moinmoin wiki markup for https://wiki.debian.org/Multimedia
+# Requirements: bash sed grep cut. Debian Unstable sources list enabled (main contrib non-free sections).
 set -o errexit
 set -o nounset
 set -o pipefail

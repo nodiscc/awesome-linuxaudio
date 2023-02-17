@@ -14,6 +14,7 @@ test:
 debianwiki:
   image: debian:sid-slim
   before_script:
+    - sed -i 's/main/main contrib non-free/g' /etc/apt/sources.list.d/debian.sources
     - apt-get update && apt-get install -y make
   script:
     - make debianwiki
