@@ -428,6 +428,7 @@ List keys:
 * [gtick](http://www.antcom.de/gtick/) - Metronome application ([◼](https://packages.debian.org/sid/gtick))
 * [gtkguitune](https://packages.debian.org/sid/gtkguitune) - Guitar and other instruments tuner
 * [gxtuner](http://guitarix.sourceforge.net/) - Tuner for Jack ([◼](https://packages.debian.org/sid/gxtuner))
+* [klick](https://das.nasophon.de/klick/) - advanced metronome for JACK ([◼](https://packages.debian.org/sid/klick))
 * [lingot](https://packages.debian.org/sid/lingot) - accurate and easy to use musical instrument tuner
 
 
