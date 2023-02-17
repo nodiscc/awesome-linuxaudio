@@ -31,29 +31,29 @@ List keys:
     - [Other FX](#other-fx)
     - [DJing / Vinyl emulation](#djing--vinyl-emulation)
     - [Synthesizers](#synthesizers)
-    - [Additive](#additive)
-    - [Subtractive](#subtractive)
-    - [FM](#fm)
-    - [Wavetable](#wavetable)
-    - [Other synths](#other-synths)
-    - [Modular synths](#modular-synths)
-    - [Organ simulators](#organ-simulators)
+    - [Synthesizers - Additive](#synthesizers---additive)
+    - [Synthesizers - Subtractive](#synthesizers---subtractive)
+    - [Synthesizers - FM](#synthesizers---fm)
+    - [Synthesizers - Wavetable](#synthesizers---wavetable)
+    - [Synthesizers - Other](#synthesizers---other)
+    - [Synthesizers - Modular](#synthesizers---modular)
+    - [Synthesizers - Organ simulators](#synthesizers---organ-simulators)
     - [Audio utilities](#audio-utilities)
-    - [Misc](#misc)
-    - [Meters & Analysis](#meters--analysis)
-    - [Tuners & Metronomes](#tuners--metronomes)
-    - [MIDI Utilities](#midi-utilities)
-    - [Transcoding](#transcoding)
-    - [CD/DVD Ripping](#cddvd-ripping)
+    - [Audio utilities - Misc](#audio-utilities---misc)
+    - [Audio utilities - Meters & Analysis](#audio-utilities---meters--analysis)
+    - [Audio utilities - Tuners & Metronomes](#audio-utilities---tuners--metronomes)
+    - [Audio utilities - MIDI Utilities](#audio-utilities---midi-utilities)
+    - [Audio utilities - Transcoding](#audio-utilities---transcoding)
+    - [Audio utilities - CD/DVD Ripping](#audio-utilities---cddvd-ripping)
     - [System utilities](#system-utilities)
-    - [JACK](#jack)
-    - [ALSA](#alsa)
-    - [Firewire](#firewire)
-    - [Pipewire](#pipewire)
-    - [Plugin hosts & adapters](#plugin-hosts--adapters)
-    - [Pulseaudio](#pulseaudio)
-    - [Other system utilities](#other-system-utilities)
-    - [Network streaming/broadcasting](#network-streamingbroadcasting)
+    - [System utilities - JACK](#system-utilities---jack)
+    - [System utilities - ALSA](#system-utilities---alsa)
+    - [System utilities - Firewire](#system-utilities---firewire)
+    - [System utilities - Pipewire](#system-utilities---pipewire)
+    - [System utilities - Plugin hosts & adapters](#system-utilities---plugin-hosts--adapters)
+    - [System utilities - Pulseaudio](#system-utilities---pulseaudio)
+    - [System utilities - Other](#system-utilities---other)
+    - [System utilities - Network streaming/broadcasting](#system-utilities---network-streamingbroadcasting)
     - [Lighting](#lighting)
     - [Video](#video)
     - [D Modeling/CGI](#d-modelingcgi)
@@ -274,7 +274,7 @@ List keys:
 
 ### Synthesizers
 
-### Additive
+### Synthesizers - Additive
 
 * [add64](https://sourceforge.net/projects/add64/) - additive synthesizer for JACK `▒`
 * [andes](https://artfwo.github.io/andes/) - Sound synthesiser based on Perlin noise
@@ -284,7 +284,7 @@ List keys:
 * [zynaddsubfx](http://zynaddsubfx.sourceforge.net) - Realtime software synthesizer for Linux ([◼](https://packages.debian.org/sid/zynaddsubfx)) `▒`
 
 
-### Subtractive
+### Synthesizers - Subtractive
 
 * [amsynth](https://github.com/amsynth/amsynth) - Two oscillator software synthesizer. ([◼](https://packages.debian.org/sid/amsynth))
 * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins. ([◼](https://packages.debian.org/sid/blepvco)) `▒`
@@ -302,7 +302,7 @@ List keys:
 * [wolpertinger](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Subtractive synth with a sharp bandpass filter. `▒`
 
 
-### FM
+### Synthesizers - FM
 
 * [adlplug](https://github.com/jpcima/ADLplug) - FM synthesizer plugins, based on OPL3 and OPN2 sound chip emulations `▒`
 * [dexed](https://asb2m10.github.io/dexed/) - FM Plugin Synth closely modeled on the Yamaha DX7, including midi cartridge librarian/manager for the DX7. `▒`
@@ -312,13 +312,13 @@ List keys:
 * [oxefmsynth](http://www.oxesoft.com/) - 8 operators FM synth
 
 
-### Wavetable
+### Synthesizers - Wavetable
 
 * [sorcer](https://github.com/openAVproductions/openAV-Sorcer) - Sorcer polyphonic wavetable synth LV2 plugin `▒`
 * [wsynth-dssi](http://www.nekosynth.co.uk/wiki/wsynth) - hack on Xsynth-DSSI to allow wavetable synthesis ([◼](https://packages.debian.org/sid/wsynth-dssi)) `▒`
 
 
-### Other synths
+### Synthesizers - Other
 
 * [Chow Kick](https://chowdsp.com/products.html) - kick drum synthesizer based on creative physical modelling of old drum machine circuits
 * **[drumkv1](http://drumkv1.sourceforge.net/)** - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
@@ -356,7 +356,7 @@ List keys:
 * [organteq](https://www.modartt.com/organteq) - Physically modelled pipe organ. `©`
 
 
-### Modular synths
+### Synthesizers - Modular
 
 * [ams](http://alsamodular.sourceforge.net/) - Realtime modular synthesizer for ALSA ([◼](https://packages.debian.org/sid/ams))
 * [BEAST/BSE](https://github.com/tim-janik/beast/) - music composition and modular synthesis application
@@ -371,7 +371,7 @@ List keys:
 * [u-he Bazille](https://u-he.com/products/bazille/) - large polyphonic modular system with digital (PD, FM based) oscillators, multimode filters, modulation options, and more `©`
 
 
-### Organ simulators
+### Synthesizers - Organ simulators
 
 * [aeolus](http://kokkinizita.linuxaudio.org/linuxaudio/aeolus/) - Synthesised pipe organ emulator ([◼](https://packages.debian.org/sid/aeolus))
 * [azr3-jack](http://ll-plugins.nongnu.org/azr3/) - drawbar organ simulator ([◼](https://packages.debian.org/sid/azr3-jack))
@@ -381,7 +381,7 @@ List keys:
 
 ### Audio utilities
 
-### Misc
+### Audio utilities - Misc
 
 * **[sox](http://sox.sourceforge.net)** - Swiss army knife of sound processing ([◼](https://packages.debian.org/sid/sox))
 * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. 
@@ -401,7 +401,7 @@ List keys:
 * [timemachine](http://plugin.org.uk/timemachine/) - JACK audio recorder for spontaneous and conservatory use ([◼](https://packages.debian.org/sid/timemachine))
 
 
-### Meters & Analysis
+### Audio utilities - Meters & Analysis
 
 * **[easyssp](http://kxstudio.linuxaudio.org/Repositories:Plugins)** - audio visualization plugin (spectrometer/goniometer) (LV2 & VST) `▒`
 * [baudline](http://www.baudline.com/index.html) - Time-frequency browser designed for scientific visualization of the spectral domain - Fourier, correlation, transfer function, impulse response, and raster transforms 
@@ -422,7 +422,7 @@ List keys:
 * [xoscope](http://xoscope.sourceforge.net/) - digital oscilloscope ([◼](https://packages.debian.org/sid/xoscope))
 
 
-### Tuners & Metronomes
+### Audio utilities - Tuners & Metronomes
 
 * [fmit](http://gillesdegottex.github.io/fmit) - Free Music Instrument Tuner ([◼](https://packages.debian.org/sid/fmit))
 * [gtick](http://www.antcom.de/gtick/) - Metronome application ([◼](https://packages.debian.org/sid/gtick))
@@ -432,7 +432,7 @@ List keys:
 * [lingot](https://packages.debian.org/sid/lingot) - accurate and easy to use musical instrument tuner
 
 
-### MIDI Utilities
+### Audio utilities - MIDI Utilities
 
 * **[jack-keyboard](http://jack-keyboard.sourceforge.net)** - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))
 * **[timidity](http://timidity.sourceforge.net/)** - Software sound renderer (MIDI sequencer, MOD player)  ([◼](https://packages.debian.org/sid/timidity))
@@ -461,7 +461,7 @@ List keys:
 * [vmpk](http://vmpk.sourceforge.net/) - Virtual MIDI Piano Keyboard ([◼](https://packages.debian.org/sid/vmpk))
 
 
-### Transcoding
+### Audio utilities - Transcoding
 
 * **[qwinff](https://qwinff.github.io/)** - GUI for FFmpeg, a powerful command-line media converter. FFmpeg can read audio and video files in various formats and convert them into other formats. ([◼](https://packages.debian.org/sid/qwinff))
 * [ambdec](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - Ambisonic decoder for first and second order ([◼](https://packages.debian.org/sid/ambdec))
@@ -488,7 +488,7 @@ List keys:
 * [Ex Falso](https://quodlibet.readthedocs.io/en/latest/guide/editing_tags.html) - audio tag editor for GTK+ ([◼](https://packages.debian.org/sid/exfalso))
 
 
-### CD/DVD Ripping
+### Audio utilities - CD/DVD Ripping
 
 * **[asunder](http://www.littlesvr.ca/asunder)** - graphical audio CD ripper and encoder ([◼](https://packages.debian.org/sid/asunder))
 * **[handbrake](http://www.handbrake.fr/)** - versatile DVD ripper and video transcoder (GTK+ GUI) ([◼](https://packages.debian.org/sid/handbrake))
@@ -504,7 +504,7 @@ List keys:
 
 ### System utilities
 
-### JACK
+### System utilities - JACK
 
 * [Agordejo](https://laborejo.org/agordejo/) - is a music production session manager. It is used to start your programs, remember their (JACK) interconnections and make your life easier in general. `▒`
 * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
@@ -529,7 +529,7 @@ List keys:
 * [zita-mu1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html) - organise stereo monitoring for Jack Audio Connection Kit ([◼](https://packages.debian.org/sid/zita-mu1))
 
 
-### ALSA
+### System utilities - ALSA
 
 * [a2jmidid](https://packages.debian.org/sid/a2jmidid) - Daemon for exposing legacy ALSA MIDI in JACK MIDI systems ([◼](https://packages.debian.org/sid/a2jmidid))
 * [aconnectgui](https://packages.debian.org/sid/aconnectgui) - graphical ALSA sequencer connection manager
@@ -540,19 +540,19 @@ List keys:
 * [alsa-control](https://github.com/sezanzeb/alsa-control) - GUI based ALSA default soundcard and volume configurator with Dmix, Dsnoop and Softvol support
 
 
-### Firewire
+### System utilities - Firewire
 
 * [ffado-mixer-qt4](http://www.ffado.org) - FFADO D-Bus mixer applets (QT4) ([◼](https://packages.debian.org/sid/ffado-mixer-qt4))
 * [libraw1394-11](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([◼](https://packages.debian.org/sid/libraw1394-11))
 * [libraw1394-tools](https://ieee1394.wiki.kernel.org/) - library for direct access to IEEE 1394 bus (aka FireWire) ([◼](https://packages.debian.org/sid/libraw1394-tools))
 
 
-### Pipewire
+### System utilities - Pipewire
 
  * **[pipewire](https://pipewire.org/)** - PipeWire audio and video graph processing engine ([◼](https://packages.debian.org/sid/pipewire))
 
 
-### Plugin hosts & adapters
+### System utilities - Plugin hosts & adapters
 
 * **[carla/carla-git](https://kxstudio.linuxaudio.org/Applications:Carla)** - Carla is an audio plugin host, with support for many audio drivers and plugin formats, MIDI CC automation and OSC control. `▒`
   * [carla-bridge-linux/win/wine32/64](https://kxstudio.linuxaudio.org/Applications:Carla) - Carla bridges for loading linux / windows 32/64 bits plugins `▒`
@@ -567,7 +567,7 @@ List keys:
 * [wineasio](https://sourceforge.net/projects/wineasio/) - Wine ASIO driver for JACK `▒`
 * **[yabridge](https://github.com/robbert-vdh/yabridge)** - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux
 
-### Pulseaudio
+### System utilities - Pulseaudio
 
 * [paman](http://0pointer.de/lennart/projects/paman/) - PulseAudio Manager ([◼](https://packages.debian.org/sid/paman))
 * **[paprefs](http://freedesktop.org/software/pulseaudio/paprefs/)** - PulseAudio Preferences ([◼](https://packages.debian.org/sid/paprefs))
@@ -580,7 +580,7 @@ List keys:
 * **[pulseaudio](http://www.pulseaudio.org)** - PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio))
 
 
-### Other system utilities
+### System utilities - Other
 
 * [jalv](https://drobilla.net/software/jalv.html) - tool to run LV2 plugins as stand-alone applications ([◼](https://packages.debian.org/sid/jalv)) `▒`
   * [jalv.select](https://github.com/brummer10/jalv_select) - GUI to select lv2 plugs from a list and run them with jalv `▒`
@@ -590,7 +590,7 @@ List keys:
 * [rtirq-init](https://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
 * [rtkit](http://git.0pointer.net/rtkit.git/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
 
-### Network streaming/broadcasting
+### System utilities - Network streaming/broadcasting
 
 **See <https://github.com/awesome-selfhosted/awesome-selfhosted/#media-streaming> for the main list**
 
