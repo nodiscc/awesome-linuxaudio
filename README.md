@@ -785,27 +785,27 @@ _Sample segmentation, analysis, programmable editors_
 
 ### Metapackages
 
-* [multimedia-ambisonics](https://packages.debian.org/sid/multimedia-ambisonics) - Packages for working with ambisonics (3D surround sound)
-* [multimedia-audio-plugins](https://packages.debian.org/sid/multimedia-audio-plugins) - Audio processing plugins, synths and virtual instruments
-* [multimedia-devel](https://packages.debian.org/sid/multimedia-devel) - Extra packages for developers and package compiling
-* [multimedia-djing](https://packages.debian.org/sid/multimedia-djing) - DJ packages.
-* [multimedia-drums](https://packages.debian.org/sid/multimedia-drums) - Packages for drums & beats
-* [multimedia-firewire](https://packages.debian.org/sid/multimedia-firewire) - Packages for your firewire audiocard / interface
-* [multimedia-graphics](https://packages.debian.org/sid/multimedia-graphics) - Packages for making and editing artwork
-* [multimedia-guitar](https://packages.debian.org/sid/multimedia-guitar) - Packages for playing with your (virtual) guitar gear
-* [multimedia-jack](https://packages.debian.org/sid/multimedia-jack) - JACK (Jack Audio Connection Kit) and ALSA related packages
-* [multimedia-ladi](https://packages.debian.org/sid/multimedia-ladi) - LADI, Linuxaudio session management, packages
-* [multimedia-looping](https://packages.debian.org/sid/multimedia-looping) - Packages for looping music and audio
-* [multimedia-midi](https://packages.debian.org/sid/multimedia-midi) - MIDI related packages
-* [multimedia-mixing](https://packages.debian.org/sid/multimedia-mixing) - Packages for mixing and mastering your music
-* [multimedia-musiciantools](https://packages.debian.org/sid/multimedia-musiciantools) - Packages for musicians
-* [multimedia-players](https://packages.debian.org/sid/multimedia-players) - Packages which makes your multimedia tools complete
-* [multimedia-recording](https://packages.debian.org/sid/multimedia-recording) - Packages for audio recording
-* [multimedia-samplers](https://packages.debian.org/sid/multimedia-samplers) - Software samplers
-* [multimedia-soundsynthesis](https://packages.debian.org/sid/multimedia-soundsynthesis) - Packages for sound synthesis
-* [multimedia-tasks](https://packages.debian.org/sid/multimedia-tasks) - Debian Multimedia tasks for tasksel
-* [multimedia-timestretching](https://packages.debian.org/sid/multimedia-timestretching) - Packages for stretching music and audio
-* [multimedia-video](https://packages.debian.org/sid/multimedia-video) - Video packages
+* [multimedia-ambisonics](https://packages.debian.org/sid/multimedia-ambisonics) - Packages for working with ambisonics (3D surround sound) ([◼](https://packages.debian.org/sid/multimedia-ambisonics))
+* [multimedia-audio-plugins](https://packages.debian.org/sid/multimedia-audio-plugins) - Audio processing plugins, synths and virtual instruments ([◼](https://packages.debian.org/sid/multimedia-audio-plugins))
+* [multimedia-devel](https://packages.debian.org/sid/multimedia-devel) - Extra packages for developers and package compiling ([◼](https://packages.debian.org/sid/multimedia-devel))
+* [multimedia-djing](https://packages.debian.org/sid/multimedia-djing) - DJ packages. ([◼](https://packages.debian.org/sid/multimedia-djing))
+* [multimedia-drums](https://packages.debian.org/sid/multimedia-drums) - Packages for drums & beats ([◼](https://packages.debian.org/sid/multimedia-drums))
+* [multimedia-firewire](https://packages.debian.org/sid/multimedia-firewire) - Packages for your firewire audiocard / interface ([◼](https://packages.debian.org/sid/multimedia-firewire))
+* [multimedia-graphics](https://packages.debian.org/sid/multimedia-graphics) - Packages for making and editing artwork ([◼](https://packages.debian.org/sid/multimedia-graphics))
+* [multimedia-guitar](https://packages.debian.org/sid/multimedia-guitar) - Packages for playing with your (virtual) guitar gear ([◼](https://packages.debian.org/sid/multimedia-guitar))
+* [multimedia-jack](https://packages.debian.org/sid/multimedia-jack) - JACK (Jack Audio Connection Kit) and ALSA related packages ([◼](https://packages.debian.org/sid/multimedia-jack))
+* [multimedia-ladi](https://packages.debian.org/sid/multimedia-ladi) - LADI, Linuxaudio session management, packages ([◼](https://packages.debian.org/sid/multimedia-ladi))
+* [multimedia-looping](https://packages.debian.org/sid/multimedia-looping) - Packages for looping music and audio ([◼](https://packages.debian.org/sid/multimedia-looping))
+* [multimedia-midi](https://packages.debian.org/sid/multimedia-midi) - MIDI related packages ([◼](https://packages.debian.org/sid/multimedia-midi))
+* [multimedia-mixing](https://packages.debian.org/sid/multimedia-mixing) - Packages for mixing and mastering your music ([◼](https://packages.debian.org/sid/multimedia-mixing))
+* [multimedia-musiciantools](https://packages.debian.org/sid/multimedia-musiciantools) - Packages for musicians ([◼](https://packages.debian.org/sid/multimedia-musiciantools))
+* [multimedia-players](https://packages.debian.org/sid/multimedia-players) - Packages which makes your multimedia tools complete ([◼](https://packages.debian.org/sid/multimedia-players))
+* [multimedia-recording](https://packages.debian.org/sid/multimedia-recording) - Packages for audio recording ([◼](https://packages.debian.org/sid/multimedia-recording))
+* [multimedia-samplers](https://packages.debian.org/sid/multimedia-samplers) - Software samplers ([◼](https://packages.debian.org/sid/multimedia-samplers))
+* [multimedia-soundsynthesis](https://packages.debian.org/sid/multimedia-soundsynthesis) - Packages for sound synthesis ([◼](https://packages.debian.org/sid/multimedia-soundsynthesis))
+* [multimedia-tasks](https://packages.debian.org/sid/multimedia-tasks) - Debian Multimedia tasks for tasksel ([◼](https://packages.debian.org/sid/multimedia-tasks))
+* [multimedia-timestretching](https://packages.debian.org/sid/multimedia-timestretching) - Packages for stretching music and audio ([◼](https://packages.debian.org/sid/multimedia-timestretching))
+* [multimedia-video](https://packages.debian.org/sid/multimedia-video) - Video packages ([◼](https://packages.debian.org/sid/multimedia-video))
 * [kxstudio-meta-audio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins)- KXStudio meta-packages - Audio plugins
 * [kxstudio-meta-audio-plugins-collection](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - Collection of good audio plugins
 * [kxstudio-meta-audio-plugins-dssi](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - DSSI plugins
