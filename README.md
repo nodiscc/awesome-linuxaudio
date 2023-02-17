@@ -406,7 +406,6 @@ List keys:
 * [bitmeter](http://devel.tlrmx.org/audio/) - diagnosis tool for JACK audio software ([◼](https://packages.debian.org/sid/bitmeter))
 * [brp-pacu](http://sourceforge.net/projects/brp-pacu/) - audio analysis tool ([◼](https://packages.debian.org/sid/brp-pacu))
 * [ebumeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/) - Loudness measurement according to EBU-R128 ([◼](https://packages.debian.org/sid/ebumeter))
-* [extace](http://extace.sourceforge.net/) - waveform viewer ([◼](https://packages.debian.org/sid/extace))
 * [jaaa](http://kokkinizita.linuxaudio.org/linuxaudio/index.html#jaaa) - audio signal generator and spectrum analyser ([◼](https://packages.debian.org/sid/jaaa))
 * [jackmeter](http://www.aelius.com/njh/jackmeter/) - a basic command line meter for the JACK audio system ([◼](https://packages.debian.org/sid/jackmeter))
 * [japa](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK and ALSA Perceptual Analyser ([◼](https://packages.debian.org/sid/japa))
