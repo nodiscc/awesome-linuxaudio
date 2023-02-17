@@ -602,7 +602,6 @@ _Icecast clients_
 * [darksnow](http://darksnow.radiolivre.org/) - simple graphical user interface to darkice ([◼](https://packages.debian.org/sid/darksnow))
 * [ezstream](http://www.icecast.org/ezstream.php) - easy media streaming client over icecast servers ([◼](https://packages.debian.org/sid/ezstream))
 * [ices2](http://www.icecast.org/ices.php) - Ogg Vorbis streaming source for Icecast 2 ([◼](https://packages.debian.org/sid/ices2))
-* [idjc](http://idjc.sourceforge.net/) - graphical shoutcast/icecast client ([◼](https://packages.debian.org/sid/idjc))
 * [liquidsoap](http://savonet.sourceforge.net/) - audio streaming language ([◼](https://packages.debian.org/sid/liquidsoap))
 * [oggfwd](http://v2v.cc/~j/oggfwd/) - basic icecast source client for audio and video streaming ([◼](https://packages.debian.org/sid/oggfwd))
 
