@@ -76,6 +76,8 @@ List keys:
 
 ## Software
 
+<!-- BEGIN SOFTWARE LIST -->
+
 ### DAW/Sequencers
 
 * [1BITDRAGON](https://1bitdragon.com/) - easy to use sample based sequencer. Rhythm Generators, arpeggiators, MIDI/WAV export. `©`
@@ -812,6 +814,7 @@ _Sample segmentation, analysis, programmable editors_
 * [kxstudio-meta-audio-plugins-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - LV2 plugins
 * [kxstudio-meta-audio-plugins-vst](http://kxstudio.linuxaudio.org/Repositories:Plugins) - KXStudio meta-packages - VST plugins
 
+<!-- END SOFTWARE LIST -->
 
 ### Linux Distributions
 

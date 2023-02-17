@@ -10,3 +10,10 @@ test:
     - make checks
   only:
     - master
+
+debianwiki:
+  image: debian:sid-slim
+  before_script:
+    - apt-get update && apt-get install -y make
+  script:
+    - make debianwiki
