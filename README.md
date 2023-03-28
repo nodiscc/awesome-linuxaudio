@@ -145,15 +145,14 @@ List keys:
 * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
 * [giada](https://www.giadamusic.com/) - hardcore loop machine ([◼](https://packages.debian.org/sid/giada)) `▒`
 * [hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
-  * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits)) `▒`
-  * [hydrogen-drumkits-effects](http://www.hydrogen-music.org/?p=drumkits) - collection of unusual drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits-effects)) `▒`
+* [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits)) `▒`
+* [hydrogen-drumkits-effects](http://www.hydrogen-music.org/?p=drumkits) - collection of unusual drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits-effects)) `▒`
 * [kluppe](http://kluppe.klingt.org/) - Loop-player and recorder designed for live use. ([◼](https://packages.debian.org/sid/kluppe))
-* [linuxsampler-all](https://linuxsampler.org/)** - Realtime audio sampler. (Standalone, DSSI, LV2 and VST) `▒`
-  * [ls16](https://packages.debian.org/sid/ls16) - DSSI plugin offering a front-end to the LinuxSampler library. `▒`
+* [linuxsampler-all](https://linuxsampler.org/) - Realtime audio sampler. (Standalone, DSSI, LV2 and VST) `▒`
 * [luppp](https://github.com/openAVproductions/openAV-Luppp) - Music creation tool, intended for live use. `▒`
 * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit. ([◼](https://packages.debian.org/sid/qsampler))
 * [redux](http://www.renoise.com/products/redux) - Sample-based instrument, combined with a powerful phrase sequencer. `©`
-* [samplv1](http://samplv1.sourceforge.net/)** - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
+* [samplv1](http://samplv1.sourceforge.net/) - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [soundux](https://soundux.rocks/) - A cross-platform soundboard
