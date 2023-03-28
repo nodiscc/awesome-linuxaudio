@@ -730,7 +730,8 @@ _Sample segmentation, analysis, programmable editors_
 * [impro-visor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Jazz improvisation advisor `▒`
 * [lilypond](http://lilypond.org/) - program for typesetting sheet music ([◼](https://packages.debian.org/sid/lilypond))
 * [nted](http://vsr.informatik.tu-chemnitz.de/staff/jan/nted/nted.xhtml) - Musical score editor ([◼](https://packages.debian.org/sid/nted))
-* [tuxguitar](http://www.tuxguitar.com.ar) - Multitrack guitar tablature editor and player (gp3 to gp5) ([◼](https://packages.debian.org/sid/tuxguitar)) `▒`
+* [tuxguitar](http://www.tuxguitar.com.ar) - Multitrack guitar tablature editor and player (gp3 to gp5) ([◼](https://packages.debian.org/sid/tuxguitar))
+* [tuxguitar-synth-lv2](http://www.tuxguitar.com.ar) - tuxguitar LV2 audio plugin ([◼](https://packages.debian.org/sid/tuxguitar-synth-lv2))
 
 
 ### Media players
