@@ -591,6 +591,7 @@ List keys:
 * [vlc-bin](http://www.videolan.org/vlc/) - multimedia player and streamer (headless) ([◼](https://packages.debian.org/sid/vlc-bin))
 * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
 * [zita-njbridge](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Jack clients to transmit multichannel audio over a local IP network ([◼](https://packages.debian.org/sid/zita-njbridge))
+* [jamulus](https://jamulus.io/) - Low latency audio server/client for collaborative music sessions
 
 
 _Icecast clients_
