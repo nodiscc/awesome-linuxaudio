@@ -573,36 +573,36 @@ List keys:
 ### System utilities - Other
 
 * [jalv](https://drobilla.net/software/jalv.html) - tool to run LV2 plugins as stand-alone applications ([◼](https://packages.debian.org/sid/jalv)) `▒`
-  * [jalv.select](https://github.com/brummer10/jalv_select) - GUI to select lv2 plugs from a list and run them with jalv `▒`
+* [jalv.select](https://github.com/brummer10/jalv_select) - GUI to select lv2 plugs from a list and run them with jalv `▒`
 * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-686-pae) - Linux for modern PCs (meta-package), PREEMPT_RT
 * [linux-image-rt-686-pae](https://packages.debian.org/sid/linux-image-rt-amd64) - Linux for modern PCs (meta-package), PREEMPT_RT 
 * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio 
 * [rtirq-init](https://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
 * [rtkit](http://git.0pointer.net/rtkit.git/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
 
+
 ### System utilities - Network streaming/broadcasting
 
 **See <https://github.com/awesome-selfhosted/awesome-selfhosted/#media-streaming> for the main list**
 
-* **[Open Broadcaster Software](https://obsproject.com/)** - recorder and streamer for live video content ([◼](https://packages.debian.org/sid/obs-studio))
 * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
 * [gpac](http://gpac.wp.mines-telecom.fr/) - GPAC Project on Advanced Content ([◼](https://packages.debian.org/sid/gpac))
+* [jamulus](https://jamulus.io/) - Low latency audio server/client for collaborative music sessions
 * [larigira](https://git.lattuga.net/boyska/larigira) - radio automation software based on MPD
+* [Open Broadcaster Software](https://obsproject.com/) - recorder and streamer for live video content ([◼](https://packages.debian.org/sid/obs-studio))
 * [vlc-bin](http://www.videolan.org/vlc/) - multimedia player and streamer (headless) ([◼](https://packages.debian.org/sid/vlc-bin))
 * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
 * [zita-njbridge](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - Jack clients to transmit multichannel audio over a local IP network ([◼](https://packages.debian.org/sid/zita-njbridge))
-* [jamulus](https://jamulus.io/) - Low latency audio server/client for collaborative music sessions
-
 
 _Icecast clients_
 
 * [darkice](http://darkice.org/) - Live audio streamer ([◼](https://packages.debian.org/sid/darkice))
 * [darksnow](http://darksnow.radiolivre.org/) - simple graphical user interface to darkice ([◼](https://packages.debian.org/sid/darksnow))
+* [DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - light and instant streaming client for audio and video written in Python
 * [ezstream](http://www.icecast.org/ezstream.php) - easy media streaming client over icecast servers ([◼](https://packages.debian.org/sid/ezstream))
 * [ices2](http://www.icecast.org/ices.php) - Ogg Vorbis streaming source for Icecast 2 ([◼](https://packages.debian.org/sid/ices2))
 * [liquidsoap](http://savonet.sourceforge.net/) - audio streaming language ([◼](https://packages.debian.org/sid/liquidsoap))
 * [oggfwd](http://v2v.cc/~j/oggfwd/) - basic icecast source client for audio and video streaming ([◼](https://packages.debian.org/sid/oggfwd))
-* [DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - light and instant streaming client for audio and video written in Python
 
 
 ### Lighting
