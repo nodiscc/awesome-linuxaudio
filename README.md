@@ -153,6 +153,7 @@ List keys:
 * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit. ([◼](https://packages.debian.org/sid/qsampler))
 * [redux](http://www.renoise.com/products/redux) - Sample-based instrument, combined with a powerful phrase sequencer. `©`
 * [samplv1](http://samplv1.sourceforge.net/) - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
+* [sfizz](https://sfz.tools/sfizz/) - SFZ sampler and synth (library, AU/LV2/VST3 plugins and JACK standalone).
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [soundux](https://soundux.rocks/) - A cross-platform soundboard
