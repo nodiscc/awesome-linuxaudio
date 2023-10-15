@@ -56,7 +56,7 @@ List keys:
     - [System utilities - Network streaming/broadcasting](#system-utilities---network-streamingbroadcasting)
     - [Lighting](#lighting)
     - [Video](#video)
-    - [D Modeling/CGI](#d-modelingcgi)
+    - [CGI & 3D Modeling](#cgi--3d-modeling)
     - [Authoring](#authoring)
     - [Signal processing/electronics](#signal-processingelectronics)
     - [Score Editors](#score-editors)
@@ -653,7 +653,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [Syncplay](https://syncplay.pl/) - Synchronize playback of various video players via internet. ([◼](https://packages.debian.org/sid/syncplay))
 
 
-### 3D Modeling/CGI
+### CGI & 3D Modeling
 
 * **[blender](http://www.blender.org/)** - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
 * [cloudcompare](http://www.danielgm.net/cc/) - 3D point cloud and mesh processing software ([◼](https://packages.debian.org/sid/cloudcompare))
