@@ -661,6 +661,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface.
 * [EQUINOX-3D](http://www.equinox3d.com/) -  The 3D modeler with the fastest, fully integrated ray-tracer. `©`
 * [evolvotron](https://sourceforge.net/projects/evolvotron/) - Generator of textures through interactive evolution ([◼](https://packages.debian.org/sid/evolvotron))
+* [f3d](https://f3d.app/) - Fast and minimalist 3D viewer ([◼](https://packages.debian.org/sid/f3d))
 * [flumotion](https://packages.debian.org/sid/flumotion) - modern streaming media server built with a modular distributed design, giving you stability and scalability in offering high-quality streaming media.
 * [fractalnow](http://fractalnow.sourceforge.net) - Fast, advanced fractal generator ([◼](https://packages.debian.org/sid/fractalnow))
 * [fraqtive](http://fraqtive.mimec.org/) - draws Mandelbrot and Julia fractals ([◼](https://packages.debian.org/sid/fraqtive))
