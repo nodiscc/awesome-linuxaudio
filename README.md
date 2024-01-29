@@ -721,7 +721,6 @@ _Sample segmentation, analysis, programmable editors_
 * [aubio-tools](http://aubio.org) - library for audio segmentation -- utilities ([◼](https://packages.debian.org/sid/aubio-tools))
 * [snd-gtk-jack](http://ccrma.stanford.edu/software/snd/) - Powerful sound file editor that can be customized and extended using the Scheme programming language ([◼](https://packages.debian.org/sid/snd-gtk-jack))
 * [SndBite](http://billposer.org/Software/SndBite.html) - audio editor specialized in linguistic research, designed for breaking large recordings into smaller components with great efficiency.
-* [wavesurfer](http://www.speech.kth.se/wavesurfer) - Sound visualization and manipulation program for speech/sound analysis and sound annotation/transcription ([◼](https://packages.debian.org/sid/wavesurfer))
 
 
 ### Score Editors
