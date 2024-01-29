@@ -597,7 +597,6 @@ List keys:
 _Icecast clients_
 
 * [darkice](http://darkice.org/) - Live audio streamer ([◼](https://packages.debian.org/sid/darkice))
-* [darksnow](http://darksnow.radiolivre.org/) - simple graphical user interface to darkice ([◼](https://packages.debian.org/sid/darksnow))
 * [DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - light and instant streaming client for audio and video written in Python
 * [ezstream](http://www.icecast.org/ezstream.php) - easy media streaming client over icecast servers ([◼](https://packages.debian.org/sid/ezstream))
 * [ices2](http://www.icecast.org/ices.php) - Ogg Vorbis streaming source for Icecast 2 ([◼](https://packages.debian.org/sid/ices2))
