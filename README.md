@@ -80,7 +80,7 @@ List keys:
 
 ### DAW/Sequencers
 
-* **[ardour](http://www.ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
+* **[ardour](http://ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
 * **[lmms](http://lmms.io/)** - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
 * **[vcvrack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW `▒`
 * [1BITDRAGON](https://1bitdragon.com/) - easy to use sample based sequencer. Rhythm Generators, arpeggiators, MIDI/WAV export. `©`
@@ -142,7 +142,7 @@ List keys:
 * [bliss](https://www.discodsp.com/bliss/) - Performance sampler featuring scalable & themeable GUI, VSTi sampling, 8 macro assignments, dual zero delay feedback filters, sample editor, 7 built-in effects, flexible modulation, parameter morphing and highest offline resampling quality using 512 points SINC algorithm. `©`
 * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
 * [drumgizmo](http://www.drumgizmo.org/wiki/) - multichannel, multilayered, cross-platform drum plugin and stand-alone application. It enables you to compose drums in midi  and mix them with a multichannel approach ([◼](https://packages.debian.org/sid/drumgizmo)) `▒`
-* [Fluajho](https://laborejo.org/fluajho)- a simple sf2 soundfont host/player for Linux. Behind the scenes the Fluidsynth library is at work, hence the name. `▒`
+* [Fluajho](https://www.laborejo.org/documentation/fluajho/english.html)- a simple sf2 soundfont host/player for Linux. Behind the scenes the Fluidsynth library is at work, hence the name. `▒`
 * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
 * [giada](https://www.giadamusic.com/) - hardcore loop machine ([◼](https://packages.debian.org/sid/giada)) `▒`
 * [hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
