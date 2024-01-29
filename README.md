@@ -173,7 +173,6 @@ List keys:
 * **[tal-plugins](https://tal-software.com/)** - Togu Audio Line Plugins (Dub-3, Filter/-2, Reverb/-2/-3, Vocoder-2) `▒`
 * [ACMT Essential VST Plug-Ins Collection for Linux](https://www.acmt.co.uk/products/download-acmt-essential) - A comprehensive range of essential high-end analogue modelled plug-ins for Linux `©`
 * [amb-plugins](https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/) - ambisonics LADSPA plugins ([◼](https://packages.debian.org/sid/amb-plugins))
-* [arctican-plugins](http://arcticanaudio.com/) - Arctican Plugins `▒`
 * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
 * [avw.lv2](https://github.com/mfisher31/avwlv2) - collection of Voltage Controlled LV2 modules ([◼](https://packages.debian.org/sid/avw.lv2)) `2013`
 * [BYOD](https://chowdsp.com/products.html) - Build-Your-Own-Distortion is an audio plugin that allows the user to create custom guitar effects, with a focus on guitar distortion
