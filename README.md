@@ -823,7 +823,6 @@ _Sample segmentation, analysis, programmable editors_
 ### Other Software Lists
 
 * [Linux Audio Wiki - All apps](http://wiki.linuxaudio.org/apps/all)
-* [linux-sound.org - Sound & Midi software for Linux](http://linux-sound.org/one-page.html)
 * [LinuxMusic.Rocks - Searcheable Linux compatible Plugin database](http://linuxmusic.rocks/) 
 * [Linux Software on KVR Audio](http://www.kvraudio.com/plugins/linux/newest)
   * [Effects](http://www.kvraudio.com/plugins/linux/effects/most-popular)
