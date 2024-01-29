@@ -331,8 +331,6 @@ List keys:
 * [fluid-soundfont-gs](https://packages.debian.org/sid/fluid-soundfont-gs) - Fluid (R3) General MIDI SoundFont (GS)
 * [fluidr3-gm-soundfont](https://packages.debian.org/sid/fluidr3-gm-soundfont) - Fluid (R3) Mono GM SoundFont from MuseScore 2
 * [fluidsynth/-static](http://www.fluidsynth.org/) - Real-time MIDI software synthesizer with plugins for media players ([◼](https://packages.debian.org/sid/fluidsynth)) `▒`
-* [freebirth](https://packages.debian.org/sid/freebirth) - Bass synthesizer/sample player/sequencer ([◼](https://packages.debian.org/sid/freebirth))
-* [freebirth-data](https://packages.debian.org/sid/freebirth-data) - Bass synthesizer/sample player/sequencer -- sound samples ([◼](https://packages.debian.org/sid/freebirth-data))
 * [geonkick](https://geonkick.org/) - synthesizer capable of generating a wide range of percussive sounds
 * [gmorgan](http://gmorgan.sourceforge.net/) - MIDI rhythm station emulator software
 * [newtonator](http://kxstudio.linuxaudio.org/Repositories:Plugins) - LV2 synth that produces unpredictable sounds `▒`
