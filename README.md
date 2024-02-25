@@ -728,6 +728,7 @@ _Sample segmentation, analysis, programmable editors_
 
 * **[musescore](http://musescore.org/)** - popular professional level WYIWYG music score editor ([◼](https://packages.debian.org/sid/musescore))
 * [ariamaestosa](http://ariamaestosa.sourceforge.net/) - midi tracker/editor with keyboard, guitar, drum and controller views. `▒`
+* [Harmony Assistant](https://www.myriad-online.com/en/products/harmony.htm) - powerful score editor that includes a digital synthesizer and thousands of great features. `©`
 * [denemo](http://www.denemo.org) - GTK+ front end to GNU Lilypond ([◼](https://packages.debian.org/sid/denemo))
 * [impro-visor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Jazz improvisation advisor `▒`
 * [lilypond](http://lilypond.org/) - program for typesetting sheet music ([◼](https://packages.debian.org/sid/lilypond))
