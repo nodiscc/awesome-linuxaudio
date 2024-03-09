@@ -173,7 +173,7 @@ List keys:
 * **[calf-plugins](http://calf.sourceforge.net/)** - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
 * **[dpf-plugins](https://github.com/DISTRHO/DPF-Plugins)** - audio plugin collection from DISTRHO `▒`
 * **[freaked-plugins](https://github.com/pjotrompet/Freaked)** - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `▒`
-* **[Linux Studio Plugins (LSP)](https://lsp-plug.in/)** - Collection of Open Source LV2/LADSPA/VST/standalone audio processing applications.
+* **[Linux Studio Plugins (LSP)](https://lsp-plug.in/)** - Collection of Open Source LV2/LADSPA/VST/standalone audio processing applications. ([◼](https://packages.debian.org/sid/lsp-plugins))
 * **[tal-plugins](https://tal-software.com/)** - Togu Audio Line Plugins (Dub-3, Filter/-2, Reverb/-2/-3, Vocoder-2) `▒`
 * [ACMT Essential VST Plug-Ins Collection for Linux](https://www.acmt.co.uk/products/download-acmt-essential) - A comprehensive range of essential high-end analogue modelled plug-ins for Linux `©`
 * [amb-plugins](https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/) - ambisonics LADSPA plugins ([◼](https://packages.debian.org/sid/amb-plugins))
