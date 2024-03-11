@@ -123,6 +123,7 @@ List keys:
 * [schism](http://schismtracker.org/) - ImpulseTracker clone aiming at providing the same look & feel. ([◼](https://packages.debian.org/sid/schism))
 * [tiatracker](https://bitbucket.org/kylearan/tiatracker) - music tracker for making Atari VCS 2600. ([◼](https://packages.debian.org/sid/tiatracker))
 * [tutka](http://www.nongnu.org/tutka/) - tracker style MIDI sequencer. ([◼](https://packages.debian.org/sid/tutka))
+* [vht](https://github.com/rdybka/vht) - live midi sequencer/tracker for JACK/GTK.
 * [zytrax](https://github.com/reduz/zytrax) - Easy to use, tracker-inspired music sequencer. ([◼](https://packages.debian.org/sid/zytrax))
 
 ### Audio Editors
