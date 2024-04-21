@@ -322,6 +322,7 @@ List keys:
 
 ### Synthesizers - Other
 
+* [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - software modular synthesizer. ([◼](https://packages.debian.org/sid/bespokesynth))
 * [Chow Kick](https://chowdsp.com/products.html) - kick drum synthesizer based on creative physical modelling of old drum machine circuits
 * **[drumkv1](http://drumkv1.sourceforge.net/)** - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
 * **[fabla](https://github.com/openAVproductions/openAV-Fabla2)** - Fabla drum sampler plugin instrument `▒`
