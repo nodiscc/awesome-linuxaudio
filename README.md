@@ -211,6 +211,7 @@ List keys:
 * [vco-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - LADSPA plugin sporting anti-aliased oscillators ([◼](https://packages.debian.org/sid/vco-plugins)) `▒`
 * [x42-plugins](https://github.com/x42/x42-plugins) - Collection of LV2 plugins ([◼](https://packages.debian.org/sid/x42-plugins)) `▒`
 * [zam-plugins](http://www.zamaudio.com/) - Plugins for high quality audio processing ([◼](https://packages.debian.org/sid/zam-plugins)) `▒`
+* [ZL Audio Plugins](https://github.com/ZL-Audio) - ZL Audio makes audio plugins and audio processing tools
 
 
 ### EQ
