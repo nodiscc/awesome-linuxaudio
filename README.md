@@ -233,6 +233,7 @@ List keys:
 * [deteriorate-lv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - set of LV2 plugins to deteriorate sound quality `▒`
 * [dragonfly-reverb](https://michaelwillis.github.io/dragonfly-reverb/) - bundle of free audio reverb effects. ([◼](https://packages.debian.org/sid/dragonfly-reverb))
 * [drc](http://drc-fir.sourceforge.net/) - digital room correction ([◼](https://packages.debian.org/sid/drc))
+* [Fire](https://jerryuhoo.github.io/Fire/) - mutiband distortion plugin
 * [freqtweak](http://freqtweak.sourceforge.net/) - Realtime audio frequency spectral manipulation
 * [g2reverb](https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/) -reverb LADSPA plugin `▒`
 * [glitch](http://illformed.com/) - Multi-effects audio plugin with sequencer `©`
