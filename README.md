@@ -816,6 +816,7 @@ _Sample segmentation, analysis, programmable editors_
 
 ## SAMPLES/PRESETS/RESOURCES
 
+* [assets](https://github.com/LMMS/assets) - Samples, presets, projects and patches for LMMS
 * **[Musical Artifacts](https://musical-artifacts.com/)** - Helping to catalogue, preserve and free the artifacts you need to produce music. 
 * [Freesound](http://www.freesound.org/browse/) - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
 * [CCMixter](http://ccmixter.org/) - Search engine for Creative Commons multimedia content
