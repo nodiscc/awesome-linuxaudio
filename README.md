@@ -255,6 +255,7 @@ List keys:
 * [rakarrack](http://rakarrack.sourceforge.net) - Simple and easy guitar effects processor for GNU/Linux ([◼](https://packages.debian.org/sid/rakarrack))
 * [rev-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - reverb LADSPA plugin ([◼](https://packages.debian.org/sid/rev-plugins))
 * [rkrlv2](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Rakarrack LV2 Plugin Ports `▒`
+* [RoomReverb](https://www.elephantdsp.com/products/room-reverb/) - mono/stereo to stereo algorithmic reverb
 * [rubberband-ladspa](http://www.breakfastquay.com/rubberband/) - LADSPA plugin for audio pitch-shifting ([◼](https://packages.debian.org/sid/rubberband-ladspa))
 * [rubberband-lv2](http://www.breakfastquay.com/rubberband/) - LV2 plugin for audio pitch-shifting ([◼](https://packages.debian.org/sid/rubberband-lv2))
 * [sonic](https://github.com/waywardgeek/sonic) - Simple utility to speed up or slow down speech ([◼](https://packages.debian.org/sid/sonic))
