@@ -170,7 +170,7 @@ List keys:
 
 ### Collections
 
-* **[calf-plugins](http://calf.sourceforge.net/)** - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
+* **[calf-plugins](https://calf-studio-gear.org/)** - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
 * **[dpf-plugins](https://github.com/DISTRHO/DPF-Plugins)** - audio plugin collection from DISTRHO `▒`
 * **[freaked-plugins](https://github.com/pjotrompet/Freaked)** - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `▒`
 * **[Linux Studio Plugins (LSP)](https://lsp-plug.in/)** - Collection of Open Source LV2/LADSPA/VST/standalone audio processing applications. ([◼](https://packages.debian.org/sid/lsp-plugins))
