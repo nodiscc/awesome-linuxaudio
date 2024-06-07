@@ -828,7 +828,7 @@ _Sample segmentation, analysis, programmable editors_
 * [Freesound](http://www.freesound.org/browse/) - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
 * [CCMixter](http://ccmixter.org/) - Search engine for Creative Commons multimedia content
 * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
-* [assets](https://github.com/LMMS/assets) - Samples, presets, projects and patches for LMMS
+* [LMMS assets](https://github.com/LMMS/assets) - Samples, presets, projects and patches for LMMS
 
 ---------------------------------------------
 
