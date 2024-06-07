@@ -273,7 +273,6 @@ List keys:
 * [wah-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - auto-wah LADSPA plugin ([◼](https://packages.debian.org/sid/wah-plugins))
 * [wasp-ladspa](http://kxstudio.linuxaudio.org/Repositories:Plugins) - WASP LADSPA plugin `▒`
 * [wolf-shaper](https://wolf-plugins.github.io/wolf-shaper/) - Waveshaper plugin with a spline-based graph editor
-* [wolf-spectrum](https://github.com/wolf-plugins/wolf-spectrum) - Real-time 2D spectrogram plugin
 * [zita-at1](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK autotuner ([◼](https://packages.debian.org/sid/zita-at1))
 * [zita-rev1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-rev1-doc/quickguide.html) - pro-audio reverb effect  ([◼](https://packages.debian.org/sid/zita-rev1))
 
@@ -432,6 +431,7 @@ List keys:
 * [Scope](https://www.discodsp.com/scope/) - Simple oscilloscope `©`
 * [sonic-visualiser](http://www.sonicvisualiser.org) - View and analyse the contents of music audio files ([◼](https://packages.debian.org/sid/sonic-visualiser))
 * [spek](https://packages.debian.org/sid/spek) - acoustic spectrum analyser
+* [wolf-spectrum](https://github.com/wolf-plugins/wolf-spectrum) - Real-time 2D spectrogram plugin
 * [xoscope](http://xoscope.sourceforge.net/) - digital oscilloscope ([◼](https://packages.debian.org/sid/xoscope))
 
 
