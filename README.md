@@ -246,6 +246,7 @@ List keys:
 * [holap](http://kxstudio.linuxaudio.org/Repositories:Plugins) - Holborn Audio DSSI and LADSPA audio plugins including DSP effects and a FM synthesizer `▒`
 * [ir.lv2](https://tomscii.sig7.se/plugins/ir.lv2/) - LV2 IR reverb ([◼](https://packages.debian.org/sid/ir.lv2)) `▒`
 * [klangfalter](https://github.com/HiFi-LoFi/KlangFalter) - convolution reverb audio plugin (LV2/VST) `▒`
+* [lamb-rs](https://github.com/magnetophon/lamb-rs) - A lookahead compressor/limiter that's soft as a lamb.
 * [LoudMax](https://loudmax.blogspot.com/) - Look-Ahead Brickwall Loudness Maximizer LADSPA Plugin with a clean transparent sound. It is designed to retain the original character of the music as much as possible `©`
 * [lv2vocoder](https://packages.debian.org/sid/lv2vocoder) - LV2 vocoder plugin ([◼](https://packages.debian.org/sid/lv2vocoder))
 * [mod-distortion](http://kxstudio.linuxaudio.org/Repositories:Plugins) - analog distortion emulation plugin `▒`
