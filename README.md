@@ -204,8 +204,8 @@ List keys:
 * [mod-utilities](https://github.com/moddevices/mod-utilities) - LV2 plugin utilities (filters/gain/switches/meter) `▒`
 * [psi-plugins](https://github.com/ycollet/psi-plugins) - small collection of LV2 plugins ideal for (but not limited to) electronic music.
 * [ste-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - stereo LADPSA plugins ([◼](https://packages.debian.org/sid/ste-plugins)) `▒`
-* [swh-lv2](http://plugin.org.uk/) - Steve Harris's SWH plugins ported to LV2 ([◼](https://packages.debian.org/sid/swh-lv2)) `▒`
-* [swh-plugins](http://plugin.org.uk/) - Steve Harris's LADSPA plugins ([◼](https://packages.debian.org/sid/swh-plugins)) `▒`
+* [swh-lv2](https://github.com/swh/lv2) - Steve Harris's SWH plugins ported to LV2 ([◼](https://packages.debian.org/sid/swh-lv2)) `▒`
+* [swh-plugins](https://github.com/swh/ladspa) - Steve Harris's LADSPA plugins ([◼](https://packages.debian.org/sid/swh-plugins)) `▒`
 * [tap-plugins](http://tap-plugins.sourceforge.net/) - Tom's Audio Processing LADSPA plugins ([◼](https://packages.debian.org/sid/tap-plugins)) `▒`
 * [teragonaudio-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - audio plugins from Teragon Audio `▒`
 * [vcf-plugins](http://kxstudio.linuxaudio.org/Repositories:Plugins) - VCF LADSPA plugins `▒`
@@ -637,7 +637,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * **[olive](https://olivevideoeditor.org/) - Professional open-source NLE video editor ([◼](https://packages.debian.org/sid/olive-editor))**
 * [auto-editor](https://auto-editor.com/) - a program for automatically editing video and audio by analyzing a variety of methods, most notably audio loudness. ([◼](https://packages.debian.org/sid/auto-editor))
 * [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - editing, color correction and professional audio post production, all in a single application `©`
-* [CasparCG Server](http://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production 
+* [CasparCG Server](https://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production ([◼](https://packages.debian.org/sid/casparcg-server))
 * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
 * [cinelerra](http://cinelerra.org/) - Cinema Production Software 
 * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
