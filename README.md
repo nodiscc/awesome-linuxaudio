@@ -845,6 +845,7 @@ _Sample segmentation, analysis, programmable editors_
   * [Effects](http://www.kvraudio.com/plugins/linux/effects/most-popular)
   * [Instruments](http://www.kvraudio.com/plugins/linux/instruments/most-popular)
   * [Hosts](http://www.kvraudio.com/plugins/linux/hosts/most-popular)
+* [linuxdaw.org](https://linuxdaw.org/) - list of quality audio software for Linux
 * [Awesome Linux Software (audio section)](https://github.com/LewisVo/Awesome-Linux-Software#audio)
 * [Comparison of free software for audio - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
 * [LV2 Plugins list](http://lv2plug.in/pages/projects.html)
