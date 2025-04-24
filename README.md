@@ -85,6 +85,7 @@ List keys:
 * **[vcvrack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW `▒`
 * [1BITDRAGON](https://1bitdragon.com/) - easy to use sample based sequencer. Rhythm Generators, arpeggiators, MIDI/WAV export. `©`
 * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
+* [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - software modular synthesizer. ([◼](https://packages.debian.org/sid/bespokesynth))
 * [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio.html) - dynamic software for creation and performance of your musical ideas on stage or in the studio. `©` 
 * [dino](http://dino.nongnu.org/) - Integrated MIDI piano roll editor and sequencer engine
 * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
@@ -144,22 +145,26 @@ List keys:
 ### Samplers
 
 * **[samplv1](http://samplv1.sourceforge.net/)** - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
+* [Ami-Sampler-VST](https://github.com/astriiddev/Ami-Sampler-VST) - VSTi 8-bit Sampler inspired by the sound of the famous Commodore Amiga for Windows/MacOS/Linux using VST3/AU/LV2
 * [avldrums.lv2](https://x42-plugins.com/x42/x42-avldrums) - drum sample player plugin dedicated to Glen MacArthur's AVLdrums. Rapidly sequence and mix midi-drums. `▒`
 * [bliss](https://www.discodsp.com/bliss/) - Performance sampler featuring scalable & themeable GUI, VSTi sampling, 8 macro assignments, dual zero delay feedback filters, sample editor, 7 built-in effects, flexible modulation, parameter morphing and highest offline resampling quality using 512 points SINC algorithm. `©`
 * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
 * [drumgizmo](http://www.drumgizmo.org/wiki/) - multichannel, multilayered, cross-platform drum plugin and stand-alone application. It enables you to compose drums in midi  and mix them with a multichannel approach ([◼](https://packages.debian.org/sid/drumgizmo)) `▒`
+* [drumlabooh](https://github.com/psemiletov/drumlabooh) - LV2/VSTi drum machine that can use Hydrogen, SFZ, and own drumkit formats
 * [Fluajho](https://www.laborejo.org/documentation/fluajho/english.html)- a simple sf2 soundfont host/player for Linux. Behind the scenes the Fluidsynth library is at work, hence the name. `▒`
 * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
 * [giada](https://www.giadamusic.com/) - hardcore loop machine ([◼](https://packages.debian.org/sid/giada)) `▒`
 * [hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
 * [hydrogen-drumkits](http://www.hydrogen-music.org/?p=drumkits) - drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits)) `▒`
 * [hydrogen-drumkits-effects](http://www.hydrogen-music.org/?p=drumkits) - collection of unusual drumkits for Hydrogen ([◼](https://packages.debian.org/sid/hydrogen-drumkits-effects)) `▒`
+* [Just-a-Sample](https://github.com/BOBONA/Just-a-Sample) - Just a Sample is a modern, open-source audio sampler
 * [kluppe](http://kluppe.klingt.org/) - Loop-player and recorder designed for live use. ([◼](https://packages.debian.org/sid/kluppe))
 * [linuxsampler-all](https://linuxsampler.org/) - Realtime audio sampler. (Standalone, DSSI, LV2 and VST) `▒`
 * [luppp](https://github.com/openAVproductions/openAV-Luppp) - Music creation tool, intended for live use. `▒`
 * [qsampler](http://qsampler.sf.net/) - LinuxSampler GUI frontend based on the Qt toolkit. ([◼](https://packages.debian.org/sid/qsampler))
 * [redux](http://www.renoise.com/products/redux) - Sample-based instrument, combined with a powerful phrase sequencer. `©`
 * [sfizz](https://sfz.tools/sfizz/) - SFZ sampler and synth (library, AU/LV2/VST3 plugins and JACK standalone).
+* [shoopdaloop](https://github.com/SanderVocke/shoopdaloop) - A (live) looping application with DAW elements.
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [soundux](https://soundux.rocks/) - A cross-platform soundboard
@@ -333,7 +338,6 @@ List keys:
 
 ### Synthesizers - Other
 
-* [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - software modular synthesizer. ([◼](https://packages.debian.org/sid/bespokesynth))
 * [Chow Kick](https://chowdsp.com/products.html) - kick drum synthesizer based on creative physical modelling of old drum machine circuits
 * **[drumkv1](http://drumkv1.sourceforge.net/)** - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
 * **[fabla](https://github.com/openAVproductions/openAV-Fabla2)** - Fabla drum sampler plugin instrument `▒`
