@@ -195,7 +195,7 @@ http://www.etree.org/shnutils/shntool/ 2009
 http://huli.org/wavbreaker/info.html 2012, simple wav splitter
 http://www.idata.sk/~ondrej/ 404
 http://www.sci.fi/~mjkoskin/ 404
-br.geocities.com/hfmlacerda/misc/ 404
+http://br.geocities.com/hfmlacerda/misc/ 404
 http://www.vanheusden.com/Linux/#multimedia misc, unrelated interesting camera/video/led tools
 http://www.cs.columbia.edu/~cvaill/normalize/ 404
 https://github.com/DuncanRobertson/wavnorm 2001
@@ -204,3 +204,4 @@ added scripts from http://jzu.free.fr/outils.html
 http://wiki.linuxaudio.org/wiki/tutorials/start done
 http://download.linuxaudio.org/
 http://www.ibiblio.org/pub/Linux/apps/sound/editors/ (1998)
+https://ccrma.stanford.edu/planetccrma/software/soundapps.html

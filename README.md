@@ -367,6 +367,7 @@ List keys:
 * [xsynth-dssi](http://dssi.sourceforge.net) - classic-analog (VCOs/VCF/VCA) style software synthesizer ([◼](https://packages.debian.org/sid/xsynth-dssi))
 * [pianoteq](https://www.modartt.com/pianoteq) - Virtual piano based on physical modeling of real instruments. `©`
 * [organteq](https://www.modartt.com/organteq) - Physically modelled pipe organ. `©`
+* [sointu](https://github.com/vsariola/sointu) - modular software synthesizer for small intros.
 
 
 ### Synthesizers - Modular
@@ -596,6 +597,7 @@ List keys:
 * [realtimeconfigquickscan](https://github.com/raboof/realtimeconfigquickscan) -  Linux configuration checker for systems to be used for real-time audio 
 * [rtirq-init](https://packages.debian.org/sid/rtirq-init) - startup script for realtime-preempt enabled kernels ([◼](https://packages.debian.org/sid/rtirq-init))
 * [rtkit](http://git.0pointer.net/rtkit.git/) - Realtime Policy and Watchdog Daemon ([◼](https://packages.debian.org/sid/rtkit))
+* [pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control.
 
 
 ### System utilities - Network streaming/broadcasting
