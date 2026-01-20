@@ -91,11 +91,9 @@ List keys:
 * [friniika](http://www.frinika.com/) - A complete music workstation for Windows/Linux/OSX 
 * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©`
 * [helio-workstation](https://helio.fm/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more. `▒`
-* [Laborejo](https://laborejo.org/laborejo/) - is a MIDI sequencer based on classical music notation. `▒`
 * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
 * [muse](https://muse-sequencer.github.io/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
 * [ossia score](https://ossia.io/) - Interactive sequencer with intelligent timelines supporting audio, video, OSC, MIDI, DMX and more.
-* [Patroneo](https://www.laborejo.org/patroneo) - is an easy to use, pattern based midi sequencer `▒`
 * [qtractor](http://qtractor.sourceforge.net/) - MIDI/Audio multi-track sequencer application ([◼](https://packages.debian.org/sid/qtractor))
 * [Radium Editor](http://users.notam02.no/~kjetism/radium/) -  Radium is a music editor with a new type of interface.
 * [REAPER](https://www.reaper.fm/) - A complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `©`
@@ -151,7 +149,6 @@ List keys:
 * [dgedit](http://www.drumgizmo.org/wiki/) - drum kit editor for DrumGizmo ([◼](https://packages.debian.org/sid/dgedit))
 * [drumgizmo](http://www.drumgizmo.org/wiki/) - multichannel, multilayered, cross-platform drum plugin and stand-alone application. It enables you to compose drums in midi  and mix them with a multichannel approach ([◼](https://packages.debian.org/sid/drumgizmo)) `▒`
 * [drumlabooh](https://github.com/psemiletov/drumlabooh) - LV2/VSTi drum machine that can use Hydrogen, SFZ, and own drumkit formats
-* [Fluajho](https://www.laborejo.org/documentation/fluajho/english.html)- a simple sf2 soundfont host/player for Linux. Behind the scenes the Fluidsynth library is at work, hence the name. `▒`
 * [freewheeling](http://freewheeling.sourceforge.net) - live looping musical instrument ([◼](https://packages.debian.org/sid/freewheeling))
 * [giada](https://www.giadamusic.com/) - hardcore loop machine ([◼](https://packages.debian.org/sid/giada)) `▒`
 * [hydrogen](http://www.hydrogen-music.org/) - advanced drum machine/step sequencer ([◼](https://packages.debian.org/sid/hydrogen))
@@ -168,7 +165,6 @@ List keys:
 * [sooperlooper](http://www.essej.net/sooperlooper/) - Looping sampler. ([◼](https://packages.debian.org/sid/sooperlooper))
 * [sooperlooper-lv2](https://github.com/moddevices/sooperlooper-lv2-plugin) - Looping sampler plugin. `▒`
 * [soundux](https://soundux.rocks/) - A cross-platform soundboard
-* [Speedrum](https://www.apisoniclabs.com/speedrum.html) - MPC style drum sampler, 32 pads with essential effects, and with 8 sample layers per pad `©`
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
 * [TAL-Sampler](https://tal-software.com/products/tal-sampler) - full featured analog modeled synthesizer with a sampler engine as sound source, including a powerful modulation matrix and a high quality self-oscillating 24/12/6 dB low pass filter `©`
 * [JAMin](https://jamin.sourceforge.net/en/about.html) - Audio mastering from a mixed down multitrack source with JACK. ([◼](https://packages.debian.org/sid/jamin))
@@ -417,7 +413,6 @@ List keys:
 * [silentjack](http://www.aelius.com/njh/silentjack/) - silence detector for the JACK audio system ([◼](https://packages.debian.org/sid/silentjack))
 * [sync-audio-tracks](https://github.com/alopatindev/sync-audio-tracks/) - Audio tracks synchronization command-line tool for video editors that don't support it
 * [taptempo](https://taptempo.tuxfamily.org/) - A command line tap tempo. Hit enter key with style and you'll get the corresponding number of beats per minute (BPM). ([◼](https://packages.debian.org/sid/taptempo))
-* [timemachine](http://plugin.org.uk/timemachine/) - JACK audio recorder for spontaneous and conservatory use ([◼](https://packages.debian.org/sid/timemachine))
 
 
 ### Audio utilities - Meters & Analysis
@@ -432,7 +427,7 @@ List keys:
 * [japa](http://kokkinizita.linuxaudio.org/linuxaudio/) - JACK and ALSA Perceptual Analyser ([◼](https://packages.debian.org/sid/japa))
 * [jkmeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - horizontal or vertical bargraph audio level meter for Jack Audio Connection Kit ([◼](https://packages.debian.org/sid/jkmeter))
 * [lufsmeter](https://www.klangfreund.com/lufsmeter/) - measures loudness similar to the human perception of loudness. (LV2/VST) `▒`
-* [meterbridge](http://plugin.org.uk/meterbridge/) - Collection of Audio meters for the JACK audio server ([◼](https://packages.debian.org/sid/meterbridge))
+* [meterbridge](https://packages.debian.org/sid/meterbridge) - Collection of Audio meters for the JACK audio server ([◼](https://packages.debian.org/sid/meterbridge))
 * [MultiMeter](https://github.com/RealAlexZ/MultiMeter) - comprehensive set of AU/VST real-time audio analysis tools
 * [QLoud](https://github.com/molke-productions/qloud/) - tool to measure loudspeaker frequency and step responses and distortions 
 * [siggen](https://packages.debian.org/sid/siggen) - a set of tools for imitating a laboratory Signal Generator, generating audio signals out of Linux's /dev/dsp audio device. ([◼](https://packages.debian.org/sid/siggen))
@@ -466,9 +461,7 @@ List keys:
 * [midi-matrix.lv2](https://git.open-music-kontrollers.ch/~hp/midi_matrix.lv2) - 3-in-1 plugin with GUI (MIDI channel filtering/rerouting/multiplication) `▒`
 * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
 * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output `▒`
-* [midisox](http://www.pjb.com.au/midi/midisox.html) - a SoX-like workalike, for handling MIDI files
 * [pizmidi-plugins](https://www.thepiz.org/plugins/?p=pizmidi) - collection of cross-platform MIDI processing plugins. `▒`
-* [pjb.au MIDI scripts](http://www.pjb.com.au/midi/) - Various MIDI utilities and scripts 
 * [qmidiarp](http://qmidiarp.sourceforge.net/) - MIDI arpeggiator for ALSA ([◼](https://packages.debian.org/sid/qmidiarp))
 * [QmidiCtl](http://qmidictl.sourceforge.net/qmidictl-index.html) - A MIDI Remote Controller via UDP/IP Multicast 
 * [qmidinet](http://qmidinet.sourceforge.net/) - MIDI Network Gateway via UDP/IP Multicast ([◼](https://packages.debian.org/sid/qmidinet))
@@ -523,7 +516,6 @@ List keys:
 
 ### System utilities - JACK
 
-* [Agordejo](https://laborejo.org/agordejo/) - is a music production session manager. It is used to start your programs, remember their (JACK) interconnections and make your life easier in general. `▒`
 * [aj-snapshot](http://aj-snapshot.sourceforge.net/) - make snapshots of JACK connections ([◼](https://packages.debian.org/sid/aj-snapshot))
 * [cadence](https://kxstudio.linuxaudio.org/Applications:Cadence) - set of tools useful for audio production `▒`
 * [catia](https://kxstudio.linuxaudio.org/Applications:Catia) - JACK Audio Patchbay with A2J Bridge and JACK transport integration. `▒`
@@ -669,7 +661,6 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [vid.stab](http://public.hronopik.de/vid.stab/) - Video stabilization library
 * [xdmx](https://packages.debian.org/sid/xdmx) - distributed multihead X server
 * [xjadeo](http://xjadeo.sourceforge.net/) - Video player with JACK sync ([◼](https://packages.debian.org/sid/xjadeo))
-* [ZS4](http://www.zs4.net/) - advanced video editing and compositing software with over 150 built-in video effects. `©`
 * [Syncplay](https://syncplay.pl/) - Synchronize playback of various video players via internet. ([◼](https://packages.debian.org/sid/syncplay))
 
 
@@ -712,7 +703,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [devede](http://www.rastersoft.com/programas/devede.html) - simple application to create Video DVDs ([◼](https://packages.debian.org/sid/devede))
 * [gnome-subtitles](http://gnome-subtitles.sourceforge.net) - Subtitle editor for the GNOME Desktop environment ([◼](https://packages.debian.org/sid/gnome-subtitles))
 * [subtitlecomposer](http://sourceforge.net/projects/subcomposer) - Subtitles editor for KDE ([◼](https://packages.debian.org/sid/subtitlecomposer))
-* [subtitleeditor](https://kitone.github.io/subtitleeditor/) - Graphical subtitle editor with sound waves representation ([◼](https://packages.debian.org/sid/subtitleeditor))
+* [subtitleeditor](https://subtitleeditor.github.io/subtitleeditor/) - Graphical subtitle editor with sound waves representation ([◼](https://packages.debian.org/sid/subtitleeditor))
 
 
 ### Signal processing/electronics
@@ -728,7 +719,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [csoundqt](http://sourceforge.net/projects/qutecsound) - frontend for the csound sound processor ([◼](https://packages.debian.org/sid/csoundqt))
 * [eteroj.lv2](https://open-music-kontrollers.ch/lv2/eteroj/) - Suite of Open Sound Control implementation (OSC) LV2 plugins. `▒`
 * [IanniX](http://www.iannix.org/) - a graphical open source sequencer, based on Iannis Xenakis works, for digital art. 
-* [lcd4linux](http://ssl.bulix.org/projects/lcd4linux/) - Grabs information and displays it on an external lcd ([◼](https://packages.debian.org/sid/lcd4linux))
+* [lcd4linux](https://packages.debian.org/sid/lcd4linux) - Grabs information and displays it on an external lcd ([◼](https://packages.debian.org/sid/lcd4linux))
 * [lcdproc](http://www.lcdproc.org/) - LCD display driver daemon and clients ([◼](https://packages.debian.org/sid/lcdproc))
 * [lirc](http://lirc.org) - infra-red remote control support ([◼](https://packages.debian.org/sid/lirc))
 * [nyquist](http://www.cs.cmu.edu/~music/nyquist/) - language for music composition and sound synthesis ([◼](https://packages.debian.org/sid/nyquist))
@@ -754,8 +745,8 @@ _Sample segmentation, analysis, programmable editors_
 * [impro-visor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Jazz improvisation advisor `▒`
 * [lilypond](http://lilypond.org/) - program for typesetting sheet music ([◼](https://packages.debian.org/sid/lilypond))
 * [nted](http://vsr.informatik.tu-chemnitz.de/staff/jan/nted/nted.xhtml) - Musical score editor ([◼](https://packages.debian.org/sid/nted))
-* [tuxguitar](http://www.tuxguitar.com.ar) - Multitrack guitar tablature editor and player (gp3 to gp5) ([◼](https://packages.debian.org/sid/tuxguitar))
-* [tuxguitar-synth-lv2](http://www.tuxguitar.com.ar) - tuxguitar LV2 audio plugin ([◼](https://packages.debian.org/sid/tuxguitar-synth-lv2))
+* [tuxguitar](https://www.tuxguitar.app/) - Multitrack guitar tablature editor and player (gp3 to gp5) ([◼](https://packages.debian.org/sid/tuxguitar))
+* [tuxguitar-synth-lv2](https://www.tuxguitar.app/) - tuxguitar LV2 audio plugin ([◼](https://packages.debian.org/sid/tuxguitar-synth-lv2))
 
 
 ### Media players
@@ -882,7 +873,6 @@ _Sample segmentation, analysis, programmable editors_
 * **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
 * [LinuxMusicians forum](https://linuxmusicians.com/)
 * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
-* [Linux Lighting Group](https://llg.cubic.org/) - Lighting Hardware and Software for Linux and similar platforms.
 
 --------------------------------------------
 
