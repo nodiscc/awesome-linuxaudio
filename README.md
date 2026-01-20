@@ -166,6 +166,7 @@ List keys:
 * [Speedrum](https://www.apisoniclabs.com/speedrum.html) - MPC style drum sampler, 32 pads with essential effects, and with 8 sample layers per pad `©`
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
 * [TAL-Sampler](https://tal-software.com/products/tal-sampler) - full featured analog modeled synthesizer with a sampler engine as sound source, including a powerful modulation matrix and a high quality self-oscillating 24/12/6 dB low pass filter `©`
+* [JAMin](https://jamin.sourceforge.net/en/about.html) - Audio mastering from a mixed down multitrack source with JACK. ([◼](https://packages.debian.org/sid/jamin))
 
 ### Effects/Processing
 
@@ -545,7 +546,7 @@ List keys:
 * [alsa-utils](http://www.alsa-project.org/) - Utilities for configuring and using ALSA ([◼](https://packages.debian.org/sid/alsa-utils))
 * [zita-ajbridge](http://kokkinizita.linuxaudio.org/linuxaudio/) - alsa to jack bridge ([◼](https://packages.debian.org/sid/zita-ajbridge))
 * [alsa-control](https://github.com/sezanzeb/alsa-control) - GUI based ALSA default soundcard and volume configurator with Dmix, Dsnoop and Softvol support
-
+* [qasmixer](https://gitlab.com/sebholt/qastools) - ALSA mixer for the desktop. ([◼](https://packages.debian.org/sid/zita-ajbridge))
 
 ### System utilities - Firewire
 
