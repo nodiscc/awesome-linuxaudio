@@ -461,7 +461,6 @@ List keys:
 * [midi-matrix.lv2](https://git.open-music-kontrollers.ch/~hp/midi_matrix.lv2) - 3-in-1 plugin with GUI (MIDI channel filtering/rerouting/multiplication) `▒`
 * [MidiJoystick](https://github.com/osune/MidiJoystick) -  MidiJoystick is a MIDI client for the Jack Audio Connection Kit on Linux, which lets you use your joystick to emit MIDI commands 
 * [midimsg-lv2](https://packages.debian.org/sid/midimsg-lv2) - set of plugins to transform midi output `▒`
-* [pizmidi-plugins](https://www.thepiz.org/plugins/?p=pizmidi) - collection of cross-platform MIDI processing plugins. `▒`
 * [qmidiarp](http://qmidiarp.sourceforge.net/) - MIDI arpeggiator for ALSA ([◼](https://packages.debian.org/sid/qmidiarp))
 * [QmidiCtl](http://qmidictl.sourceforge.net/qmidictl-index.html) - A MIDI Remote Controller via UDP/IP Multicast 
 * [qmidinet](http://qmidinet.sourceforge.net/) - MIDI Network Gateway via UDP/IP Multicast ([◼](https://packages.debian.org/sid/qmidinet))
@@ -686,11 +685,11 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [Substance Painter](https://www.allegorithmic.com/products/substance-painter) - 3D Painting Software `©`
 * [Substance Player](https://www.allegorithmic.com/products/substance-player) - Easy material tweaking and visualization `©`
 * [sunflow](http://sunflow.sourceforge.net/) - rendering system for photo-realistic image synthesis (GUI) ([◼](https://packages.debian.org/sid/sunflow))
-* [sweethome3d-furniture-editor](http://www.sweethome3d.com) - Sweet Home 3D Furniture Library Editor ([◼](https://packages.debian.org/sid/sweethome3d-furniture-editor))
-* [sweethome3d-furniture-nonfree](http://www.sweethome3d.com) - Interior 2D design application with 3D preview (additional non-free furniture) ([◼](https://packages.debian.org/sid/sweethome3d-furniture-nonfree))
-* [sweethome3d-furniture](http://www.sweethome3d.com) - Interior 2D design application with 3D preview (additional furniture) ([◼](https://packages.debian.org/sid/sweethome3d-furniture))
-* [sweethome3d-textures-editor](http://www.sweethome3d.com) - Sweet Home 3D Textures Library Editor ([◼](https://packages.debian.org/sid/sweethome3d-textures-editor))
-* [sweethome3d](http://www.sweethome3d.com/) - Interior 2D design application with 3D preview ([◼](https://packages.debian.org/sid/sweethome3d))
+* [sweethome3d-furniture-editor](https://www.sweethome3d.com/) - Sweet Home 3D Furniture Library Editor ([◼](https://packages.debian.org/sid/sweethome3d-furniture-editor))
+* [sweethome3d-furniture-nonfree](https://www.sweethome3d.com/) - Interior 2D design application with 3D preview (additional non-free furniture) ([◼](https://packages.debian.org/sid/sweethome3d-furniture-nonfree))
+* [sweethome3d-furniture](https://www.sweethome3d.com/) - Interior 2D design application with 3D preview (additional furniture) ([◼](https://packages.debian.org/sid/sweethome3d-furniture))
+* [sweethome3d-textures-editor](https://www.sweethome3d.com/) - Sweet Home 3D Textures Library Editor ([◼](https://packages.debian.org/sid/sweethome3d-textures-editor))
+* [sweethome3d](https://www.sweethome3d.com/) - Interior 2D design application with 3D preview ([◼](https://packages.debian.org/sid/sweethome3d))
 * [VSXu Artiste](http://www.vsxu.com/products/artiste) - create stunning open GL based audio reactive visuals.
 * [VSXu Player](http://www.vsxu.com/products/player) - program that creates inspiring, beautiful pictures to your sound and music 
 * [wings3d](http://www.wings3d.com) - Nendo-inspired 3D polygon mesh modeller ([◼](https://packages.debian.org/sid/wings3d))

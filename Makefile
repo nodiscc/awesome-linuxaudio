@@ -6,7 +6,7 @@ checks: awesome_bot
 # requirements: gem install --user-install awesome_bot
 awesome_bot:
 	PATH=$$PATH:~/.gem/ruby/2.5.0/bin/ && \
-	awesome_bot --files README.md --allow-dupe --allow-redirect --set-timeout 10
+	awesome_bot --files README.md --allow-dupe --allow-redirect --set-timeout 10 --white-list https://tomscii.sig7.se/plugins/ir.lv2/,http://www.videolan.org/vlc/,https://www.sweethome3d.com/,https://old.reddit.com/r/linuxaudio
 
 debianwiki:
 	./utils.sh debianwiki
