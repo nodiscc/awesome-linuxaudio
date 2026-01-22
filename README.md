@@ -410,6 +410,7 @@ List keys:
 * [silentjack](http://www.aelius.com/njh/silentjack/) - silence detector for the JACK audio system ([◼](https://packages.debian.org/sid/silentjack))
 * [sync-audio-tracks](https://github.com/alopatindev/sync-audio-tracks/) - Audio tracks synchronization command-line tool for video editors that don't support it
 * [taptempo](https://taptempo.tuxfamily.org/) - A command line tap tempo. Hit enter key with style and you'll get the corresponding number of beats per minute (BPM). ([◼](https://packages.debian.org/sid/taptempo))
+* [soundcraft-utils](https://github.com/lack/soundcraft-utils) - Linux Utilities for Soundcraft Mixers. ([◼](https://packages.debian.org/sid/soundcraft-utils))
 
 
 ### Audio utilities - Meters & Analysis
