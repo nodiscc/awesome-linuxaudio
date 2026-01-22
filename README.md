@@ -398,6 +398,7 @@ List keys:
 * [ecasound](http://www.eca.cx/ecasound/) - command-line multitrack-capable audio recorder and effect processor ([◼](https://packages.debian.org/sid/ecasound))
 * [fadecut](http://github.com/micressor/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([◼](https://packages.debian.org/sid/fadecut))
 * [gwc](http://gwc.sf.net) - Audio file denoiser ([◼](https://packages.debian.org/sid/gwc))
+* [noise-repellent](https://github.com/lucianodato/noise-repellent) - plugins for broadband noise reduction.
 * [libsox-fmt-all](http://sox.sourceforge.net) - All SoX format libraries ([◼](https://packages.debian.org/sid/libsox-fmt-all))
 * [Linux Show Player](http://linux-show-player.sourceforge.net/) a free cue player designed for sound-playback in stage production. The goal of the project is to provide a complete playback software for musical plays, theater shows and similar. ([◼](https://packages.debian.org/sid/linux-show-player))
 * [nama](https://packages.debian.org/sid/nama) - Multitrack recording with Ecasound ([◼](https://packages.debian.org/sid/nama))
