@@ -487,6 +487,7 @@ List keys:
 * [mp3val](http://mp3val.sourceforge.net/) - program for MPEG audio stream validation ([◼](https://packages.debian.org/sid/mp3val))
 * [mplayer](http://www.mplayerhq.hu) - movie player for Unix-like systems ([◼](https://packages.debian.org/sid/mplayer))
 * [sfarkxtc](https://github.com/raboof/sfarkxtc) - Converts soundfonts from legacy sfArk v2 file format to sf2 ([◼](https://packages.debian.org/sid/sfarkxtc))
+* [polyphone](https://www.polyphone.io/) - cross-platform SoundFont editor. ([◼](https://packages.debian.org/sid/polyphone))
 * [soundconverter](http://soundconverter.org/) - GNOME application to convert audio files into other formats ([◼](https://packages.debian.org/sid/soundconverter))
 * **[winff](https://github.com/WinFF/winff)** - graphical video and audio batch converter using ffmpeg or avconv ([◼](https://packages.debian.org/sid/winff))
 * [zita-bls1](http://kokkinizita.linuxaudio.org/linuxaudio/) -	binaural stereo signals converter  ([◼](https://packages.debian.org/sid/zita-bls1))
