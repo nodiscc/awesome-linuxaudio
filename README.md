@@ -364,6 +364,7 @@ List keys:
 * [organteq](https://www.modartt.com/organteq) - Physically modelled pipe organ. `©`
 * [sointu](https://github.com/vsariola/sointu) - modular software synthesizer for small intros.
 * [linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+* [qwertone](https://gitlab.com/azymohliad/qwertone) - Simple music synthesizer app (like a toy-piano), but based on usual qwerty-keyboard for input. ([◼](https://packages.debian.org/sid/qwertone))
 
 
 ### Synthesizers - Modular
