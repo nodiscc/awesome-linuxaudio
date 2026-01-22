@@ -879,4 +879,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ![](logo.png) 
 
-This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-present the awesome-linuxaudio community. The full list of authors can be found in [AUTHORS.md](AUTHORS.md)
+This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-present the awesome-linuxaudio community. The full list of authors can be found in [AUTHORS](AUTHORS)
