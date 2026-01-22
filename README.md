@@ -5,9 +5,9 @@ A list of software and resources for professional audio/video/live events produc
 [![](https://gitlab.com/nodiscc/awesome-linuxaudio/badges/master/pipeline.svg)](https://gitlab.com/nodiscc/awesome-linuxaudio/-/pipelines?page=1&scope=all&ref=master)
 
 
-**Work in progress** - See current [issues](https://gitlab.com/nodiscc/awesome-linuxaudio/issues) and [CONTRIBUTING](CONTRIBUTING.md).
+See current [issues](https://gitlab.com/nodiscc/awesome-linuxaudio/issues) and [CONTRIBUTING](CONTRIBUTING.md).
 
-This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications. Software listed here is [Free Software](https://en.wikipedia.org/wiki/Free_software) unless noted otherwise.
+This list is provided to help you build your own GNU/Linux based A/V production environment. This list focuses on sound, video, lighting and live applications. Software listed here is [Free Software](https://en.wikipedia.org/wiki/Free_software) unless noted otherwise.
 
 ![](logo.png)
 
@@ -81,9 +81,9 @@ List keys:
 
 ### DAW/Sequencers
 
-* **[ardour](http://ardour.org/)** - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
-* **[lmms](http://lmms.io/)** - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
-* **[vcvrack](https://vcvrack.com/)** - Open-source virtual Eurorack DAW `▒`
+* [ardour](http://ardour.org/) - Digital Audio Workstation (DAW) and Multichannel Hard Disk Recorder (HDR) ([◼](https://packages.debian.org/sid/ardour)) `▒`
+* [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
+* [vcvrack](https://vcvrack.com/) - Open-source virtual Eurorack DAW `▒`
 * [1BITDRAGON](https://1bitdragon.com/) - easy to use sample based sequencer. Rhythm Generators, arpeggiators, MIDI/WAV export. `©`
 * [AudioNodes](https://audionodes.com/) - Free, modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, custom MIDI i/o, and more. ([Browser version](https://audionodes.com/online/)) `©`
 * [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - software modular synthesizer. ([◼](https://packages.debian.org/sid/bespokesynth))
@@ -128,7 +128,7 @@ List keys:
 
 ### Audio Editors
 
-* **[audacity](https://www.audacityteam.org/)** - fast, cross-platform audio editor ([◼](https://packages.debian.org/sid/audacity))
+* [audacity](https://www.audacityteam.org/) - fast, cross-platform audio editor ([◼](https://packages.debian.org/sid/audacity))
 * [eisenkraut](http://www.sciss.de/eisenkraut/) - A multi-channel and hi-res capable audio file editor
 * [kwave](https://www.kde.org/applications/multimedia/kwave/) - sound editor for KDE ([◼](https://packages.debian.org/sid/kwave))
 * [LAoE](http://www.oli4.ch/laoe/home.html) - Rich featured graphical audio sample editor featuring multi-layers, floating-point samples, volume-masks, variable selection-intensity, spectrogram editing, and plugins `2011`
@@ -143,7 +143,7 @@ List keys:
 
 ### Samplers
 
-* **[samplv1](http://samplv1.sourceforge.net/)** - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
+* [samplv1](http://samplv1.sourceforge.net/) - Polyphonic sampler synthesizer. ([◼](https://packages.debian.org/sid/samplv1))
 * [Ami-Sampler-VST](https://github.com/astriiddev/Ami-Sampler-VST) - VSTi 8-bit Sampler inspired by the sound of the famous Commodore Amiga for Windows/MacOS/Linux using VST3/AU/LV2
 * [avldrums.lv2](https://x42-plugins.com/x42/x42-avldrums) - drum sample player plugin dedicated to Glen MacArthur's AVLdrums. Rapidly sequence and mix midi-drums. `▒`
 * [bliss](https://www.discodsp.com/bliss/) - Performance sampler featuring scalable & themeable GUI, VSTi sampling, 8 macro assignments, dual zero delay feedback filters, sample editor, 7 built-in effects, flexible modulation, parameter morphing and highest offline resampling quality using 512 points SINC algorithm. `©`
@@ -176,11 +176,11 @@ List keys:
 
 ### Collections
 
-* **[calf-plugins](https://calf-studio-gear.org/)** - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
-* **[dpf-plugins](https://github.com/DISTRHO/DPF-Plugins)** - audio plugin collection from DISTRHO `▒`
-* **[freaked-plugins](https://github.com/pjotrompet/Freaked)** - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `▒`
-* **[Linux Studio Plugins (LSP)](https://lsp-plug.in/)** - Collection of Open Source LV2/LADSPA/VST/standalone audio processing applications. ([◼](https://packages.debian.org/sid/lsp-plugins))
-* **[tal-plugins](https://tal-software.com/)** - Togu Audio Line Plugins (Dub-3, Filter/-2, Reverb/-2/-3, Vocoder-2) `▒`
+* [calf-plugins](https://calf-studio-gear.org/) - Calf Studiogear - audio effects and sound generators ([◼](https://packages.debian.org/sid/calf-plugins))
+* [dpf-plugins](https://github.com/DISTRHO/DPF-Plugins) - audio plugin collection from DISTRHO `▒`
+* [freaked-plugins](https://github.com/pjotrompet/Freaked) - Granulator, pre-delay, reverb tail and distortion LV2 Plugins `▒`
+* [Linux Studio Plugins (LSP)](https://lsp-plug.in/) - Collection of Open Source LV2/LADSPA/VST/standalone audio processing applications. ([◼](https://packages.debian.org/sid/lsp-plugins))
+* [tal-plugins](https://tal-software.com/) - Togu Audio Line Plugins (Dub-3, Filter/-2, Reverb/-2/-3, Vocoder-2) `▒`
 * [ACMT Essential VST Plug-Ins Collection for Linux](https://www.acmt.co.uk/products/download-acmt-essential) - A comprehensive range of essential high-end analogue modelled plug-ins for Linux `©`
 * [amb-plugins](https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/) - ambisonics LADSPA plugins ([◼](https://packages.debian.org/sid/amb-plugins))
 * [artyfx](https://github.com/openAVproductions/openAV-ArtyFX) - Arty FX plugin suite `▒`
@@ -219,7 +219,7 @@ List keys:
 
 ### EQ
 
-* **[eq10q](http://eq10q.sourceforge.net/)** - LV2 equalizer ([◼](https://packages.debian.org/sid/eq10q)) `▒`
+* [eq10q](http://eq10q.sourceforge.net/) - LV2 equalizer ([◼](https://packages.debian.org/sid/eq10q)) `▒`
 * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([◼](https://packages.debian.org/sid/fil-plugins)) `▒`
 * [luftikus-lv2](https://github.com/DISTRHO/DISTRHO-Ports) - analog modeled equalizer (LV2) `▒`
 * [luftikus-vst](https://github.com/DISTRHO/DISTRHO-Ports) - analog modeled equalizer (VST) `▒`
@@ -279,7 +279,7 @@ List keys:
 
 ### DJing / Vinyl emulation
 
-* **[mixxx](http://www.mixxx.org/)** - Digital Disc Jockey Interface ([◼](https://packages.debian.org/sid/mixxx))
+* [mixxx](http://www.mixxx.org/) - Digital Disc Jockey Interface ([◼](https://packages.debian.org/sid/mixxx))
 * [xwax](http://www.xwax.co.uk/) - open-source vinyl emulation software for Linux with timecoded vinyl support ([◼](https://packages.debian.org/sid/xwax))
 * [DiscoDOS](http://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet - remember and analyze your DJ sets based on Discogs and AcousticBrainz data ([◼](https://packages.debian.org/sid/discodos))
 
@@ -332,11 +332,11 @@ List keys:
 ### Synthesizers - Other
 
 * [Chow Kick](https://chowdsp.com/products.html) - kick drum synthesizer based on creative physical modelling of old drum machine circuits
-* **[drumkv1](http://drumkv1.sourceforge.net/)** - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
-* **[fabla](https://github.com/openAVproductions/openAV-Fabla2)** - Fabla drum sampler plugin instrument `▒`
-* **[foo-yc20-vst](https://github.com/sampov2/foo-yc20)** - VST implementation of a 1969 designed Yamaha combo organ, the YC-20. `▒`
-* **[qsynth](http://qsynth.sourceforge.net)** - fluidsynth MIDI sound synthesiser front-end ([◼](https://packages.debian.org/sid/qsynth))
-* **[Tracktion BioTek](https://www.tracktion.com/products/biotek)** - new generation of software synth that combines the sounds of nature with a complex synthesis engine to create weird and wonderful organic soundscapes. `©`
+* [drumkv1](http://drumkv1.sourceforge.net/) - old-school drum-kit sampler ([◼](https://packages.debian.org/sid/drumkv1)) `▒`
+* [fabla](https://github.com/openAVproductions/openAV-Fabla2) - Fabla drum sampler plugin instrument `▒`
+* [foo-yc20-vst](https://github.com/sampov2/foo-yc20) - VST implementation of a 1969 designed Yamaha combo organ, the YC-20. `▒`
+* [qsynth](http://qsynth.sourceforge.net) - fluidsynth MIDI sound synthesiser front-end ([◼](https://packages.debian.org/sid/qsynth))
+* [Tracktion BioTek](https://www.tracktion.com/products/biotek) - new generation of software synth that combines the sounds of nature with a complex synthesis engine to create weird and wonderful organic soundscapes. `©`
 * [argotlunar](https://mourednik.github.io/argotlunar/) - Realtime granulator LV2/VST plugin
 * [din](http://dinisnoise.org/) - digital audio synthesizer ([◼](https://packages.debian.org/sid/din))
 * [drmr](https://github.com/nicklan/drmr) -  An LV2 sampler plugin that (currently) plays hydrogen drum kits `▒`
@@ -395,7 +395,7 @@ List keys:
 
 ### Audio utilities - Misc
 
-* **[sox](http://sox.sourceforge.net)** - Swiss army knife of sound processing ([◼](https://packages.debian.org/sid/sox))
+* [sox](http://sox.sourceforge.net) - Swiss army knife of sound processing ([◼](https://packages.debian.org/sid/sox))
 * [declick](http://home.snafu.de/wahlm/dl8hbs/declick.html) - a dynamic digital declicker for audio sample files. 
 * [ecasound](http://www.eca.cx/ecasound/) - command-line multitrack-capable audio recorder and effect processor ([◼](https://packages.debian.org/sid/ecasound))
 * [fadecut](http://github.com/micressor/fadecut) - toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles ([◼](https://packages.debian.org/sid/fadecut))
@@ -450,8 +450,8 @@ List keys:
 
 ### Audio utilities - MIDI Utilities
 
-* **[jack-keyboard](http://jack-keyboard.sourceforge.net)** - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))
-* **[timidity](http://timidity.sourceforge.net/)** - Software sound renderer (MIDI sequencer, MOD player)  ([◼](https://packages.debian.org/sid/timidity))
+* [jack-keyboard](http://jack-keyboard.sourceforge.net) - Virtual MIDI keyboard for JACK MIDI ([◼](https://packages.debian.org/sid/jack-keyboard))
+* [timidity](http://timidity.sourceforge.net/) - Software sound renderer (MIDI sequencer, MOD player)  ([◼](https://packages.debian.org/sid/timidity))
 * [abcmidi](http://ifdo.ca/~seymour/runabc/top.html) - converter from ABC to MIDI format and back ([◼](https://packages.debian.org/sid/abcmidi))
 * [arpage](http://sourceforge.net/projects/arpage/) - MIDI Arpeggiator w/ JACK Tempo Sync. `▒`
 * [gmidimonitor](https://packages.debian.org/sid/gmidimonitor) - GTK application that shows MIDI events ([◼](https://packages.debian.org/sid/gmidimonitor))
@@ -474,11 +474,11 @@ List keys:
 
 ### Audio utilities - Transcoding
 
-* **[qwinff](https://qwinff.github.io/)** - GUI for FFmpeg, a powerful command-line media converter. FFmpeg can read audio and video files in various formats and convert them into other formats. ([◼](https://packages.debian.org/sid/qwinff))
+* [qwinff](https://qwinff.github.io/) - GUI for FFmpeg, a powerful command-line media converter. FFmpeg can read audio and video files in various formats and convert them into other formats. ([◼](https://packages.debian.org/sid/qwinff))
 * [ambdec](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - Ambisonic decoder for first and second order ([◼](https://packages.debian.org/sid/ambdec))
 * [audiotools](http://audiotools.sourceforge.net/) - Collection of audio handling programs for the command line ([◼](https://packages.debian.org/sid/audiotools)) 
 * [dir2ogg](http://jak-linux.org/projects/dir2ogg/) - audio file converter into ogg-vorbis format ([◼](https://packages.debian.org/sid/dir2ogg))
-* **[ffmpeg](https://ffmpeg.org/)** - Tools for transcoding, streaming and playing of multimedia files ([◼](https://packages.debian.org/sid/ffmpeg))
+* [ffmpeg](https://ffmpeg.org/) - Tools for transcoding, streaming and playing of multimedia files ([◼](https://packages.debian.org/sid/ffmpeg))
 * [gigedit](http://www.linuxsampler.org/) - instrument editor for Gigasampler files ([◼](https://packages.debian.org/sid/gigedit)) `▒`
 * [gigtools](http://www.linuxsampler.org/libgig/) - command line tools for Gigasampler and DLS Level 1/2 files ([◼](https://packages.debian.org/sid/gigtools)) `▒`
 * [mediainfo-gui](http://mediainfo.sourceforge.net) - graphical utility for reading information from audio/video files ([◼](https://packages.debian.org/sid/mediainfo-gui))
@@ -490,7 +490,7 @@ List keys:
 * [sfarkxtc](https://github.com/raboof/sfarkxtc) - Converts soundfonts from legacy sfArk v2 file format to sf2 ([◼](https://packages.debian.org/sid/sfarkxtc))
 * [polyphone](https://www.polyphone.io/) - cross-platform SoundFont editor. ([◼](https://packages.debian.org/sid/polyphone))
 * [soundconverter](http://soundconverter.org/) - GNOME application to convert audio files into other formats ([◼](https://packages.debian.org/sid/soundconverter))
-* **[winff](https://github.com/WinFF/winff)** - graphical video and audio batch converter using ffmpeg or avconv ([◼](https://packages.debian.org/sid/winff))
+* [winff](https://github.com/WinFF/winff) - graphical video and audio batch converter using ffmpeg or avconv ([◼](https://packages.debian.org/sid/winff))
 * [zita-bls1](http://kokkinizita.linuxaudio.org/linuxaudio/) -	binaural stereo signals converter  ([◼](https://packages.debian.org/sid/zita-bls1))
 * [lame](http://lame.sourceforge.net/) - MP3 encoding library, frontend application, and other sound analysis/convenience tools ([◼](https://packages.debian.org/sid/lame))
 * [vorbis-tools](http://lame.sourceforge.net/) - OGG Vorbis encoder/decoder, player, information tool, and splitter ([◼](https://packages.debian.org/sid/vorbis-tools))
@@ -501,9 +501,9 @@ List keys:
 
 ### Audio utilities - CD/DVD Ripping
 
-* **[asunder](http://www.littlesvr.ca/asunder)** - graphical audio CD ripper and encoder ([◼](https://packages.debian.org/sid/asunder))
-* **[handbrake](http://www.handbrake.fr/)** - versatile DVD ripper and video transcoder (GTK+ GUI) ([◼](https://packages.debian.org/sid/handbrake))
-* **[sound-juicer](https://wiki.gnome.org/Apps/SoundJuicer)** - GNOME CD Ripper ([◼](https://packages.debian.org/sid/sound-juicer))
+* [asunder](http://www.littlesvr.ca/asunder) - graphical audio CD ripper and encoder ([◼](https://packages.debian.org/sid/asunder))
+* [handbrake](http://www.handbrake.fr/) - versatile DVD ripper and video transcoder (GTK+ GUI) ([◼](https://packages.debian.org/sid/handbrake))
+* [sound-juicer](https://wiki.gnome.org/Apps/SoundJuicer) - GNOME CD Ripper ([◼](https://packages.debian.org/sid/sound-juicer))
 * [ogmrip](http://ogmrip.sourceforge.net) - Application for ripping and encoding DVD ([◼](https://packages.debian.org/sid/ogmrip))
 * [cdparanoia](http://www.xiph.org/paranoia/) - audio extraction tool for sampling CDs ([◼](https://packages.debian.org/sid/cdparanoia))
 * [yaret](http://www.nongnu.org/yaret) - console tool to turn CDs into encoded music ([◼](https://packages.debian.org/sid/yaret))
@@ -555,7 +555,7 @@ List keys:
 
 ### System utilities - Pipewire
 
- * **[pipewire](https://pipewire.org/)** - PipeWire audio and video graph processing engine ([◼](https://packages.debian.org/sid/pipewire))
+ * [pipewire](https://pipewire.org/) - PipeWire audio and video graph processing engine ([◼](https://packages.debian.org/sid/pipewire))
 
 
 ### System utilities - Plugin hosts & adapters
@@ -571,18 +571,18 @@ List keys:
 * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
 * [vst-bridge](https://github.com/abique/vst-bridge) -  VST bridge for Windows vst on Linux `▒`
 * [wineasio](https://sourceforge.net/projects/wineasio/) - Wine ASIO driver for JACK `▒`
-* **[yabridge](https://github.com/robbert-vdh/yabridge)** - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux
+* [yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2 and VST3 plugins on Linux
 
 ### System utilities - Pulseaudio
 
-* **[paprefs](http://freedesktop.org/software/pulseaudio/paprefs/)** - PulseAudio Preferences ([◼](https://packages.debian.org/sid/paprefs))
-* **[pavucontrol](http://freedesktop.org/software/pulseaudio/pavucontrol/)** - PulseAudio Volume Control ([◼](https://packages.debian.org/sid/pavucontrol))
+* [paprefs](http://freedesktop.org/software/pulseaudio/paprefs/) - PulseAudio Preferences ([◼](https://packages.debian.org/sid/paprefs))
+* [pavucontrol](http://freedesktop.org/software/pulseaudio/pavucontrol/) - PulseAudio Volume Control ([◼](https://packages.debian.org/sid/pavucontrol))
 * [pavumeter](http://0pointer.de/lennart/projects/pavumeter/) - PulseAudio Volume Meter ([◼](https://packages.debian.org/sid/pavumeter))
 * [pulseaudio-module-jack](http://www.pulseaudio.org) - jackd modules for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-jack))
 * [pulseaudio-module-lirc](http://www.pulseaudio.org) - lirc module for PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-module-lirc))
 * [pulseaudio-utils](http://www.pulseaudio.org) - Command line tools for the PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio-utils))
 * [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - command-line mixer for PulseAudio with a curses interface ([◼](https://packages.debian.org/sid/pulsemixer))
-* **[pulseaudio](http://www.pulseaudio.org)** - PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio))
+* [pulseaudio](http://www.pulseaudio.org) - PulseAudio sound server ([◼](https://packages.debian.org/sid/pulseaudio))
 
 
 ### System utilities - Other
@@ -599,7 +599,7 @@ List keys:
 
 ### System utilities - Network streaming/broadcasting
 
-**See <https://github.com/awesome-selfhosted/awesome-selfhosted/#media-streaming> for the main list**
+_See <https://github.com/awesome-selfhosted/awesome-selfhosted/#media-streaming> for the main list._
 
 * [autoradio](http://autoradiobc.sf.net) - radio automation software ([◼](https://packages.debian.org/sid/autoradio))
 * [gpac](http://gpac.wp.mines-telecom.fr/) - GPAC Project on Advanced Content ([◼](https://packages.debian.org/sid/gpac))
@@ -631,12 +631,12 @@ _Icecast clients_
 
 See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
-* **[kdenlive](http://www.kdenlive.org/)** - non-linear video editor ([◼](https://packages.debian.org/sid/kdenlive))
-* **[Natron](https://natrongithub.github.io/)** - Cross-platform open-source compositing software, used to produce visual effects.
-* **[flowblade](https://jliljebl.github.io/flowblade/) - Free & Libre multitrack non-linear video editor ([◼](https://packages.debian.org/sid/flowblade))**
-* **[olive](https://olivevideoeditor.org/) - Professional open-source NLE video editor ([◼](https://packages.debian.org/sid/olive-editor))**
+* [kdenlive](http://www.kdenlive.org/) - non-linear video editor ([◼](https://packages.debian.org/sid/kdenlive))
+* [Natron](https://natrongithub.github.io/) - Cross-platform open-source compositing software, used to produce visual effects.
+* [flowblade](https://jliljebl.github.io/flowblade/) - Free & Libre multitrack non-linear video editor ([◼](https://packages.debian.org/sid/flowblade))
+* [olive](https://olivevideoeditor.org/) - Professional open-source NLE video editor ([◼](https://packages.debian.org/sid/olive-editor))
 * [auto-editor](https://auto-editor.com/) - a program for automatically editing video and audio by analyzing a variety of methods, most notably audio loudness. ([◼](https://packages.debian.org/sid/auto-editor))
-* [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - editing, color correction and professional audio post production, all in a single application `©`
+* [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - editing, color correction and professional audio post production, all in a single application `©`
 * [CasparCG Server](https://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production ([◼](https://packages.debian.org/sid/casparcg-server))
 * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
 * [cinelerra](http://cinelerra.org/) - Cinema Production Software 
@@ -667,7 +667,7 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ### CGI & 3D Modeling
 
-* **[blender](http://www.blender.org/)** - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
+* [blender](http://www.blender.org/) - Very fast and versatile 3D modeller/renderer ([◼](https://packages.debian.org/sid/blender))
 * [cloudcompare](http://www.danielgm.net/cc/) - 3D point cloud and mesh processing software ([◼](https://packages.debian.org/sid/cloudcompare))
 * [Art of Illusion](http://www.artofillusion.org/) - 3D modeling and rendering studio written in Java.
 * [Ayam](http://sourceforge.net/projects/ayam/) - a free 3D modelling environment for the RenderMan interface.
@@ -737,7 +737,7 @@ _Sample segmentation, analysis, programmable editors._
 
 ### Score Editors
 
-* **[musescore](http://musescore.org/)** - popular professional level WYIWYG music score editor ([◼](https://packages.debian.org/sid/musescore))
+* [musescore](http://musescore.org/) - popular professional level WYIWYG music score editor ([◼](https://packages.debian.org/sid/musescore))
 * [ariamaestosa](http://ariamaestosa.sourceforge.net/) - midi tracker/editor with keyboard, guitar, drum and controller views. `▒`
 * [Harmony Assistant](https://www.myriad-online.com/en/products/harmony.htm) - powerful score editor that includes a digital synthesizer and thousands of great features. `©`
 * [denemo](http://www.denemo.org) - GTK+ front end to GNU Lilypond ([◼](https://packages.debian.org/sid/denemo))
@@ -750,7 +750,7 @@ _Sample segmentation, analysis, programmable editors._
 
 ### Media players
 
-**Graphical**
+### Media players - Graphical interfaces
 
 * **[audacious](http://www.audacious-media-player.org/)** - small and fast audio player which supports lots of formats ([◼](https://packages.debian.org/sid/audacious))
 * **[clementine](http://www.clementine-player.org/)** - modern music player and library organizer ([◼](https://packages.debian.org/sid/clementine))
@@ -768,12 +768,12 @@ _Sample segmentation, analysis, programmable editors._
 * [strawberry](https://strawberrymusicplayer.org/) - audio player and music collection organizer, for of Clementine. ([◼](https://packages.debian.org/sid/strawberry))
 * [ymuse](https://github.com/yktoo/ymuse) - GTK client for Music Player Daemon (MPD) written in Go ([◼](https://packages.debian.org/sid/ymuse))
 
-**Command-line/TUI**
+### Media players - Command-line interfaces/TUI
 
-* **[cmus](https://cmus.github.io/)** - lightweight ncurses audio player ([◼](https://packages.debian.org/sid/moc))
-* **[moc](https://packages.debian.org/sid/moc)** - ncurses based console audio player ([◼](https://packages.debian.org/sid/moc))
-* **[mpd](https://www.musicpd.org/)** - a music server/player that allows local or remote access to audio files, streams and playlists. ([◼](https://packages.debian.org/sid/mpd))
-* **[mpv](http://mpv.io/)** - video player based on MPlayer/mplayer2 ([◼](https://packages.debian.org/sid/mpv))
+* [cmus](https://cmus.github.io/) - lightweight ncurses audio player ([◼](https://packages.debian.org/sid/moc))
+* [moc](https://packages.debian.org/sid/moc) - ncurses based console audio player ([◼](https://packages.debian.org/sid/moc))
+* [mpd](https://www.musicpd.org/) - a music server/player that allows local or remote access to audio files, streams and playlists. ([◼](https://packages.debian.org/sid/mpd))
+* [mpv](http://mpv.io/) - video player based on MPlayer/mplayer2 ([◼](https://packages.debian.org/sid/mpv))
 * [adplug-utils](http://adplug.sourceforge.net/) - audio player for AdLib (OPL2) and Sound Blaster (Dual OPL2/OPL3) audio formats ([◼](https://packages.debian.org/sid/adplug-utils))
 * [gbsplay](https://github.com/mmitch/gbsplay) - emulates the sound hardware of the Nintendo Gameboy from .GBS module dumps ([◼](https://packages.debian.org/sid/gbsplay))
 * [modplug-tools](http://modplug-xmms.sourceforge.net/) - command line players for modplug formats (amf, ams, mod...) ([◼](https://packages.debian.org/sid/modplug-tools))
@@ -809,7 +809,7 @@ _Sample segmentation, analysis, programmable editors._
 
 ### Linux Distributions
 
-* **[KXStudio](http://kxstudio.linuxaudio.org/)** - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.5 LTS. 
+* [KXStudio](http://kxstudio.linuxaudio.org/) - KXStudio is a collection of applications and plugins for professional audio production. KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.5 LTS. 
 * [DidJiX](http://easy.open.and.free.fr/didjix/)
 * [Tango Studio](http://tangostudio.tuxfamily.org/)
 * [Ubuntu Studio](http://ubuntustudio.org/)
@@ -817,7 +817,7 @@ _Sample segmentation, analysis, programmable editors._
 
 ## SAMPLES/PRESETS/RESOURCES
 
-* **[Musical Artifacts](https://musical-artifacts.com/)** - Helping to catalogue, preserve and free the artifacts you need to produce music. 
+* [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalogue, preserve and free the artifacts you need to produce music. 
 * [Freesound](http://www.freesound.org/browse/) - a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse.
 * [CCMixter](http://ccmixter.org/) - Search engine for Creative Commons multimedia content
 * [Freepats project](http://freepats.zenvoid.org/) - Free and open instrument sets, samples, sound synthesis, music...
@@ -865,10 +865,10 @@ _Sample segmentation, analysis, programmable editors._
 
 ### Communities/Forums
 
-* **IRC channels on the Freenode Network:** [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio), and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians)
-* **Linux Audio Mailing lists:** [Users](http://lists.linuxaudio.org/listinfo/linux-audio-user), [Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/), [System Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/), [Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/)
-* **[/r/linuxaudio](https://old.reddit.com/r/linuxaudio)** - Music and Audio on the Linux platform [\[RSS\]](https://www.reddit.com/r/linuxaudio/.rss)
-* **[Linux Audio Blogs/Planet](http://planet.linuxaudio.org/)** [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
+* IRC channels on the Freenode Network: [#lad](http://webchat.freenode.net/?channels=lad), [#lau](http://webchat.freenode.net/?channels=lau), [##linuxaudio](http://webchat.freenode.net/?channels=%23linuxaudio), and [#opensourcemusicians](http://webchat.freenode.net/?channels=opensourcemusicians)
+* Linux Audio Mailing lists: [Users](http://lists.linuxaudio.org/listinfo/linux-audio-user), [Developers](http://lists.linuxaudio.org/listinfo/linux-audio-dev/), [System Tuning](http://lists.linuxaudio.org/mailman/listinfo/linux-audio-tuning/), [Announces](http://lists.linuxaudio.org/listinfo/linux-audio-announce/)
+* [/r/linuxaudio](https://old.reddit.com/r/linuxaudio) - Music and Audio on the Linux platform [\[RSS\]](https://www.reddit.com/r/linuxaudio/.rss)
+* [Linux Audio Blogs/Planet](http://planet.linuxaudio.org/) [\[RSS\]](http://planet.linuxaudio.org/atom.xml)
 * [LinuxMusicians forum](https://linuxmusicians.com/)
 * [audio4linux Forum](http://www.audio4linux.de/forum/) (de)
 
