@@ -20,4 +20,4 @@ list_kxstudio_packages:
 
 # generate a list of contirbutors to the git repository
 authors:
-	git shortlog -sne
+	git shortlog -sne >> AUTHORS
