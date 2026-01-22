@@ -363,6 +363,7 @@ List keys:
 * [pianoteq](https://www.modartt.com/pianoteq) - Virtual piano based on physical modeling of real instruments. `©`
 * [organteq](https://www.modartt.com/organteq) - Physically modelled pipe organ. `©`
 * [sointu](https://github.com/vsariola/sointu) - modular software synthesizer for small intros.
+* [linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 
 ### Synthesizers - Modular
