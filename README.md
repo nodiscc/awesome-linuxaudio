@@ -705,6 +705,8 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 
 ### Signal processing/electronics
 
+_Sample segmentation, analysis, programmable editors._
+
 * [cabbage-plugins](https://cabbageaudio.com/) - csound development toolkit plugins (LV2 & VST) `▒`
 * [camomile](https://github.com/pierreguillot/Camomile) - a dynamic vst plugin that loads Pure Data patches
 * [csladspa](http://www.csounds.com) - LADSPA plugin for Csound ([◼](https://packages.debian.org/sid/csladspa))
@@ -724,13 +726,10 @@ See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)
 * [Soundpipe](http://www.github.com/PaulBatchelor/Soundpipe) - A library of high quality music DSP algorithms. 
 * [supercollider-supernova](http://supercollider.sourceforge.net/) - real time audio synthesis server (multiprocessor version) ([◼](https://packages.debian.org/sid/supercollider-supernova))
 * [supercollider](http://supercollider.sourceforge.net/) - real time audio synthesis programming language ([◼](https://packages.debian.org/sid/supercollider))
-
-_Sample segmentation, analysis, programmable editors_
-
 * [aubio-tools](http://aubio.org) - library for audio segmentation -- utilities ([◼](https://packages.debian.org/sid/aubio-tools))
 * [snd-gtk-jack](http://ccrma.stanford.edu/software/snd/) - Powerful sound file editor that can be customized and extended using the Scheme programming language ([◼](https://packages.debian.org/sid/snd-gtk-jack))
 * [SndBite](http://billposer.org/Software/SndBite.html) - audio editor specialized in linguistic research, designed for breaking large recordings into smaller components with great efficiency.
-
+* [plugdata](https://github.com/plugdata-team/plugdata) - Plugin wrapper around Pure Data to allow patching in a wide selection of DAWs.
 
 ### Score Editors
 
