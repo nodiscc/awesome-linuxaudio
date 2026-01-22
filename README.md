@@ -213,6 +213,7 @@ List keys:
 * [x42-plugins](https://github.com/x42/x42-plugins) - Collection of LV2 plugins ([◼](https://packages.debian.org/sid/x42-plugins)) `▒`
 * [zam-plugins](http://www.zamaudio.com/) - Plugins for high quality audio processing ([◼](https://packages.debian.org/sid/zam-plugins)) `▒`
 * [ZL Audio Plugins](https://github.com/ZL-Audio) - ZL Audio makes audio plugins and audio processing tools
+* [ToneTwistPlugs](https://github.com/brummer10/ToneTwistPlugs) - Multi-format audio effect plugins.
 
 
 ### EQ
