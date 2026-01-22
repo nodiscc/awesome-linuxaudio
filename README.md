@@ -168,6 +168,8 @@ List keys:
 * [superboucle](https://github.com/Vampouille/superboucle) - Loop application synced with jack transport.
 * [TAL-Sampler](https://tal-software.com/products/tal-sampler) - full featured analog modeled synthesizer with a sampler engine as sound source, including a powerful modulation matrix and a high quality self-oscillating 24/12/6 dB low pass filter `©`
 * [JAMin](https://jamin.sourceforge.net/en/about.html) - Audio mastering from a mixed down multitrack source with JACK. ([◼](https://packages.debian.org/sid/jamin))
+* [SpectMorph](https://spectmorph.org/) - analyze samples of musical instruments, and combine them (morphing).
+
 
 ### Effects/Processing
 
