@@ -5,10 +5,11 @@ A list of software and resources for professional audio/video/live events produc
 [![](https://gitlab.com/nodiscc/awesome-linuxaudio/badges/master/pipeline.svg)](https://gitlab.com/nodiscc/awesome-linuxaudio/-/pipelines?page=1&scope=all&ref=master)
 
 
-
 **Work in progress** - See current [issues](https://gitlab.com/nodiscc/awesome-linuxaudio/issues) and [CONTRIBUTING](CONTRIBUTING.md).
 
 This list is provided to help you build your own GNU/Linux based A/V production environment. Most of the listed software is packaged for [Debian](http://debian.org/), and should be directly installable using your package manager. Software that can be run on other GNU/Linux distributions may also be added to the list. This list focuses on sound, video, lighting and live applications. Software listed here is [Free Software](https://en.wikipedia.org/wiki/Free_software) unless noted otherwise.
+
+![](logo.png)
 
 -------------------------
 
@@ -884,7 +885,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - https://salsa.debian.org/nodiscc/awesome-linuxaudio
 
 ## LICENSE
-
-![](logo.png) 
 
 This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-present the awesome-linuxaudio community. The full list of authors can be found in [AUTHORS](AUTHORS)
