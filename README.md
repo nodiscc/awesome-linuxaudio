@@ -466,6 +466,7 @@ List keys:
 * [simple-sysexxer](http://www.christeck.de/wp/products/simple-sysexxer/) - GUI tool to create backups of the memory contents of MIDI devices 
 * [swami](http://swami.sf.net) - MIDI instrument editor application ([◼](https://packages.debian.org/sid/swami))
 * [vmpk](http://vmpk.sourceforge.net/) - Virtual MIDI Piano Keyboard ([◼](https://packages.debian.org/sid/vmpk))
+* [mamba](https://github.com/brummer10/Mamba) - Virtual Midi keyboard and Midi Live Looper.
 
 
 ### Audio utilities - Transcoding
