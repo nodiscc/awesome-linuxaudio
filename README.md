@@ -194,7 +194,7 @@ List keys:
 * [Chow Centaur](https://chowdsp.com/products.html) - digital emulation of the Klon Centaur guitar pedal
 * [Chow Phaser](https://chowdsp.com/products.html) - digital phaser effect originally inspired by the Schulte Compact Phasing 'A'
 * [ChowDSP VCV](https://chowdsp.com/products.html) - several modules for VCV Rack, including ports of ChowTape and ChowPhaser. Other modules include distortion effects, modal filters, and more
-* [infamous-plugins](https://packages.debian.org/sid/infamous-plugins) - creative LV2 plugins `▒`
+* [infamous-plugins](https://ssj71.github.io/infamousPlugins/) - creative LV2 plugins ([◼](https://packages.debian.org/sid/infamous-plugins)) `▒`
 * [invada-studio-plugins-ladspa](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LADSPA audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-ladspa)) `▒`
 * [invada-studio-plugins-lv2](https://launchpad.net/invada-studio/+download) - Invada Studio Plugins - a set of LV2 audio plugins ([◼](https://packages.debian.org/sid/invada-studio-plugins-lv2)) `▒`
 * [juced-plugins](https://distrho.sourceforge.io/ports.php) - Juced Plugins `▒`
@@ -833,8 +833,10 @@ _Sample segmentation, analysis, programmable editors_
 * [Awesome Linux Software (audio section)](https://github.com/LewisVo/Awesome-Linux-Software#audio)
 * [Comparison of free software for audio - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
 * [LV2 Plugins list](http://lv2plug.in/pages/projects.html)
+* [LinuxSynths](https://www.linuxsynths.com/) - some of the software synthesizers available for Linux.
 * [awesome-juce](https://github.com/sudara/awesome-juce) - A curated list of JUCE modules, templates and plugins
 * [Wine-VST](https://github.com/Sangeppato/wine-vst) - Some VSTs tested under Linux with Wine and LinVst.
+* [Alsa Opensrc Org](https://alsa.opensrc.org/) - Independent ALSA and linux audio support site ([Markdown export](https://github.com/markc/alsa))
 * [Fedora packages for Music/Audio](https://audinux.github.io/packages/index.html)
 
 ### Documentation/Blogs
@@ -850,6 +852,7 @@ _Sample segmentation, analysis, programmable editors_
 * [CommandLineFu - commands tagged audio](http://www.commandlinefu.com/commands/tagged/26/audio)
 * [Debian Wiki - Multimedia](https://wiki.debian.org/Multimedia)
 * [Arch Wiki - List of Applications](https://wiki.archlinux.org/index.php/List_of_applications)
+* [planet.linuxaudio.org](https://planet.linuxaudio.org/) - aggregator of Linux audio related blogs.
 
 ### Communities/Forums
 
@@ -876,7 +879,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ![](logo.png) 
 
-This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-2024:
+This work is licensed under the [CreativeCommons Attribution Share-alike license](LICENSE). Copyright (c) 2015-present:
 
 <!-- this list is generated automatically by 'make authors' -->
 
