@@ -328,7 +328,6 @@ List keys:
 * [hexter](http://dssi.sourceforge.net/) - Yamaha DX7 modeling DSSI plugin ([◼](https://packages.debian.org/sid/hexter)) `▒`
 * [juce-opl](https://distrho.sourceforge.io/ports.php) - Emulation of the Yamaha OPL sound chip used in PC sound cards from the 90s. `▒`
 * [OPL](https://www.discodsp.com/opl/) - The OPL is a digital sound synthesis chip developed by Yamaha in the mid 1980s `▒` 
-* [oxefmsynth](http://www.oxesoft.com/) - 8 operators FM synth
 
 
 ### Synthesizers - Wavetable
