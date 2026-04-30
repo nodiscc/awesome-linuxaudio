@@ -233,8 +233,9 @@ List keys:
 
 ### Effects/Processing - Other
 
-  * [gxplugins](https://github.com/brummer10/GxPlugins.lv2) - extra lv2 plugins from the guitarix project `▒`
+  * [SmoothIR](https://github.com/brummer10/SmoothIR) - Creating impulse responses through spectral matching of two audio files.
 * [abgate](http://abgate.sourceforge.net) - LV2 noise gate plugin ([◼](https://packages.debian.org/sid/abgate))
+  * [gxplugins](https://github.com/brummer10/GxPlugins.lv2) - extra lv2 plugins from the guitarix project `▒`
 * [airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows plugins, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * [autotalent](http://tombaran.info/autotalent.html) - pitch correction LADSPA plugin ([◼](https://packages.debian.org/sid/autotalent)) `▒`
 * [beatslash-lv2](https://github.com/blablack/beatslash-lv2) - A set of LV2 plugins to slash, repeat beats. `▒`
