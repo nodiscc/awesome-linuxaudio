@@ -308,6 +308,7 @@ List keys:
 
   * [ob-xd](https://github.com/reales/OB-Xd) - Open source version of OB-Xd 
 * [amsynth](https://github.com/amsynth/amsynth) - Two oscillator software synthesizer. ([◼](https://packages.debian.org/sid/amsynth))
+* [monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) - monophonic synth from the surge-synth-team family of products
 * [blepvco](http://www.smbolton.com/linux.html) - LADSPA, minBLEP-based, hard-sync-capable oscillator plugins. ([◼](https://packages.debian.org/sid/blepvco)) `▒`
 * [bristol](http://bristol.sourceforge.net/) - Vintage synthesizer emulator. ([◼](https://packages.debian.org/sid/bristol))
 * [cursynth](https://www.gnu.org/software/cursynth/) - Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal. `▒`
