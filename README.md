@@ -95,6 +95,7 @@ List keys:
 * [Harrison Mixbus](http://harrisonconsoles.com/site/mixbus.html) - the first full-featured DAW with true analog style mixing. `©`
 * [helio-workstation](https://helio.fm/) - Free linear-based music For macOS, Linux, Windows, iOS and Android, with clean interface, version control, synchronization between devices, undo history, and more. `▒`
 * [lmms](http://lmms.io/) - Linux Multimedia Studio ([◼](https://packages.debian.org/sid/lmms)) `▒`
+* [Maolan](https://maolan.github.io/) - A modern Rust-based DAW for recording, MIDI editing, automation, plugin routing, and music production workflows.
 * [meterec](http://meterec.sourceforge.net/) - minimalistic multi track recorder ([◼](https://packages.debian.org/sid/meterec))
 * [muse](https://muse-sequencer.github.io/) - Qt4-based audio/MIDI sequencer ([◼](https://packages.debian.org/sid/muse))
 * [ossia score](https://ossia.io/) - Interactive sequencer with intelligent timelines supporting audio, video, OSC, MIDI, DMX and more.
