@@ -229,6 +229,7 @@ List keys:
 * [fil-plugins](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - parametric equalizer LADSPA plugin ([◼](https://packages.debian.org/sid/fil-plugins)) `▒`
 * [luftikus-lv2](https://github.com/DISTRHO/DISTRHO-Ports) - analog modeled equalizer (LV2) `▒`
 * [luftikus-vst](https://github.com/DISTRHO/DISTRHO-Ports) - analog modeled equalizer (VST) `▒`
+* [FreeEQ8](https://github.com/GareBear99/FreeEQ8) - Open-source JUCE-based 8-band parametric EQ plugin with linear phase, dynamic EQ, match EQ, M/S processing, per-band drive, oversampling, and VST3/AU/Standalone support.
 
 
 ### Effects/Processing - Other
