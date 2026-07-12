@@ -6,7 +6,7 @@ checks: awesome_bot
 # requirements: gem install --user-install awesome_bot
 awesome_bot:
 	PATH=$$PATH:~/.gem/ruby/2.5.0/bin/ && \
-	awesome_bot --files README.md --allow-dupe --allow-redirect --set-timeout 10 --white-list https://tomscii.sig7.se/plugins/ir.lv2/,http://www.videolan.org/vlc/,https://www.sweethome3d.com/,https://old.reddit.com/r/linuxaudio,https://tal-software.com/
+	awesome_bot --files README.md --allow-dupe --allow-redirect --set-timeout 10 --white-list https://tomscii.sig7.se/plugins/ir.lv2/,http://www.videolan.org/vlc/,https://www.sweethome3d.com/,https://old.reddit.com/r/linuxaudio,https://tal-software.com/,https://musical-artifacts.com	
 
 debianwiki:
 	./utils.sh debianwiki
@@ -18,6 +18,6 @@ list_kxstudio_packages:
 	curl http://ppa.launchpad.net/kxstudio-debian/apps/ubuntu/dists/bionic/main/binary-amd64/Packages.xz | xzless
 	curl http://ppa.launchpad.net/kxstudio-debian/kxstudio/ubuntu/dists/bionic/main/binary-amd64/Packages.xz | xzless
 
-# generate a list of contirbutors to the git repository
+# generate a list of contributors to the git repository
 authors:
 	git shortlog -sne >> AUTHORS
