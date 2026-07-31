@@ -445,6 +445,7 @@ List keys:
 * [spek](https://packages.debian.org/sid/spek) - acoustic spectrum analyser
 * [wolf-spectrum](https://github.com/wolf-plugins/wolf-spectrum) - Real-time 2D spectrogram plugin
 * [xoscope](http://xoscope.sourceforge.net/) - digital oscilloscope ([◼](https://packages.debian.org/sid/xoscope))
+* [Tonalux Audio Analyzer](https://tonalux.org/analyzer.html) - browser-based (works on Linux), open source ([MIT](https://github.com/Exenye/tonalux-analyzer)): LUFS/EBU R128, True Peak, BPM, key, spectrum, stereo correlation. Runs client-side, no upload.
 
 
 ### Audio utilities - Tuners & Metronomes
