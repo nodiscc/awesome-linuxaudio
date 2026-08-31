@@ -777,6 +777,7 @@ _Sample segmentation, analysis, programmable editors._
 * [strawberry](https://strawberrymusicplayer.org/) - audio player and music collection organizer, for of Clementine. ([◼](https://packages.debian.org/sid/strawberry))
 * [vlc](http://www.videolan.org/vlc/) - multimedia player and streamer ([◼](https://packages.debian.org/sid/vlc))
 * [ymuse](https://github.com/yktoo/ymuse) - GTK client for Music Player Daemon (MPD) written in Go ([◼](https://packages.debian.org/sid/ymuse))
+* [PCM Transport](https://andreyberestov.github.io/pcm-transport/) - Lightweight Linux audio player with direct ALSA output, native FLAC decoding and gapless/CUE playback.
 
 
 ### Media players - Command-line interfaces/TUI
