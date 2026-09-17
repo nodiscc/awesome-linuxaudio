@@ -646,6 +646,7 @@ _See also [Linux4VJs VJ tools](http://linux4vjs.net/list-of-linux-tools/)_
 * [CasparCG Server](https://www.casparcg.com/) - professional software used to play out and record professional graphics, audio and video to multiple outputs.for broadcast production ([◼](https://packages.debian.org/sid/casparcg-server))
 * [CHDK](http://chdk.wikia.com/wiki/CHDK) - Canon Hack Development Kit
 * [cinelerra](http://cinelerra.org/) - Cinema Production Software 
+* [Deckboy](https://github.com/Utopian-Academy/Deckboy) - Cue-based video playout and show control for live events, with SRT streaming and recording, driven from Stream Deck, OSC, MIDI or LTC timecode.
 * [delvj](https://github.com/delvj/delvj) - a cyborg video jockey extension for pure data processing
 * [dvgrab](https://github.com/ddennedy/dvgrab) - grab digital video data via IEEE1394 and USB links ([◼](https://packages.debian.org/sid/dvgrab))
 * [flowblade](https://jliljebl.github.io/flowblade/) - Free & Libre multitrack non-linear video editor ([◼](https://packages.debian.org/sid/flowblade))
