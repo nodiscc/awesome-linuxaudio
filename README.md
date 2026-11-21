@@ -578,6 +578,7 @@ List keys:
 * [carla/carla-git](https://kxstudio.linuxaudio.org/Applications:Carla) - Carla is an audio plugin host, with support for many audio drivers and plugin formats, MIDI CC automation and OSC control. `▒`
 * [dssi-vst](http://breakfastquay.com/dssi-vst/) - Adapter for VST an VSTi audio plugins `▒`
 * [festige](https://www.syntheway.net/FeSTige.htm) - graphical interface for fst and dssi-vst, allowing you to run Windows VST plugins on Linux. `▒`
+* [gigchain-keys](https://xdarkzx.github.io/GigChain-Keys/) - Live performance host for keyboard players (a MainStage alternative): VST3/VST2 instruments and effects, setlists with instant sound changes, splits and layers, chord charts. JACK, PipeWire and ALSA; AppImage and .deb.
 * [linvst](https://github.com/osxmidi/LinVst) - LinVst enables Windows VSTs to be used as Linux VSTs in Linux VST-capable DAWs.
 * [mod-host](https://github.com/moddevices/mod-host) - LV2 host for JACK, controllable via socket or command line `▒`
 * [synthpod](https://open-music-kontrollers.ch/lv2/synthpod/) - Synthpod is an LV2 host `▒`
